@@ -1,0 +1,33 @@
+name: Contrôle du casting
+
+# Transcrit chaque prise du casting (faster-whisper) et range le résultat (écart, instant de chaque phrase) sur la branche « casting ».
+on:
+  push:
+    branches: [controle-run]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  controle:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/checkout@v4
+        with:
+          ref: casting
+          path: casting
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Outils
+        run: python -m venv /tmp/asr && /tmp/asr/bin/pip install -q faster-whisper scipy
+      - name: Contrôle
+        run: |
+          for j in casting/*.json; do /tmp/asr/bin/python voix/qa.py "${j%.json}" 2>&1 | grep -v -i warning || true; done
+      - name: Ranger
+        run: |
+          cd casting
+          git config user.name "studio-bot"; git config user.email "studio-bot@users.noreply.github.com"
+          git add -A && git commit -qm "Contrôle du casting" && git push -q origin HEAD:casting

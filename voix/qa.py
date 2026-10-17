@@ -10,12 +10,27 @@ LINES = J['lines']
 NAME = STEM.rsplit('/', 1)[-1]
 
 
+def load16k(path):
+    """Lit un WAV (PCM 16 bits) et le ramène à 16 kHz mono : on passe un tableau à faster-whisper (pas de PyAV)."""
+    import wave
+    import numpy as np
+    from scipy.signal import resample_poly
+    with wave.open(path, 'rb') as w:
+        sr, ch, n = w.getframerate(), w.getnchannels(), w.getnframes()
+        x = np.frombuffer(w.readframes(n), dtype=np.int16).astype(np.float32) / 32768
+    if ch > 1:
+        x = x.reshape(-1, ch).mean(1)
+    from math import gcd
+    g = gcd(16000, sr)
+    return resample_poly(x, 16000 // g, sr // g).astype(np.float32)
+
+
 def note(level, title, msg):
     print(f'::{level} title={title}::{msg}', flush=True)
 
 
 asr = WhisperModel('medium', device='cpu', compute_type='int8')
-segs, _ = asr.transcribe(STEM + '.wav', language='fr', word_timestamps=True, beam_size=5, vad_filter=False)
+segs, _ = asr.transcribe(load16k(STEM + '.wav'), language='fr', word_timestamps=True, beam_size=5, vad_filter=False)
 words = [w for s in segs for w in s.words]
 heard = ''.join(w.word for w in words).strip()
 

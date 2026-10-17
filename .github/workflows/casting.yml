@@ -30,7 +30,7 @@ jobs:
           set -o pipefail
           { pip install --index-url https://download.pytorch.org/whl/cpu torch torchaudio && pip install -U qwen-tts soundfile; } > /tmp/pip.log 2>&1 || { tail -40 /tmp/pip.log | tr '\n' ' ' | sed 's/^/::error title=pip::/'; echo; exit 1; }
           # Transcription dans un environnement séparé (évite les conflits de bibliothèques avec la synthèse vocale)
-          python -m venv /tmp/asr && /tmp/asr/bin/pip install -q faster-whisper > /tmp/pip2.log 2>&1 || { tail -20 /tmp/pip2.log | tr '\n' ' ' | sed 's/^/::error title=pip asr::/'; echo; exit 1; }
+          python -m venv /tmp/asr && /tmp/asr/bin/pip install -q faster-whisper scipy > /tmp/pip2.log 2>&1 || { tail -20 /tmp/pip2.log | tr '\n' ' ' | sed 's/^/::error title=pip asr::/'; echo; exit 1; }
           nproc; free -g
       - name: Voix
         run: |

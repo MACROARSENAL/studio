@@ -1,0 +1,82 @@
+name: Narration du film
+
+# Toutes les phrases du film avec la ou les voix retenues au casting (voix clonée depuis la prise choisie),
+# deux prises par phrase, contrôlées par transcription, puis rangées sur la branche « narration ».
+# Réglages : voix/narration-run.json. Lancement : git push -f origin HEAD:narration-run (ou onglet Actions → Run workflow).
+on:
+  push:
+    branches: [narration-run]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  plan:
+    runs-on: ubuntu-latest
+    outputs:
+      matrix: ${{ steps.m.outputs.matrix }}
+    steps:
+      - uses: actions/checkout@v4
+      - id: m
+        run: |
+          python3 - <<'EOF' >> "$GITHUB_OUTPUT"
+          import json
+          R = json.load(open('voix/narration-run.json'))
+          inc = [{'voix': v['voice'], 'casting': str(v['casting_take']), 'lignes': s, 'prise': p}
+                 for v in R['voices'] for s in R['spans'] for p in R['takes']]
+          print('matrix=' + json.dumps({'include': inc}))
+          EOF
+
+  voix:
+    needs: plan
+    runs-on: ubuntu-latest
+    timeout-minutes: 330
+    strategy:
+      fail-fast: false
+      matrix: ${{ fromJSON(needs.plan.outputs.matrix) }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/checkout@v4
+        with:
+          ref: casting
+          path: casting
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Outils
+        run: |
+          sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg sox > /dev/null
+          set -o pipefail
+          { pip install --index-url https://download.pytorch.org/whl/cpu torch torchaudio && pip install -U qwen-tts soundfile; } > /tmp/pip.log 2>&1 || { tail -40 /tmp/pip.log | tr '\n' ' ' | sed 's/^/::error title=pip::/'; echo; exit 1; }
+          python -m venv /tmp/asr && /tmp/asr/bin/pip install -q faster-whisper scipy > /tmp/pip2.log 2>&1 || { tail -20 /tmp/pip2.log | tr '\n' ' ' | sed 's/^/::error title=pip asr::/'; echo; exit 1; }
+      - name: Voix
+        run: |
+          set -o pipefail
+          python voix/narration.py ${{ matrix.voix }} ${{ matrix.casting }} casting ${{ matrix.lignes }} ${{ matrix.prise }} /tmp/out 2>&1 | tee /tmp/run.log || { grep -v '^ok' /tmp/run.log | grep -v -i -E 'warning|pci_bus|sox|flash-attn' | tail -15 | tr '\n' ' ' | sed 's/^/::error title=Voix::/'; echo; exit 1; }
+      - name: Contrôle par transcription
+        run: |
+          set -o pipefail
+          /tmp/asr/bin/python voix/qa_lignes.py /tmp/out 2>&1 | tee /tmp/qa.log || { grep -v -i warning /tmp/qa.log | tail -12 | tr '\n' ' ' | sed 's/^/::warning title=Contrôle::/'; echo; }
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: narration-${{ matrix.voix }}-${{ matrix.lignes }}-${{ matrix.prise }}
+          path: /tmp/out
+
+  ranger:
+    needs: voix
+    if: always()
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/download-artifact@v4
+        with:
+          path: /tmp/all
+          merge-multiple: true
+      - name: Ranger sur la branche « narration »
+        run: |
+          cd /tmp/all && ls -la
+          git init -q -b narration
+          git config user.name "studio-bot"; git config user.email "studio-bot@users.noreply.github.com"
+          git add . && git commit -qm "Narration ${GITHUB_SHA::7}"
+          git push -qf "https://x-access-token:${{ github.token }}@github.com/${{ github.repository }}.git" narration
