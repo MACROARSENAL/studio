@@ -1,0 +1,128 @@
+{
+ "voice": "conteur",
+ "casting_take": "2",
+ "take": 2,
+ "span": "l1-l7",
+ "engine": "Qwen3-TTS 1.7B Base, voix clonée depuis le casting (Apache-2.0)",
+ "reference": {
+  "from": "conteur-2",
+  "span": "l1-l2",
+  "start": 0.0,
+  "end": 9.23,
+  "text": "Il était une fois… un logo. Un petit bouclier d'or, qui veillait sur les marchés du monde."
+ },
+ "lines": [
+  {
+   "id": "l1",
+   "text": "Il était une fois… un logo.",
+   "tts": "Il était une fois… un logo.",
+   "file": "conteur-c2-l1-p2.wav",
+   "seconds": 3.12,
+   "compute": 32,
+   "heard": "Il était une fois un logo.",
+   "wer": 0.0,
+   "extra": 0,
+   "speech": [
+    0.0,
+    2.98
+   ],
+   "ok": true
+  },
+  {
+   "id": "l2",
+   "text": "Un petit bouclier d'or, qui veillait sur les marchés du monde.",
+   "tts": "Un petit bouclier d'or, qui veillait sur les marchés du monde.",
+   "file": "conteur-c2-l2-p2.wav",
+   "seconds": 3.28,
+   "compute": 34,
+   "heard": "Un petit bouclier d'or qui veillait sur les marchés du monde.",
+   "wer": 0.0,
+   "extra": 0,
+   "speech": [
+    0.0,
+    3.08
+   ],
+   "ok": true
+  },
+  {
+   "id": "l3",
+   "text": "Chaque nuit, il voyait des traders, seuls face à leurs écrans.",
+   "tts": "Chaque nuit, il voyait des traders, seuls face à leurs écrans.",
+   "file": "conteur-c2-l3-p2.wav",
+   "seconds": 3.68,
+   "compute": 36,
+   "heard": "Chaque nuit, ils voyaient des traders, seuls face à leurs écrans.",
+   "wer": 0.182,
+   "extra": 2,
+   "speech": [
+    0.0,
+    3.66
+   ],
+   "ok": false
+  },
+  {
+   "id": "l4",
+   "text": "Des milliers de chiffres. Des décisions à prendre… et personne à qui parler.",
+   "tts": "Des milliers de chiffres. Des décisions à prendre… et personne à qui parler.",
+   "file": "conteur-c2-l4-p2.wav",
+   "seconds": 5.28,
+   "compute": 50,
+   "heard": "Des milliers de chiffres, des décisions à prendre, et personne à qui parler.",
+   "wer": 0.0,
+   "extra": 0,
+   "speech": [
+    0.0,
+    5.12
+   ],
+   "ok": true
+  },
+  {
+   "id": "l5",
+   "text": "Au fond de lui, il rêvait de prendre vie… pour être à leurs côtés.",
+   "tts": "Au fond de lui, il rêvait de prendre vie… pour être à leurs côtés.",
+   "file": "conteur-c2-l5-p2.wav",
+   "seconds": 4.24,
+   "compute": 41,
+   "heard": "Au fond de lui, ils rêvaient de prendre vie, pour être à leur côté.",
+   "wer": 0.286,
+   "extra": 4,
+   "speech": [
+    0.0,
+    4.06
+   ],
+   "ok": false
+  },
+  {
+   "id": "l6",
+   "text": "Alors MACROARSENAL vous a fait un compagnon.",
+   "tts": "Alors Macro Arsenal vous a fait un compagnon.",
+   "file": "conteur-c2-l6-p2.wav",
+   "seconds": 2.72,
+   "compute": 29,
+   "heard": "Alors Macro Arsenal vous a fait un compagnon.",
+   "wer": 0.0,
+   "extra": 0,
+   "speech": [
+    0.0,
+    2.7
+   ],
+   "ok": true
+  },
+  {
+   "id": "l7",
+   "text": "Et un beau matin… ses yeux se sont allumés !",
+   "tts": "Et un beau matin… ses yeux se sont allumés !",
+   "file": "conteur-c2-l7-p2.wav",
+   "seconds": 2.88,
+   "compute": 30,
+   "heard": "Et un beau matin, ses yeux se sont allumés.",
+   "wer": 0.0,
+   "extra": 0,
+   "speech": [
+    0.0,
+    2.86
+   ],
+   "ok": true
+  }
+ ]
+}

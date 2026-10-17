@@ -1,0 +1,96 @@
+{
+ "voice": "conteur-lumineux",
+ "casting_take": "1",
+ "take": 1,
+ "span": "l14-l18",
+ "engine": "Qwen3-TTS 1.7B Base, voix clonée depuis le casting (Apache-2.0)",
+ "reference": {
+  "from": "conteur-lumineux-1",
+  "span": "l6-l7",
+  "start": 23.86,
+  "end": 30.96,
+  "text": "Alors Macro Arsenal vous a fait un compagnon. Et un beau matin… ses yeux se sont allumés !"
+ },
+ "lines": [
+  {
+   "id": "l14",
+   "text": "Et parfois… il vous fait même sourire.",
+   "tts": "Et parfois… il vous fait même sourire.",
+   "file": "conteur-lumineux-c1-l14-p1.wav",
+   "seconds": 3.12,
+   "compute": 23,
+   "heard": "Et parfois, il vous fait même sourire.",
+   "wer": 0.0,
+   "extra": 0,
+   "speech": [
+    0.0,
+    2.9
+   ],
+   "ok": true
+  },
+  {
+   "id": "l15",
+   "text": "Besoin de calme ? Un clic, il se range. Il revient dès que vous l'appelez.",
+   "tts": "Besoin de calme ? Un clic, il se range. Il revient dès que vous l'appelez.",
+   "file": "conteur-lumineux-c1-l15-p1.wav",
+   "seconds": 5.36,
+   "compute": 37,
+   "heard": "Besoin de calme ? Un clic, il se range, il revient dès que vous l'appelez.",
+   "wer": 0.0,
+   "extra": 0,
+   "speech": [
+    0.0,
+    5.34
+   ],
+   "ok": true
+  },
+  {
+   "id": "l16",
+   "text": "Il n'a pas encore de prénom. C'est vous qui le lui donnerez.",
+   "tts": "Il n'a pas encore de prénom. C'est vous qui le lui donnerez.",
+   "file": "conteur-lumineux-c1-l16-p1.wav",
+   "seconds": 3.92,
+   "compute": 27,
+   "heard": "Il n'a pas encore de prénom. C'est vous qui le lui donnerait.",
+   "wer": 0.071,
+   "extra": 1,
+   "speech": [
+    0.44,
+    3.9
+   ],
+   "ok": true
+  },
+  {
+   "id": "l17",
+   "text": "Trois questions par jour pour faire connaissance. Quinze avec Fondateur. Et avec Arsenal… il est tout à vous.",
+   "tts": "Trois questions par jour pour faire connaissance. Quinze avec Fondateur. Et avec Arsenal… il est tout à vous.",
+   "file": "conteur-lumineux-c1-l17-p1.wav",
+   "seconds": 7.52,
+   "compute": 48,
+   "heard": "Trois questions par jour pour faire connaissance. Quinze avec fondateur. Et avec Arsenal, il est tout à vous.",
+   "wer": 0.0,
+   "extra": 0,
+   "speech": [
+    0.64,
+    7.42
+   ],
+   "ok": true
+  },
+  {
+   "id": "l18",
+   "text": "MACROARSENAL. Ne tradez plus jamais seul.",
+   "tts": "Macro Arsenal. Ne tradez plus jamais seul.",
+   "file": "conteur-lumineux-c1-l18-p1.wav",
+   "seconds": 3.52,
+   "compute": 25,
+   "heard": "Macro Arsenal, ne traidez plus jamais seul.",
+   "wer": 0.143,
+   "extra": 1,
+   "speech": [
+    0.0,
+    3.18
+   ],
+   "ok": false
+  }
+ ]
+}

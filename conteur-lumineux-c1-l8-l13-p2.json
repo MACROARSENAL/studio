@@ -1,0 +1,112 @@
+{
+ "voice": "conteur-lumineux",
+ "casting_take": "1",
+ "take": 2,
+ "span": "l8-l13",
+ "engine": "Qwen3-TTS 1.7B Base, voix clonée depuis le casting (Apache-2.0)",
+ "reference": {
+  "from": "conteur-lumineux-1",
+  "span": "l6-l7",
+  "start": 23.86,
+  "end": 30.96,
+  "text": "Alors Macro Arsenal vous a fait un compagnon. Et un beau matin… ses yeux se sont allumés !"
+ },
+ "lines": [
+  {
+   "id": "l8",
+   "text": "Depuis, il veille sur vous, jour et nuit. Il connaît votre compte par cœur.",
+   "tts": "Depuis, il veille sur vous, jour et nuit. Il connaît votre compte par cœur.",
+   "file": "conteur-lumineux-c1-l8-p2.wav",
+   "seconds": 6.0,
+   "compute": 50,
+   "heard": "Depuis, il veille sur vous jour et nuit, il connaît votre compte par cœur.",
+   "wer": 0.0,
+   "extra": 0,
+   "speech": [
+    0.0,
+    5.38
+   ],
+   "ok": true
+  },
+  {
+   "id": "l9",
+   "text": "Une annonce approche ? Il vous prévient à temps.",
+   "tts": "Une annonce approche ? Il vous prévient à temps.",
+   "file": "conteur-lumineux-c1-l9-p2.wav",
+   "seconds": 3.2,
+   "compute": 30,
+   "heard": "Une annonce approche, il vous prévient à temps.",
+   "wer": 0.0,
+   "extra": 0,
+   "speech": [
+    0.0,
+    3.12
+   ],
+   "ok": true
+  },
+  {
+   "id": "l10",
+   "text": "Un écran vous échappe ? Un clic, et il vous l'explique.",
+   "tts": "Un écran vous échappe ? Un clic, et il vous l'explique.",
+   "file": "conteur-lumineux-c1-l10-p2.wav",
+   "seconds": 3.36,
+   "compute": 30,
+   "heard": "Un écran vous échappe, un clic, et il vous l'explique.",
+   "wer": 0.0,
+   "extra": 0,
+   "speech": [
+    0.0,
+    3.18
+   ],
+   "ok": true
+  },
+  {
+   "id": "l11",
+   "text": "Il prépare vos ordres… mais c'est vous qui décidez. Toujours.",
+   "tts": "Il prépare vos ordres… mais c'est vous qui décidez. Toujours.",
+   "file": "conteur-lumineux-c1-l11-p2.wav",
+   "seconds": 4.32,
+   "compute": 38,
+   "heard": "Il prépare vos ordres, mais c'est vous qui décidez. Toujours.",
+   "wer": 0.0,
+   "extra": 0,
+   "speech": [
+    0.0,
+    3.98
+   ],
+   "ok": true
+  },
+  {
+   "id": "l12",
+   "text": "Il ne promet pas de miracles. Il vous aide à garder la tête froide.",
+   "tts": "Il ne promet pas de miracles. Il vous aide à garder la tête froide.",
+   "file": "conteur-lumineux-c1-l12-p2.wav",
+   "seconds": 3.52,
+   "compute": 32,
+   "heard": "Il ne promet pas de miracles, il vous aide à garder la tête froide.",
+   "wer": 0.0,
+   "extra": 0,
+   "speech": [
+    0.0,
+    3.3
+   ],
+   "ok": true
+  },
+  {
+   "id": "l13",
+   "text": "Les jours de doute, il est là. Les jours de victoire aussi.",
+   "tts": "Les jours de doute, il est là. Les jours de victoire aussi.",
+   "file": "conteur-lumineux-c1-l13-p2.wav",
+   "seconds": 4.24,
+   "compute": 38,
+   "heard": "Les jours de doute, il est là, les jours de victoire aussi.",
+   "wer": 0.0,
+   "extra": 0,
+   "speech": [
+    0.0,
+    3.88
+   ],
+   "ok": true
+  }
+ ]
+}
