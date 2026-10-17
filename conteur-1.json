@@ -1,0 +1,51 @@
+{
+ "voice": "conteur",
+ "label": "Le conteur (voix grave et chaleureuse)",
+ "take": 1,
+ "acts": [
+  "conte"
+ ],
+ "engine": "Qwen3-TTS 1.7B VoiceDesign (Apache-2.0)",
+ "design": "A warm, gentle French male storyteller in his fifties with a rich, velvety, deep baritone voice, like the narrator of a classic animated family film. He tells a fairy tale with wonder and tenderness and a smile in his voice. Perfect native Parisian French diction. Intimate close-microphone studio recording, natural breathing, unhurried expressive delivery, never robotic.",
+ "sr": 24000,
+ "seconds": 29.36,
+ "compute": 222,
+ "text": "Il était une fois… un logo. Un petit bouclier d'or, qui veillait sur les marchés du monde. Chaque nuit, il voyait des traders, seuls face à leurs écrans. Des milliers de chiffres. Des décisions à prendre… et personne à qui parler. Au fond de lui, il rêvait de prendre vie… pour être à leurs côtés. Alors Macro Arsenal vous a fait un compagnon. Et un beau matin… ses yeux se sont allumés !",
+ "lines": [
+  {
+   "id": "l1",
+   "text": "Il était une fois… un logo.",
+   "tts": "Il était une fois… un logo."
+  },
+  {
+   "id": "l2",
+   "text": "Un petit bouclier d'or, qui veillait sur les marchés du monde.",
+   "tts": "Un petit bouclier d'or, qui veillait sur les marchés du monde."
+  },
+  {
+   "id": "l3",
+   "text": "Chaque nuit, il voyait des traders, seuls face à leurs écrans.",
+   "tts": "Chaque nuit, il voyait des traders, seuls face à leurs écrans."
+  },
+  {
+   "id": "l4",
+   "text": "Des milliers de chiffres. Des décisions à prendre… et personne à qui parler.",
+   "tts": "Des milliers de chiffres. Des décisions à prendre… et personne à qui parler."
+  },
+  {
+   "id": "l5",
+   "text": "Au fond de lui, il rêvait de prendre vie… pour être à leurs côtés.",
+   "tts": "Au fond de lui, il rêvait de prendre vie… pour être à leurs côtés."
+  },
+  {
+   "id": "l6",
+   "text": "Alors MACROARSENAL vous a fait un compagnon.",
+   "tts": "Alors Macro Arsenal vous a fait un compagnon."
+  },
+  {
+   "id": "l7",
+   "text": "Et un beau matin… ses yeux se sont allumés !",
+   "tts": "Et un beau matin… ses yeux se sont allumés !"
+  }
+ ]
+}
