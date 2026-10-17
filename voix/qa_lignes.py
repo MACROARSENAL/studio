@@ -57,5 +57,5 @@ for man in sorted(glob.glob(os.path.join(DIR, '*-l*-p*.json'))):
         print(f"{flag} {os.path.basename(man)} {l['id']} écart {wer:.2f} +{extra} « {heard} »", flush=True)
     json.dump(M, open(man, 'w', encoding='utf-8'), ensure_ascii=False, indent=1)
     bad = [l['id'] for l in M['lines'] if not l['ok']]
-    print(f"::{'warning' if bad else 'notice'} title=Contrôle {M['voice']} {M['span']} p{M['take']}::"
+    print(f"::{'warning' if bad else 'notice'} title=Contrôle {M['voice']}-c{M['casting_take']} {M['span']} p{M['take']}::"
           f"{len(M['lines']) - len(bad)}/{len(M['lines'])} phrases conformes" + (f', à revoir : {bad}' if bad else ''), flush=True)

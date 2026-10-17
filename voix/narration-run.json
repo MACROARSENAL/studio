@@ -1,0 +1,39 @@
+{
+ "_": "Voix candidates (prise du casting) × parties du texte (avec la référence qui donne le ton) × prises.",
+ "voices": [
+  {
+   "voice": "conteur",
+   "casting_take": 1
+  },
+  {
+   "voice": "conteur",
+   "casting_take": 2
+  },
+  {
+   "voice": "conteur-lumineux",
+   "casting_take": 1
+  },
+  {
+   "voice": "conteuse",
+   "casting_take": 1
+  }
+ ],
+ "spans": [
+  {
+   "lines": "l1-l7",
+   "ref": "l1-l2"
+  },
+  {
+   "lines": "l8-l13",
+   "ref": "l6-l7"
+  },
+  {
+   "lines": "l14-l18",
+   "ref": "l6-l7"
+  }
+ ],
+ "takes": [
+  1,
+  2
+ ]
+}

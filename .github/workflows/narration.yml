@@ -23,7 +23,7 @@ jobs:
           python3 - <<'EOF' >> "$GITHUB_OUTPUT"
           import json
           R = json.load(open('voix/narration-run.json'))
-          inc = [{'voix': v['voice'], 'casting': str(v['casting_take']), 'lignes': s, 'prise': p}
+          inc = [{'voix': v['voice'], 'casting': str(v['casting_take']), 'lignes': s['lines'], 'ref': s['ref'], 'prise': p}
                  for v in R['voices'] for s in R['spans'] for p in R['takes']]
           print('matrix=' + json.dumps({'include': inc}))
           EOF
@@ -53,7 +53,7 @@ jobs:
       - name: Voix
         run: |
           set -o pipefail
-          python voix/narration.py ${{ matrix.voix }} ${{ matrix.casting }} casting ${{ matrix.lignes }} ${{ matrix.prise }} /tmp/out 2>&1 | tee /tmp/run.log || { grep -v '^ok' /tmp/run.log | grep -v -i -E 'warning|pci_bus|sox|flash-attn' | tail -15 | tr '\n' ' ' | sed 's/^/::error title=Voix::/'; echo; exit 1; }
+          python voix/narration.py ${{ matrix.voix }} ${{ matrix.casting }} casting ${{ matrix.lignes }} ${{ matrix.prise }} /tmp/out ${{ matrix.ref }} 2>&1 | tee /tmp/run.log || { grep -v '^ok' /tmp/run.log | grep -v -i -E 'warning|pci_bus|sox|flash-attn' | tail -15 | tr '\n' ' ' | sed 's/^/::error title=Voix::/'; echo; exit 1; }
       - name: Contrôle par transcription
         run: |
           set -o pipefail
@@ -61,7 +61,7 @@ jobs:
       - uses: actions/upload-artifact@v4
         if: always()
         with:
-          name: narration-${{ matrix.voix }}-${{ matrix.lignes }}-${{ matrix.prise }}
+          name: narration-${{ matrix.voix }}-${{ matrix.casting }}-${{ matrix.lignes }}-${{ matrix.prise }}
           path: /tmp/out
 
   ranger:
