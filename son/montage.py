@@ -37,7 +37,9 @@ def from_casting():
             continue
         a = max(0.0, l['start'] - 0.12)
         nxt = lines[k + 1]['start'] if k + 1 < len(lines) and lines[k + 1].get('start') is not None else len(w) / SR
-        b = min(nxt - 0.04, l['end'] + 0.45)
+        # whisper situe les débuts de mots un peu tard : on s'arrête 0,15 s avant la phrase suivante (pas d'attaque parasite),
+        # mais on laisse 0,7 s après la fin du dernier mot (la dernière syllabe n'est jamais coupée)
+        b = min(nxt - 0.15, l['end'] + 0.7) if k + 1 < len(lines) else len(w) / SR
         out[l['id']] = w[int(a * SR):int(b * SR)]
     return out
 
