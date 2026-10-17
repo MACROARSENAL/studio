@@ -26,15 +26,22 @@ jobs:
           python-version: '3.12'
       - name: Outils
         run: |
-          sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg > /dev/null
+          sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg sox > /dev/null
           set -o pipefail
-          { pip install --index-url https://download.pytorch.org/whl/cpu torch torchaudio && pip install -U qwen-tts soundfile faster-whisper; } > /tmp/pip.log 2>&1 || { tail -40 /tmp/pip.log | tr '\n' ' ' | sed 's/^/::error title=pip::/'; echo; exit 1; }
+          { pip install --index-url https://download.pytorch.org/whl/cpu torch torchaudio && pip install -U qwen-tts soundfile; } > /tmp/pip.log 2>&1 || { tail -40 /tmp/pip.log | tr '\n' ' ' | sed 's/^/::error title=pip::/'; echo; exit 1; }
+          # Transcription dans un environnement séparé (évite les conflits de bibliothèques avec la synthèse vocale)
+          python -m venv /tmp/asr && /tmp/asr/bin/pip install -q faster-whisper > /tmp/pip2.log 2>&1 || { tail -20 /tmp/pip2.log | tr '\n' ' ' | sed 's/^/::error title=pip asr::/'; echo; exit 1; }
           nproc; free -g
       - name: Voix
         run: |
           set -o pipefail
-          python voix/casting.py ${{ matrix.voix }} ${{ matrix.prise }} /tmp/out 2>&1 | tee /tmp/run.log || { grep -v '^ok' /tmp/run.log | tail -30 | tr '\n' ' ' | sed 's/^/::error title=Voix::/'; echo; exit 1; }
+          python voix/casting.py ${{ matrix.voix }} ${{ matrix.prise }} /tmp/out 2>&1 | tee /tmp/run.log || { grep -v '^ok' /tmp/run.log | grep -v -i -E 'warning|pci_bus|sox|flash-attn' | tail -15 | tr '\n' ' ' | sed 's/^/::error title=Voix::/'; echo; exit 1; }
+      - name: Contrôle par transcription
+        run: |
+          set -o pipefail
+          /tmp/asr/bin/python voix/qa.py /tmp/out/${{ matrix.voix }}-${{ matrix.prise }} 2>&1 | tee /tmp/qa.log || { grep -v '^ok' /tmp/qa.log | grep -v -i warning | tail -12 | tr '\n' ' ' | sed 's/^/::warning title=Contrôle::/'; echo; }
       - uses: actions/upload-artifact@v4
+        if: always()
         with:
           name: voix-${{ matrix.voix }}-${{ matrix.prise }}
           path: /tmp/out
