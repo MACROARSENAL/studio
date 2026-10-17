@@ -1,0 +1,38 @@
+{
+  "_": "Film « Il était une fois… un logo » (version 3, 17/10/2026). « tts » = texte lu par la voix (MACROARSENAL écrit en deux mots pour être bien prononcé).",
+  "acts": [
+    { "id": "conte", "lines": [
+      { "id": "l1", "text": "Il était une fois… un logo." },
+      { "id": "l2", "text": "Un petit bouclier d'or, qui veillait sur les marchés du monde." },
+      { "id": "l3", "text": "Chaque nuit, il voyait des traders, seuls face à leurs écrans." },
+      { "id": "l4", "text": "Des milliers de chiffres. Des décisions à prendre… et personne à qui parler." },
+      { "id": "l5", "text": "Au fond de lui, il rêvait de prendre vie… pour être à leurs côtés." },
+      { "id": "l6", "text": "Alors MACROARSENAL vous a fait un compagnon.", "tts": "Alors Macro Arsenal vous a fait un compagnon." },
+      { "id": "l7", "text": "Et un beau matin… ses yeux se sont allumés !" }
+    ]},
+    { "id": "compagnon", "lines": [
+      { "id": "l8", "text": "Depuis, il veille sur vous, jour et nuit. Il connaît votre compte par cœur." },
+      { "id": "l9", "text": "Une annonce approche ? Il vous prévient à temps." },
+      { "id": "l10", "text": "Un écran vous échappe ? Un clic, et il vous l'explique." },
+      { "id": "l11", "text": "Il prépare vos ordres… mais c'est vous qui décidez. Toujours." },
+      { "id": "l12", "text": "Il ne promet pas de miracles. Il vous aide à garder la tête froide." },
+      { "id": "l13", "text": "Les jours de doute, il est là. Les jours de victoire aussi." },
+      { "id": "l14", "text": "Et parfois… il vous fait même sourire." },
+      { "id": "l15", "text": "Besoin de calme ? Un clic, il se range. Il revient dès que vous l'appelez." }
+    ]},
+    { "id": "lien", "lines": [
+      { "id": "l16", "text": "Il n'a pas encore de prénom. C'est vous qui le lui donnerez." },
+      { "id": "l17", "text": "Trois questions par jour pour faire connaissance. Quinze avec Fondateur. Et avec Arsenal… il est tout à vous.", "tts": "Trois questions par jour pour faire connaissance. Quinze avec Fondateur. Et avec Arsenal… il est tout à vous." },
+      { "id": "l18", "text": "MACROARSENAL. Ne tradez plus jamais seul.", "tts": "Macro Arsenal. Ne tradez plus jamais seul." }
+    ]}
+  ],
+  "voices": [
+    { "id": "conteur", "label": "Le conteur (voix grave et chaleureuse)",
+      "design": "A warm, gentle French male storyteller in his fifties with a rich, velvety, deep baritone voice, like the narrator of a classic animated family film. He tells a fairy tale with wonder and tenderness and a smile in his voice. Perfect native Parisian French diction. Intimate close-microphone studio recording, natural breathing, unhurried expressive delivery, never robotic." },
+    { "id": "conteur-lumineux", "label": "Le conteur (voix claire et magique)",
+      "design": "An enchanting French male narrator in his forties with a bright, clear and expressive voice full of magic and warmth, like the storyteller of an animated fairy-tale movie. Captivating dynamics, a gentle mystery at the start, joy and emotion at the end. Flawless native French pronunciation. Professional studio recording, natural and human, never robotic." },
+    { "id": "conteuse", "label": "La conteuse (voix douce et lumineuse)",
+      "design": "A warm, luminous French female storyteller in her thirties with a soft, slightly husky voice, like the narrator of an animated fairy-tale film. Tender, enchanting and full of emotion. Perfect native French diction. Intimate close-microphone studio recording with natural breathing, unhurried, never robotic." }
+  ],
+  "acting": "Read it like the opening of a fairy tale in an animated feature film: begin softly, almost whispered, full of mystery on 'Il était une fois… un logo', with long natural pauses at every ellipsis. Gentle melancholy for the lonely traders at night. Then rising tenderness, warmth and hope on 'Alors Macro Arsenal vous a fait un compagnon', and pure wonder and joy on 'ses yeux se sont allumés'. Slow storytelling pace, every word clear."
+}

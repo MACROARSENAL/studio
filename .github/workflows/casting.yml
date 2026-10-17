@@ -1,0 +1,57 @@
+name: Casting des voix
+
+# Trois voix de conteur × deux prises, en parallèle, puis tout est rangé sur la branche « casting » (écoute + contrôles).
+# Lancement : git push -f origin HEAD:casting-run (ou onglet Actions → Run workflow).
+on:
+  push:
+    branches: [casting-run]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  voix:
+    runs-on: ubuntu-latest
+    timeout-minutes: 330
+    strategy:
+      fail-fast: false
+      matrix:
+        voix: [conteur, conteur-lumineux, conteuse]
+        prise: [1, 2]
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Outils
+        run: |
+          sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg > /dev/null
+          set -o pipefail
+          { pip install --index-url https://download.pytorch.org/whl/cpu torch torchaudio && pip install -U qwen-tts soundfile faster-whisper; } > /tmp/pip.log 2>&1 || { tail -40 /tmp/pip.log | tr '\n' ' ' | sed 's/^/::error title=pip::/'; echo; exit 1; }
+          nproc; free -g
+      - name: Voix
+        run: |
+          set -o pipefail
+          python voix/casting.py ${{ matrix.voix }} ${{ matrix.prise }} /tmp/out 2>&1 | tee /tmp/run.log || { grep -v '^ok' /tmp/run.log | tail -30 | tr '\n' ' ' | sed 's/^/::error title=Voix::/'; echo; exit 1; }
+      - uses: actions/upload-artifact@v4
+        with:
+          name: voix-${{ matrix.voix }}-${{ matrix.prise }}
+          path: /tmp/out
+
+  ranger:
+    needs: voix
+    if: always()
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/download-artifact@v4
+        with:
+          path: /tmp/all
+          merge-multiple: true
+      - name: Ranger sur la branche « casting »
+        run: |
+          cd /tmp/all && ls -la
+          git init -q -b casting
+          git config user.name "studio-bot"; git config user.email "studio-bot@users.noreply.github.com"
+          git add . && git commit -qm "Casting ${GITHUB_SHA::7}"
+          git push -qf "https://x-access-token:${{ github.token }}@github.com/${{ github.repository }}.git" casting
