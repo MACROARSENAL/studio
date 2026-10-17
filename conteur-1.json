@@ -15,37 +15,55 @@
   {
    "id": "l1",
    "text": "Il était une fois… un logo.",
-   "tts": "Il était une fois… un logo."
+   "tts": "Il était une fois… un logo.",
+   "start": 0.0,
+   "end": 2.22
   },
   {
    "id": "l2",
    "text": "Un petit bouclier d'or, qui veillait sur les marchés du monde.",
-   "tts": "Un petit bouclier d'or, qui veillait sur les marchés du monde."
+   "tts": "Un petit bouclier d'or, qui veillait sur les marchés du monde.",
+   "start": 3.06,
+   "end": 6.88
   },
   {
    "id": "l3",
    "text": "Chaque nuit, il voyait des traders, seuls face à leurs écrans.",
-   "tts": "Chaque nuit, il voyait des traders, seuls face à leurs écrans."
+   "tts": "Chaque nuit, il voyait des traders, seuls face à leurs écrans.",
+   "start": 7.44,
+   "end": 11.5
   },
   {
    "id": "l4",
    "text": "Des milliers de chiffres. Des décisions à prendre… et personne à qui parler.",
-   "tts": "Des milliers de chiffres. Des décisions à prendre… et personne à qui parler."
+   "tts": "Des milliers de chiffres. Des décisions à prendre… et personne à qui parler.",
+   "start": 11.78,
+   "end": 16.64
   },
   {
    "id": "l5",
    "text": "Au fond de lui, il rêvait de prendre vie… pour être à leurs côtés.",
-   "tts": "Au fond de lui, il rêvait de prendre vie… pour être à leurs côtés."
+   "tts": "Au fond de lui, il rêvait de prendre vie… pour être à leurs côtés.",
+   "start": 17.5,
+   "end": 21.92
   },
   {
    "id": "l6",
    "text": "Alors MACROARSENAL vous a fait un compagnon.",
-   "tts": "Alors Macro Arsenal vous a fait un compagnon."
+   "tts": "Alors Macro Arsenal vous a fait un compagnon.",
+   "start": 23.02,
+   "end": 25.86
   },
   {
    "id": "l7",
    "text": "Et un beau matin… ses yeux se sont allumés !",
-   "tts": "Et un beau matin… ses yeux se sont allumés !"
+   "tts": "Et un beau matin… ses yeux se sont allumés !",
+   "start": 25.86,
+   "end": 29.34
   }
- ]
+ ],
+ "heard": "Il était, une fois, un logo, un petit bouclier d'or qui veillait sur les marchés du monde. Chaque nuit, il voyait des traders, seuls face à leurs écrans, des milliers de chiffres, des décisions à prendre et personne à qui parler. Au fond de lui, il rêvait de prendre vie, pour être à leur côté. Alors, Macro Arsenal vous a fait un compagnon et un beau matin, ses yeux se sont allumés.",
+ "wer": 0.041,
+ "extra": 4,
+ "ok": false
 }
