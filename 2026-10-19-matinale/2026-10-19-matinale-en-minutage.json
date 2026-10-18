@@ -1,0 +1,81 @@
+{
+ "id": "2026-10-19-matinale",
+ "langue": "en",
+ "seconds": 223.21,
+ "lufs": -16.1,
+ "peak_dbtp": -1.0,
+ "blocs": [
+  {
+   "bloc": 0,
+   "rubrique": "ouverture",
+   "start": 3.65,
+   "end": 20.05
+  },
+  {
+   "bloc": 1,
+   "rubrique": "ecrans",
+   "start": 20.95,
+   "end": 44.29
+  },
+  {
+   "bloc": 2,
+   "rubrique": "ecrans",
+   "start": 45.19,
+   "end": 58.95
+  },
+  {
+   "bloc": 3,
+   "rubrique": "ecrans",
+   "start": 59.85,
+   "end": 72.57
+  },
+  {
+   "bloc": 4,
+   "rubrique": "semaine",
+   "start": 74.0,
+   "end": 89.34
+  },
+  {
+   "bloc": 5,
+   "rubrique": "biais",
+   "start": 90.77,
+   "end": 101.49
+  },
+  {
+   "bloc": 6,
+   "rubrique": "actions",
+   "start": 102.92,
+   "end": 123.94
+  },
+  {
+   "bloc": 7,
+   "rubrique": "rendez-vous",
+   "start": 125.37,
+   "end": 140.12
+  },
+  {
+   "bloc": 8,
+   "rubrique": "souvenir",
+   "start": 142.12,
+   "end": 170.42
+  },
+  {
+   "bloc": 9,
+   "rubrique": "souvenir",
+   "start": 170.97,
+   "end": 188.67
+  },
+  {
+   "bloc": 10,
+   "rubrique": "terminal",
+   "start": 190.1,
+   "end": 207.03
+  },
+  {
+   "bloc": 11,
+   "rubrique": "cloture",
+   "start": 207.58,
+   "end": 215.64
+  }
+ ]
+}

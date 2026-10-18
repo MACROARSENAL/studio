@@ -1,0 +1,7865 @@
+{
+ "langue": "es",
+ "phrases": {
+  "00-00": {
+   "id": "00-00",
+   "bloc": 0,
+   "ton": "energique",
+   "text": "Los mercados se despiertan. ¡Buenos días, sala de mercados! Les habla Víctor Castel y esto es MACROARSENAL Radio.",
+   "tts": "Los mercados se despiertan. ¡Buenos días, sala de mercados! Les habla Víctor Castel y esto es Macro Arsenal Radio.",
+   "gen": {},
+   "prise": {
+    "prise": 1,
+    "file": "es-00-00-p1.wav",
+    "seconds": 9.12,
+    "compute": 69,
+    "heard": "¡Los mercados se despiertan! ¡Buenos días! ¡Sala de mercados! Les habla Víctor Castel, y esto es Macro Arsenal Radio.",
+    "wer": 0.0,
+    "extra": 0,
+    "speech": [
+     0.0,
+     8.86
+    ],
+    "rate": 12.9,
+    "mots": [
+     [
+      "¡Los",
+      0.0,
+      0.48,
+      0.7
+     ],
+     [
+      "mercados",
+      0.48,
+      0.98,
+      0.98
+     ],
+     [
+      "se",
+      0.98,
+      1.2,
+      0.99
+     ],
+     [
+      "despiertan!",
+      1.2,
+      2.0,
+      0.99
+     ],
+     [
+      "¡Buenos",
+      2.4,
+      2.8,
+      0.97
+     ],
+     [
+      "días!",
+      2.8,
+      3.14,
+      0.97
+     ],
+     [
+      "¡Sala",
+      3.48,
+      3.72,
+      0.98
+     ],
+     [
+      "de",
+      3.72,
+      3.92,
+      1.0
+     ],
+     [
+      "mercados!",
+      3.92,
+      4.4,
+      0.76
+     ],
+     [
+      "Les",
+      5.06,
+      5.3,
+      0.96
+     ],
+     [
+      "habla",
+      5.3,
+      5.54,
+      1.0
+     ],
+     [
+      "Víctor",
+      5.54,
+      6.06,
+      0.84
+     ],
+     [
+      "Castel,",
+      6.06,
+      6.7,
+      0.59
+     ],
+     [
+      "y",
+      7.06,
+      7.16,
+      0.98
+     ],
+     [
+      "esto",
+      7.16,
+      7.34,
+      0.99
+     ],
+     [
+      "es",
+      7.34,
+      7.62,
+      0.99
+     ],
+     [
+      "Macro",
+      7.62,
+      8.08,
+      0.93
+     ],
+     [
+      "Arsenal",
+      8.08,
+      8.44,
+      0.95
+     ],
+     [
+      "Radio.",
+      8.44,
+      8.86,
+      0.99
+     ]
+    ],
+    "clarte": 0.59,
+    "ok": true
+   },
+   "toutes": [
+    {
+     "prise": 1,
+     "file": "es-00-00-p1.wav",
+     "seconds": 9.12,
+     "compute": 69,
+     "heard": "¡Los mercados se despiertan! ¡Buenos días! ¡Sala de mercados! Les habla Víctor Castel, y esto es Macro Arsenal Radio.",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      8.86
+     ],
+     "rate": 12.9,
+     "mots": [
+      [
+       "¡Los",
+       0.0,
+       0.48,
+       0.7
+      ],
+      [
+       "mercados",
+       0.48,
+       0.98,
+       0.98
+      ],
+      [
+       "se",
+       0.98,
+       1.2,
+       0.99
+      ],
+      [
+       "despiertan!",
+       1.2,
+       2.0,
+       0.99
+      ],
+      [
+       "¡Buenos",
+       2.4,
+       2.8,
+       0.97
+      ],
+      [
+       "días!",
+       2.8,
+       3.14,
+       0.97
+      ],
+      [
+       "¡Sala",
+       3.48,
+       3.72,
+       0.98
+      ],
+      [
+       "de",
+       3.72,
+       3.92,
+       1.0
+      ],
+      [
+       "mercados!",
+       3.92,
+       4.4,
+       0.76
+      ],
+      [
+       "Les",
+       5.06,
+       5.3,
+       0.96
+      ],
+      [
+       "habla",
+       5.3,
+       5.54,
+       1.0
+      ],
+      [
+       "Víctor",
+       5.54,
+       6.06,
+       0.84
+      ],
+      [
+       "Castel,",
+       6.06,
+       6.7,
+       0.59
+      ],
+      [
+       "y",
+       7.06,
+       7.16,
+       0.98
+      ],
+      [
+       "esto",
+       7.16,
+       7.34,
+       0.99
+      ],
+      [
+       "es",
+       7.34,
+       7.62,
+       0.99
+      ],
+      [
+       "Macro",
+       7.62,
+       8.08,
+       0.93
+      ],
+      [
+       "Arsenal",
+       8.08,
+       8.44,
+       0.95
+      ],
+      [
+       "Radio.",
+       8.44,
+       8.86,
+       0.99
+      ]
+     ],
+     "clarte": 0.59,
+     "ok": true
+    }
+   ]
+  },
+  "00-01": {
+   "id": "00-01",
+   "bloc": 0,
+   "ton": "energique",
+   "text": "Café cargado, pantallas encendidas: la vuelta al mundo en tres minutos. Lunes diecinueve de octubre, y es el petróleo el que marca la pauta.",
+   "tts": "Café cargado, pantallas encendidas: la vuelta al mundo en tres minutos. Lunes diecinueve de octubre, y es el petróleo el que marca la pauta.",
+   "gen": {},
+   "prise": {
+    "prise": 1,
+    "file": "es-00-01-p1.wav",
+    "seconds": 8.48,
+    "compute": 64,
+    "heard": "Café cargado, pantallas encendidas, la vuelta al mundo en tres minutos. Lunes 19 de octubre y es el petróleo el que marca la pauta.",
+    "wer": 0.0,
+    "extra": 0,
+    "speech": [
+     0.0,
+     8.46
+    ],
+    "rate": 16.5,
+    "mots": [
+     [
+      "Café",
+      0.0,
+      0.46,
+      0.74
+     ],
+     [
+      "cargado,",
+      0.46,
+      0.84,
+      0.99
+     ],
+     [
+      "pantallas",
+      1.08,
+      1.42,
+      0.92
+     ],
+     [
+      "encendidas,",
+      1.42,
+      2.1,
+      1.0
+     ],
+     [
+      "la",
+      2.58,
+      2.68,
+      0.68
+     ],
+     [
+      "vuelta",
+      2.68,
+      2.92,
+      0.75
+     ],
+     [
+      "al",
+      2.92,
+      3.12,
+      1.0
+     ],
+     [
+      "mundo",
+      3.12,
+      3.32,
+      1.0
+     ],
+     [
+      "en",
+      3.32,
+      3.58,
+      0.99
+     ],
+     [
+      "tres",
+      3.58,
+      3.82,
+      0.69
+     ],
+     [
+      "minutos.",
+      3.82,
+      4.34,
+      1.0
+     ],
+     [
+      "Lunes",
+      4.76,
+      5.02,
+      0.96
+     ],
+     [
+      "19",
+      5.02,
+      5.5,
+      0.87
+     ],
+     [
+      "de",
+      5.5,
+      5.7,
+      1.0
+     ],
+     [
+      "octubre",
+      5.7,
+      6.24,
+      0.94
+     ],
+     [
+      "y",
+      6.24,
+      6.64,
+      0.48
+     ],
+     [
+      "es",
+      6.64,
+      6.82,
+      0.99
+     ],
+     [
+      "el",
+      6.82,
+      7.08,
+      1.0
+     ],
+     [
+      "petróleo",
+      7.08,
+      7.46,
+      0.99
+     ],
+     [
+      "el",
+      7.46,
+      7.64,
+      0.99
+     ],
+     [
+      "que",
+      7.64,
+      7.8,
+      1.0
+     ],
+     [
+      "marca",
+      7.8,
+      7.96,
+      1.0
+     ],
+     [
+      "la",
+      7.96,
+      8.18,
+      1.0
+     ],
+     [
+      "pauta.",
+      8.18,
+      8.46,
+      1.0
+     ]
+    ],
+    "clarte": 0.48,
+    "ok": true
+   },
+   "toutes": [
+    {
+     "prise": 1,
+     "file": "es-00-01-p1.wav",
+     "seconds": 8.48,
+     "compute": 64,
+     "heard": "Café cargado, pantallas encendidas, la vuelta al mundo en tres minutos. Lunes 19 de octubre y es el petróleo el que marca la pauta.",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      8.46
+     ],
+     "rate": 16.5,
+     "mots": [
+      [
+       "Café",
+       0.0,
+       0.46,
+       0.74
+      ],
+      [
+       "cargado,",
+       0.46,
+       0.84,
+       0.99
+      ],
+      [
+       "pantallas",
+       1.08,
+       1.42,
+       0.92
+      ],
+      [
+       "encendidas,",
+       1.42,
+       2.1,
+       1.0
+      ],
+      [
+       "la",
+       2.58,
+       2.68,
+       0.68
+      ],
+      [
+       "vuelta",
+       2.68,
+       2.92,
+       0.75
+      ],
+      [
+       "al",
+       2.92,
+       3.12,
+       1.0
+      ],
+      [
+       "mundo",
+       3.12,
+       3.32,
+       1.0
+      ],
+      [
+       "en",
+       3.32,
+       3.58,
+       0.99
+      ],
+      [
+       "tres",
+       3.58,
+       3.82,
+       0.69
+      ],
+      [
+       "minutos.",
+       3.82,
+       4.34,
+       1.0
+      ],
+      [
+       "Lunes",
+       4.76,
+       5.02,
+       0.96
+      ],
+      [
+       "19",
+       5.02,
+       5.5,
+       0.87
+      ],
+      [
+       "de",
+       5.5,
+       5.7,
+       1.0
+      ],
+      [
+       "octubre",
+       5.7,
+       6.24,
+       0.94
+      ],
+      [
+       "y",
+       6.24,
+       6.64,
+       0.48
+      ],
+      [
+       "es",
+       6.64,
+       6.82,
+       0.99
+      ],
+      [
+       "el",
+       6.82,
+       7.08,
+       1.0
+      ],
+      [
+       "petróleo",
+       7.08,
+       7.46,
+       0.99
+      ],
+      [
+       "el",
+       7.46,
+       7.64,
+       0.99
+      ],
+      [
+       "que",
+       7.64,
+       7.8,
+       1.0
+      ],
+      [
+       "marca",
+       7.8,
+       7.96,
+       1.0
+      ],
+      [
+       "la",
+       7.96,
+       8.18,
+       1.0
+      ],
+      [
+       "pauta.",
+       8.18,
+       8.46,
+       1.0
+      ]
+     ],
+     "clarte": 0.48,
+     "ok": true
+    }
+   ]
+  },
+  "01-00": {
+   "id": "01-00",
+   "bloc": 1,
+   "ton": "net",
+   "text": "Primero, el petróleo. El viernes, el Brent tocó los ciento diez dólares por barril, algo que no ocurría desde mayo, tras nuevos ataques a buques en el estrecho de Ormuz.",
+   "tts": "Primero, el petróleo. El viernes, el Brent tocó los ciento diez dólares por barril, algo que no ocurría desde mayo, tras nuevos ataques a buques en el estrecho de Ormuz.",
+   "gen": {},
+   "prise": {
+    "prise": 1,
+    "file": "es-01-00-p1.wav",
+    "seconds": 11.2,
+    "compute": 80,
+    "heard": "Primero, el petróleo. El viernes, el Brent tocó los 110 dólares por barril, algo que no ocurría desde mayo, tras nuevos ataques a buques en el Estrecho de Hormuz.",
+    "wer": 0.033,
+    "extra": 1,
+    "speech": [
+     0.0,
+     10.88
+    ],
+    "rate": 15.5,
+    "mots": [
+     [
+      "Primero,",
+      0.0,
+      0.7,
+      0.89
+     ],
+     [
+      "el",
+      0.94,
+      1.14,
+      0.99
+     ],
+     [
+      "petróleo.",
+      1.14,
+      1.94,
+      0.98
+     ],
+     [
+      "El",
+      2.38,
+      2.54,
+      0.99
+     ],
+     [
+      "viernes,",
+      2.54,
+      3.12,
+      1.0
+     ],
+     [
+      "el",
+      3.44,
+      3.52,
+      0.98
+     ],
+     [
+      "Brent",
+      3.52,
+      3.7,
+      0.56
+     ],
+     [
+      "tocó",
+      3.7,
+      4.04,
+      0.99
+     ],
+     [
+      "los",
+      4.04,
+      4.2,
+      1.0
+     ],
+     [
+      "110",
+      4.2,
+      4.68,
+      0.89
+     ],
+     [
+      "dólares",
+      4.68,
+      5.06,
+      0.97
+     ],
+     [
+      "por",
+      5.06,
+      5.32,
+      1.0
+     ],
+     [
+      "barril,",
+      5.32,
+      5.78,
+      0.92
+     ],
+     [
+      "algo",
+      6.16,
+      6.34,
+      1.0
+     ],
+     [
+      "que",
+      6.34,
+      6.52,
+      1.0
+     ],
+     [
+      "no",
+      6.52,
+      6.72,
+      1.0
+     ],
+     [
+      "ocurría",
+      6.72,
+      7.04,
+      0.99
+     ],
+     [
+      "desde",
+      7.04,
+      7.3,
+      1.0
+     ],
+     [
+      "mayo,",
+      7.3,
+      7.58,
+      0.97
+     ],
+     [
+      "tras",
+      8.12,
+      8.3,
+      1.0
+     ],
+     [
+      "nuevos",
+      8.3,
+      8.66,
+      1.0
+     ],
+     [
+      "ataques",
+      8.66,
+      9.18,
+      1.0
+     ],
+     [
+      "a",
+      9.18,
+      9.42,
+      0.99
+     ],
+     [
+      "buques",
+      9.42,
+      9.68,
+      1.0
+     ],
+     [
+      "en",
+      9.68,
+      9.9,
+      1.0
+     ],
+     [
+      "el",
+      9.9,
+      10.1,
+      0.99
+     ],
+     [
+      "Estrecho",
+      10.1,
+      10.4,
+      0.84
+     ],
+     [
+      "de",
+      10.4,
+      10.56,
+      1.0
+     ],
+     [
+      "Hormuz.",
+      10.56,
+      10.88,
+      0.94
+     ]
+    ],
+    "clarte": 0.56,
+    "ok": true
+   },
+   "toutes": [
+    {
+     "prise": 1,
+     "file": "es-01-00-p1.wav",
+     "seconds": 11.2,
+     "compute": 80,
+     "heard": "Primero, el petróleo. El viernes, el Brent tocó los 110 dólares por barril, algo que no ocurría desde mayo, tras nuevos ataques a buques en el Estrecho de Hormuz.",
+     "wer": 0.033,
+     "extra": 1,
+     "speech": [
+      0.0,
+      10.88
+     ],
+     "rate": 15.5,
+     "mots": [
+      [
+       "Primero,",
+       0.0,
+       0.7,
+       0.89
+      ],
+      [
+       "el",
+       0.94,
+       1.14,
+       0.99
+      ],
+      [
+       "petróleo.",
+       1.14,
+       1.94,
+       0.98
+      ],
+      [
+       "El",
+       2.38,
+       2.54,
+       0.99
+      ],
+      [
+       "viernes,",
+       2.54,
+       3.12,
+       1.0
+      ],
+      [
+       "el",
+       3.44,
+       3.52,
+       0.98
+      ],
+      [
+       "Brent",
+       3.52,
+       3.7,
+       0.56
+      ],
+      [
+       "tocó",
+       3.7,
+       4.04,
+       0.99
+      ],
+      [
+       "los",
+       4.04,
+       4.2,
+       1.0
+      ],
+      [
+       "110",
+       4.2,
+       4.68,
+       0.89
+      ],
+      [
+       "dólares",
+       4.68,
+       5.06,
+       0.97
+      ],
+      [
+       "por",
+       5.06,
+       5.32,
+       1.0
+      ],
+      [
+       "barril,",
+       5.32,
+       5.78,
+       0.92
+      ],
+      [
+       "algo",
+       6.16,
+       6.34,
+       1.0
+      ],
+      [
+       "que",
+       6.34,
+       6.52,
+       1.0
+      ],
+      [
+       "no",
+       6.52,
+       6.72,
+       1.0
+      ],
+      [
+       "ocurría",
+       6.72,
+       7.04,
+       0.99
+      ],
+      [
+       "desde",
+       7.04,
+       7.3,
+       1.0
+      ],
+      [
+       "mayo,",
+       7.3,
+       7.58,
+       0.97
+      ],
+      [
+       "tras",
+       8.12,
+       8.3,
+       1.0
+      ],
+      [
+       "nuevos",
+       8.3,
+       8.66,
+       1.0
+      ],
+      [
+       "ataques",
+       8.66,
+       9.18,
+       1.0
+      ],
+      [
+       "a",
+       9.18,
+       9.42,
+       0.99
+      ],
+      [
+       "buques",
+       9.42,
+       9.68,
+       1.0
+      ],
+      [
+       "en",
+       9.68,
+       9.9,
+       1.0
+      ],
+      [
+       "el",
+       9.9,
+       10.1,
+       0.99
+      ],
+      [
+       "Estrecho",
+       10.1,
+       10.4,
+       0.84
+      ],
+      [
+       "de",
+       10.4,
+       10.56,
+       1.0
+      ],
+      [
+       "Hormuz.",
+       10.56,
+       10.88,
+       0.94
+      ]
+     ],
+     "clarte": 0.56,
+     "ok": true
+    }
+   ]
+  },
+  "01-01": {
+   "id": "01-01",
+   "bloc": 1,
+   "ton": "net",
+   "text": "El sábado, Irán afirmó que dos superpetroleros habían chocado con minas. Washington asegura que mantiene el control del paso. Y este domingo, Teherán repite que su oferta de reabrir el estrecho sigue en pie.",
+   "tts": "El sábado, Irán afirmó que dos superpetroleros habían chocado con minas. Washington asegura que mantiene el control del paso. Y este domingo, Teherán repite que su oferta de reabrir el estrecho sigue en pie.",
+   "gen": {},
+   "prise": {
+    "prise": 1,
+    "file": "es-01-01-p1.wav",
+    "seconds": 12.0,
+    "compute": 86,
+    "heard": "El sábado, Irán afirmó que dos superpetroleros habían chocado con minas. Washington asegura que mantiene el control del paso. Y este domingo, Teherán repite que su oferta de reabrir el estrecho sigue en pie.",
+    "wer": 0.0,
+    "extra": 0,
+    "speech": [
+     0.0,
+     11.98
+    ],
+    "rate": 17.3,
+    "mots": [
+     [
+      "El",
+      0.0,
+      0.54,
+      0.76
+     ],
+     [
+      "sábado,",
+      0.54,
+      1.22,
+      0.99
+     ],
+     [
+      "Irán",
+      1.36,
+      1.52,
+      0.96
+     ],
+     [
+      "afirmó",
+      1.52,
+      1.92,
+      0.99
+     ],
+     [
+      "que",
+      1.92,
+      2.06,
+      1.0
+     ],
+     [
+      "dos",
+      2.06,
+      2.26,
+      0.97
+     ],
+     [
+      "superpetroleros",
+      2.26,
+      3.1,
+      0.96
+     ],
+     [
+      "habían",
+      3.1,
+      3.34,
+      0.99
+     ],
+     [
+      "chocado",
+      3.34,
+      3.74,
+      0.99
+     ],
+     [
+      "con",
+      3.74,
+      4.0,
+      1.0
+     ],
+     [
+      "minas.",
+      4.0,
+      4.58,
+      0.99
+     ],
+     [
+      "Washington",
+      4.82,
+      5.26,
+      0.99
+     ],
+     [
+      "asegura",
+      5.26,
+      5.76,
+      1.0
+     ],
+     [
+      "que",
+      5.76,
+      5.96,
+      1.0
+     ],
+     [
+      "mantiene",
+      5.96,
+      6.26,
+      1.0
+     ],
+     [
+      "el",
+      6.26,
+      6.56,
+      0.99
+     ],
+     [
+      "control",
+      6.56,
+      6.7,
+      1.0
+     ],
+     [
+      "del",
+      6.7,
+      6.94,
+      0.99
+     ],
+     [
+      "paso.",
+      6.94,
+      7.18,
+      0.98
+     ],
+     [
+      "Y",
+      7.84,
+      8.0,
+      0.98
+     ],
+     [
+      "este",
+      8.0,
+      8.12,
+      0.98
+     ],
+     [
+      "domingo,",
+      8.12,
+      8.76,
+      1.0
+     ],
+     [
+      "Teherán",
+      9.02,
+      9.34,
+      0.94
+     ],
+     [
+      "repite",
+      9.34,
+      9.66,
+      1.0
+     ],
+     [
+      "que",
+      9.66,
+      9.8,
+      0.99
+     ],
+     [
+      "su",
+      9.8,
+      9.96,
+      1.0
+     ],
+     [
+      "oferta",
+      9.96,
+      10.28,
+      1.0
+     ],
+     [
+      "de",
+      10.28,
+      10.48,
+      1.0
+     ],
+     [
+      "reabrir",
+      10.48,
+      10.76,
+      0.99
+     ],
+     [
+      "el",
+      10.76,
+      11.02,
+      0.96
+     ],
+     [
+      "estrecho",
+      11.02,
+      11.32,
+      0.93
+     ],
+     [
+      "sigue",
+      11.32,
+      11.6,
+      1.0
+     ],
+     [
+      "en",
+      11.6,
+      11.84,
+      1.0
+     ],
+     [
+      "pie.",
+      11.84,
+      11.98,
+      0.99
+     ]
+    ],
+    "clarte": 0.76,
+    "ok": true
+   },
+   "toutes": [
+    {
+     "prise": 1,
+     "file": "es-01-01-p1.wav",
+     "seconds": 12.0,
+     "compute": 86,
+     "heard": "El sábado, Irán afirmó que dos superpetroleros habían chocado con minas. Washington asegura que mantiene el control del paso. Y este domingo, Teherán repite que su oferta de reabrir el estrecho sigue en pie.",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      11.98
+     ],
+     "rate": 17.3,
+     "mots": [
+      [
+       "El",
+       0.0,
+       0.54,
+       0.76
+      ],
+      [
+       "sábado,",
+       0.54,
+       1.22,
+       0.99
+      ],
+      [
+       "Irán",
+       1.36,
+       1.52,
+       0.96
+      ],
+      [
+       "afirmó",
+       1.52,
+       1.92,
+       0.99
+      ],
+      [
+       "que",
+       1.92,
+       2.06,
+       1.0
+      ],
+      [
+       "dos",
+       2.06,
+       2.26,
+       0.97
+      ],
+      [
+       "superpetroleros",
+       2.26,
+       3.1,
+       0.96
+      ],
+      [
+       "habían",
+       3.1,
+       3.34,
+       0.99
+      ],
+      [
+       "chocado",
+       3.34,
+       3.74,
+       0.99
+      ],
+      [
+       "con",
+       3.74,
+       4.0,
+       1.0
+      ],
+      [
+       "minas.",
+       4.0,
+       4.58,
+       0.99
+      ],
+      [
+       "Washington",
+       4.82,
+       5.26,
+       0.99
+      ],
+      [
+       "asegura",
+       5.26,
+       5.76,
+       1.0
+      ],
+      [
+       "que",
+       5.76,
+       5.96,
+       1.0
+      ],
+      [
+       "mantiene",
+       5.96,
+       6.26,
+       1.0
+      ],
+      [
+       "el",
+       6.26,
+       6.56,
+       0.99
+      ],
+      [
+       "control",
+       6.56,
+       6.7,
+       1.0
+      ],
+      [
+       "del",
+       6.7,
+       6.94,
+       0.99
+      ],
+      [
+       "paso.",
+       6.94,
+       7.18,
+       0.98
+      ],
+      [
+       "Y",
+       7.84,
+       8.0,
+       0.98
+      ],
+      [
+       "este",
+       8.0,
+       8.12,
+       0.98
+      ],
+      [
+       "domingo,",
+       8.12,
+       8.76,
+       1.0
+      ],
+      [
+       "Teherán",
+       9.02,
+       9.34,
+       0.94
+      ],
+      [
+       "repite",
+       9.34,
+       9.66,
+       1.0
+      ],
+      [
+       "que",
+       9.66,
+       9.8,
+       0.99
+      ],
+      [
+       "su",
+       9.8,
+       9.96,
+       1.0
+      ],
+      [
+       "oferta",
+       9.96,
+       10.28,
+       1.0
+      ],
+      [
+       "de",
+       10.28,
+       10.48,
+       1.0
+      ],
+      [
+       "reabrir",
+       10.48,
+       10.76,
+       0.99
+      ],
+      [
+       "el",
+       10.76,
+       11.02,
+       0.96
+      ],
+      [
+       "estrecho",
+       11.02,
+       11.32,
+       0.93
+      ],
+      [
+       "sigue",
+       11.32,
+       11.6,
+       1.0
+      ],
+      [
+       "en",
+       11.6,
+       11.84,
+       1.0
+      ],
+      [
+       "pie.",
+       11.84,
+       11.98,
+       0.99
+      ]
+     ],
+     "clarte": 0.76,
+     "ok": true
+    }
+   ]
+  },
+  "02-00": {
+   "id": "02-00",
+   "bloc": 2,
+   "ton": "net",
+   "text": "En Wall Street, la tecnología perdió pie. El viernes, el Nasdaq cayó un dos coma uno por ciento: su peor semana desde junio, con un descenso del cuatro coma cinco por ciento.",
+   "tts": "En Wall Street, la tecnología perdió pie. El viernes, el Nasdaq cayó un dos coma uno por ciento: su peor semana desde junio, con un descenso del cuatro coma cinco por ciento.",
+   "gen": {},
+   "prise": {
+    "prise": 1,
+    "file": "es-02-00-p1.wav",
+    "seconds": 11.04,
+    "compute": 81,
+    "heard": "En Wall Street, la tecnología perdió pie. El viernes, el NASDA cayó un 2,1 por ciento, su peor semana desde junio, con un descenso del 4,5 por ciento.",
+    "wer": 0.031,
+    "extra": 1,
+    "speech": [
+     0.0,
+     10.66
+    ],
+    "rate": 16.3,
+    "mots": [
+     [
+      "En",
+      0.0,
+      0.24,
+      0.88
+     ],
+     [
+      "Wall",
+      0.24,
+      0.5,
+      0.99
+     ],
+     [
+      "Street,",
+      0.5,
+      0.82,
+      0.98
+     ],
+     [
+      "la",
+      1.12,
+      1.26,
+      1.0
+     ],
+     [
+      "tecnología",
+      1.26,
+      1.72,
+      1.0
+     ],
+     [
+      "perdió",
+      1.72,
+      2.14,
+      1.0
+     ],
+     [
+      "pie.",
+      2.14,
+      2.36,
+      1.0
+     ],
+     [
+      "El",
+      3.06,
+      3.26,
+      0.99
+     ],
+     [
+      "viernes,",
+      3.26,
+      3.8,
+      1.0
+     ],
+     [
+      "el",
+      4.06,
+      4.18,
+      0.99
+     ],
+     [
+      "NASDA",
+      4.18,
+      4.44,
+      0.86
+     ],
+     [
+      "cayó",
+      4.44,
+      4.74,
+      0.99
+     ],
+     [
+      "un",
+      4.74,
+      4.9,
+      0.99
+     ],
+     [
+      "2",
+      4.9,
+      5.1,
+      1.0
+     ],
+     [
+      ",1",
+      5.1,
+      5.58,
+      0.91
+     ],
+     [
+      "por",
+      5.58,
+      5.76,
+      0.29
+     ],
+     [
+      "ciento,",
+      5.76,
+      6.12,
+      0.99
+     ],
+     [
+      "su",
+      6.72,
+      6.88,
+      1.0
+     ],
+     [
+      "peor",
+      6.88,
+      7.16,
+      1.0
+     ],
+     [
+      "semana",
+      7.16,
+      7.44,
+      1.0
+     ],
+     [
+      "desde",
+      7.44,
+      7.72,
+      1.0
+     ],
+     [
+      "junio,",
+      7.72,
+      8.32,
+      1.0
+     ],
+     [
+      "con",
+      8.46,
+      8.58,
+      1.0
+     ],
+     [
+      "un",
+      8.58,
+      8.72,
+      1.0
+     ],
+     [
+      "descenso",
+      8.72,
+      9.1,
+      1.0
+     ],
+     [
+      "del",
+      9.1,
+      9.28,
+      0.99
+     ],
+     [
+      "4",
+      9.28,
+      9.6,
+      1.0
+     ],
+     [
+      ",5",
+      9.6,
+      10.16,
+      0.99
+     ],
+     [
+      "por",
+      10.16,
+      10.42,
+      0.98
+     ],
+     [
+      "ciento.",
+      10.42,
+      10.66,
+      1.0
+     ]
+    ],
+    "clarte": 0.29,
+    "ok": true
+   },
+   "toutes": [
+    {
+     "prise": 1,
+     "file": "es-02-00-p1.wav",
+     "seconds": 11.04,
+     "compute": 81,
+     "heard": "En Wall Street, la tecnología perdió pie. El viernes, el NASDA cayó un 2,1 por ciento, su peor semana desde junio, con un descenso del 4,5 por ciento.",
+     "wer": 0.031,
+     "extra": 1,
+     "speech": [
+      0.0,
+      10.66
+     ],
+     "rate": 16.3,
+     "mots": [
+      [
+       "En",
+       0.0,
+       0.24,
+       0.88
+      ],
+      [
+       "Wall",
+       0.24,
+       0.5,
+       0.99
+      ],
+      [
+       "Street,",
+       0.5,
+       0.82,
+       0.98
+      ],
+      [
+       "la",
+       1.12,
+       1.26,
+       1.0
+      ],
+      [
+       "tecnología",
+       1.26,
+       1.72,
+       1.0
+      ],
+      [
+       "perdió",
+       1.72,
+       2.14,
+       1.0
+      ],
+      [
+       "pie.",
+       2.14,
+       2.36,
+       1.0
+      ],
+      [
+       "El",
+       3.06,
+       3.26,
+       0.99
+      ],
+      [
+       "viernes,",
+       3.26,
+       3.8,
+       1.0
+      ],
+      [
+       "el",
+       4.06,
+       4.18,
+       0.99
+      ],
+      [
+       "NASDA",
+       4.18,
+       4.44,
+       0.86
+      ],
+      [
+       "cayó",
+       4.44,
+       4.74,
+       0.99
+      ],
+      [
+       "un",
+       4.74,
+       4.9,
+       0.99
+      ],
+      [
+       "2",
+       4.9,
+       5.1,
+       1.0
+      ],
+      [
+       ",1",
+       5.1,
+       5.58,
+       0.91
+      ],
+      [
+       "por",
+       5.58,
+       5.76,
+       0.29
+      ],
+      [
+       "ciento,",
+       5.76,
+       6.12,
+       0.99
+      ],
+      [
+       "su",
+       6.72,
+       6.88,
+       1.0
+      ],
+      [
+       "peor",
+       6.88,
+       7.16,
+       1.0
+      ],
+      [
+       "semana",
+       7.16,
+       7.44,
+       1.0
+      ],
+      [
+       "desde",
+       7.44,
+       7.72,
+       1.0
+      ],
+      [
+       "junio,",
+       7.72,
+       8.32,
+       1.0
+      ],
+      [
+       "con",
+       8.46,
+       8.58,
+       1.0
+      ],
+      [
+       "un",
+       8.58,
+       8.72,
+       1.0
+      ],
+      [
+       "descenso",
+       8.72,
+       9.1,
+       1.0
+      ],
+      [
+       "del",
+       9.1,
+       9.28,
+       0.99
+      ],
+      [
+       "4",
+       9.28,
+       9.6,
+       1.0
+      ],
+      [
+       ",5",
+       9.6,
+       10.16,
+       0.99
+      ],
+      [
+       "por",
+       10.16,
+       10.42,
+       0.98
+      ],
+      [
+       "ciento.",
+       10.42,
+       10.66,
+       1.0
+      ]
+     ],
+     "clarte": 0.29,
+     "ok": true
+    }
+   ]
+  },
+  "02-01": {
+   "id": "02-01",
+   "bloc": 2,
+   "ton": "net",
+   "text": "El Dow Jones, en cambio, cerró la semana con una ligera subida.",
+   "tts": "El Dau Yons, en cambio, cerró la semana con una ligera subida.",
+   "gen": {},
+   "prise": {
+    "prise": 1,
+    "file": "es-02-01-p1.wav",
+    "seconds": 4.16,
+    "compute": 39,
+    "heard": "El Dow Jones, en cambio, cerró la semana con una ligera subida.",
+    "wer": 0.0,
+    "extra": 0,
+    "speech": [
+     0.0,
+     4.06
+    ],
+    "rate": 15.3,
+    "mots": [
+     [
+      "El",
+      0.0,
+      0.52,
+      0.69
+     ],
+     [
+      "Dow",
+      0.52,
+      0.74,
+      0.98
+     ],
+     [
+      "Jones,",
+      0.74,
+      1.08,
+      1.0
+     ],
+     [
+      "en",
+      1.34,
+      1.48,
+      1.0
+     ],
+     [
+      "cambio,",
+      1.48,
+      1.76,
+      1.0
+     ],
+     [
+      "cerró",
+      2.32,
+      2.5,
+      1.0
+     ],
+     [
+      "la",
+      2.5,
+      2.68,
+      1.0
+     ],
+     [
+      "semana",
+      2.68,
+      2.92,
+      0.98
+     ],
+     [
+      "con",
+      2.92,
+      3.16,
+      1.0
+     ],
+     [
+      "una",
+      3.16,
+      3.4,
+      1.0
+     ],
+     [
+      "ligera",
+      3.4,
+      3.7,
+      0.99
+     ],
+     [
+      "subida.",
+      3.7,
+      4.06,
+      1.0
+     ]
+    ],
+    "clarte": 0.69,
+    "ok": true
+   },
+   "toutes": [
+    {
+     "prise": 1,
+     "file": "es-02-01-p1.wav",
+     "seconds": 4.16,
+     "compute": 39,
+     "heard": "El Dow Jones, en cambio, cerró la semana con una ligera subida.",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      4.06
+     ],
+     "rate": 15.3,
+     "mots": [
+      [
+       "El",
+       0.0,
+       0.52,
+       0.69
+      ],
+      [
+       "Dow",
+       0.52,
+       0.74,
+       0.98
+      ],
+      [
+       "Jones,",
+       0.74,
+       1.08,
+       1.0
+      ],
+      [
+       "en",
+       1.34,
+       1.48,
+       1.0
+      ],
+      [
+       "cambio,",
+       1.48,
+       1.76,
+       1.0
+      ],
+      [
+       "cerró",
+       2.32,
+       2.5,
+       1.0
+      ],
+      [
+       "la",
+       2.5,
+       2.68,
+       1.0
+      ],
+      [
+       "semana",
+       2.68,
+       2.92,
+       0.98
+      ],
+      [
+       "con",
+       2.92,
+       3.16,
+       1.0
+      ],
+      [
+       "una",
+       3.16,
+       3.4,
+       1.0
+      ],
+      [
+       "ligera",
+       3.4,
+       3.7,
+       0.99
+      ],
+      [
+       "subida.",
+       3.7,
+       4.06,
+       1.0
+      ]
+     ],
+     "clarte": 0.69,
+     "ok": true
+    }
+   ]
+  },
+  "03-00": {
+   "id": "03-00",
+   "bloc": 3,
+   "ton": "net",
+   "text": "En Estados Unidos, los precios de importación se dispararon un ocho coma uno por ciento interanual, algo no visto desde julio de dos mil veintidós.",
+   "tts": "En Estados Unidos, los precios de importación se dispararon un ocho coma uno por ciento interanual, algo no visto desde julio de dos mil veintidós.",
+   "gen": {},
+   "prise": {
+    "prise": 1,
+    "file": "es-03-00-p1.wav",
+    "seconds": 8.96,
+    "compute": 71,
+    "heard": "En Estados Unidos, los precios de importación se dispararon un 8,1% interanual, algo no visto desde julio de 2022.",
+    "wer": 0.0,
+    "extra": 0,
+    "speech": [
+     0.0,
+     8.38
+    ],
+    "rate": 17.5,
+    "mots": [
+     [
+      "En",
+      0.0,
+      0.54,
+      0.86
+     ],
+     [
+      "Estados",
+      0.54,
+      1.0,
+      0.83
+     ],
+     [
+      "Unidos,",
+      1.0,
+      1.46,
+      1.0
+     ],
+     [
+      "los",
+      1.84,
+      1.98,
+      1.0
+     ],
+     [
+      "precios",
+      1.98,
+      2.24,
+      0.99
+     ],
+     [
+      "de",
+      2.24,
+      2.48,
+      1.0
+     ],
+     [
+      "importación",
+      2.48,
+      2.92,
+      1.0
+     ],
+     [
+      "se",
+      2.92,
+      3.18,
+      0.99
+     ],
+     [
+      "dispararon",
+      3.18,
+      3.62,
+      1.0
+     ],
+     [
+      "un",
+      3.62,
+      3.82,
+      0.99
+     ],
+     [
+      "8",
+      3.82,
+      4.04,
+      1.0
+     ],
+     [
+      ",1",
+      4.04,
+      4.56,
+      0.95
+     ],
+     [
+      "%",
+      4.56,
+      5.04,
+      0.6
+     ],
+     [
+      "interanual,",
+      5.04,
+      5.82,
+      0.94
+     ],
+     [
+      "algo",
+      6.2,
+      6.38,
+      0.98
+     ],
+     [
+      "no",
+      6.38,
+      6.54,
+      1.0
+     ],
+     [
+      "visto",
+      6.54,
+      6.8,
+      1.0
+     ],
+     [
+      "desde",
+      6.8,
+      7.1,
+      1.0
+     ],
+     [
+      "julio",
+      7.1,
+      7.48,
+      0.94
+     ],
+     [
+      "de",
+      7.48,
+      7.8,
+      0.99
+     ],
+     [
+      "2022.",
+      7.8,
+      8.38,
+      0.99
+     ]
+    ],
+    "clarte": 0.6,
+    "ok": true
+   },
+   "toutes": [
+    {
+     "prise": 1,
+     "file": "es-03-00-p1.wav",
+     "seconds": 8.96,
+     "compute": 71,
+     "heard": "En Estados Unidos, los precios de importación se dispararon un 8,1% interanual, algo no visto desde julio de 2022.",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      8.38
+     ],
+     "rate": 17.5,
+     "mots": [
+      [
+       "En",
+       0.0,
+       0.54,
+       0.86
+      ],
+      [
+       "Estados",
+       0.54,
+       1.0,
+       0.83
+      ],
+      [
+       "Unidos,",
+       1.0,
+       1.46,
+       1.0
+      ],
+      [
+       "los",
+       1.84,
+       1.98,
+       1.0
+      ],
+      [
+       "precios",
+       1.98,
+       2.24,
+       0.99
+      ],
+      [
+       "de",
+       2.24,
+       2.48,
+       1.0
+      ],
+      [
+       "importación",
+       2.48,
+       2.92,
+       1.0
+      ],
+      [
+       "se",
+       2.92,
+       3.18,
+       0.99
+      ],
+      [
+       "dispararon",
+       3.18,
+       3.62,
+       1.0
+      ],
+      [
+       "un",
+       3.62,
+       3.82,
+       0.99
+      ],
+      [
+       "8",
+       3.82,
+       4.04,
+       1.0
+      ],
+      [
+       ",1",
+       4.04,
+       4.56,
+       0.95
+      ],
+      [
+       "%",
+       4.56,
+       5.04,
+       0.6
+      ],
+      [
+       "interanual,",
+       5.04,
+       5.82,
+       0.94
+      ],
+      [
+       "algo",
+       6.2,
+       6.38,
+       0.98
+      ],
+      [
+       "no",
+       6.38,
+       6.54,
+       1.0
+      ],
+      [
+       "visto",
+       6.54,
+       6.8,
+       1.0
+      ],
+      [
+       "desde",
+       6.8,
+       7.1,
+       1.0
+      ],
+      [
+       "julio",
+       7.1,
+       7.48,
+       0.94
+      ],
+      [
+       "de",
+       7.48,
+       7.8,
+       0.99
+      ],
+      [
+       "2022.",
+       7.8,
+       8.38,
+       0.99
+      ]
+     ],
+     "clarte": 0.6,
+     "ok": true
+    }
+   ]
+  },
+  "03-01": {
+   "id": "03-01",
+   "bloc": 3,
+   "ton": "net",
+   "text": "Y la Reserva Federal guarda silencio desde ahora hasta su reunión del veintisiete y veintiocho de octubre.",
+   "tts": "Y la Reserva Federal guarda silencio desde ahora hasta su reunión del veintisiete y veintiocho de octubre.",
+   "gen": {},
+   "prise": {
+    "prise": 1,
+    "file": "es-03-01-p1.wav",
+    "seconds": 5.92,
+    "compute": 51,
+    "heard": "Y la Reserva Federal guarda silencio desde ahora hasta su reunión del 27 y 28 de octubre.",
+    "wer": 0.0,
+    "extra": 0,
+    "speech": [
+     0.0,
+     5.82
+    ],
+    "rate": 18.2,
+    "mots": [
+     [
+      "Y",
+      0.0,
+      0.54,
+      0.68
+     ],
+     [
+      "la",
+      0.54,
+      0.78,
+      0.94
+     ],
+     [
+      "Reserva",
+      0.78,
+      1.18,
+      0.99
+     ],
+     [
+      "Federal",
+      1.18,
+      1.52,
+      0.99
+     ],
+     [
+      "guarda",
+      1.52,
+      1.98,
+      0.99
+     ],
+     [
+      "silencio",
+      1.98,
+      2.42,
+      1.0
+     ],
+     [
+      "desde",
+      2.42,
+      2.74,
+      0.99
+     ],
+     [
+      "ahora",
+      2.74,
+      3.06,
+      1.0
+     ],
+     [
+      "hasta",
+      3.06,
+      3.44,
+      0.96
+     ],
+     [
+      "su",
+      3.44,
+      3.66,
+      1.0
+     ],
+     [
+      "reunión",
+      3.66,
+      4.0,
+      1.0
+     ],
+     [
+      "del",
+      4.0,
+      4.14,
+      0.94
+     ],
+     [
+      "27",
+      4.14,
+      4.62,
+      0.99
+     ],
+     [
+      "y",
+      4.62,
+      4.76,
+      0.99
+     ],
+     [
+      "28",
+      4.76,
+      5.28,
+      1.0
+     ],
+     [
+      "de",
+      5.28,
+      5.44,
+      1.0
+     ],
+     [
+      "octubre.",
+      5.44,
+      5.82,
+      0.93
+     ]
+    ],
+    "clarte": 0.68,
+    "ok": true
+   },
+   "toutes": [
+    {
+     "prise": 1,
+     "file": "es-03-01-p1.wav",
+     "seconds": 5.92,
+     "compute": 51,
+     "heard": "Y la Reserva Federal guarda silencio desde ahora hasta su reunión del 27 y 28 de octubre.",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      5.82
+     ],
+     "rate": 18.2,
+     "mots": [
+      [
+       "Y",
+       0.0,
+       0.54,
+       0.68
+      ],
+      [
+       "la",
+       0.54,
+       0.78,
+       0.94
+      ],
+      [
+       "Reserva",
+       0.78,
+       1.18,
+       0.99
+      ],
+      [
+       "Federal",
+       1.18,
+       1.52,
+       0.99
+      ],
+      [
+       "guarda",
+       1.52,
+       1.98,
+       0.99
+      ],
+      [
+       "silencio",
+       1.98,
+       2.42,
+       1.0
+      ],
+      [
+       "desde",
+       2.42,
+       2.74,
+       0.99
+      ],
+      [
+       "ahora",
+       2.74,
+       3.06,
+       1.0
+      ],
+      [
+       "hasta",
+       3.06,
+       3.44,
+       0.96
+      ],
+      [
+       "su",
+       3.44,
+       3.66,
+       1.0
+      ],
+      [
+       "reunión",
+       3.66,
+       4.0,
+       1.0
+      ],
+      [
+       "del",
+       4.0,
+       4.14,
+       0.94
+      ],
+      [
+       "27",
+       4.14,
+       4.62,
+       0.99
+      ],
+      [
+       "y",
+       4.62,
+       4.76,
+       0.99
+      ],
+      [
+       "28",
+       4.76,
+       5.28,
+       1.0
+      ],
+      [
+       "de",
+       5.28,
+       5.44,
+       1.0
+      ],
+      [
+       "octubre.",
+       5.44,
+       5.82,
+       0.93
+      ]
+     ],
+     "clarte": 0.68,
+     "ok": true
+    }
+   ]
+  },
+  "04-00": {
+   "id": "04-00",
+   "bloc": 4,
+   "ton": "pose",
+   "text": "La semana que viene. El martes, el empleo en el Reino Unido. El viernes, los primeros índices de actividad de octubre, en Europa y en Estados Unidos: dirán si las empresas aguantan el golpe del petróleo.",
+   "tts": "La semana que viene. El martes, el empleo en el Reino Unido. El viernes, los primeros índices de actividad de octubre, en Europa y en Estados Unidos: dirán si las empresas aguantan el golpe del petróleo.",
+   "gen": {},
+   "prise": {
+    "prise": 1,
+    "file": "es-04-00-p1.wav",
+    "seconds": 12.24,
+    "compute": 94,
+    "heard": "La semana que viene, el martes el empleo en el Reino Unido, el viernes los primeros índices de actividad de octubre en Europa y en Estados Unidos. Dirán si las empresas aguantan el golpe del petróleo.",
+    "wer": 0.0,
+    "extra": 0,
+    "speech": [
+     0.0,
+     12.14
+    ],
+    "rate": 16.7,
+    "mots": [
+     [
+      "La",
+      0.0,
+      0.34,
+      0.73
+     ],
+     [
+      "semana",
+      0.34,
+      0.66,
+      0.99
+     ],
+     [
+      "que",
+      0.66,
+      0.86,
+      1.0
+     ],
+     [
+      "viene,",
+      0.86,
+      1.14,
+      1.0
+     ],
+     [
+      "el",
+      1.76,
+      1.88,
+      0.98
+     ],
+     [
+      "martes",
+      1.88,
+      2.36,
+      0.99
+     ],
+     [
+      "el",
+      2.36,
+      2.6,
+      0.28
+     ],
+     [
+      "empleo",
+      2.6,
+      2.98,
+      0.96
+     ],
+     [
+      "en",
+      2.98,
+      3.12,
+      0.99
+     ],
+     [
+      "el",
+      3.12,
+      3.24,
+      0.96
+     ],
+     [
+      "Reino",
+      3.24,
+      3.48,
+      0.97
+     ],
+     [
+      "Unido,",
+      3.48,
+      4.08,
+      0.99
+     ],
+     [
+      "el",
+      4.46,
+      4.56,
+      0.99
+     ],
+     [
+      "viernes",
+      4.56,
+      5.08,
+      1.0
+     ],
+     [
+      "los",
+      5.08,
+      5.28,
+      0.91
+     ],
+     [
+      "primeros",
+      5.28,
+      5.74,
+      0.99
+     ],
+     [
+      "índices",
+      5.74,
+      6.04,
+      0.98
+     ],
+     [
+      "de",
+      6.04,
+      6.26,
+      1.0
+     ],
+     [
+      "actividad",
+      6.26,
+      6.56,
+      1.0
+     ],
+     [
+      "de",
+      6.56,
+      6.72,
+      0.99
+     ],
+     [
+      "octubre",
+      6.72,
+      7.22,
+      0.97
+     ],
+     [
+      "en",
+      7.22,
+      7.54,
+      0.81
+     ],
+     [
+      "Europa",
+      7.54,
+      7.86,
+      0.99
+     ],
+     [
+      "y",
+      7.86,
+      8.08,
+      1.0
+     ],
+     [
+      "en",
+      8.08,
+      8.22,
+      0.85
+     ],
+     [
+      "Estados",
+      8.22,
+      8.48,
+      0.92
+     ],
+     [
+      "Unidos.",
+      8.48,
+      9.04,
+      0.99
+     ],
+     [
+      "Dirán",
+      9.66,
+      9.96,
+      0.98
+     ],
+     [
+      "si",
+      9.96,
+      10.06,
+      1.0
+     ],
+     [
+      "las",
+      10.06,
+      10.28,
+      1.0
+     ],
+     [
+      "empresas",
+      10.28,
+      10.62,
+      1.0
+     ],
+     [
+      "aguantan",
+      10.62,
+      11.1,
+      1.0
+     ],
+     [
+      "el",
+      11.1,
+      11.24,
+      1.0
+     ],
+     [
+      "golpe",
+      11.24,
+      11.46,
+      1.0
+     ],
+     [
+      "del",
+      11.46,
+      11.7,
+      0.97
+     ],
+     [
+      "petróleo.",
+      11.7,
+      12.14,
+      0.99
+     ]
+    ],
+    "clarte": 0.28,
+    "ok": true
+   },
+   "toutes": [
+    {
+     "prise": 1,
+     "file": "es-04-00-p1.wav",
+     "seconds": 12.24,
+     "compute": 94,
+     "heard": "La semana que viene, el martes el empleo en el Reino Unido, el viernes los primeros índices de actividad de octubre en Europa y en Estados Unidos. Dirán si las empresas aguantan el golpe del petróleo.",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      12.14
+     ],
+     "rate": 16.7,
+     "mots": [
+      [
+       "La",
+       0.0,
+       0.34,
+       0.73
+      ],
+      [
+       "semana",
+       0.34,
+       0.66,
+       0.99
+      ],
+      [
+       "que",
+       0.66,
+       0.86,
+       1.0
+      ],
+      [
+       "viene,",
+       0.86,
+       1.14,
+       1.0
+      ],
+      [
+       "el",
+       1.76,
+       1.88,
+       0.98
+      ],
+      [
+       "martes",
+       1.88,
+       2.36,
+       0.99
+      ],
+      [
+       "el",
+       2.36,
+       2.6,
+       0.28
+      ],
+      [
+       "empleo",
+       2.6,
+       2.98,
+       0.96
+      ],
+      [
+       "en",
+       2.98,
+       3.12,
+       0.99
+      ],
+      [
+       "el",
+       3.12,
+       3.24,
+       0.96
+      ],
+      [
+       "Reino",
+       3.24,
+       3.48,
+       0.97
+      ],
+      [
+       "Unido,",
+       3.48,
+       4.08,
+       0.99
+      ],
+      [
+       "el",
+       4.46,
+       4.56,
+       0.99
+      ],
+      [
+       "viernes",
+       4.56,
+       5.08,
+       1.0
+      ],
+      [
+       "los",
+       5.08,
+       5.28,
+       0.91
+      ],
+      [
+       "primeros",
+       5.28,
+       5.74,
+       0.99
+      ],
+      [
+       "índices",
+       5.74,
+       6.04,
+       0.98
+      ],
+      [
+       "de",
+       6.04,
+       6.26,
+       1.0
+      ],
+      [
+       "actividad",
+       6.26,
+       6.56,
+       1.0
+      ],
+      [
+       "de",
+       6.56,
+       6.72,
+       0.99
+      ],
+      [
+       "octubre",
+       6.72,
+       7.22,
+       0.97
+      ],
+      [
+       "en",
+       7.22,
+       7.54,
+       0.81
+      ],
+      [
+       "Europa",
+       7.54,
+       7.86,
+       0.99
+      ],
+      [
+       "y",
+       7.86,
+       8.08,
+       1.0
+      ],
+      [
+       "en",
+       8.08,
+       8.22,
+       0.85
+      ],
+      [
+       "Estados",
+       8.22,
+       8.48,
+       0.92
+      ],
+      [
+       "Unidos.",
+       8.48,
+       9.04,
+       0.99
+      ],
+      [
+       "Dirán",
+       9.66,
+       9.96,
+       0.98
+      ],
+      [
+       "si",
+       9.96,
+       10.06,
+       1.0
+      ],
+      [
+       "las",
+       10.06,
+       10.28,
+       1.0
+      ],
+      [
+       "empresas",
+       10.28,
+       10.62,
+       1.0
+      ],
+      [
+       "aguantan",
+       10.62,
+       11.1,
+       1.0
+      ],
+      [
+       "el",
+       11.1,
+       11.24,
+       1.0
+      ],
+      [
+       "golpe",
+       11.24,
+       11.46,
+       1.0
+      ],
+      [
+       "del",
+       11.46,
+       11.7,
+       0.97
+      ],
+      [
+       "petróleo.",
+       11.7,
+       12.14,
+       0.99
+      ]
+     ],
+     "clarte": 0.28,
+     "ok": true
+    }
+   ]
+  },
+  "04-01": {
+   "id": "04-01",
+   "bloc": 4,
+   "ton": "pose",
+   "text": "Y el viernes por la noche, la agencia Moody's revisa la calificación de Francia.",
+   "tts": "Y el viernes por la noche, la agencia Múdis revisa la calificación de Francia.",
+   "gen": {},
+   "prise": {
+    "prise": 1,
+    "file": "es-04-01-p1.wav",
+    "seconds": 4.32,
+    "compute": 36,
+    "heard": "Y el viernes por la noche, la agencia Moody's revisa la calificación de Francia.",
+    "wer": 0.0,
+    "extra": 0,
+    "speech": [
+     0.0,
+     4.3
+    ],
+    "rate": 18.1,
+    "mots": [
+     [
+      "Y",
+      0.0,
+      0.22,
+      0.66
+     ],
+     [
+      "el",
+      0.22,
+      0.36,
+      0.98
+     ],
+     [
+      "viernes",
+      0.36,
+      0.7,
+      0.99
+     ],
+     [
+      "por",
+      0.7,
+      0.9,
+      0.97
+     ],
+     [
+      "la",
+      0.9,
+      1.04,
+      1.0
+     ],
+     [
+      "noche,",
+      1.04,
+      1.34,
+      1.0
+     ],
+     [
+      "la",
+      1.74,
+      1.8,
+      0.98
+     ],
+     [
+      "agencia",
+      1.8,
+      2.18,
+      0.91
+     ],
+     [
+      "Moody's",
+      2.18,
+      2.72,
+      0.94
+     ],
+     [
+      "revisa",
+      2.72,
+      3.04,
+      0.98
+     ],
+     [
+      "la",
+      3.04,
+      3.2,
+      1.0
+     ],
+     [
+      "calificación",
+      3.2,
+      3.74,
+      0.99
+     ],
+     [
+      "de",
+      3.74,
+      3.98,
+      1.0
+     ],
+     [
+      "Francia.",
+      3.98,
+      4.3,
+      0.99
+     ]
+    ],
+    "clarte": 0.66,
+    "ok": true
+   },
+   "toutes": [
+    {
+     "prise": 1,
+     "file": "es-04-01-p1.wav",
+     "seconds": 4.32,
+     "compute": 36,
+     "heard": "Y el viernes por la noche, la agencia Moody's revisa la calificación de Francia.",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      4.3
+     ],
+     "rate": 18.1,
+     "mots": [
+      [
+       "Y",
+       0.0,
+       0.22,
+       0.66
+      ],
+      [
+       "el",
+       0.22,
+       0.36,
+       0.98
+      ],
+      [
+       "viernes",
+       0.36,
+       0.7,
+       0.99
+      ],
+      [
+       "por",
+       0.7,
+       0.9,
+       0.97
+      ],
+      [
+       "la",
+       0.9,
+       1.04,
+       1.0
+      ],
+      [
+       "noche,",
+       1.04,
+       1.34,
+       1.0
+      ],
+      [
+       "la",
+       1.74,
+       1.8,
+       0.98
+      ],
+      [
+       "agencia",
+       1.8,
+       2.18,
+       0.91
+      ],
+      [
+       "Moody's",
+       2.18,
+       2.72,
+       0.94
+      ],
+      [
+       "revisa",
+       2.72,
+       3.04,
+       0.98
+      ],
+      [
+       "la",
+       3.04,
+       3.2,
+       1.0
+      ],
+      [
+       "calificación",
+       3.2,
+       3.74,
+       0.99
+      ],
+      [
+       "de",
+       3.74,
+       3.98,
+       1.0
+      ],
+      [
+       "Francia.",
+       3.98,
+       4.3,
+       0.99
+      ]
+     ],
+     "clarte": 0.66,
+     "ok": true
+    }
+   ]
+  },
+  "05-00": {
+   "id": "05-00",
+   "bloc": 5,
+   "ton": "net",
+   "text": "El Sesgo del día ya está en línea: cuarenta mercados analizados a fondo, con su dirección, su fuerza y nuestro nivel de confianza. Ocho de ellos son gratuitos para todos esta mañana, en el terminal.",
+   "tts": "El Sesgo del día ya está en línea: cuarenta mercados analizados a fondo, con su dirección, su fuerza y nuestro nivel de confianza. Ocho de ellos son gratuitos para todos esta mañana, en el terminal.",
+   "gen": {},
+   "prise": {
+    "prise": 1,
+    "file": "es-05-00-p1.wav",
+    "seconds": 14.32,
+    "compute": 94,
+    "heard": "El sesgo del día ya está en línea. 40 mercados analizados a fondo, con su dirección, su fuerza y nuestro nivel de confianza. 8 de ellos son gratuitos para todos esta mañana, en el terminal.",
+    "wer": 0.0,
+    "extra": 0,
+    "speech": [
+     0.0,
+     13.98
+    ],
+    "rate": 14.2,
+    "mots": [
+     [
+      "El",
+      0.0,
+      0.92,
+      0.69
+     ],
+     [
+      "sesgo",
+      0.92,
+      1.3,
+      0.99
+     ],
+     [
+      "del",
+      1.3,
+      1.48,
+      0.99
+     ],
+     [
+      "día",
+      1.48,
+      1.68,
+      1.0
+     ],
+     [
+      "ya",
+      1.68,
+      1.94,
+      0.99
+     ],
+     [
+      "está",
+      1.94,
+      2.14,
+      0.97
+     ],
+     [
+      "en",
+      2.14,
+      2.32,
+      1.0
+     ],
+     [
+      "línea.",
+      2.32,
+      2.74,
+      0.99
+     ],
+     [
+      "40",
+      3.2,
+      3.6,
+      0.51
+     ],
+     [
+      "mercados",
+      3.6,
+      4.16,
+      0.99
+     ],
+     [
+      "analizados",
+      4.16,
+      4.8,
+      0.99
+     ],
+     [
+      "a",
+      4.8,
+      5.0,
+      1.0
+     ],
+     [
+      "fondo,",
+      5.0,
+      5.28,
+      1.0
+     ],
+     [
+      "con",
+      5.64,
+      5.7,
+      1.0
+     ],
+     [
+      "su",
+      5.7,
+      5.84,
+      1.0
+     ],
+     [
+      "dirección,",
+      5.84,
+      6.4,
+      1.0
+     ],
+     [
+      "su",
+      6.86,
+      7.0,
+      0.99
+     ],
+     [
+      "fuerza",
+      7.0,
+      7.26,
+      1.0
+     ],
+     [
+      "y",
+      7.26,
+      7.48,
+      0.96
+     ],
+     [
+      "nuestro",
+      7.48,
+      7.76,
+      1.0
+     ],
+     [
+      "nivel",
+      7.76,
+      8.04,
+      1.0
+     ],
+     [
+      "de",
+      8.04,
+      8.36,
+      1.0
+     ],
+     [
+      "confianza.",
+      8.36,
+      9.06,
+      1.0
+     ],
+     [
+      "8",
+      10.14,
+      10.4,
+      0.59
+     ],
+     [
+      "de",
+      10.4,
+      10.64,
+      0.99
+     ],
+     [
+      "ellos",
+      10.64,
+      10.8,
+      1.0
+     ],
+     [
+      "son",
+      10.8,
+      11.04,
+      0.99
+     ],
+     [
+      "gratuitos",
+      11.04,
+      11.58,
+      1.0
+     ],
+     [
+      "para",
+      11.58,
+      11.84,
+      1.0
+     ],
+     [
+      "todos",
+      11.84,
+      12.12,
+      1.0
+     ],
+     [
+      "esta",
+      12.12,
+      12.4,
+      0.97
+     ],
+     [
+      "mañana,",
+      12.4,
+      12.82,
+      1.0
+     ],
+     [
+      "en",
+      13.3,
+      13.42,
+      0.99
+     ],
+     [
+      "el",
+      13.42,
+      13.66,
+      0.99
+     ],
+     [
+      "terminal.",
+      13.66,
+      13.98,
+      0.91
+     ]
+    ],
+    "clarte": 0.51,
+    "ok": true
+   },
+   "toutes": [
+    {
+     "prise": 1,
+     "file": "es-05-00-p1.wav",
+     "seconds": 14.32,
+     "compute": 94,
+     "heard": "El sesgo del día ya está en línea. 40 mercados analizados a fondo, con su dirección, su fuerza y nuestro nivel de confianza. 8 de ellos son gratuitos para todos esta mañana, en el terminal.",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      13.98
+     ],
+     "rate": 14.2,
+     "mots": [
+      [
+       "El",
+       0.0,
+       0.92,
+       0.69
+      ],
+      [
+       "sesgo",
+       0.92,
+       1.3,
+       0.99
+      ],
+      [
+       "del",
+       1.3,
+       1.48,
+       0.99
+      ],
+      [
+       "día",
+       1.48,
+       1.68,
+       1.0
+      ],
+      [
+       "ya",
+       1.68,
+       1.94,
+       0.99
+      ],
+      [
+       "está",
+       1.94,
+       2.14,
+       0.97
+      ],
+      [
+       "en",
+       2.14,
+       2.32,
+       1.0
+      ],
+      [
+       "línea.",
+       2.32,
+       2.74,
+       0.99
+      ],
+      [
+       "40",
+       3.2,
+       3.6,
+       0.51
+      ],
+      [
+       "mercados",
+       3.6,
+       4.16,
+       0.99
+      ],
+      [
+       "analizados",
+       4.16,
+       4.8,
+       0.99
+      ],
+      [
+       "a",
+       4.8,
+       5.0,
+       1.0
+      ],
+      [
+       "fondo,",
+       5.0,
+       5.28,
+       1.0
+      ],
+      [
+       "con",
+       5.64,
+       5.7,
+       1.0
+      ],
+      [
+       "su",
+       5.7,
+       5.84,
+       1.0
+      ],
+      [
+       "dirección,",
+       5.84,
+       6.4,
+       1.0
+      ],
+      [
+       "su",
+       6.86,
+       7.0,
+       0.99
+      ],
+      [
+       "fuerza",
+       7.0,
+       7.26,
+       1.0
+      ],
+      [
+       "y",
+       7.26,
+       7.48,
+       0.96
+      ],
+      [
+       "nuestro",
+       7.48,
+       7.76,
+       1.0
+      ],
+      [
+       "nivel",
+       7.76,
+       8.04,
+       1.0
+      ],
+      [
+       "de",
+       8.04,
+       8.36,
+       1.0
+      ],
+      [
+       "confianza.",
+       8.36,
+       9.06,
+       1.0
+      ],
+      [
+       "8",
+       10.14,
+       10.4,
+       0.59
+      ],
+      [
+       "de",
+       10.4,
+       10.64,
+       0.99
+      ],
+      [
+       "ellos",
+       10.64,
+       10.8,
+       1.0
+      ],
+      [
+       "son",
+       10.8,
+       11.04,
+       0.99
+      ],
+      [
+       "gratuitos",
+       11.04,
+       11.58,
+       1.0
+      ],
+      [
+       "para",
+       11.58,
+       11.84,
+       1.0
+      ],
+      [
+       "todos",
+       11.84,
+       12.12,
+       1.0
+      ],
+      [
+       "esta",
+       12.12,
+       12.4,
+       0.97
+      ],
+      [
+       "mañana,",
+       12.4,
+       12.82,
+       1.0
+      ],
+      [
+       "en",
+       13.3,
+       13.42,
+       0.99
+      ],
+      [
+       "el",
+       13.42,
+       13.66,
+       0.99
+      ],
+      [
+       "terminal.",
+       13.66,
+       13.98,
+       0.91
+      ]
+     ],
+     "clarte": 0.51,
+     "ok": true
+    }
+   ]
+  },
+  "06-00": {
+   "id": "06-00",
+   "bloc": 6,
+   "ton": "net",
+   "text": "El mundo de las acciones. La temporada de resultados acelera: Netflix y SpaceX el martes por la noche, Tesla y Meta el miércoles por la noche.",
+   "tts": "El mundo de las acciones. La temporada de resultados acelera: Netflix y Space X el martes por la noche, Tesla y Meta el miércoles por la noche.",
+   "gen": {},
+   "prise": {
+    "prise": 1,
+    "file": "es-06-00-p1.wav",
+    "seconds": 10.0,
+    "compute": 66,
+    "heard": "El mundo de las acciones. La temporada de resultados acelera. Netflix y SpaceX el martes por la noche. Tesla y Meta el miércoles por la noche.",
+    "wer": 0.0,
+    "extra": 0,
+    "speech": [
+     0.0,
+     9.84
+    ],
+    "rate": 14.5,
+    "mots": [
+     [
+      "El",
+      0.0,
+      0.2,
+      0.45
+     ],
+     [
+      "mundo",
+      0.2,
+      0.42,
+      0.71
+     ],
+     [
+      "de",
+      0.42,
+      0.62,
+      1.0
+     ],
+     [
+      "las",
+      0.62,
+      0.78,
+      0.99
+     ],
+     [
+      "acciones.",
+      0.78,
+      1.32,
+      1.0
+     ],
+     [
+      "La",
+      2.08,
+      2.24,
+      1.0
+     ],
+     [
+      "temporada",
+      2.24,
+      2.62,
+      0.99
+     ],
+     [
+      "de",
+      2.62,
+      2.94,
+      1.0
+     ],
+     [
+      "resultados",
+      2.94,
+      3.3,
+      0.99
+     ],
+     [
+      "acelera.",
+      3.3,
+      4.2,
+      0.99
+     ],
+     [
+      "Netflix",
+      4.6,
+      5.02,
+      0.98
+     ],
+     [
+      "y",
+      5.02,
+      5.38,
+      1.0
+     ],
+     [
+      "SpaceX",
+      5.38,
+      5.88,
+      0.72
+     ],
+     [
+      "el",
+      5.88,
+      6.48,
+      0.85
+     ],
+     [
+      "martes",
+      6.48,
+      6.8,
+      0.99
+     ],
+     [
+      "por",
+      6.8,
+      7.0,
+      1.0
+     ],
+     [
+      "la",
+      7.0,
+      7.14,
+      1.0
+     ],
+     [
+      "noche.",
+      7.14,
+      7.4,
+      1.0
+     ],
+     [
+      "Tesla",
+      8.06,
+      8.3,
+      0.99
+     ],
+     [
+      "y",
+      8.3,
+      8.5,
+      0.98
+     ],
+     [
+      "Meta",
+      8.5,
+      8.74,
+      0.97
+     ],
+     [
+      "el",
+      8.74,
+      8.9,
+      1.0
+     ],
+     [
+      "miércoles",
+      8.9,
+      9.32,
+      1.0
+     ],
+     [
+      "por",
+      9.32,
+      9.5,
+      1.0
+     ],
+     [
+      "la",
+      9.5,
+      9.66,
+      1.0
+     ],
+     [
+      "noche.",
+      9.66,
+      9.84,
+      1.0
+     ]
+    ],
+    "clarte": 0.45,
+    "ok": true
+   },
+   "toutes": [
+    {
+     "prise": 1,
+     "file": "es-06-00-p1.wav",
+     "seconds": 10.0,
+     "compute": 66,
+     "heard": "El mundo de las acciones. La temporada de resultados acelera. Netflix y SpaceX el martes por la noche. Tesla y Meta el miércoles por la noche.",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      9.84
+     ],
+     "rate": 14.5,
+     "mots": [
+      [
+       "El",
+       0.0,
+       0.2,
+       0.45
+      ],
+      [
+       "mundo",
+       0.2,
+       0.42,
+       0.71
+      ],
+      [
+       "de",
+       0.42,
+       0.62,
+       1.0
+      ],
+      [
+       "las",
+       0.62,
+       0.78,
+       0.99
+      ],
+      [
+       "acciones.",
+       0.78,
+       1.32,
+       1.0
+      ],
+      [
+       "La",
+       2.08,
+       2.24,
+       1.0
+      ],
+      [
+       "temporada",
+       2.24,
+       2.62,
+       0.99
+      ],
+      [
+       "de",
+       2.62,
+       2.94,
+       1.0
+      ],
+      [
+       "resultados",
+       2.94,
+       3.3,
+       0.99
+      ],
+      [
+       "acelera.",
+       3.3,
+       4.2,
+       0.99
+      ],
+      [
+       "Netflix",
+       4.6,
+       5.02,
+       0.98
+      ],
+      [
+       "y",
+       5.02,
+       5.38,
+       1.0
+      ],
+      [
+       "SpaceX",
+       5.38,
+       5.88,
+       0.72
+      ],
+      [
+       "el",
+       5.88,
+       6.48,
+       0.85
+      ],
+      [
+       "martes",
+       6.48,
+       6.8,
+       0.99
+      ],
+      [
+       "por",
+       6.8,
+       7.0,
+       1.0
+      ],
+      [
+       "la",
+       7.0,
+       7.14,
+       1.0
+      ],
+      [
+       "noche.",
+       7.14,
+       7.4,
+       1.0
+      ],
+      [
+       "Tesla",
+       8.06,
+       8.3,
+       0.99
+      ],
+      [
+       "y",
+       8.3,
+       8.5,
+       0.98
+      ],
+      [
+       "Meta",
+       8.5,
+       8.74,
+       0.97
+      ],
+      [
+       "el",
+       8.74,
+       8.9,
+       1.0
+      ],
+      [
+       "miércoles",
+       8.9,
+       9.32,
+       1.0
+      ],
+      [
+       "por",
+       9.32,
+       9.5,
+       1.0
+      ],
+      [
+       "la",
+       9.5,
+       9.66,
+       1.0
+      ],
+      [
+       "noche.",
+       9.66,
+       9.84,
+       1.0
+      ]
+     ],
+     "clarte": 0.45,
+     "ok": true
+    }
+   ]
+  },
+  "06-01": {
+   "id": "06-01",
+   "bloc": 6,
+   "ton": "net",
+   "text": "Una pregunta lo dominará todo: ¿hasta dónde llegará su gasto en inteligencia artificial? Y en el terminal empieza el Duelo de la semana: Meta contra Alphabet. Les toca votar.",
+   "tts": "Una pregunta lo dominará todo: ¿hasta dónde llegará su gasto en inteligencia artificial? Y en el terminal empieza el Duelo de la semana: Meta contra Alphabet. Les toca votar.",
+   "gen": {},
+   "prise": {
+    "prise": 1,
+    "file": "es-06-01-p1.wav",
+    "seconds": 10.96,
+    "compute": 71,
+    "heard": "Una pregunta lo dominará todo. ¿Hasta dónde llegará su gasto en inteligencia artificial? Y en el terminal empieza el duelo de la semana. Meta contra alfabet. Les toca votar.",
+    "wer": 0.034,
+    "extra": 1,
+    "speech": [
+     0.0,
+     10.64
+    ],
+    "rate": 16.4,
+    "mots": [
+     [
+      "Una",
+      0.0,
+      0.28,
+      0.88
+     ],
+     [
+      "pregunta",
+      0.28,
+      0.68,
+      1.0
+     ],
+     [
+      "lo",
+      0.68,
+      0.9,
+      0.99
+     ],
+     [
+      "dominará",
+      0.9,
+      1.32,
+      0.99
+     ],
+     [
+      "todo.",
+      1.32,
+      1.66,
+      1.0
+     ],
+     [
+      "¿Hasta",
+      2.38,
+      2.68,
+      0.98
+     ],
+     [
+      "dónde",
+      2.68,
+      2.94,
+      0.95
+     ],
+     [
+      "llegará",
+      2.94,
+      3.32,
+      0.99
+     ],
+     [
+      "su",
+      3.32,
+      3.5,
+      1.0
+     ],
+     [
+      "gasto",
+      3.5,
+      3.84,
+      1.0
+     ],
+     [
+      "en",
+      3.84,
+      4.0,
+      1.0
+     ],
+     [
+      "inteligencia",
+      4.0,
+      4.52,
+      0.94
+     ],
+     [
+      "artificial?",
+      4.52,
+      4.98,
+      1.0
+     ],
+     [
+      "Y",
+      5.62,
+      5.74,
+      0.98
+     ],
+     [
+      "en",
+      5.74,
+      5.84,
+      0.98
+     ],
+     [
+      "el",
+      5.84,
+      6.02,
+      0.99
+     ],
+     [
+      "terminal",
+      6.02,
+      6.34,
+      0.92
+     ],
+     [
+      "empieza",
+      6.34,
+      6.76,
+      0.93
+     ],
+     [
+      "el",
+      6.76,
+      6.96,
+      0.99
+     ],
+     [
+      "duelo",
+      6.96,
+      7.14,
+      0.96
+     ],
+     [
+      "de",
+      7.14,
+      7.28,
+      1.0
+     ],
+     [
+      "la",
+      7.28,
+      7.42,
+      1.0
+     ],
+     [
+      "semana.",
+      7.42,
+      7.72,
+      1.0
+     ],
+     [
+      "Meta",
+      8.36,
+      8.7,
+      0.96
+     ],
+     [
+      "contra",
+      8.7,
+      8.92,
+      0.93
+     ],
+     [
+      "alfabet.",
+      8.92,
+      9.38,
+      0.76
+     ],
+     [
+      "Les",
+      9.8,
+      9.98,
+      0.87
+     ],
+     [
+      "toca",
+      9.98,
+      10.18,
+      1.0
+     ],
+     [
+      "votar.",
+      10.18,
+      10.64,
+      1.0
+     ]
+    ],
+    "clarte": 0.76,
+    "ok": true
+   },
+   "toutes": [
+    {
+     "prise": 1,
+     "file": "es-06-01-p1.wav",
+     "seconds": 10.96,
+     "compute": 71,
+     "heard": "Una pregunta lo dominará todo. ¿Hasta dónde llegará su gasto en inteligencia artificial? Y en el terminal empieza el duelo de la semana. Meta contra alfabet. Les toca votar.",
+     "wer": 0.034,
+     "extra": 1,
+     "speech": [
+      0.0,
+      10.64
+     ],
+     "rate": 16.4,
+     "mots": [
+      [
+       "Una",
+       0.0,
+       0.28,
+       0.88
+      ],
+      [
+       "pregunta",
+       0.28,
+       0.68,
+       1.0
+      ],
+      [
+       "lo",
+       0.68,
+       0.9,
+       0.99
+      ],
+      [
+       "dominará",
+       0.9,
+       1.32,
+       0.99
+      ],
+      [
+       "todo.",
+       1.32,
+       1.66,
+       1.0
+      ],
+      [
+       "¿Hasta",
+       2.38,
+       2.68,
+       0.98
+      ],
+      [
+       "dónde",
+       2.68,
+       2.94,
+       0.95
+      ],
+      [
+       "llegará",
+       2.94,
+       3.32,
+       0.99
+      ],
+      [
+       "su",
+       3.32,
+       3.5,
+       1.0
+      ],
+      [
+       "gasto",
+       3.5,
+       3.84,
+       1.0
+      ],
+      [
+       "en",
+       3.84,
+       4.0,
+       1.0
+      ],
+      [
+       "inteligencia",
+       4.0,
+       4.52,
+       0.94
+      ],
+      [
+       "artificial?",
+       4.52,
+       4.98,
+       1.0
+      ],
+      [
+       "Y",
+       5.62,
+       5.74,
+       0.98
+      ],
+      [
+       "en",
+       5.74,
+       5.84,
+       0.98
+      ],
+      [
+       "el",
+       5.84,
+       6.02,
+       0.99
+      ],
+      [
+       "terminal",
+       6.02,
+       6.34,
+       0.92
+      ],
+      [
+       "empieza",
+       6.34,
+       6.76,
+       0.93
+      ],
+      [
+       "el",
+       6.76,
+       6.96,
+       0.99
+      ],
+      [
+       "duelo",
+       6.96,
+       7.14,
+       0.96
+      ],
+      [
+       "de",
+       7.14,
+       7.28,
+       1.0
+      ],
+      [
+       "la",
+       7.28,
+       7.42,
+       1.0
+      ],
+      [
+       "semana.",
+       7.42,
+       7.72,
+       1.0
+      ],
+      [
+       "Meta",
+       8.36,
+       8.7,
+       0.96
+      ],
+      [
+       "contra",
+       8.7,
+       8.92,
+       0.93
+      ],
+      [
+       "alfabet.",
+       8.92,
+       9.38,
+       0.76
+      ],
+      [
+       "Les",
+       9.8,
+       9.98,
+       0.87
+      ],
+      [
+       "toca",
+       9.98,
+       10.18,
+       1.0
+      ],
+      [
+       "votar.",
+       10.18,
+       10.64,
+       1.0
+      ]
+     ],
+     "clarte": 0.76,
+     "ok": true
+    }
+   ]
+  },
+  "07-00": {
+   "id": "07-00",
+   "bloc": 7,
+   "ton": "pose",
+   "text": "La cita de la semana: el miércoles por la mañana, la inflación en el Reino Unido. El mercado espera un tres coma cuatro por ciento interanual, tras un tres coma uno.",
+   "tts": "La cita de la semana: el miércoles por la mañana, la inflación en el Reino Unido. El mercado espera un tres coma cuatro por ciento interanual, tras un tres coma uno.",
+   "gen": {},
+   "prise": {
+    "prise": 1,
+    "file": "es-07-00-p1.wav",
+    "seconds": 9.76,
+    "compute": 63,
+    "heard": "La cita de la semana, el miércoles por la mañana, la inflación en el Reino Unido. El mercado espera un 3,4% interanual, tras un 3,1.",
+    "wer": 0.0,
+    "extra": 0,
+    "speech": [
+     0.0,
+     9.74
+    ],
+    "rate": 16.9,
+    "mots": [
+     [
+      "La",
+      0.0,
+      0.4,
+      0.64
+     ],
+     [
+      "cita",
+      0.4,
+      0.62,
+      0.98
+     ],
+     [
+      "de",
+      0.62,
+      0.74,
+      1.0
+     ],
+     [
+      "la",
+      0.74,
+      0.86,
+      1.0
+     ],
+     [
+      "semana,",
+      0.86,
+      1.18,
+      0.99
+     ],
+     [
+      "el",
+      1.6,
+      1.7,
+      0.99
+     ],
+     [
+      "miércoles",
+      1.7,
+      2.1,
+      1.0
+     ],
+     [
+      "por",
+      2.1,
+      2.26,
+      0.99
+     ],
+     [
+      "la",
+      2.26,
+      2.46,
+      1.0
+     ],
+     [
+      "mañana,",
+      2.46,
+      2.72,
+      1.0
+     ],
+     [
+      "la",
+      3.14,
+      3.32,
+      0.96
+     ],
+     [
+      "inflación",
+      3.32,
+      3.68,
+      0.99
+     ],
+     [
+      "en",
+      3.68,
+      3.86,
+      1.0
+     ],
+     [
+      "el",
+      3.86,
+      3.98,
+      0.97
+     ],
+     [
+      "Reino",
+      3.98,
+      4.22,
+      0.99
+     ],
+     [
+      "Unido.",
+      4.22,
+      4.82,
+      0.99
+     ],
+     [
+      "El",
+      5.36,
+      5.48,
+      0.99
+     ],
+     [
+      "mercado",
+      5.48,
+      5.86,
+      1.0
+     ],
+     [
+      "espera",
+      5.86,
+      6.18,
+      1.0
+     ],
+     [
+      "un",
+      6.18,
+      6.46,
+      0.91
+     ],
+     [
+      "3",
+      6.46,
+      6.66,
+      0.99
+     ],
+     [
+      ",4",
+      6.66,
+      7.32,
+      0.95
+     ],
+     [
+      "%",
+      7.32,
+      7.72,
+      0.66
+     ],
+     [
+      "interanual,",
+      7.72,
+      8.4,
+      0.96
+     ],
+     [
+      "tras",
+      8.74,
+      8.86,
+      0.99
+     ],
+     [
+      "un",
+      8.86,
+      9.12,
+      0.99
+     ],
+     [
+      "3",
+      9.12,
+      9.3,
+      0.99
+     ],
+     [
+      ",1.",
+      9.3,
+      9.74,
+      0.99
+     ]
+    ],
+    "clarte": 0.64,
+    "ok": true
+   },
+   "toutes": [
+    {
+     "prise": 1,
+     "file": "es-07-00-p1.wav",
+     "seconds": 9.76,
+     "compute": 63,
+     "heard": "La cita de la semana, el miércoles por la mañana, la inflación en el Reino Unido. El mercado espera un 3,4% interanual, tras un 3,1.",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      9.74
+     ],
+     "rate": 16.9,
+     "mots": [
+      [
+       "La",
+       0.0,
+       0.4,
+       0.64
+      ],
+      [
+       "cita",
+       0.4,
+       0.62,
+       0.98
+      ],
+      [
+       "de",
+       0.62,
+       0.74,
+       1.0
+      ],
+      [
+       "la",
+       0.74,
+       0.86,
+       1.0
+      ],
+      [
+       "semana,",
+       0.86,
+       1.18,
+       0.99
+      ],
+      [
+       "el",
+       1.6,
+       1.7,
+       0.99
+      ],
+      [
+       "miércoles",
+       1.7,
+       2.1,
+       1.0
+      ],
+      [
+       "por",
+       2.1,
+       2.26,
+       0.99
+      ],
+      [
+       "la",
+       2.26,
+       2.46,
+       1.0
+      ],
+      [
+       "mañana,",
+       2.46,
+       2.72,
+       1.0
+      ],
+      [
+       "la",
+       3.14,
+       3.32,
+       0.96
+      ],
+      [
+       "inflación",
+       3.32,
+       3.68,
+       0.99
+      ],
+      [
+       "en",
+       3.68,
+       3.86,
+       1.0
+      ],
+      [
+       "el",
+       3.86,
+       3.98,
+       0.97
+      ],
+      [
+       "Reino",
+       3.98,
+       4.22,
+       0.99
+      ],
+      [
+       "Unido.",
+       4.22,
+       4.82,
+       0.99
+      ],
+      [
+       "El",
+       5.36,
+       5.48,
+       0.99
+      ],
+      [
+       "mercado",
+       5.48,
+       5.86,
+       1.0
+      ],
+      [
+       "espera",
+       5.86,
+       6.18,
+       1.0
+      ],
+      [
+       "un",
+       6.18,
+       6.46,
+       0.91
+      ],
+      [
+       "3",
+       6.46,
+       6.66,
+       0.99
+      ],
+      [
+       ",4",
+       6.66,
+       7.32,
+       0.95
+      ],
+      [
+       "%",
+       7.32,
+       7.72,
+       0.66
+      ],
+      [
+       "interanual,",
+       7.72,
+       8.4,
+       0.96
+      ],
+      [
+       "tras",
+       8.74,
+       8.86,
+       0.99
+      ],
+      [
+       "un",
+       8.86,
+       9.12,
+       0.99
+      ],
+      [
+       "3",
+       9.12,
+       9.3,
+       0.99
+      ],
+      [
+       ",1.",
+       9.3,
+       9.74,
+       0.99
+      ]
+     ],
+     "clarte": 0.64,
+     "ok": true
+    }
+   ]
+  },
+  "07-01": {
+   "id": "07-01",
+   "bloc": 7,
+   "ton": "pose",
+   "text": "Un dato más alto de lo previsto suele sostener a la libra esterlina: empuja al Banco de Inglaterra a mantenerse firme.",
+   "tts": "Un dato más alto de lo previsto suele sostener a la libra esterlina: empuja al Banco de Inglaterra a mantenerse firme.",
+   "gen": {},
+   "prise": {
+    "prise": 1,
+    "file": "es-07-01-p1.wav",
+    "seconds": 6.64,
+    "compute": 52,
+    "heard": "Un dato más alto de lo previsto suele sostener a la libre esterlina. Empuja al Banco de Inglaterra a mantenerse firme.",
+    "wer": 0.048,
+    "extra": 1,
+    "speech": [
+     0.0,
+     6.54
+    ],
+    "rate": 18.0,
+    "mots": [
+     [
+      "Un",
+      0.0,
+      0.42,
+      0.81
+     ],
+     [
+      "dato",
+      0.42,
+      0.62,
+      0.99
+     ],
+     [
+      "más",
+      0.62,
+      0.92,
+      0.97
+     ],
+     [
+      "alto",
+      0.92,
+      1.12,
+      1.0
+     ],
+     [
+      "de",
+      1.12,
+      1.24,
+      0.99
+     ],
+     [
+      "lo",
+      1.24,
+      1.42,
+      1.0
+     ],
+     [
+      "previsto",
+      1.42,
+      1.8,
+      1.0
+     ],
+     [
+      "suele",
+      1.8,
+      2.12,
+      0.98
+     ],
+     [
+      "sostener",
+      2.12,
+      2.54,
+      1.0
+     ],
+     [
+      "a",
+      2.54,
+      2.7,
+      0.99
+     ],
+     [
+      "la",
+      2.7,
+      2.86,
+      1.0
+     ],
+     [
+      "libre",
+      2.86,
+      3.02,
+      0.92
+     ],
+     [
+      "esterlina.",
+      3.02,
+      3.8,
+      0.89
+     ],
+     [
+      "Empuja",
+      4.08,
+      4.54,
+      0.99
+     ],
+     [
+      "al",
+      4.54,
+      4.7,
+      0.98
+     ],
+     [
+      "Banco",
+      4.7,
+      5.02,
+      0.93
+     ],
+     [
+      "de",
+      5.02,
+      5.2,
+      1.0
+     ],
+     [
+      "Inglaterra",
+      5.2,
+      5.6,
+      1.0
+     ],
+     [
+      "a",
+      5.6,
+      5.8,
+      0.99
+     ],
+     [
+      "mantenerse",
+      5.8,
+      6.28,
+      1.0
+     ],
+     [
+      "firme.",
+      6.28,
+      6.54,
+      1.0
+     ]
+    ],
+    "clarte": 0.81,
+    "ok": true
+   },
+   "toutes": [
+    {
+     "prise": 1,
+     "file": "es-07-01-p1.wav",
+     "seconds": 6.64,
+     "compute": 52,
+     "heard": "Un dato más alto de lo previsto suele sostener a la libre esterlina. Empuja al Banco de Inglaterra a mantenerse firme.",
+     "wer": 0.048,
+     "extra": 1,
+     "speech": [
+      0.0,
+      6.54
+     ],
+     "rate": 18.0,
+     "mots": [
+      [
+       "Un",
+       0.0,
+       0.42,
+       0.81
+      ],
+      [
+       "dato",
+       0.42,
+       0.62,
+       0.99
+      ],
+      [
+       "más",
+       0.62,
+       0.92,
+       0.97
+      ],
+      [
+       "alto",
+       0.92,
+       1.12,
+       1.0
+      ],
+      [
+       "de",
+       1.12,
+       1.24,
+       0.99
+      ],
+      [
+       "lo",
+       1.24,
+       1.42,
+       1.0
+      ],
+      [
+       "previsto",
+       1.42,
+       1.8,
+       1.0
+      ],
+      [
+       "suele",
+       1.8,
+       2.12,
+       0.98
+      ],
+      [
+       "sostener",
+       2.12,
+       2.54,
+       1.0
+      ],
+      [
+       "a",
+       2.54,
+       2.7,
+       0.99
+      ],
+      [
+       "la",
+       2.7,
+       2.86,
+       1.0
+      ],
+      [
+       "libre",
+       2.86,
+       3.02,
+       0.92
+      ],
+      [
+       "esterlina.",
+       3.02,
+       3.8,
+       0.89
+      ],
+      [
+       "Empuja",
+       4.08,
+       4.54,
+       0.99
+      ],
+      [
+       "al",
+       4.54,
+       4.7,
+       0.98
+      ],
+      [
+       "Banco",
+       4.7,
+       5.02,
+       0.93
+      ],
+      [
+       "de",
+       5.02,
+       5.2,
+       1.0
+      ],
+      [
+       "Inglaterra",
+       5.2,
+       5.6,
+       1.0
+      ],
+      [
+       "a",
+       5.6,
+       5.8,
+       0.99
+      ],
+      [
+       "mantenerse",
+       5.8,
+       6.28,
+       1.0
+      ],
+      [
+       "firme.",
+       6.28,
+       6.54,
+       1.0
+      ]
+     ],
+     "clarte": 0.81,
+     "ok": true
+    }
+   ]
+  },
+  "08-00": {
+   "id": "08-00",
+   "bloc": 8,
+   "ton": "complice",
+   "text": "Recuerdo de la sala. Diecinueve de octubre de mil novecientos ochenta y siete, hace treinta y nueve años exactos, un lunes, como hoy. Yo tenía catorce años, con la oreja pegada al transistor.",
+   "tts": "Recuerdo de la sala. Diecinueve de octubre de mil novecientos ochenta y siete, hace treinta y nueve años exactos, un lunes, como hoy. Yo tenía catorce años, con la oreja pegada al transistor.",
+   "gen": {},
+   "prise": {
+    "prise": 1,
+    "file": "es-08-00-p1.wav",
+    "seconds": 12.16,
+    "compute": 97,
+    "heard": "Recuerdo de la sala, 19 de octubre de 1987, hace 39 años exactos, un lunes, como hoy. Yo tenía 14 años, con la oreja pegada al transistor.",
+    "wer": 0.0,
+    "extra": 0,
+    "speech": [
+     0.0,
+     11.76
+    ],
+    "rate": 16.2,
+    "mots": [
+     [
+      "Recuerdo",
+      0.0,
+      0.6,
+      0.82
+     ],
+     [
+      "de",
+      0.6,
+      0.76,
+      0.97
+     ],
+     [
+      "la",
+      0.76,
+      0.94,
+      0.96
+     ],
+     [
+      "sala,",
+      0.94,
+      1.36,
+      0.88
+     ],
+     [
+      "19",
+      1.86,
+      2.1,
+      0.98
+     ],
+     [
+      "de",
+      2.1,
+      2.3,
+      1.0
+     ],
+     [
+      "octubre",
+      2.3,
+      2.62,
+      0.97
+     ],
+     [
+      "de",
+      2.62,
+      2.84,
+      0.99
+     ],
+     [
+      "1987,",
+      2.84,
+      4.12,
+      0.99
+     ],
+     [
+      "hace",
+      4.92,
+      5.02,
+      0.98
+     ],
+     [
+      "39",
+      5.02,
+      5.58,
+      0.96
+     ],
+     [
+      "años",
+      5.58,
+      5.98,
+      1.0
+     ],
+     [
+      "exactos,",
+      5.98,
+      6.62,
+      1.0
+     ],
+     [
+      "un",
+      6.96,
+      7.12,
+      0.96
+     ],
+     [
+      "lunes,",
+      7.12,
+      7.54,
+      0.99
+     ],
+     [
+      "como",
+      7.9,
+      8.06,
+      0.99
+     ],
+     [
+      "hoy.",
+      8.06,
+      8.38,
+      1.0
+     ],
+     [
+      "Yo",
+      8.84,
+      9.0,
+      0.99
+     ],
+     [
+      "tenía",
+      9.0,
+      9.24,
+      0.99
+     ],
+     [
+      "14",
+      9.24,
+      9.68,
+      0.96
+     ],
+     [
+      "años,",
+      9.68,
+      10.1,
+      1.0
+     ],
+     [
+      "con",
+      10.44,
+      10.54,
+      1.0
+     ],
+     [
+      "la",
+      10.54,
+      10.66,
+      1.0
+     ],
+     [
+      "oreja",
+      10.66,
+      10.86,
+      1.0
+     ],
+     [
+      "pegada",
+      10.86,
+      11.18,
+      0.99
+     ],
+     [
+      "al",
+      11.18,
+      11.32,
+      0.99
+     ],
+     [
+      "transistor.",
+      11.32,
+      11.76,
+      0.92
+     ]
+    ],
+    "clarte": 0.82,
+    "ok": true
+   },
+   "toutes": [
+    {
+     "prise": 1,
+     "file": "es-08-00-p1.wav",
+     "seconds": 12.16,
+     "compute": 97,
+     "heard": "Recuerdo de la sala, 19 de octubre de 1987, hace 39 años exactos, un lunes, como hoy. Yo tenía 14 años, con la oreja pegada al transistor.",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      11.76
+     ],
+     "rate": 16.2,
+     "mots": [
+      [
+       "Recuerdo",
+       0.0,
+       0.6,
+       0.82
+      ],
+      [
+       "de",
+       0.6,
+       0.76,
+       0.97
+      ],
+      [
+       "la",
+       0.76,
+       0.94,
+       0.96
+      ],
+      [
+       "sala,",
+       0.94,
+       1.36,
+       0.88
+      ],
+      [
+       "19",
+       1.86,
+       2.1,
+       0.98
+      ],
+      [
+       "de",
+       2.1,
+       2.3,
+       1.0
+      ],
+      [
+       "octubre",
+       2.3,
+       2.62,
+       0.97
+      ],
+      [
+       "de",
+       2.62,
+       2.84,
+       0.99
+      ],
+      [
+       "1987,",
+       2.84,
+       4.12,
+       0.99
+      ],
+      [
+       "hace",
+       4.92,
+       5.02,
+       0.98
+      ],
+      [
+       "39",
+       5.02,
+       5.58,
+       0.96
+      ],
+      [
+       "años",
+       5.58,
+       5.98,
+       1.0
+      ],
+      [
+       "exactos,",
+       5.98,
+       6.62,
+       1.0
+      ],
+      [
+       "un",
+       6.96,
+       7.12,
+       0.96
+      ],
+      [
+       "lunes,",
+       7.12,
+       7.54,
+       0.99
+      ],
+      [
+       "como",
+       7.9,
+       8.06,
+       0.99
+      ],
+      [
+       "hoy.",
+       8.06,
+       8.38,
+       1.0
+      ],
+      [
+       "Yo",
+       8.84,
+       9.0,
+       0.99
+      ],
+      [
+       "tenía",
+       9.0,
+       9.24,
+       0.99
+      ],
+      [
+       "14",
+       9.24,
+       9.68,
+       0.96
+      ],
+      [
+       "años,",
+       9.68,
+       10.1,
+       1.0
+      ],
+      [
+       "con",
+       10.44,
+       10.54,
+       1.0
+      ],
+      [
+       "la",
+       10.54,
+       10.66,
+       1.0
+      ],
+      [
+       "oreja",
+       10.66,
+       10.86,
+       1.0
+      ],
+      [
+       "pegada",
+       10.86,
+       11.18,
+       0.99
+      ],
+      [
+       "al",
+       11.18,
+       11.32,
+       0.99
+      ],
+      [
+       "transistor.",
+       11.32,
+       11.76,
+       0.92
+      ]
+     ],
+     "clarte": 0.82,
+     "ok": true
+    }
+   ]
+  },
+  "08-01": {
+   "id": "08-01",
+   "bloc": 8,
+   "ton": "complice",
+   "text": "En una sola sesión, el Dow Jones perdió un veintidós coma seis por ciento: la mayor caída de su historia en un solo día. En Hong Kong, la bolsa cerró cuatro días.",
+   "tts": "En una sola sesión, el Dau Yons perdió un veintidós coma seis por ciento: la mayor caída de su historia en un solo día. En Hong Kong, la bolsa cerró cuatro días.",
+   "gen": {},
+   "prise": {
+    "prise": 1,
+    "file": "es-08-01-p1.wav",
+    "seconds": 10.64,
+    "compute": 85,
+    "heard": "En una sola sesión, el Dow Jones perdió un 22,6%, la mayor caída de su historia en un solo día. En Hong Kong, la bolsa cerró cuatro días.",
+    "wer": 0.0,
+    "extra": 0,
+    "speech": [
+     0.0,
+     10.4
+    ],
+    "rate": 15.5,
+    "mots": [
+     [
+      "En",
+      0.0,
+      0.24,
+      0.89
+     ],
+     [
+      "una",
+      0.24,
+      0.5,
+      0.99
+     ],
+     [
+      "sola",
+      0.5,
+      0.68,
+      1.0
+     ],
+     [
+      "sesión,",
+      0.68,
+      1.36,
+      0.99
+     ],
+     [
+      "el",
+      1.66,
+      1.8,
+      0.99
+     ],
+     [
+      "Dow",
+      1.8,
+      2.0,
+      1.0
+     ],
+     [
+      "Jones",
+      2.0,
+      2.32,
+      0.99
+     ],
+     [
+      "perdió",
+      2.32,
+      2.72,
+      0.99
+     ],
+     [
+      "un",
+      2.72,
+      2.86,
+      1.0
+     ],
+     [
+      "22",
+      2.86,
+      3.32,
+      1.0
+     ],
+     [
+      ",6%,",
+      3.32,
+      4.76,
+      0.82
+     ],
+     [
+      "la",
+      4.76,
+      5.16,
+      0.99
+     ],
+     [
+      "mayor",
+      5.16,
+      5.4,
+      1.0
+     ],
+     [
+      "caída",
+      5.4,
+      5.74,
+      1.0
+     ],
+     [
+      "de",
+      5.74,
+      5.92,
+      0.99
+     ],
+     [
+      "su",
+      5.92,
+      6.06,
+      1.0
+     ],
+     [
+      "historia",
+      6.06,
+      6.38,
+      1.0
+     ],
+     [
+      "en",
+      6.38,
+      6.6,
+      1.0
+     ],
+     [
+      "un",
+      6.6,
+      6.76,
+      0.98
+     ],
+     [
+      "solo",
+      6.76,
+      6.96,
+      0.98
+     ],
+     [
+      "día.",
+      6.96,
+      7.24,
+      0.99
+     ],
+     [
+      "En",
+      7.92,
+      8.12,
+      1.0
+     ],
+     [
+      "Hong",
+      8.12,
+      8.4,
+      1.0
+     ],
+     [
+      "Kong,",
+      8.4,
+      8.78,
+      0.99
+     ],
+     [
+      "la",
+      9.06,
+      9.14,
+      1.0
+     ],
+     [
+      "bolsa",
+      9.14,
+      9.48,
+      0.99
+     ],
+     [
+      "cerró",
+      9.48,
+      9.76,
+      1.0
+     ],
+     [
+      "cuatro",
+      9.76,
+      10.1,
+      0.86
+     ],
+     [
+      "días.",
+      10.1,
+      10.4,
+      1.0
+     ]
+    ],
+    "clarte": 0.82,
+    "ok": true
+   },
+   "toutes": [
+    {
+     "prise": 1,
+     "file": "es-08-01-p1.wav",
+     "seconds": 10.64,
+     "compute": 85,
+     "heard": "En una sola sesión, el Dow Jones perdió un 22,6%, la mayor caída de su historia en un solo día. En Hong Kong, la bolsa cerró cuatro días.",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      10.4
+     ],
+     "rate": 15.5,
+     "mots": [
+      [
+       "En",
+       0.0,
+       0.24,
+       0.89
+      ],
+      [
+       "una",
+       0.24,
+       0.5,
+       0.99
+      ],
+      [
+       "sola",
+       0.5,
+       0.68,
+       1.0
+      ],
+      [
+       "sesión,",
+       0.68,
+       1.36,
+       0.99
+      ],
+      [
+       "el",
+       1.66,
+       1.8,
+       0.99
+      ],
+      [
+       "Dow",
+       1.8,
+       2.0,
+       1.0
+      ],
+      [
+       "Jones",
+       2.0,
+       2.32,
+       0.99
+      ],
+      [
+       "perdió",
+       2.32,
+       2.72,
+       0.99
+      ],
+      [
+       "un",
+       2.72,
+       2.86,
+       1.0
+      ],
+      [
+       "22",
+       2.86,
+       3.32,
+       1.0
+      ],
+      [
+       ",6%,",
+       3.32,
+       4.76,
+       0.82
+      ],
+      [
+       "la",
+       4.76,
+       5.16,
+       0.99
+      ],
+      [
+       "mayor",
+       5.16,
+       5.4,
+       1.0
+      ],
+      [
+       "caída",
+       5.4,
+       5.74,
+       1.0
+      ],
+      [
+       "de",
+       5.74,
+       5.92,
+       0.99
+      ],
+      [
+       "su",
+       5.92,
+       6.06,
+       1.0
+      ],
+      [
+       "historia",
+       6.06,
+       6.38,
+       1.0
+      ],
+      [
+       "en",
+       6.38,
+       6.6,
+       1.0
+      ],
+      [
+       "un",
+       6.6,
+       6.76,
+       0.98
+      ],
+      [
+       "solo",
+       6.76,
+       6.96,
+       0.98
+      ],
+      [
+       "día.",
+       6.96,
+       7.24,
+       0.99
+      ],
+      [
+       "En",
+       7.92,
+       8.12,
+       1.0
+      ],
+      [
+       "Hong",
+       8.12,
+       8.4,
+       1.0
+      ],
+      [
+       "Kong,",
+       8.4,
+       8.78,
+       0.99
+      ],
+      [
+       "la",
+       9.06,
+       9.14,
+       1.0
+      ],
+      [
+       "bolsa",
+       9.14,
+       9.48,
+       0.99
+      ],
+      [
+       "cerró",
+       9.48,
+       9.76,
+       1.0
+      ],
+      [
+       "cuatro",
+       9.76,
+       10.1,
+       0.86
+      ],
+      [
+       "días.",
+       10.1,
+       10.4,
+       1.0
+      ]
+     ],
+     "clarte": 0.82,
+     "ok": true
+    }
+   ]
+  },
+  "08-02": {
+   "id": "08-02",
+   "bloc": 8,
+   "ton": "complice",
+   "text": "Al día siguiente, la Reserva Federal prometió toda la liquidez necesaria.",
+   "tts": "Al día siguiente, la Reserva Federal prometió toda la liquidez necesaria.",
+   "gen": {},
+   "prise": {
+    "prise": 1,
+    "file": "es-08-02-p1.wav",
+    "seconds": 4.16,
+    "compute": 39,
+    "heard": "Al día siguiente, la Reserva Federal prometió toda la liquidez necesaria.",
+    "wer": 0.0,
+    "extra": 0,
+    "speech": [
+     0.0,
+     4.14
+    ],
+    "rate": 17.6,
+    "mots": [
+     [
+      "Al",
+      0.0,
+      0.28,
+      0.82
+     ],
+     [
+      "día",
+      0.28,
+      0.44,
+      0.99
+     ],
+     [
+      "siguiente,",
+      0.44,
+      0.94,
+      1.0
+     ],
+     [
+      "la",
+      1.36,
+      1.5,
+      0.96
+     ],
+     [
+      "Reserva",
+      1.5,
+      1.9,
+      0.99
+     ],
+     [
+      "Federal",
+      1.9,
+      2.22,
+      0.99
+     ],
+     [
+      "prometió",
+      2.22,
+      2.76,
+      1.0
+     ],
+     [
+      "toda",
+      2.76,
+      3.02,
+      1.0
+     ],
+     [
+      "la",
+      3.02,
+      3.24,
+      1.0
+     ],
+     [
+      "liquidez",
+      3.24,
+      3.56,
+      0.99
+     ],
+     [
+      "necesaria.",
+      3.56,
+      4.14,
+      1.0
+     ]
+    ],
+    "clarte": 0.82,
+    "ok": true
+   },
+   "toutes": [
+    {
+     "prise": 1,
+     "file": "es-08-02-p1.wav",
+     "seconds": 4.16,
+     "compute": 39,
+     "heard": "Al día siguiente, la Reserva Federal prometió toda la liquidez necesaria.",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      4.14
+     ],
+     "rate": 17.6,
+     "mots": [
+      [
+       "Al",
+       0.0,
+       0.28,
+       0.82
+      ],
+      [
+       "día",
+       0.28,
+       0.44,
+       0.99
+      ],
+      [
+       "siguiente,",
+       0.44,
+       0.94,
+       1.0
+      ],
+      [
+       "la",
+       1.36,
+       1.5,
+       0.96
+      ],
+      [
+       "Reserva",
+       1.5,
+       1.9,
+       0.99
+      ],
+      [
+       "Federal",
+       1.9,
+       2.22,
+       0.99
+      ],
+      [
+       "prometió",
+       2.22,
+       2.76,
+       1.0
+      ],
+      [
+       "toda",
+       2.76,
+       3.02,
+       1.0
+      ],
+      [
+       "la",
+       3.02,
+       3.24,
+       1.0
+      ],
+      [
+       "liquidez",
+       3.24,
+       3.56,
+       0.99
+      ],
+      [
+       "necesaria.",
+       3.56,
+       4.14,
+       1.0
+      ]
+     ],
+     "clarte": 0.82,
+     "ok": true
+    }
+   ]
+  },
+  "09-00": {
+   "id": "09-00",
+   "bloc": 9,
+   "ton": "pose",
+   "text": "Hicieron falta menos de dos años para borrar la caída, y fue después de aquel día cuando las bolsas inventaron los cortacircuitos. La lección no ha envejecido: uno no elige el día en que el mercado entra en pánico.",
+   "tts": "Hicieron falta menos de dos años para borrar la caída, y fue después de aquel día cuando las bolsas inventaron los cortacircuitos. La lección no ha envejecido: uno no elige el día en que el mercado entra en pánico.",
+   "gen": {},
+   "prise": {
+    "prise": 1,
+    "file": "es-09-00-p1.wav",
+    "seconds": 12.48,
+    "compute": 92,
+    "heard": "Hicieron falta menos de dos años para borrar la caída, y fue después de aquel día cuando las bolsas inventaron los cortacircuitos. La lección no ha envejecido, uno no elige el día en que el mercado entra en pánico.",
+    "wer": 0.0,
+    "extra": 0,
+    "speech": [
+     0.0,
+     12.18
+    ],
+    "rate": 17.6,
+    "mots": [
+     [
+      "Hicieron",
+      0.0,
+      0.72,
+      0.91
+     ],
+     [
+      "falta",
+      0.72,
+      1.0,
+      1.0
+     ],
+     [
+      "menos",
+      1.0,
+      1.26,
+      0.99
+     ],
+     [
+      "de",
+      1.26,
+      1.44,
+      1.0
+     ],
+     [
+      "dos",
+      1.44,
+      1.6,
+      0.92
+     ],
+     [
+      "años",
+      1.6,
+      1.84,
+      1.0
+     ],
+     [
+      "para",
+      1.84,
+      2.08,
+      1.0
+     ],
+     [
+      "borrar",
+      2.08,
+      2.38,
+      0.99
+     ],
+     [
+      "la",
+      2.38,
+      2.56,
+      1.0
+     ],
+     [
+      "caída,",
+      2.56,
+      2.92,
+      1.0
+     ],
+     [
+      "y",
+      3.48,
+      3.56,
+      0.99
+     ],
+     [
+      "fue",
+      3.56,
+      3.72,
+      1.0
+     ],
+     [
+      "después",
+      3.72,
+      4.08,
+      1.0
+     ],
+     [
+      "de",
+      4.08,
+      4.24,
+      1.0
+     ],
+     [
+      "aquel",
+      4.24,
+      4.42,
+      0.98
+     ],
+     [
+      "día",
+      4.42,
+      4.6,
+      1.0
+     ],
+     [
+      "cuando",
+      4.6,
+      4.86,
+      0.98
+     ],
+     [
+      "las",
+      4.86,
+      5.08,
+      0.99
+     ],
+     [
+      "bolsas",
+      5.08,
+      5.4,
+      0.95
+     ],
+     [
+      "inventaron",
+      5.4,
+      5.84,
+      1.0
+     ],
+     [
+      "los",
+      5.84,
+      6.08,
+      1.0
+     ],
+     [
+      "cortacircuitos.",
+      6.08,
+      7.3,
+      0.95
+     ],
+     [
+      "La",
+      8.0,
+      8.14,
+      0.99
+     ],
+     [
+      "lección",
+      8.14,
+      8.52,
+      0.95
+     ],
+     [
+      "no",
+      8.52,
+      8.7,
+      1.0
+     ],
+     [
+      "ha",
+      8.7,
+      8.82,
+      1.0
+     ],
+     [
+      "envejecido,",
+      8.82,
+      9.4,
+      1.0
+     ],
+     [
+      "uno",
+      9.86,
+      10.08,
+      0.98
+     ],
+     [
+      "no",
+      10.08,
+      10.32,
+      1.0
+     ],
+     [
+      "elige",
+      10.32,
+      10.52,
+      0.98
+     ],
+     [
+      "el",
+      10.52,
+      10.68,
+      1.0
+     ],
+     [
+      "día",
+      10.68,
+      10.84,
+      1.0
+     ],
+     [
+      "en",
+      10.84,
+      10.98,
+      0.99
+     ],
+     [
+      "que",
+      10.98,
+      11.08,
+      0.96
+     ],
+     [
+      "el",
+      11.08,
+      11.2,
+      1.0
+     ],
+     [
+      "mercado",
+      11.2,
+      11.46,
+      1.0
+     ],
+     [
+      "entra",
+      11.46,
+      11.68,
+      0.72
+     ],
+     [
+      "en",
+      11.68,
+      11.86,
+      1.0
+     ],
+     [
+      "pánico.",
+      11.86,
+      12.18,
+      1.0
+     ]
+    ],
+    "clarte": 0.72,
+    "ok": true
+   },
+   "toutes": [
+    {
+     "prise": 1,
+     "file": "es-09-00-p1.wav",
+     "seconds": 12.48,
+     "compute": 92,
+     "heard": "Hicieron falta menos de dos años para borrar la caída, y fue después de aquel día cuando las bolsas inventaron los cortacircuitos. La lección no ha envejecido, uno no elige el día en que el mercado entra en pánico.",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      12.18
+     ],
+     "rate": 17.6,
+     "mots": [
+      [
+       "Hicieron",
+       0.0,
+       0.72,
+       0.91
+      ],
+      [
+       "falta",
+       0.72,
+       1.0,
+       1.0
+      ],
+      [
+       "menos",
+       1.0,
+       1.26,
+       0.99
+      ],
+      [
+       "de",
+       1.26,
+       1.44,
+       1.0
+      ],
+      [
+       "dos",
+       1.44,
+       1.6,
+       0.92
+      ],
+      [
+       "años",
+       1.6,
+       1.84,
+       1.0
+      ],
+      [
+       "para",
+       1.84,
+       2.08,
+       1.0
+      ],
+      [
+       "borrar",
+       2.08,
+       2.38,
+       0.99
+      ],
+      [
+       "la",
+       2.38,
+       2.56,
+       1.0
+      ],
+      [
+       "caída,",
+       2.56,
+       2.92,
+       1.0
+      ],
+      [
+       "y",
+       3.48,
+       3.56,
+       0.99
+      ],
+      [
+       "fue",
+       3.56,
+       3.72,
+       1.0
+      ],
+      [
+       "después",
+       3.72,
+       4.08,
+       1.0
+      ],
+      [
+       "de",
+       4.08,
+       4.24,
+       1.0
+      ],
+      [
+       "aquel",
+       4.24,
+       4.42,
+       0.98
+      ],
+      [
+       "día",
+       4.42,
+       4.6,
+       1.0
+      ],
+      [
+       "cuando",
+       4.6,
+       4.86,
+       0.98
+      ],
+      [
+       "las",
+       4.86,
+       5.08,
+       0.99
+      ],
+      [
+       "bolsas",
+       5.08,
+       5.4,
+       0.95
+      ],
+      [
+       "inventaron",
+       5.4,
+       5.84,
+       1.0
+      ],
+      [
+       "los",
+       5.84,
+       6.08,
+       1.0
+      ],
+      [
+       "cortacircuitos.",
+       6.08,
+       7.3,
+       0.95
+      ],
+      [
+       "La",
+       8.0,
+       8.14,
+       0.99
+      ],
+      [
+       "lección",
+       8.14,
+       8.52,
+       0.95
+      ],
+      [
+       "no",
+       8.52,
+       8.7,
+       1.0
+      ],
+      [
+       "ha",
+       8.7,
+       8.82,
+       1.0
+      ],
+      [
+       "envejecido,",
+       8.82,
+       9.4,
+       1.0
+      ],
+      [
+       "uno",
+       9.86,
+       10.08,
+       0.98
+      ],
+      [
+       "no",
+       10.08,
+       10.32,
+       1.0
+      ],
+      [
+       "elige",
+       10.32,
+       10.52,
+       0.98
+      ],
+      [
+       "el",
+       10.52,
+       10.68,
+       1.0
+      ],
+      [
+       "día",
+       10.68,
+       10.84,
+       1.0
+      ],
+      [
+       "en",
+       10.84,
+       10.98,
+       0.99
+      ],
+      [
+       "que",
+       10.98,
+       11.08,
+       0.96
+      ],
+      [
+       "el",
+       11.08,
+       11.2,
+       1.0
+      ],
+      [
+       "mercado",
+       11.2,
+       11.46,
+       1.0
+      ],
+      [
+       "entra",
+       11.46,
+       11.68,
+       0.72
+      ],
+      [
+       "en",
+       11.68,
+       11.86,
+       1.0
+      ],
+      [
+       "pánico.",
+       11.86,
+       12.18,
+       1.0
+      ]
+     ],
+     "clarte": 0.72,
+     "ok": true
+    }
+   ]
+  },
+  "09-01": {
+   "id": "09-01",
+   "bloc": 9,
+   "ton": "pose",
+   "text": "Uno elige el tamaño de su posición y su stop, antes. El pánico es contagioso. La calma también.",
+   "tts": "Uno elige el tamaño de su posición y su stop, antes. El pánico es contagioso. La calma también.",
+   "gen": {},
+   "prise": {
+    "prise": 1,
+    "file": "es-09-01-p1.wav",
+    "seconds": 6.56,
+    "compute": 50,
+    "heard": "Uno elige el tamaño de su posición y su stop, antes. El pánico es contagioso, la calma también.",
+    "wer": 0.0,
+    "extra": 0,
+    "speech": [
+     0.0,
+     6.38
+    ],
+    "rate": 14.9,
+    "mots": [
+     [
+      "Uno",
+      0.0,
+      0.5,
+      0.95
+     ],
+     [
+      "elige",
+      0.5,
+      0.84,
+      0.99
+     ],
+     [
+      "el",
+      0.84,
+      1.0,
+      1.0
+     ],
+     [
+      "tamaño",
+      1.0,
+      1.32,
+      1.0
+     ],
+     [
+      "de",
+      1.32,
+      1.46,
+      1.0
+     ],
+     [
+      "su",
+      1.46,
+      1.56,
+      1.0
+     ],
+     [
+      "posición",
+      1.56,
+      2.02,
+      1.0
+     ],
+     [
+      "y",
+      2.02,
+      2.24,
+      1.0
+     ],
+     [
+      "su",
+      2.24,
+      2.36,
+      0.99
+     ],
+     [
+      "stop,",
+      2.36,
+      2.66,
+      0.86
+     ],
+     [
+      "antes.",
+      3.2,
+      3.4,
+      0.97
+     ],
+     [
+      "El",
+      3.98,
+      4.2,
+      0.98
+     ],
+     [
+      "pánico",
+      4.2,
+      4.5,
+      1.0
+     ],
+     [
+      "es",
+      4.5,
+      4.72,
+      1.0
+     ],
+     [
+      "contagioso,",
+      4.72,
+      5.24,
+      1.0
+     ],
+     [
+      "la",
+      5.64,
+      5.8,
+      0.98
+     ],
+     [
+      "calma",
+      5.8,
+      6.06,
+      1.0
+     ],
+     [
+      "también.",
+      6.06,
+      6.38,
+      0.97
+     ]
+    ],
+    "clarte": 0.86,
+    "ok": true
+   },
+   "toutes": [
+    {
+     "prise": 1,
+     "file": "es-09-01-p1.wav",
+     "seconds": 6.56,
+     "compute": 50,
+     "heard": "Uno elige el tamaño de su posición y su stop, antes. El pánico es contagioso, la calma también.",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      6.38
+     ],
+     "rate": 14.9,
+     "mots": [
+      [
+       "Uno",
+       0.0,
+       0.5,
+       0.95
+      ],
+      [
+       "elige",
+       0.5,
+       0.84,
+       0.99
+      ],
+      [
+       "el",
+       0.84,
+       1.0,
+       1.0
+      ],
+      [
+       "tamaño",
+       1.0,
+       1.32,
+       1.0
+      ],
+      [
+       "de",
+       1.32,
+       1.46,
+       1.0
+      ],
+      [
+       "su",
+       1.46,
+       1.56,
+       1.0
+      ],
+      [
+       "posición",
+       1.56,
+       2.02,
+       1.0
+      ],
+      [
+       "y",
+       2.02,
+       2.24,
+       1.0
+      ],
+      [
+       "su",
+       2.24,
+       2.36,
+       0.99
+      ],
+      [
+       "stop,",
+       2.36,
+       2.66,
+       0.86
+      ],
+      [
+       "antes.",
+       3.2,
+       3.4,
+       0.97
+      ],
+      [
+       "El",
+       3.98,
+       4.2,
+       0.98
+      ],
+      [
+       "pánico",
+       4.2,
+       4.5,
+       1.0
+      ],
+      [
+       "es",
+       4.5,
+       4.72,
+       1.0
+      ],
+      [
+       "contagioso,",
+       4.72,
+       5.24,
+       1.0
+      ],
+      [
+       "la",
+       5.64,
+       5.8,
+       0.98
+      ],
+      [
+       "calma",
+       5.8,
+       6.06,
+       1.0
+      ],
+      [
+       "también.",
+       6.06,
+       6.38,
+       0.97
+      ]
+     ],
+     "clarte": 0.86,
+     "ok": true
+    }
+   ]
+  },
+  "10-00": {
+   "id": "10-00",
+   "bloc": 10,
+   "ton": "chaleureux",
+   "text": "Esta mañana en el terminal: el primer número de MACROARSENAL Times. Se titula «El oro entre dos olas», y se ofrece a todos los que tienen una cuenta gratuita.",
+   "tts": "Esta mañana en el terminal: el primer número de Macro Arsenal Taims. Se titula «El oro entre dos olas», y se ofrece a todos los que tienen una cuenta gratuita.",
+   "gen": {},
+   "prise": {
+    "prise": 1,
+    "file": "es-10-00-p1.wav",
+    "seconds": 10.08,
+    "compute": 74,
+    "heard": "Esta mañana en el terminal, el primer número de MACROARSENAL TAMES. Se titula El oro entre dos olas y se ofrece a todos los que tienen una cuenta gratuita.",
+    "wer": 0.033,
+    "extra": 1,
+    "speech": [
+     0.0,
+     9.92
+    ],
+    "rate": 16.0,
+    "mots": [
+     [
+      "Esta",
+      0.0,
+      0.76,
+      0.77
+     ],
+     [
+      "mañana",
+      0.76,
+      1.04,
+      0.99
+     ],
+     [
+      "en",
+      1.04,
+      1.2,
+      0.97
+     ],
+     [
+      "el",
+      1.2,
+      1.36,
+      0.93
+     ],
+     [
+      "terminal,",
+      1.36,
+      1.72,
+      0.79
+     ],
+     [
+      "el",
+      2.22,
+      2.36,
+      0.98
+     ],
+     [
+      "primer",
+      2.36,
+      2.58,
+      0.99
+     ],
+     [
+      "número",
+      2.58,
+      2.84,
+      0.99
+     ],
+     [
+      "de",
+      2.84,
+      3.12,
+      0.98
+     ],
+     [
+      "MACROARSENAL",
+      3.12,
+      3.96,
+      0.6
+     ],
+     [
+      "TAMES.",
+      3.96,
+      4.8,
+      0.87
+     ],
+     [
+      "Se",
+      5.16,
+      5.32,
+      0.99
+     ],
+     [
+      "titula",
+      5.32,
+      5.7,
+      1.0
+     ],
+     [
+      "El",
+      5.7,
+      5.98,
+      0.18
+     ],
+     [
+      "oro",
+      5.98,
+      6.16,
+      0.73
+     ],
+     [
+      "entre",
+      6.16,
+      6.42,
+      0.99
+     ],
+     [
+      "dos",
+      6.42,
+      6.64,
+      0.98
+     ],
+     [
+      "olas",
+      6.64,
+      7.1,
+      1.0
+     ],
+     [
+      "y",
+      7.1,
+      7.48,
+      0.69
+     ],
+     [
+      "se",
+      7.48,
+      7.72,
+      1.0
+     ],
+     [
+      "ofrece",
+      7.72,
+      7.96,
+      1.0
+     ],
+     [
+      "a",
+      7.96,
+      8.18,
+      1.0
+     ],
+     [
+      "todos",
+      8.18,
+      8.34,
+      1.0
+     ],
+     [
+      "los",
+      8.34,
+      8.54,
+      0.99
+     ],
+     [
+      "que",
+      8.54,
+      8.68,
+      1.0
+     ],
+     [
+      "tienen",
+      8.68,
+      8.84,
+      0.99
+     ],
+     [
+      "una",
+      8.84,
+      9.06,
+      1.0
+     ],
+     [
+      "cuenta",
+      9.06,
+      9.34,
+      1.0
+     ],
+     [
+      "gratuita.",
+      9.34,
+      9.92,
+      1.0
+     ]
+    ],
+    "clarte": 0.18,
+    "ok": true
+   },
+   "toutes": [
+    {
+     "prise": 1,
+     "file": "es-10-00-p1.wav",
+     "seconds": 10.08,
+     "compute": 74,
+     "heard": "Esta mañana en el terminal, el primer número de MACROARSENAL TAMES. Se titula El oro entre dos olas y se ofrece a todos los que tienen una cuenta gratuita.",
+     "wer": 0.033,
+     "extra": 1,
+     "speech": [
+      0.0,
+      9.92
+     ],
+     "rate": 16.0,
+     "mots": [
+      [
+       "Esta",
+       0.0,
+       0.76,
+       0.77
+      ],
+      [
+       "mañana",
+       0.76,
+       1.04,
+       0.99
+      ],
+      [
+       "en",
+       1.04,
+       1.2,
+       0.97
+      ],
+      [
+       "el",
+       1.2,
+       1.36,
+       0.93
+      ],
+      [
+       "terminal,",
+       1.36,
+       1.72,
+       0.79
+      ],
+      [
+       "el",
+       2.22,
+       2.36,
+       0.98
+      ],
+      [
+       "primer",
+       2.36,
+       2.58,
+       0.99
+      ],
+      [
+       "número",
+       2.58,
+       2.84,
+       0.99
+      ],
+      [
+       "de",
+       2.84,
+       3.12,
+       0.98
+      ],
+      [
+       "MACROARSENAL",
+       3.12,
+       3.96,
+       0.6
+      ],
+      [
+       "TAMES.",
+       3.96,
+       4.8,
+       0.87
+      ],
+      [
+       "Se",
+       5.16,
+       5.32,
+       0.99
+      ],
+      [
+       "titula",
+       5.32,
+       5.7,
+       1.0
+      ],
+      [
+       "El",
+       5.7,
+       5.98,
+       0.18
+      ],
+      [
+       "oro",
+       5.98,
+       6.16,
+       0.73
+      ],
+      [
+       "entre",
+       6.16,
+       6.42,
+       0.99
+      ],
+      [
+       "dos",
+       6.42,
+       6.64,
+       0.98
+      ],
+      [
+       "olas",
+       6.64,
+       7.1,
+       1.0
+      ],
+      [
+       "y",
+       7.1,
+       7.48,
+       0.69
+      ],
+      [
+       "se",
+       7.48,
+       7.72,
+       1.0
+      ],
+      [
+       "ofrece",
+       7.72,
+       7.96,
+       1.0
+      ],
+      [
+       "a",
+       7.96,
+       8.18,
+       1.0
+      ],
+      [
+       "todos",
+       8.18,
+       8.34,
+       1.0
+      ],
+      [
+       "los",
+       8.34,
+       8.54,
+       0.99
+      ],
+      [
+       "que",
+       8.54,
+       8.68,
+       1.0
+      ],
+      [
+       "tienen",
+       8.68,
+       8.84,
+       0.99
+      ],
+      [
+       "una",
+       8.84,
+       9.06,
+       1.0
+      ],
+      [
+       "cuenta",
+       9.06,
+       9.34,
+       1.0
+      ],
+      [
+       "gratuita.",
+       9.34,
+       9.92,
+       1.0
+      ]
+     ],
+     "clarte": 0.18,
+     "ok": true
+    }
+   ]
+  },
+  "10-01": {
+   "id": "10-01",
+   "bloc": 10,
+   "ton": "chaleureux",
+   "text": "Los miembros Arsenal, por su parte, han recibido sus dos Convicciones del día: dos ideas estudiadas al detalle.",
+   "tts": "Los miembros Arsenal, por su parte, han recibido sus dos Convicciones del día: dos ideas estudiadas al detalle.",
+   "gen": {},
+   "prise": {
+    "prise": 1,
+    "file": "es-10-01-p1.wav",
+    "seconds": 7.12,
+    "compute": 53,
+    "heard": "Los miembros Arsenal, por su parte, han recibido sus dos convicciones del día, dos ideas estudiadas al detalle.",
+    "wer": 0.0,
+    "extra": 0,
+    "speech": [
+     0.0,
+     6.94
+    ],
+    "rate": 16.0,
+    "mots": [
+     [
+      "Los",
+      0.0,
+      0.9,
+      0.91
+     ],
+     [
+      "miembros",
+      0.9,
+      1.28,
+      0.99
+     ],
+     [
+      "Arsenal,",
+      1.28,
+      1.7,
+      0.75
+     ],
+     [
+      "por",
+      1.78,
+      1.98,
+      1.0
+     ],
+     [
+      "su",
+      1.98,
+      2.18,
+      1.0
+     ],
+     [
+      "parte,",
+      2.18,
+      2.46,
+      1.0
+     ],
+     [
+      "han",
+      2.68,
+      2.92,
+      1.0
+     ],
+     [
+      "recibido",
+      2.92,
+      3.28,
+      1.0
+     ],
+     [
+      "sus",
+      3.28,
+      3.48,
+      0.99
+     ],
+     [
+      "dos",
+      3.48,
+      3.72,
+      0.99
+     ],
+     [
+      "convicciones",
+      3.72,
+      4.24,
+      1.0
+     ],
+     [
+      "del",
+      4.24,
+      4.44,
+      0.99
+     ],
+     [
+      "día,",
+      4.44,
+      4.72,
+      0.99
+     ],
+     [
+      "dos",
+      5.28,
+      5.48,
+      0.97
+     ],
+     [
+      "ideas",
+      5.48,
+      5.82,
+      0.99
+     ],
+     [
+      "estudiadas",
+      5.82,
+      6.42,
+      0.99
+     ],
+     [
+      "al",
+      6.42,
+      6.62,
+      0.99
+     ],
+     [
+      "detalle.",
+      6.62,
+      6.94,
+      1.0
+     ]
+    ],
+    "clarte": 0.75,
+    "ok": true
+   },
+   "toutes": [
+    {
+     "prise": 1,
+     "file": "es-10-01-p1.wav",
+     "seconds": 7.12,
+     "compute": 53,
+     "heard": "Los miembros Arsenal, por su parte, han recibido sus dos convicciones del día, dos ideas estudiadas al detalle.",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      6.94
+     ],
+     "rate": 16.0,
+     "mots": [
+      [
+       "Los",
+       0.0,
+       0.9,
+       0.91
+      ],
+      [
+       "miembros",
+       0.9,
+       1.28,
+       0.99
+      ],
+      [
+       "Arsenal,",
+       1.28,
+       1.7,
+       0.75
+      ],
+      [
+       "por",
+       1.78,
+       1.98,
+       1.0
+      ],
+      [
+       "su",
+       1.98,
+       2.18,
+       1.0
+      ],
+      [
+       "parte,",
+       2.18,
+       2.46,
+       1.0
+      ],
+      [
+       "han",
+       2.68,
+       2.92,
+       1.0
+      ],
+      [
+       "recibido",
+       2.92,
+       3.28,
+       1.0
+      ],
+      [
+       "sus",
+       3.28,
+       3.48,
+       0.99
+      ],
+      [
+       "dos",
+       3.48,
+       3.72,
+       0.99
+      ],
+      [
+       "convicciones",
+       3.72,
+       4.24,
+       1.0
+      ],
+      [
+       "del",
+       4.24,
+       4.44,
+       0.99
+      ],
+      [
+       "día,",
+       4.44,
+       4.72,
+       0.99
+      ],
+      [
+       "dos",
+       5.28,
+       5.48,
+       0.97
+      ],
+      [
+       "ideas",
+       5.48,
+       5.82,
+       0.99
+      ],
+      [
+       "estudiadas",
+       5.82,
+       6.42,
+       0.99
+      ],
+      [
+       "al",
+       6.42,
+       6.62,
+       0.99
+      ],
+      [
+       "detalle.",
+       6.62,
+       6.94,
+       1.0
+      ]
+     ],
+     "clarte": 0.75,
+     "ok": true
+    }
+   ]
+  },
+  "11-00": {
+   "id": "11-00",
+   "bloc": 11,
+   "ton": "chaleureux",
+   "text": "El mercado seguirá aquí mañana. Su capital también, si lo protegen. Les habló Víctor Castel.",
+   "tts": "El mercado seguirá aquí mañana. Su capital también, si lo protegen. Les habló Víctor Castel.",
+   "gen": {},
+   "prise": {
+    "prise": 1,
+    "file": "es-11-00-p1.wav",
+    "seconds": 6.08,
+    "compute": 45,
+    "heard": "El mercado seguirá aquí mañana. Su capital también, si lo protegen. Les habló Víctor Castel.",
+    "wer": 0.0,
+    "extra": 0,
+    "speech": [
+     0.0,
+     6.02
+    ],
+    "rate": 15.3,
+    "mots": [
+     [
+      "El",
+      0.0,
+      0.6,
+      0.84
+     ],
+     [
+      "mercado",
+      0.6,
+      1.0,
+      1.0
+     ],
+     [
+      "seguirá",
+      1.0,
+      1.4,
+      0.99
+     ],
+     [
+      "aquí",
+      1.4,
+      1.58,
+      0.99
+     ],
+     [
+      "mañana.",
+      1.58,
+      2.0,
+      0.99
+     ],
+     [
+      "Su",
+      2.56,
+      2.68,
+      0.95
+     ],
+     [
+      "capital",
+      2.68,
+      3.06,
+      0.94
+     ],
+     [
+      "también,",
+      3.06,
+      3.48,
+      0.97
+     ],
+     [
+      "si",
+      3.72,
+      3.78,
+      0.97
+     ],
+     [
+      "lo",
+      3.78,
+      4.02,
+      0.99
+     ],
+     [
+      "protegen.",
+      4.02,
+      4.56,
+      0.98
+     ],
+     [
+      "Les",
+      4.9,
+      5.1,
+      0.94
+     ],
+     [
+      "habló",
+      5.1,
+      5.32,
+      0.99
+     ],
+     [
+      "Víctor",
+      5.32,
+      5.66,
+      0.82
+     ],
+     [
+      "Castel.",
+      5.66,
+      6.02,
+      0.57
+     ]
+    ],
+    "clarte": 0.57,
+    "ok": true
+   },
+   "toutes": [
+    {
+     "prise": 1,
+     "file": "es-11-00-p1.wav",
+     "seconds": 6.08,
+     "compute": 45,
+     "heard": "El mercado seguirá aquí mañana. Su capital también, si lo protegen. Les habló Víctor Castel.",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      6.02
+     ],
+     "rate": 15.3,
+     "mots": [
+      [
+       "El",
+       0.0,
+       0.6,
+       0.84
+      ],
+      [
+       "mercado",
+       0.6,
+       1.0,
+       1.0
+      ],
+      [
+       "seguirá",
+       1.0,
+       1.4,
+       0.99
+      ],
+      [
+       "aquí",
+       1.4,
+       1.58,
+       0.99
+      ],
+      [
+       "mañana.",
+       1.58,
+       2.0,
+       0.99
+      ],
+      [
+       "Su",
+       2.56,
+       2.68,
+       0.95
+      ],
+      [
+       "capital",
+       2.68,
+       3.06,
+       0.94
+      ],
+      [
+       "también,",
+       3.06,
+       3.48,
+       0.97
+      ],
+      [
+       "si",
+       3.72,
+       3.78,
+       0.97
+      ],
+      [
+       "lo",
+       3.78,
+       4.02,
+       0.99
+      ],
+      [
+       "protegen.",
+       4.02,
+       4.56,
+       0.98
+      ],
+      [
+       "Les",
+       4.9,
+       5.1,
+       0.94
+      ],
+      [
+       "habló",
+       5.1,
+       5.32,
+       0.99
+      ],
+      [
+       "Víctor",
+       5.32,
+       5.66,
+       0.82
+      ],
+      [
+       "Castel.",
+       5.66,
+       6.02,
+       0.57
+      ]
+     ],
+     "clarte": 0.57,
+     "ok": true
+    }
+   ]
+  },
+  "11-01": {
+   "id": "11-01",
+   "bloc": 11,
+   "ton": "chaleureux",
+   "text": "Hasta mañana.",
+   "tts": "Hasta mañana.",
+   "gen": {},
+   "prise": {
+    "prise": 1,
+    "file": "es-11-01-p1.wav",
+    "seconds": 1.2,
+    "compute": 12,
+    "heard": "Hasta mañana.",
+    "wer": 0.0,
+    "extra": 0,
+    "speech": [
+     0.0,
+     0.84
+    ],
+    "rate": 15.5,
+    "mots": [
+     [
+      "Hasta",
+      0.0,
+      0.48,
+      0.63
+     ],
+     [
+      "mañana.",
+      0.48,
+      0.84,
+      0.99
+     ]
+    ],
+    "clarte": 0.63,
+    "ok": true
+   },
+   "toutes": [
+    {
+     "prise": 1,
+     "file": "es-11-01-p1.wav",
+     "seconds": 1.2,
+     "compute": 12,
+     "heard": "Hasta mañana.",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      0.84
+     ],
+     "rate": 15.5,
+     "mots": [
+      [
+       "Hasta",
+       0.0,
+       0.48,
+       0.63
+      ],
+      [
+       "mañana.",
+       0.48,
+       0.84,
+       0.99
+      ]
+     ],
+     "clarte": 0.63,
+     "ok": true
+    }
+   ]
+  }
+ }
+}
