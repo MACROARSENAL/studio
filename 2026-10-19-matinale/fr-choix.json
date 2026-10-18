@@ -1,0 +1,983 @@
+{
+ "langue": "fr",
+ "phrases": {
+  "00-00": {
+   "id": "00-00",
+   "bloc": 0,
+   "ton": "energique",
+   "text": "Huit heures à Paris. Bonjour la salle ! Ici Victor Castel, et vous écoutez MACROARSENAL Radio.",
+   "tts": "Huit heures à Paris. Bonjour la salle ! Ici Victor Castel, et vous écoutez Macro Arsenal Radio.",
+   "prise": {
+    "prise": 1,
+    "file": "fr-00-00-p1.wav",
+    "seconds": 6.8,
+    "compute": 59,
+    "heard": "8 heures à Paris. Bonjour la salle, ici Victor Castel et vous écoutez MACROARSENAL Radio.",
+    "wer": 0.0,
+    "extra": 0,
+    "speech": [
+     0.0,
+     6.68
+    ],
+    "rate": 14.2,
+    "ok": true
+   },
+   "toutes": [
+    {
+     "prise": 1,
+     "file": "fr-00-00-p1.wav",
+     "seconds": 6.8,
+     "compute": 59,
+     "heard": "8 heures à Paris. Bonjour la salle, ici Victor Castel et vous écoutez MACROARSENAL Radio.",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      6.68
+     ],
+     "rate": 14.2,
+     "ok": true
+    }
+   ]
+  },
+  "00-01": {
+   "id": "00-01",
+   "bloc": 0,
+   "ton": "energique",
+   "text": "Café serré, écrans allumés : on fait le tour du monde en trois minutes. Lundi dix-neuf octobre, et c'est le pétrole qui donne le ton.",
+   "tts": "Café serré, écrans allumés : on fait le tour du monde en trois minutes. Lundi dix-neuf octobre, et c'est le pétrole qui donne le ton.",
+   "prise": {
+    "prise": 5,
+    "file": "fr-00-01-p5.wav",
+    "seconds": 7.84,
+    "compute": 66,
+    "heard": "Café serré, écran allumé, on fait le tour du monde en 3 minutes, lundi 19 octobre, et c'est le pétrole qui donne le ton.",
+    "wer": 0.077,
+    "extra": 2,
+    "speech": [
+     0.0,
+     7.82
+    ],
+    "rate": 17.0,
+    "ok": false
+   },
+   "toutes": [
+    {
+     "prise": 2,
+     "file": "fr-00-01-p2.wav",
+     "seconds": 7.76,
+     "compute": 66,
+     "heard": "Café serré, écran allumé, on fait le tour du monde en trois minutes. Lundi 19 octobre, et c'est le pétrole qui donne le ton.",
+     "wer": 0.077,
+     "extra": 2,
+     "speech": [
+      0.0,
+      7.68
+     ],
+     "rate": 17.3,
+     "ok": false
+    },
+    {
+     "prise": 3,
+     "file": "fr-00-01-p3.wav",
+     "seconds": 7.12,
+     "compute": 62,
+     "heard": "Café serré, écran allumé, on fait le tour du monde en 3 minutes, lundi 19 octobre et c'est le pétrole qui donne le ton.",
+     "wer": 0.077,
+     "extra": 2,
+     "speech": [
+      0.0,
+      6.96
+     ],
+     "rate": 19.1,
+     "ok": false
+    },
+    {
+     "prise": 4,
+     "file": "fr-00-01-p4.wav",
+     "seconds": 7.28,
+     "compute": 63,
+     "heard": "Café serré, écran allumé, on fait le tour du monde en trois minutes. Lundi 19 octobre et c'est le pétrole qui donne le ton.",
+     "wer": 0.077,
+     "extra": 2,
+     "speech": [
+      0.0,
+      7.2
+     ],
+     "rate": 18.5,
+     "ok": false
+    },
+    {
+     "prise": 5,
+     "file": "fr-00-01-p5.wav",
+     "seconds": 7.84,
+     "compute": 66,
+     "heard": "Café serré, écran allumé, on fait le tour du monde en 3 minutes, lundi 19 octobre, et c'est le pétrole qui donne le ton.",
+     "wer": 0.077,
+     "extra": 2,
+     "speech": [
+      0.0,
+      7.82
+     ],
+     "rate": 17.0,
+     "ok": false
+    },
+    {
+     "prise": 1,
+     "file": "fr-00-01-p1.wav",
+     "seconds": 7.52,
+     "compute": 63,
+     "heard": "Café serré, écran allumé, on fait le tour du monde en 3 minutes, lundi 19 octobre, et c'est le pétrole qui donne le ton.",
+     "wer": 0.077,
+     "extra": 2,
+     "speech": [
+      0.0,
+      7.44
+     ],
+     "rate": 17.9,
+     "ok": false
+    }
+   ]
+  },
+  "01-00": {
+   "id": "01-00",
+   "bloc": 1,
+   "ton": "net",
+   "text": "Le pétrole, d'abord. Vendredi, le Brent a touché cent dix dollars le baril, une première depuis mai, après de nouvelles attaques de navires dans le détroit d'Ormuz.",
+   "tts": "Le pétrole, d'abord. Vendredi, le Brent a touché cent dix dollars le baril, une première depuis mai, après de nouvelles attaques de navires dans le détroit d'Ormuz.",
+   "prise": {
+    "prise": 1,
+    "file": "fr-01-00-p1.wav",
+    "seconds": 10.4,
+    "compute": 81,
+    "heard": "Le pétrole d'abord. Vendredi, le Brent a touché 110 dollars le baril, une première depuis mai, après de nouvelles attaques de navires dans le détroit d'Hormuz.",
+    "wer": 0.034,
+    "extra": 1,
+    "speech": [
+     0.0,
+     10.16
+    ],
+    "rate": 16.1,
+    "ok": true
+   },
+   "toutes": [
+    {
+     "prise": 1,
+     "file": "fr-01-00-p1.wav",
+     "seconds": 10.4,
+     "compute": 81,
+     "heard": "Le pétrole d'abord. Vendredi, le Brent a touché 110 dollars le baril, une première depuis mai, après de nouvelles attaques de navires dans le détroit d'Hormuz.",
+     "wer": 0.034,
+     "extra": 1,
+     "speech": [
+      0.0,
+      10.16
+     ],
+     "rate": 16.1,
+     "ok": true
+    }
+   ]
+  },
+  "01-01": {
+   "id": "01-01",
+   "bloc": 1,
+   "ton": "net",
+   "text": "Samedi, l'Iran a affirmé que deux superpétroliers avaient heurté des mines. Washington assure garder le contrôle du passage. Et ce dimanche, Téhéran répète que son offre de rouvrir le détroit tient toujours.",
+   "tts": "Samedi, l'Iran a affirmé que deux superpétroliers avaient heurté des mines. Washington assure garder le contrôle du passage. Et ce dimanche, Téhéran répète que son offre de rouvrir le détroit tient toujours.",
+   "prise": {
+    "prise": 1,
+    "file": "fr-01-01-p1.wav",
+    "seconds": 12.64,
+    "compute": 97,
+    "heard": "Samedi, l'Iran a affirmé que deux superpétroliers avaient heurté des mines. Washington assure garder le contrôle du passage. Et ce dimanche, Téhéran répète que son offre de rouvrir le détroit tient toujours.",
+    "wer": 0.0,
+    "extra": 0,
+    "speech": [
+     1.08,
+     12.5
+    ],
+    "rate": 18.1,
+    "ok": true
+   },
+   "toutes": [
+    {
+     "prise": 1,
+     "file": "fr-01-01-p1.wav",
+     "seconds": 12.64,
+     "compute": 97,
+     "heard": "Samedi, l'Iran a affirmé que deux superpétroliers avaient heurté des mines. Washington assure garder le contrôle du passage. Et ce dimanche, Téhéran répète que son offre de rouvrir le détroit tient toujours.",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      1.08,
+      12.5
+     ],
+     "rate": 18.1,
+     "ok": true
+    }
+   ]
+  },
+  "02-00": {
+   "id": "02-00",
+   "bloc": 2,
+   "ton": "net",
+   "text": "À Wall Street, la technologie a lâché prise. Vendredi, le Nasdaq a perdu deux virgule un pour cent : sa pire semaine depuis juin, avec moins quatre virgule cinq pour cent. Le Dow Jones, lui, termine la semaine en légère hausse.",
+   "tts": "À Wall Street, la technologie a lâché prise. Vendredi, le Nasdaq a perdu deux virgule un pour cent : sa pire semaine depuis juin, avec moins quatre virgule cinq pour cent. Le Dow Jones, lui, termine la semaine en légère hausse.",
+   "prise": {
+    "prise": 1,
+    "file": "fr-02-00-p1.wav",
+    "seconds": 15.92,
+    "compute": 121,
+    "heard": "A Wall Street, la technologie a lâché prise. Vendredi, le Nasdaq a perdu 2,1%, sa pire semaine depuis juin, avec moins 4,5%. Le Dow Jones, lui, termine la semaine en légère hausse.",
+    "wer": 0.0,
+    "extra": 0,
+    "speech": [
+     0.0,
+     15.74
+    ],
+    "rate": 14.4,
+    "ok": true
+   },
+   "toutes": [
+    {
+     "prise": 1,
+     "file": "fr-02-00-p1.wav",
+     "seconds": 15.92,
+     "compute": 121,
+     "heard": "A Wall Street, la technologie a lâché prise. Vendredi, le Nasdaq a perdu 2,1%, sa pire semaine depuis juin, avec moins 4,5%. Le Dow Jones, lui, termine la semaine en légère hausse.",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      15.74
+     ],
+     "rate": 14.4,
+     "ok": true
+    }
+   ]
+  },
+  "03-00": {
+   "id": "03-00",
+   "bloc": 3,
+   "ton": "net",
+   "text": "Aux États-Unis, les prix à l'importation ont bondi de huit virgule un pour cent sur un an, du jamais-vu depuis juillet deux mille vingt-deux. Et la Fed se tait désormais, jusqu'à sa réunion des vingt-sept et vingt-huit octobre.",
+   "tts": "Aux États-Unis, les prix à l'importation ont bondi de huit virgule un pour cent sur un an, du jamais-vu depuis juillet deux mille vingt-deux. Et la Fède se tait désormais, jusqu'à sa réunion des vingt-sept et vingt-huit octobre.",
+   "prise": {
+    "prise": 1,
+    "file": "fr-03-00-p1.wav",
+    "seconds": 13.12,
+    "compute": 108,
+    "heard": "Aux Etats-Unis, les prix à l'importation ont bondi de 8,1% sur un an, du jamais vu depuis juillet 2022. Et la fête se tait désormais jusqu'à sa réunion des 27 et 28 octobre.",
+    "wer": 0.022,
+    "extra": 1,
+    "speech": [
+     0.86,
+     13.1
+    ],
+    "rate": 18.6,
+    "ok": true
+   },
+   "toutes": [
+    {
+     "prise": 1,
+     "file": "fr-03-00-p1.wav",
+     "seconds": 13.12,
+     "compute": 108,
+     "heard": "Aux Etats-Unis, les prix à l'importation ont bondi de 8,1% sur un an, du jamais vu depuis juillet 2022. Et la fête se tait désormais jusqu'à sa réunion des 27 et 28 octobre.",
+     "wer": 0.022,
+     "extra": 1,
+     "speech": [
+      0.86,
+      13.1
+     ],
+     "rate": 18.6,
+     "ok": true
+    }
+   ]
+  },
+  "04-00": {
+   "id": "04-00",
+   "bloc": 4,
+   "ton": "pose",
+   "text": "La semaine qui vient. Mardi, l'emploi au Royaume-Uni. Vendredi, les premiers indices d'activité d'octobre, en Europe et aux États-Unis : ils diront si les entreprises encaissent le choc du pétrole.",
+   "tts": "La semaine qui vient. Mardi, l'emploi au Royaume-Uni. Vendredi, les premiers indices d'activité d'octobre, en Europe et aux États-Unis : ils diront si les entreprises encaissent le choc du pétrole.",
+   "prise": {
+    "prise": 1,
+    "file": "fr-04-00-p1.wav",
+    "seconds": 10.88,
+    "compute": 85,
+    "heard": "La semaine qui vient, mardi, l'emploi au Royaume-Uni. Vendredi, les premiers indices d'activité d'octobre en Europe et aux États-Unis, ils diront si les entreprises encaissent le choc du pétrole.",
+    "wer": 0.0,
+    "extra": 0,
+    "speech": [
+     0.0,
+     10.76
+    ],
+    "rate": 18.3,
+    "ok": true
+   },
+   "toutes": [
+    {
+     "prise": 1,
+     "file": "fr-04-00-p1.wav",
+     "seconds": 10.88,
+     "compute": 85,
+     "heard": "La semaine qui vient, mardi, l'emploi au Royaume-Uni. Vendredi, les premiers indices d'activité d'octobre en Europe et aux États-Unis, ils diront si les entreprises encaissent le choc du pétrole.",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      10.76
+     ],
+     "rate": 18.3,
+     "ok": true
+    }
+   ]
+  },
+  "04-01": {
+   "id": "04-01",
+   "bloc": 4,
+   "ton": "pose",
+   "text": "Et vendredi soir, l'agence Moody's réexamine la note de la France.",
+   "tts": "Et vendredi soir, l'agence Moudize réexamine la note de la France.",
+   "prise": {
+    "prise": 4,
+    "file": "fr-04-01-p4.wav",
+    "seconds": 4.08,
+    "compute": 35,
+    "heard": "Et vendredi soir, l'agence Moody's réexamine la note de la France.",
+    "wer": 0.083,
+    "extra": 2,
+    "speech": [
+     0.0,
+     3.96
+    ],
+    "rate": 16.7,
+    "ok": false
+   },
+   "toutes": [
+    {
+     "prise": 2,
+     "file": "fr-04-01-p2.wav",
+     "seconds": 3.52,
+     "compute": 31,
+     "heard": "Et vendredi soir, l'agence Moody's réexamine la note de la France.",
+     "wer": 0.083,
+     "extra": 2,
+     "speech": [
+      0.0,
+      3.26
+     ],
+     "rate": 20.2,
+     "ok": false
+    },
+    {
+     "prise": 3,
+     "file": "fr-04-01-p3.wav",
+     "seconds": 3.52,
+     "compute": 31,
+     "heard": "Et vendredi soir, l'agence Moody's réexamine la note de la France.",
+     "wer": 0.083,
+     "extra": 2,
+     "speech": [
+      0.0,
+      3.44
+     ],
+     "rate": 19.2,
+     "ok": false
+    },
+    {
+     "prise": 4,
+     "file": "fr-04-01-p4.wav",
+     "seconds": 4.08,
+     "compute": 35,
+     "heard": "Et vendredi soir, l'agence Moody's réexamine la note de la France.",
+     "wer": 0.083,
+     "extra": 2,
+     "speech": [
+      0.0,
+      3.96
+     ],
+     "rate": 16.7,
+     "ok": false
+    },
+    {
+     "prise": 5,
+     "file": "fr-04-01-p5.wav",
+     "seconds": 4.08,
+     "compute": 35,
+     "heard": "Et vendredi soir, l'agence Moody's réexamine la note de la France.",
+     "wer": 0.083,
+     "extra": 2,
+     "speech": [
+      0.0,
+      3.42
+     ],
+     "rate": 19.3,
+     "ok": false
+    },
+    {
+     "prise": 1,
+     "file": "fr-04-01-p1.wav",
+     "seconds": 3.52,
+     "compute": 32,
+     "heard": "Et vendredi soir, l'agence Moody's réexamine la note de la France.",
+     "wer": 0.083,
+     "extra": 2,
+     "speech": [
+      0.0,
+      3.42
+     ],
+     "rate": 19.3,
+     "ok": false
+    }
+   ]
+  },
+  "05-00": {
+   "id": "05-00",
+   "bloc": 5,
+   "ton": "net",
+   "text": "Le Biais du jour est en ligne depuis sept heures et demie : quarante marchés passés au crible, avec leur sens, leur force et notre niveau de confiance. Huit d'entre eux sont offerts à tous, ce matin, dans le terminal.",
+   "tts": "Le Biais du jour est en ligne depuis sept heures et demie : quarante marchés passés au crible, avec leur sens, leur force et notre niveau de confiance. Huit d'entre eux sont offerts à tous, ce matin, dans le terminal.",
+   "prise": {
+    "prise": 1,
+    "file": "fr-05-00-p1.wav",
+    "seconds": 12.24,
+    "compute": 95,
+    "heard": "Le biais du jour est en ligne depuis 7h30, 40 marchés passés au crible avec leur sens, leur force et notre niveau de confiance. Huit d'entre eux sont offerts à tous ce matin dans le terminal.",
+    "wer": 0.05,
+    "extra": 1,
+    "speech": [
+     0.68,
+     12.14
+    ],
+    "rate": 18.9,
+    "ok": true
+   },
+   "toutes": [
+    {
+     "prise": 1,
+     "file": "fr-05-00-p1.wav",
+     "seconds": 12.24,
+     "compute": 95,
+     "heard": "Le biais du jour est en ligne depuis 7h30, 40 marchés passés au crible avec leur sens, leur force et notre niveau de confiance. Huit d'entre eux sont offerts à tous ce matin dans le terminal.",
+     "wer": 0.05,
+     "extra": 1,
+     "speech": [
+      0.68,
+      12.14
+     ],
+     "rate": 18.9,
+     "ok": true
+    }
+   ]
+  },
+  "06-00": {
+   "id": "06-00",
+   "bloc": 6,
+   "ton": "net",
+   "text": "Le monde des actions. La saison des résultats passe la vitesse supérieure : Netflix et SpaceX mardi soir, Tesla et Meta mercredi soir. Une question dominera : jusqu'où iront leurs dépenses dans l'intelligence artificielle ?",
+   "tts": "Le monde des actions. La saison des résultats passe la vitesse supérieure : Netflix et Space X mardi soir, Tesla et Meta mercredi soir. Une question dominera : jusqu'où iront leurs dépenses dans l'intelligence artificielle ?",
+   "prise": {
+    "prise": 1,
+    "file": "fr-06-00-p1.wav",
+    "seconds": 13.28,
+    "compute": 103,
+    "heard": "Le monde des actions. La saison des résultats passe la vitesse supérieure, Netflix et SpaceX mardi soir, Tesla et Meta mercredi soir. Une question dominera. Jusqu'où iront leurs dépenses dans l'intelligence artificielle ?",
+    "wer": 0.057,
+    "extra": 1,
+    "speech": [
+     0.0,
+     13.26
+    ],
+    "rate": 16.9,
+    "ok": true
+   },
+   "toutes": [
+    {
+     "prise": 1,
+     "file": "fr-06-00-p1.wav",
+     "seconds": 13.28,
+     "compute": 103,
+     "heard": "Le monde des actions. La saison des résultats passe la vitesse supérieure, Netflix et SpaceX mardi soir, Tesla et Meta mercredi soir. Une question dominera. Jusqu'où iront leurs dépenses dans l'intelligence artificielle ?",
+     "wer": 0.057,
+     "extra": 1,
+     "speech": [
+      0.0,
+      13.26
+     ],
+     "rate": 16.9,
+     "ok": true
+    }
+   ]
+  },
+  "06-01": {
+   "id": "06-01",
+   "bloc": 6,
+   "ton": "net",
+   "text": "Et dans le terminal, le Duel de la semaine commence : Meta contre Alphabet. À vous de voter.",
+   "tts": "Et dans le terminal, le Duel de la semaine commence : Meta contre Alphabet. À vous de voter.",
+   "prise": {
+    "prise": 1,
+    "file": "fr-06-01-p1.wav",
+    "seconds": 5.84,
+    "compute": 49,
+    "heard": "Et dans le terminal, le duel de la semaine commence. Meta contre alphabet. A vous de voter.",
+    "wer": 0.0,
+    "extra": 0,
+    "speech": [
+     0.54,
+     5.72
+    ],
+    "rate": 17.8,
+    "ok": true
+   },
+   "toutes": [
+    {
+     "prise": 1,
+     "file": "fr-06-01-p1.wav",
+     "seconds": 5.84,
+     "compute": 49,
+     "heard": "Et dans le terminal, le duel de la semaine commence. Meta contre alphabet. A vous de voter.",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.54,
+      5.72
+     ],
+     "rate": 17.8,
+     "ok": true
+    }
+   ]
+  },
+  "07-00": {
+   "id": "07-00",
+   "bloc": 7,
+   "ton": "pose",
+   "text": "Le rendez-vous de la semaine : mercredi, huit heures, l'inflation au Royaume-Uni. Le marché attend trois virgule quatre pour cent sur un an, après trois virgule un.",
+   "tts": "Le rendez-vous de la semaine : mercredi, huit heures, l'inflation au Royaume-Uni. Le marché attend trois virgule quatre pour cent sur un an, après trois virgule un.",
+   "prise": {
+    "prise": 1,
+    "file": "fr-07-00-p1.wav",
+    "seconds": 8.24,
+    "compute": 64,
+    "heard": "Le rendez-vous de la semaine, mercredi, 8h, l'inflation au Royaume-Uni. Le marché attend 3,4% sur un an, après 3,1.",
+    "wer": 0.0,
+    "extra": 0,
+    "speech": [
+     0.0,
+     8.22
+    ],
+    "rate": 20.0,
+    "ok": true
+   },
+   "toutes": [
+    {
+     "prise": 1,
+     "file": "fr-07-00-p1.wav",
+     "seconds": 8.24,
+     "compute": 64,
+     "heard": "Le rendez-vous de la semaine, mercredi, 8h, l'inflation au Royaume-Uni. Le marché attend 3,4% sur un an, après 3,1.",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      8.22
+     ],
+     "rate": 20.0,
+     "ok": true
+    }
+   ]
+  },
+  "07-01": {
+   "id": "07-01",
+   "bloc": 7,
+   "ton": "pose",
+   "text": "Un chiffre plus fort que prévu soutient habituellement la livre sterling : il pousse la Banque d'Angleterre à rester ferme.",
+   "tts": "Un chiffre plus fort que prévu soutient habituellement la livre sterling : il pousse la Banque d'Angleterre à rester ferme.",
+   "prise": {
+    "prise": 1,
+    "file": "fr-07-01-p1.wav",
+    "seconds": 6.48,
+    "compute": 46,
+    "heard": "Un chiffre plus fort que prévu soutient habituellement la livre Sterling. Il pousse la Banque d'Angleterre à rester ferme.",
+    "wer": 0.0,
+    "extra": 0,
+    "speech": [
+     0.0,
+     6.46
+    ],
+    "rate": 19.0,
+    "ok": true
+   },
+   "toutes": [
+    {
+     "prise": 1,
+     "file": "fr-07-01-p1.wav",
+     "seconds": 6.48,
+     "compute": 46,
+     "heard": "Un chiffre plus fort que prévu soutient habituellement la livre Sterling. Il pousse la Banque d'Angleterre à rester ferme.",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      6.46
+     ],
+     "rate": 19.0,
+     "ok": true
+    }
+   ]
+  },
+  "08-00": {
+   "id": "08-00",
+   "bloc": 8,
+   "ton": "complice",
+   "text": "Souvenir de salle. Dix-neuf octobre mille neuf cent quatre-vingt-sept, il y a trente-neuf ans jour pour jour, un lundi, comme aujourd'hui. J'avais quatorze ans, l'oreille collée à mon transistor.",
+   "tts": "Souvenir de salle. Dix-neuf octobre mille neuf cent quatre-vingt-sept, il y a trente-neuf ans jour pour jour, un lundi, comme aujourd'hui. J'avais quatorze ans, l'oreille collée à mon transistor.",
+   "prise": {
+    "prise": 1,
+    "file": "fr-08-00-p1.wav",
+    "seconds": 10.32,
+    "compute": 75,
+    "heard": "Souvenir de salle. 19 octobre 1987, il y a 39 ans jour pour jour, un lundi comme aujourd'hui. J'avais 14 ans, l'oreille collait à mon transistor.",
+    "wer": 0.028,
+    "extra": 1,
+    "speech": [
+     0.0,
+     10.18
+    ],
+    "rate": 19.2,
+    "ok": true
+   },
+   "toutes": [
+    {
+     "prise": 1,
+     "file": "fr-08-00-p1.wav",
+     "seconds": 10.32,
+     "compute": 75,
+     "heard": "Souvenir de salle. 19 octobre 1987, il y a 39 ans jour pour jour, un lundi comme aujourd'hui. J'avais 14 ans, l'oreille collait à mon transistor.",
+     "wer": 0.028,
+     "extra": 1,
+     "speech": [
+      0.0,
+      10.18
+     ],
+     "rate": 19.2,
+     "ok": true
+    }
+   ]
+  },
+  "08-01": {
+   "id": "08-01",
+   "bloc": 8,
+   "ton": "complice",
+   "text": "En une seule séance, le Dow Jones a perdu vingt-deux virgule six pour cent : la plus forte chute de son histoire en un jour. À Hong Kong, la bourse a fermé quatre jours.",
+   "tts": "En une seule séance, le Dow Jones a perdu vingt-deux virgule six pour cent : la plus forte chute de son histoire en un jour. À Hong Kong, la bourse a fermé quatre jours.",
+   "prise": {
+    "prise": 1,
+    "file": "fr-08-01-p1.wav",
+    "seconds": 10.56,
+    "compute": 76,
+    "heard": "En une seule séance, le Dow Jones a perdu 22,6%, la plus forte chute de son histoire en un jour. À Hong Kong, la bourse a fermé quatre jours.",
+    "wer": 0.0,
+    "extra": 0,
+    "speech": [
+     0.0,
+     10.54
+    ],
+    "rate": 16.0,
+    "ok": true
+   },
+   "toutes": [
+    {
+     "prise": 1,
+     "file": "fr-08-01-p1.wav",
+     "seconds": 10.56,
+     "compute": 76,
+     "heard": "En une seule séance, le Dow Jones a perdu 22,6%, la plus forte chute de son histoire en un jour. À Hong Kong, la bourse a fermé quatre jours.",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      10.54
+     ],
+     "rate": 16.0,
+     "ok": true
+    }
+   ]
+  },
+  "08-02": {
+   "id": "08-02",
+   "bloc": 8,
+   "ton": "complice",
+   "text": "Le lendemain, la Réserve fédérale a promis toutes les liquidités nécessaires.",
+   "tts": "Le lendemain, la Réserve fédérale a promis toutes les liquidités nécessaires.",
+   "prise": {
+    "prise": 1,
+    "file": "fr-08-02-p1.wav",
+    "seconds": 4.16,
+    "compute": 33,
+    "heard": "Le lendemain, la réserve fédérale a promis toutes les liquidités nécessaires.",
+    "wer": 0.0,
+    "extra": 0,
+    "speech": [
+     0.0,
+     4.04
+    ],
+    "rate": 19.1,
+    "ok": true
+   },
+   "toutes": [
+    {
+     "prise": 1,
+     "file": "fr-08-02-p1.wav",
+     "seconds": 4.16,
+     "compute": 33,
+     "heard": "Le lendemain, la réserve fédérale a promis toutes les liquidités nécessaires.",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      4.04
+     ],
+     "rate": 19.1,
+     "ok": true
+    }
+   ]
+  },
+  "09-00": {
+   "id": "09-00",
+   "bloc": 9,
+   "ton": "pose",
+   "text": "Il a fallu moins de deux ans pour effacer la chute, et c'est après ce jour-là que les bourses ont inventé les coupe-circuits. La leçon, elle, n'a pas pris une ride : on ne choisit pas le jour où le marché panique.",
+   "tts": "Il a fallu moins de deux ans pour effacer la chute, et c'est après ce jour-là que les bourses ont inventé les coupe-circuits. La leçon, elle, n'a pas pris une ride : on ne choisit pas le jour où le marché panique.",
+   "prise": {
+    "prise": 1,
+    "file": "fr-09-00-p1.wav",
+    "seconds": 9.12,
+    "compute": 65,
+    "heard": "Il a fallu moins de deux ans pour effacer la chute, et c'est après ce jour-là que les bourses ont inventé les coupes circuit. La leçon, elle, n'a pas pris une ride. On ne choisit pas le jour où le marché panique.",
+    "wer": 0.044,
+    "extra": 2,
+    "speech": [
+     0.0,
+     8.7
+    ],
+    "rate": 24.5,
+    "ok": true
+   },
+   "toutes": [
+    {
+     "prise": 1,
+     "file": "fr-09-00-p1.wav",
+     "seconds": 9.12,
+     "compute": 65,
+     "heard": "Il a fallu moins de deux ans pour effacer la chute, et c'est après ce jour-là que les bourses ont inventé les coupes circuit. La leçon, elle, n'a pas pris une ride. On ne choisit pas le jour où le marché panique.",
+     "wer": 0.044,
+     "extra": 2,
+     "speech": [
+      0.0,
+      8.7
+     ],
+     "rate": 24.5,
+     "ok": true
+    }
+   ]
+  },
+  "09-01": {
+   "id": "09-01",
+   "bloc": 9,
+   "ton": "pose",
+   "text": "On choisit sa taille de position et son stop, avant. La panique est contagieuse. Le calme aussi.",
+   "tts": "On choisit sa taille de position et son stop, avant. La panique est contagieuse. Le calme aussi.",
+   "prise": {
+    "prise": 1,
+    "file": "fr-09-01-p1.wav",
+    "seconds": 5.28,
+    "compute": 45,
+    "heard": "On choisit sa taille de position et son stop avant. La panique est contagieuse, le calme aussi.",
+    "wer": 0.0,
+    "extra": 0,
+    "speech": [
+     0.0,
+     5.12
+    ],
+    "rate": 18.8,
+    "ok": true
+   },
+   "toutes": [
+    {
+     "prise": 1,
+     "file": "fr-09-01-p1.wav",
+     "seconds": 5.28,
+     "compute": 45,
+     "heard": "On choisit sa taille de position et son stop avant. La panique est contagieuse, le calme aussi.",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      5.12
+     ],
+     "rate": 18.8,
+     "ok": true
+    }
+   ]
+  },
+  "10-00": {
+   "id": "10-00",
+   "bloc": 10,
+   "ton": "chaleureux",
+   "text": "Ce matin dans le terminal : le tout premier numéro de MACROARSENAL Times, sorti à sept heures et demie. Il s'intitule « L'or entre deux vagues », et il est offert à tous ceux qui ont un compte gratuit.",
+   "tts": "Ce matin dans le terminal : le tout premier numéro de Macro Arsenal Taïmz, sorti à sept heures et demie. Il s'intitule « L'or entre deux vagues », et il est offert à tous ceux qui ont un compte gratuit.",
+   "prise": {
+    "prise": 1,
+    "file": "fr-10-00-p1.wav",
+    "seconds": 9.76,
+    "compute": 80,
+    "heard": "Ce matin dans le terminal, le tout premier numéro de MACROARSENAL Times, sorti à 7h30, il s'intitule « L'or entre deux vagues » et il est offert à tous ceux qui ont un compte gratuit.",
+    "wer": 0.077,
+    "extra": 2,
+    "speech": [
+     0.0,
+     9.74
+    ],
+    "rate": 20.7,
+    "ok": true
+   },
+   "toutes": [
+    {
+     "prise": 1,
+     "file": "fr-10-00-p1.wav",
+     "seconds": 9.76,
+     "compute": 80,
+     "heard": "Ce matin dans le terminal, le tout premier numéro de MACROARSENAL Times, sorti à 7h30, il s'intitule « L'or entre deux vagues » et il est offert à tous ceux qui ont un compte gratuit.",
+     "wer": 0.077,
+     "extra": 2,
+     "speech": [
+      0.0,
+      9.74
+     ],
+     "rate": 20.7,
+     "ok": true
+    }
+   ]
+  },
+  "10-01": {
+   "id": "10-01",
+   "bloc": 10,
+   "ton": "chaleureux",
+   "text": "Les membres Arsenal, eux, ont reçu leurs deux Convictions du jour : deux idées étudiées dans le moindre détail.",
+   "tts": "Les membres Arsenal, eux, ont reçu leurs deux Convictions du jour : deux idées étudiées dans le moindre détail.",
+   "prise": {
+    "prise": 1,
+    "file": "fr-10-01-p1.wav",
+    "seconds": 6.32,
+    "compute": 53,
+    "heard": "Les membres Arsenal, eux, ont reçu leurs deux convictions du jour. Deux idées étudiées dans le moindre détail.",
+    "wer": 0.0,
+    "extra": 0,
+    "speech": [
+     0.0,
+     6.26
+    ],
+    "rate": 17.7,
+    "ok": true
+   },
+   "toutes": [
+    {
+     "prise": 1,
+     "file": "fr-10-01-p1.wav",
+     "seconds": 6.32,
+     "compute": 53,
+     "heard": "Les membres Arsenal, eux, ont reçu leurs deux convictions du jour. Deux idées étudiées dans le moindre détail.",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      6.26
+     ],
+     "rate": 17.7,
+     "ok": true
+    }
+   ]
+  },
+  "11-00": {
+   "id": "11-00",
+   "bloc": 11,
+   "ton": "chaleureux",
+   "text": "Le marché sera encore là demain. Votre capital aussi, si vous le protégez. C'était Victor Castel.",
+   "tts": "Le marché sera encore là demain. Votre capital aussi, si vous le protégez. C'était Victor Castel.",
+   "prise": {
+    "prise": 1,
+    "file": "fr-11-00-p1.wav",
+    "seconds": 5.2,
+    "compute": 45,
+    "heard": "Le marché sera encore là demain. Votre capital aussi, si vous le protégez. C'était Victor Castel.",
+    "wer": 0.0,
+    "extra": 0,
+    "speech": [
+     0.0,
+     5.16
+    ],
+    "rate": 18.8,
+    "ok": true
+   },
+   "toutes": [
+    {
+     "prise": 1,
+     "file": "fr-11-00-p1.wav",
+     "seconds": 5.2,
+     "compute": 45,
+     "heard": "Le marché sera encore là demain. Votre capital aussi, si vous le protégez. C'était Victor Castel.",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      5.16
+     ],
+     "rate": 18.8,
+     "ok": true
+    }
+   ]
+  },
+  "11-01": {
+   "id": "11-01",
+   "bloc": 11,
+   "ton": "chaleureux",
+   "text": "À demain, huit heures.",
+   "tts": "À demain, huit heures.",
+   "prise": {
+    "prise": 1,
+    "file": "fr-11-01-p1.wav",
+    "seconds": 1.36,
+    "compute": 16,
+    "heard": "À demain, 8h.",
+    "wer": 0.0,
+    "extra": 0,
+    "speech": [
+     0.0,
+     1.26
+    ],
+    "rate": 17.5,
+    "ok": true
+   },
+   "toutes": [
+    {
+     "prise": 1,
+     "file": "fr-11-01-p1.wav",
+     "seconds": 1.36,
+     "compute": 16,
+     "heard": "À demain, 8h.",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      1.26
+     ],
+     "rate": 17.5,
+     "ok": true
+    }
+   ]
+  }
+ }
+}
