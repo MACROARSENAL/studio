@@ -122,7 +122,18 @@ def norm(s):
     for w in s.replace("'", "' ").split():
         w = SAME.get(w, w); w = NUM.get(w, w)
         out.extend(w.split())
+    if LANGUE == 'fr':
+        # pluriels muets : « écrans allumés » s'entend comme « écran allumé », la transcription ne peut pas trancher
+        out = [w[:-1] if len(w) > 3 and w[-1] in 'sx' else w for w in out]
     return out
+
+
+def ecart(ref, heard):
+    """(écart, mots en trop, mots attendus) entre un texte de référence et la transcription."""
+    exp, got = norm(ref), norm(heard)
+    sm = difflib.SequenceMatcher(a=exp, b=got, autojunk=False)
+    matched = sum(b.size for b in sm.get_matching_blocks())
+    return 1 - matched / max(1, len(exp)), max(0, len(got) - matched), len(exp)
 
 
 phr = {}
@@ -144,18 +155,15 @@ for sid, s in sorted(phr.items()):
                                  vad_filter=False, initial_prompt=PROMPT)
         words = [w for sg in segs for w in sg.words]
         heard = ''.join(w.word for w in words).strip()
-        exp, got = norm(s['tts']), norm(heard)
-        sm = difflib.SequenceMatcher(a=exp, b=got, autojunk=False)
-        matched = sum(b.size for b in sm.get_matching_blocks())
-        wer = 1 - matched / max(1, len(exp))
-        extra = max(0, len(got) - matched)
+        # comparé au texte lu (prononciations réécrites : « Moudize ») et au texte écrit (« Moody's ») : le plus proche compte
+        wer, extra, nexp = min(ecart(ref, heard) for ref in {s['tts'], s.get('text') or s['tts']})
         # les instants de faster-whisper sont des flottants numpy : convertis pour l'écriture JSON
         speech = [round(float(words[0].start), 2), round(float(words[-1].end), 2)] if words else None
         dur = (speech[1] - speech[0]) if speech else 0
         rate = float(len(s['tts']) / max(dur, 0.1))
         # une phrase lue beaucoup trop vite ou trop lentement (mots avalés, hésitations, répétitions) est refusée
         plausible = 0.55 * CPS <= rate <= 1.9 * CPS
-        tol = max(1, round(0.05 * len(exp)))   # un mot ajouté ou coupé autrement par la transcription (« coupe-circuits »)
+        tol = max(1, round(0.05 * nexp))   # un mot ajouté ou coupé autrement par la transcription (« coupe-circuits »)
         p.update({'heard': heard, 'wer': round(float(wer), 3), 'extra': int(extra), 'speech': speech, 'rate': round(rate, 1),
                   'ok': bool(wer <= 0.1 and extra <= tol and plausible)})
         print(f"{'ok' if p['ok'] else 'À REVOIR'} {sid} {f} écart {wer:.2f} +{extra} débit {rate:.1f} « {heard} »", flush=True)
