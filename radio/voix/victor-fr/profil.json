@@ -1,0 +1,34 @@
+{
+ "id": "victor-fr",
+ "langue": "fr",
+ "source": "victor-fr-c-1 (casting du 18/10/2026, voix 3 choisie par Kévin)",
+ "design": "A charismatic French male morning radio host, about 55, with a warm, slightly husky, textured baritone voice, the kind of intimate radio voice listeners trust at dawn, with a smile in it. Calm authority and a lively but unhurried rhythm. Perfect native French broadcast diction from Paris. Close-microphone broadcast studio sound, natural breathing, expressive and human, never robotic, never shouting.",
+ "defaut": "net",
+ "refs": {
+  "energique": {
+   "wav": "energique.wav",
+   "texte": "Huit heures à Paris. Bonjour la salle ! Ici Victor Castel, et vous écoutez Macro Arsenal Radio. Café serré, écrans allumés : on fait le tour du monde en trois minutes.",
+   "secondes": 11.93
+  },
+  "net": {
+   "wav": "net.wav",
+   "texte": "Ça tombe sur les écrans : l'Asie a ouvert prudemment, le pétrole se tend, et le dollar attend son grand rendez-vous de quatorze heures trente.",
+   "secondes": 7.8
+  },
+  "complice": {
+   "wav": "complice.wav",
+   "texte": "Souvenir de salle. Quinze janvier deux mille quinze. J'étais au micro quand la Banque nationale suisse a abandonné son cours plancher. En quelques minutes, le franc a bondi de près de trente pour cent face à l'euro.",
+   "secondes": 11.88
+  },
+  "pose": {
+   "wav": "pose.wav",
+   "texte": "Ce matin-là, j'ai compris une chose : ce n'est pas la nouvelle qui fait sauter un compte. C'est l'absence de plan.",
+   "secondes": 5.76
+  },
+  "chaleureux": {
+   "wav": "chaleureux.wav",
+   "texte": "Le marché sera encore là demain. Votre capital aussi, si vous le protégez. C'était Victor Castel. À demain, huit heures !",
+   "secondes": 8.05
+  }
+ }
+}

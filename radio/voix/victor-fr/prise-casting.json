@@ -1,0 +1,77 @@
+{
+ "voice": "victor-fr-c",
+ "langue": "fr",
+ "label": "Victor FR, voix chaude au grain de radio",
+ "take": 1,
+ "acts": [
+  "essai"
+ ],
+ "engine": "Qwen3-TTS 1.7B VoiceDesign (Apache-2.0)",
+ "design": "A charismatic French male morning radio host, about 55, with a warm, slightly husky, textured baritone voice, the kind of intimate radio voice listeners trust at dawn, with a smile in it. Calm authority and a lively but unhurried rhythm. Perfect native French broadcast diction from Paris. Close-microphone broadcast studio sound, natural breathing, expressive and human, never robotic, never shouting.",
+ "sr": 24000,
+ "seconds": 46.88,
+ "compute": 325,
+ "text": "Huit heures à Paris. Bonjour la salle ! Ici Victor Castel, et vous écoutez Macro Arsenal Radio. Café serré, écrans allumés : on fait le tour du monde en trois minutes. Ça tombe sur les écrans : l'Asie a ouvert prudemment, le pétrole se tend, et le dollar attend son grand rendez-vous de quatorze heures trente. Souvenir de salle. Quinze janvier deux mille quinze. J'étais au micro quand la Banque nationale suisse a abandonné son cours plancher. En quelques minutes, le franc a bondi de près de trente pour cent face à l'euro. Ce matin-là, j'ai compris une chose : ce n'est pas la nouvelle qui fait sauter un compte. C'est l'absence de plan. Le marché sera encore là demain. Votre capital aussi, si vous le protégez. C'était Victor Castel. À demain, huit heures !",
+ "lines": [
+  {
+   "id": "r1",
+   "text": "Huit heures à Paris. Bonjour la salle !",
+   "tts": "Huit heures à Paris. Bonjour la salle !",
+   "start": 0.0,
+   "end": 2.7
+  },
+  {
+   "id": "r2",
+   "text": "Ici Victor Castel, et vous écoutez MACROARSENAL Radio.",
+   "tts": "Ici Victor Castel, et vous écoutez Macro Arsenal Radio.",
+   "start": 3.0,
+   "end": 7.0
+  },
+  {
+   "id": "r3",
+   "text": "Café serré, écrans allumés : on fait le tour du monde en trois minutes.",
+   "tts": "Café serré, écrans allumés : on fait le tour du monde en trois minutes.",
+   "start": 7.42,
+   "end": 11.58
+  },
+  {
+   "id": "r4",
+   "text": "Ça tombe sur les écrans : l'Asie a ouvert prudemment, le pétrole se tend, et le dollar attend son grand rendez-vous de quatorze heures trente.",
+   "tts": "Ça tombe sur les écrans : l'Asie a ouvert prudemment, le pétrole se tend, et le dollar attend son grand rendez-vous de quatorze heures trente.",
+   "start": 12.18,
+   "end": 19.48
+  },
+  {
+   "id": "r5",
+   "text": "Souvenir de salle. Quinze janvier deux mille quinze. J'étais au micro quand la Banque nationale suisse a abandonné son cours plancher.",
+   "tts": "Souvenir de salle. Quinze janvier deux mille quinze. J'étais au micro quand la Banque nationale suisse a abandonné son cours plancher.",
+   "start": 20.92,
+   "end": 27.74
+  },
+  {
+   "id": "r6",
+   "text": "En quelques minutes, le franc a bondi de près de trente pour cent face à l'euro.",
+   "tts": "En quelques minutes, le franc a bondi de près de trente pour cent face à l'euro.",
+   "start": 27.74,
+   "end": 32.3
+  },
+  {
+   "id": "r7",
+   "text": "Ce matin-là, j'ai compris une chose : ce n'est pas la nouvelle qui fait sauter un compte. C'est l'absence de plan.",
+   "tts": "Ce matin-là, j'ai compris une chose : ce n'est pas la nouvelle qui fait sauter un compte. C'est l'absence de plan.",
+   "start": 33.14,
+   "end": 38.4
+  },
+  {
+   "id": "r8",
+   "text": "Le marché sera encore là demain. Votre capital aussi, si vous le protégez. C'était Victor Castel. À demain, huit heures !",
+   "tts": "Le marché sera encore là demain. Votre capital aussi, si vous le protégez. C'était Victor Castel. À demain, huit heures !",
+   "start": 39.44,
+   "end": 46.74
+  }
+ ],
+ "heard": "Huit heures à Paris, bonjour la salle, ici Victor Castel, et vous écoutez Macro Arsenal Radio. Café serré, écran allumé, on fait le tour du monde en trois minutes. Ça tombe sur les écrans, l'Asie a ouvert prudemment, le pétrole se tend, et le dollar attend son grand rendez-vous de 14h30. Souvenir de salle. 15 janvier 2015, j'étais au micro quand la Banque nationale suisse a abandonné son cours plancher. En quelques minutes, le franc a bondi de près de 30% face à l'euro. Ce matin-là, j'ai compris une chose, ce n'est pas la nouvelle qui fait sauter un compte, c'est l'absence de plan. Le marché sera encore là demain, votre capital aussi si vous le protégez. C'était Victor Castel, à demain huit heures.",
+ "wer": 0.129,
+ "extra": 20,
+ "ok": false
+}
