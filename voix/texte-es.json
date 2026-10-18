@@ -1,0 +1,96 @@
+{
+ "_": "Film « Il était une fois… un logo », version ES (18/10/2026, traduction validée par Kévin). « tts » = texte lu par la voix (MACROARSENAL en deux mots).",
+ "acts": [
+  {
+   "id": "conte",
+   "lines": [
+    {
+     "id": "l1",
+     "text": "Érase una vez… un logo."
+    },
+    {
+     "id": "l2",
+     "text": "Un pequeño escudo de oro que velaba por los mercados del mundo."
+    },
+    {
+     "id": "l3",
+     "text": "Cada noche veía a traders solos frente a sus pantallas."
+    },
+    {
+     "id": "l4",
+     "text": "Miles de cifras. Decisiones que tomar… y nadie con quien hablar."
+    },
+    {
+     "id": "l5",
+     "text": "En el fondo, soñaba con cobrar vida… para estar a su lado."
+    },
+    {
+     "id": "l6",
+     "text": "Así que MACROARSENAL le hizo un compañero.",
+     "tts": "Así que Macro Arsenal le hizo un compañero."
+    },
+    {
+     "id": "l7",
+     "text": "Y una bella mañana… ¡sus ojos se encendieron!"
+    }
+   ]
+  },
+  {
+   "id": "compagnon",
+   "lines": [
+    {
+     "id": "l8",
+     "text": "Desde entonces vela por usted, día y noche. Conoce su cuenta de memoria."
+    },
+    {
+     "id": "l9",
+     "text": "¿Se acerca un dato importante? Le avisa a tiempo."
+    },
+    {
+     "id": "l10",
+     "text": "¿Una pantalla se le resiste? Un clic, y se la explica."
+    },
+    {
+     "id": "l11",
+     "text": "Prepara sus órdenes… pero quien decide es usted. Siempre."
+    },
+    {
+     "id": "l12",
+     "text": "No promete milagros. Le ayuda a mantener la cabeza fría."
+    },
+    {
+     "id": "l13",
+     "text": "Los días de duda, está ahí. Los de victoria, también."
+    },
+    {
+     "id": "l14",
+     "text": "Y a veces… hasta le hace sonreír."
+    },
+    {
+     "id": "l15",
+     "text": "¿Necesita calma? Un clic, y se retira. Vuelve en cuanto lo llama."
+    }
+   ]
+  },
+  {
+   "id": "lien",
+   "lines": [
+    {
+     "id": "l16",
+     "text": "Todavía no tiene nombre. Será usted quien se lo dé."
+    },
+    {
+     "id": "l17",
+     "text": "Tres preguntas al día para conocerse. Quince con Fundador. Y con Arsenal… es todo suyo."
+    },
+    {
+     "id": "l18",
+     "text": "MACROARSENAL. Nunca más opere solo.",
+     "tts": "Macro Arsenal. Nunca más opere solo."
+    }
+   ]
+  }
+ ],
+ "acting": "Léelo como el comienzo de un cuento en una película de animación, en español: empieza suave, casi susurrado, lleno de misterio en 'Érase una vez… un logo', con pausas naturales en cada puntos suspensivos. Melancolía tierna por los traders solos de noche. Luego ternura, calidez y esperanza en 'Así que Macro Arsenal le hizo un compañero', y pura maravilla y alegría en 'sus ojos se encendieron'. Ritmo pausado, cada palabra clara.",
+ "langue": "es"
+}

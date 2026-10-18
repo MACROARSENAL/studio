@@ -8,6 +8,8 @@ import difflib, glob, json, os, re, sys, unicodedata
 from faster_whisper import WhisperModel
 
 DIR = sys.argv[1]
+LANGUE = os.environ.get('LANGUE', 'fr')
+PROMPT = {'fr': 'Macro Arsenal, traders, tradez.', 'en': 'Macro Arsenal, traders, Founder, Arsenal.', 'es': 'Macro Arsenal, traders, Fundador, Arsenal.'}[LANGUE]
 asr = WhisperModel('medium', device='cpu', compute_type='int8')
 
 
@@ -29,6 +31,10 @@ def load16k(path):
 SAME = {'macroarsenal': 'macro arsenal', '15': 'quinze', '3': 'trois', 'tradait': 'tradez', 'tradais': 'tradez', 'trader': 'traders',
         'tradee': 'tradez', 'trade': 'tradez', 'seuls': 'seul', 'promesse': 'promesses', 'miracle': 'miracles', 'ecran': 'ecrans',
         'coeur': 'coeur', 'cur': 'coeur', 'prenoms': 'prenom', 'questions': 'questions', 'compagnons': 'compagnon'}
+if LANGUE == 'en':
+    SAME = {'macroarsenal': 'macro arsenal', '3': 'three', '15': 'fifteen', 'trader': 'traders', 'its': "it's", 'logo': 'logo'}
+elif LANGUE == 'es':
+    SAME = {'macroarsenal': 'macro arsenal', '3': 'tres', '15': 'quince', 'trader': 'traders', 'treiders': 'traders', 'click': 'clic'}
 
 
 def norm(s):
@@ -41,8 +47,8 @@ def norm(s):
 for man in sorted(glob.glob(os.path.join(DIR, '*-l*-p*.json'))):
     M = json.load(open(man, encoding='utf-8'))
     for l in M['lines']:
-        segs, _ = asr.transcribe(load16k(os.path.join(DIR, l['file'])), language='fr', word_timestamps=True, beam_size=5, vad_filter=False,
-                                 initial_prompt='Macro Arsenal, traders, tradez.')
+        segs, _ = asr.transcribe(load16k(os.path.join(DIR, l['file'])), language=LANGUE, word_timestamps=True, beam_size=5, vad_filter=False,
+                                 initial_prompt=PROMPT)
         words = [w for s in segs for w in s.words]
         heard = ''.join(w.word for w in words).strip()
         exp, got = ' '.join(norm(l['tts'])).split(), ' '.join(norm(heard)).split()

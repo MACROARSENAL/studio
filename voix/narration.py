@@ -18,9 +18,12 @@ import torch
 
 VOICE, CTAKE, CDIR, SPAN, TAKE, OUT = sys.argv[1], sys.argv[2], sys.argv[3], sys.argv[4], int(sys.argv[5]), sys.argv[6]
 REF = sys.argv[7] if len(sys.argv) > 7 else 'l1-l2'
+# Langue du film (variable LANGUE : fr, en, es) ; la voix reste celle du conteur, clonée depuis sa prise française.
+LANGUE = os.environ.get('LANGUE', 'fr')
+LANGUAGE = {'fr': 'French', 'en': 'English', 'es': 'Spanish'}[LANGUE]
 os.makedirs(OUT, exist_ok=True)
 HERE = os.path.dirname(os.path.abspath(__file__))
-T = json.load(open(os.path.join(HERE, 'texte.json'), encoding='utf-8'))
+T = json.load(open(os.path.join(HERE, 'texte.json' if LANGUE == 'fr' else f'texte-{LANGUE}.json'), encoding='utf-8'))
 ALL = [l for a in T['acts'] for l in a['lines']]
 IDS = [l['id'] for l in ALL]
 a, b = SPAN.split('-')
@@ -69,7 +72,7 @@ for i, l in enumerate(LINES):
     text = l.get('tts', l['text'])
     torch.manual_seed(7000 + TAKE * 131 + IDS.index(l['id']))
     t1 = time.time()
-    wavs, osr = model.generate_voice_clone(text=text, language='French', voice_clone_prompt=prompt)
+    wavs, osr = model.generate_voice_clone(text=text, language=LANGUAGE, voice_clone_prompt=prompt)
     w = np.asarray(wavs[0], dtype=np.float32)
     path = os.path.join(OUT, f'{VOICE}-c{CTAKE}-{l["id"]}-p{TAKE}.wav')
     sf.write(path, w, osr)
@@ -77,7 +80,7 @@ for i, l in enumerate(LINES):
     out.append({'id': l['id'], 'text': l['text'], 'tts': text, 'file': os.path.basename(path), 'seconds': round(dur, 2), 'compute': round(time.time() - t1)})
     print(f'ok {l["id"]} {dur:.1f}s en {time.time() - t1:.0f}s', flush=True)
 
-json.dump({'voice': VOICE, 'casting_take': CTAKE, 'take': TAKE, 'span': SPAN, 'engine': 'Qwen3-TTS 1.7B Base, voix clonée depuis le casting (Apache-2.0)',
+json.dump({'voice': VOICE, 'langue': LANGUE, 'casting_take': CTAKE, 'take': TAKE, 'span': SPAN, 'engine': 'Qwen3-TTS 1.7B Base, voix clonée depuis le casting (Apache-2.0)',
            'reference': {'from': f'{VOICE}-{CTAKE}', 'span': REF, 'start': round(s0, 2), 'end': round(s1, 2), 'text': ref_text}, 'lines': out},
           open(os.path.join(OUT, f'{VOICE}-c{CTAKE}-{SPAN}-p{TAKE}.json'), 'w', encoding='utf-8'), ensure_ascii=False, indent=1)
 del model; gc.collect()

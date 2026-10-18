@@ -1,0 +1,96 @@
+{
+ "_": "Film « Il était une fois… un logo », version EN (18/10/2026, traduction validée par Kévin). « tts » = texte lu par la voix (MACROARSENAL en deux mots).",
+ "acts": [
+  {
+   "id": "conte",
+   "lines": [
+    {
+     "id": "l1",
+     "text": "Once upon a time… a logo."
+    },
+    {
+     "id": "l2",
+     "text": "A little golden shield, watching over the markets of the world."
+    },
+    {
+     "id": "l3",
+     "text": "Every night, it saw traders, alone in front of their screens."
+    },
+    {
+     "id": "l4",
+     "text": "Thousands of numbers. Decisions to make… and no one to talk to."
+    },
+    {
+     "id": "l5",
+     "text": "Deep down, it dreamed of coming to life… to be by their side."
+    },
+    {
+     "id": "l6",
+     "text": "So MACROARSENAL made you a companion.",
+     "tts": "So Macro Arsenal made you a companion."
+    },
+    {
+     "id": "l7",
+     "text": "And one fine morning… its eyes lit up!"
+    }
+   ]
+  },
+  {
+   "id": "compagnon",
+   "lines": [
+    {
+     "id": "l8",
+     "text": "Ever since, it watches over you, day and night. It knows your account by heart."
+    },
+    {
+     "id": "l9",
+     "text": "A major release coming up? It warns you in time."
+    },
+    {
+     "id": "l10",
+     "text": "A screen doesn't make sense? One click, and it explains it."
+    },
+    {
+     "id": "l11",
+     "text": "It prepares your orders… but you decide. Always."
+    },
+    {
+     "id": "l12",
+     "text": "It doesn't promise miracles. It helps you keep a cool head."
+    },
+    {
+     "id": "l13",
+     "text": "On days of doubt, it's there. On days of victory too."
+    },
+    {
+     "id": "l14",
+     "text": "And sometimes… it even makes you smile."
+    },
+    {
+     "id": "l15",
+     "text": "Need some quiet? One click, and it steps aside. It comes back the moment you call."
+    }
+   ]
+  },
+  {
+   "id": "lien",
+   "lines": [
+    {
+     "id": "l16",
+     "text": "It doesn't have a name yet. You'll be the one to give it."
+    },
+    {
+     "id": "l17",
+     "text": "Three questions a day to get to know each other. Fifteen with Founder. And with Arsenal… it's all yours."
+    },
+    {
+     "id": "l18",
+     "text": "MACROARSENAL. Never trade alone again.",
+     "tts": "Macro Arsenal. Never trade alone again."
+    }
+   ]
+  }
+ ],
+ "acting": "Read it like the opening of a fairy tale in an animated feature film, in English: begin softly, almost whispered, full of mystery on 'Once upon a time… a logo', with long natural pauses at every ellipsis. Gentle melancholy for the lonely traders at night. Then rising tenderness, warmth and hope on 'So Macro Arsenal made you a companion', and pure wonder and joy on 'its eyes lit up'. Slow storytelling pace, every word clear.",
+ "langue": "en"
+}
