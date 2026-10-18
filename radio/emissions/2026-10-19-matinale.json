@@ -1,6 +1,6 @@
 {
  "id": "2026-10-19-matinale",
- "_": "Matinale du lundi 19 octobre 2026 (pilote, préparée le dimanche 18 à 13 h avec les faits vérifiés jusque-là). Sources : AP via La Nación (clôtures du 16/10), ThriveInMarkets (pétrole, or, bitcoin, données du 16/10), Al Jazeera (Ormuz, 17/10), AFP via Oman Observer (mines, 17/10), Reuters via Asharq Al-Awsat (offre iranienne, 18/10), Newsquawk (semaine du 19 au 23/10), Hargreaves Lansdown (résultats), Wikipédia (lundi noir de 1987). Retouche du 18/10 (Kévin : « quand il dit les heures on ne les comprend pas ») : « Il est huit heures à Paris », « sept heures trente », « mercredi à huit heures », « À demain matin, huit heures » ; heure du Times retirée (essai 2026-10-18-essai-heures). Puis (Kévin : « il mange encore les horaires », « supprime ça du discours ») : plus aucune heure dans le texte.",
+ "_": "Matinale du lundi 19 octobre 2026 (pilote, préparée le dimanche 18 à 13 h avec les faits vérifiés jusque-là). Sources : AP via La Nación (clôtures du 16/10), ThriveInMarkets (pétrole, or, bitcoin, données du 16/10), Al Jazeera (Ormuz, 17/10), AFP via Oman Observer (mines, 17/10), Reuters via Asharq Al-Awsat (offre iranienne, 18/10), Newsquawk (semaine du 19 au 23/10), Hargreaves Lansdown (résultats), Wikipédia (lundi noir de 1987). Retouche du 18/10 (Kévin : « quand il dit les heures on ne les comprend pas ») : « Il est huit heures à Paris », « sept heures trente », « mercredi à huit heures », « À demain matin, huit heures » ; heure du Times retirée (essai 2026-10-18-essai-heures). Puis (Kévin : « il mange encore les horaires », « supprime ça du discours ») : plus aucune heure dans le texte. Signatures demandées par Kévin (18/10) : « Huit heures, les marchés se réveillent » et « À demain matin, même heure ».",
  "date": "2026-10-19",
  "site": {
   "genre": "matinale",
@@ -44,7 +44,7 @@
     "son": "intro",
     "rubrique": "ouverture",
     "ton": "energique",
-    "texte": "Les marchés se réveillent. Bonjour la salle ! Ici Victor Castel, et vous écoutez MACROARSENAL Radio. Café serré, écrans allumés : on fait le tour du monde en trois minutes. Lundi dix-neuf octobre, et c'est le pétrole qui donne le ton."
+    "texte": "Huit heures, les marchés se réveillent. Bonjour la salle ! Ici Victor Castel, et vous écoutez MACROARSENAL Radio. Café serré, écrans allumés : on fait le tour du monde en trois minutes. Lundi dix-neuf octobre, et c'est le pétrole qui donne le ton."
    },
    {
     "son": "carillon",
@@ -109,7 +109,7 @@
     "son": "fin",
     "rubrique": "cloture",
     "ton": "chaleureux",
-    "texte": "Le marché sera encore là demain. Votre capital aussi, si vous le protégez. C'était Victor Castel. À demain matin."
+    "texte": "Le marché sera encore là demain. Votre capital aussi, si vous le protégez. C'était Victor Castel. À demain matin, même heure."
    }
   ],
   "en": [
@@ -117,7 +117,7 @@
     "son": "intro",
     "rubrique": "ouverture",
     "ton": "energique",
-    "texte": "The markets are waking up. Good morning, trading floor! This is Victor Castel, and you're listening to MACROARSENAL Radio. Strong coffee, screens on: three minutes around the world. Monday the nineteenth of October, and it's oil that sets the tone."
+    "texte": "Eight o'clock, and the markets are waking up. Good morning, trading floor! This is Victor Castel, and you're listening to MACROARSENAL Radio. Strong coffee, screens on: three minutes around the world. Monday the nineteenth of October, and it's oil that sets the tone."
    },
    {
     "son": "carillon",
@@ -182,7 +182,7 @@
     "son": "fin",
     "rubrique": "cloture",
     "ton": "chaleureux",
-    "texte": "The market will still be here tomorrow. So will your capital, if you protect it. This was Victor Castel. See you tomorrow morning."
+    "texte": "The market will still be here tomorrow. So will your capital, if you protect it. This was Victor Castel. See you tomorrow morning, same time."
    }
   ],
   "es": [
@@ -190,7 +190,7 @@
     "son": "intro",
     "rubrique": "ouverture",
     "ton": "energique",
-    "texte": "Los mercados se despiertan. ¡Buenos días, sala de mercados! Les habla Víctor Castel y esto es MACROARSENAL Radio. Café cargado, pantallas encendidas: la vuelta al mundo en tres minutos. Lunes diecinueve de octubre, y es el petróleo el que marca la pauta."
+    "texte": "Son las ocho, los mercados se despiertan. ¡Buenos días, sala de mercados! Les habla Víctor Castel y esto es MACROARSENAL Radio. Café cargado, pantallas encendidas: la vuelta al mundo en tres minutos. Lunes diecinueve de octubre, y es el petróleo el que marca la pauta."
    },
    {
     "son": "carillon",
@@ -255,7 +255,7 @@
     "son": "fin",
     "rubrique": "cloture",
     "ton": "chaleureux",
-    "texte": "El mercado seguirá aquí mañana. Su capital también, si lo protegen. Les habló Víctor Castel. Hasta mañana."
+    "texte": "El mercado seguirá aquí mañana. Su capital también, si lo protegen. Les habló Víctor Castel. Hasta mañana, a la misma hora."
    }
   ]
  }
