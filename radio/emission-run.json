@@ -1,15 +1,13 @@
 {
  "emission": "radio/emissions/2026-10-19-matinale.json",
  "langues": [
-  "fr"
+  "en",
+  "es"
  ],
  "retouche": {
-  "run": 39122975402,
+  "run": 39129279303,
   "phrases": [
    "00-00",
-   "05-00",
-   "07-00",
-   "10-00",
    "11-01"
   ]
  }
