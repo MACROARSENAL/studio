@@ -5,284 +5,320 @@
    "id": "00-00",
    "bloc": 0,
    "ton": "energique",
-   "text": "The markets are waking up. Good morning, trading floor! This is Victor Castel, and you're listening to MACROARSENAL Radio.",
-   "tts": "The markets are waking up. Good morning, trading floor! This is Victor Castel, and you're listening to Macro Arsenal Radio.",
+   "text": "Eight o'clock, and the markets are waking up. Good morning, trading floor! This is Victor Castel, and you're listening to MACROARSENAL Radio.",
+   "tts": "Eight o'clock, and the markets are waking up. Good morning, trading floor! This is Victor Castel, and you're listening to Macro Arsenal Radio.",
    "gen": {},
    "prise": {
     "prise": 1,
     "file": "en-00-00-p1.wav",
-    "seconds": 7.44,
-    "compute": 56,
-    "heard": "The markets are waking up. Good morning, trading floor. This is Victor Castel, and you're listening to Macro Arsenal Radio.",
+    "seconds": 8.16,
+    "compute": 74,
+    "heard": "Eight o'clock, and the markets are waking up. Good morning, trading floor. This is Victor Castel, and you're listening to MACROARSENAL Radio.",
     "wer": 0.0,
     "extra": 0,
     "speech": [
      0.0,
-     7.24
+     8.0
     ],
-    "rate": 17.0,
+    "rate": 17.8,
     "mots": [
      [
-      "The",
+      "Eight",
       0.0,
-      0.26,
-      0.52
+      0.34,
+      0.39
+     ],
+     [
+      "o",
+      0.34,
+      0.52,
+      0.97
+     ],
+     [
+      "'clock,",
+      0.52,
+      0.76,
+      0.99
+     ],
+     [
+      "and",
+      1.08,
+      1.16,
+      1.0
+     ],
+     [
+      "the",
+      1.16,
+      1.34,
+      1.0
      ],
      [
       "markets",
-      0.26,
-      0.52,
+      1.34,
+      1.66,
       0.99
      ],
      [
       "are",
-      0.52,
-      0.8,
+      1.66,
+      2.02,
       1.0
      ],
      [
       "waking",
-      0.8,
-      0.98,
+      2.02,
+      2.24,
       1.0
      ],
      [
       "up.",
-      0.98,
-      1.5,
+      2.24,
+      2.74,
       1.0
      ],
      [
       "Good",
-      1.94,
-      2.06,
+      2.98,
+      3.08,
       0.99
      ],
      [
       "morning,",
-      2.06,
-      2.44,
+      3.08,
+      3.4,
       0.99
      ],
      [
       "trading",
-      2.7,
-      2.8,
-      0.74
+      3.62,
+      3.74,
+      0.4
      ],
      [
       "floor.",
-      2.8,
-      3.16,
+      3.74,
+      4.04,
       1.0
      ],
      [
       "This",
-      3.62,
-      3.8,
+      4.5,
+      4.7,
       1.0
      ],
      [
       "is",
-      3.8,
-      3.98,
+      4.7,
+      4.9,
       1.0
      ],
      [
       "Victor",
-      3.98,
-      4.22,
-      0.98
+      4.9,
+      5.18,
+      0.99
      ],
      [
       "Castel,",
-      4.22,
-      4.68,
-      0.34
+      5.18,
+      5.7,
+      0.49
      ],
      [
       "and",
-      4.86,
-      4.96,
+      5.96,
+      6.04,
       1.0
      ],
      [
       "you're",
-      4.96,
-      5.14,
-      0.99
+      6.04,
+      6.2,
+      0.98
      ],
      [
       "listening",
-      5.14,
-      5.48,
+      6.2,
+      6.52,
       1.0
      ],
      [
       "to",
-      5.48,
-      6.08,
+      6.52,
+      6.9,
       1.0
      ],
      [
-      "Macro",
-      6.08,
-      6.52,
-      0.93
-     ],
-     [
-      "Arsenal",
-      6.52,
-      6.8,
-      0.95
+      "MACROARSENAL",
+      6.9,
+      7.72,
+      0.59
      ],
      [
       "Radio.",
-      6.8,
-      7.24,
-      0.97
+      7.72,
+      8.0,
+      0.05
      ]
     ],
-    "clarte": 0.34,
+    "clarte": 0.05,
     "ok": true
    },
    "toutes": [
     {
      "prise": 1,
      "file": "en-00-00-p1.wav",
-     "seconds": 7.44,
-     "compute": 56,
-     "heard": "The markets are waking up. Good morning, trading floor. This is Victor Castel, and you're listening to Macro Arsenal Radio.",
+     "seconds": 8.16,
+     "compute": 74,
+     "heard": "Eight o'clock, and the markets are waking up. Good morning, trading floor. This is Victor Castel, and you're listening to MACROARSENAL Radio.",
      "wer": 0.0,
      "extra": 0,
      "speech": [
       0.0,
-      7.24
+      8.0
      ],
-     "rate": 17.0,
+     "rate": 17.8,
      "mots": [
       [
-       "The",
+       "Eight",
        0.0,
-       0.26,
-       0.52
+       0.34,
+       0.39
+      ],
+      [
+       "o",
+       0.34,
+       0.52,
+       0.97
+      ],
+      [
+       "'clock,",
+       0.52,
+       0.76,
+       0.99
+      ],
+      [
+       "and",
+       1.08,
+       1.16,
+       1.0
+      ],
+      [
+       "the",
+       1.16,
+       1.34,
+       1.0
       ],
       [
        "markets",
-       0.26,
-       0.52,
+       1.34,
+       1.66,
        0.99
       ],
       [
        "are",
-       0.52,
-       0.8,
+       1.66,
+       2.02,
        1.0
       ],
       [
        "waking",
-       0.8,
-       0.98,
+       2.02,
+       2.24,
        1.0
       ],
       [
        "up.",
-       0.98,
-       1.5,
+       2.24,
+       2.74,
        1.0
       ],
       [
        "Good",
-       1.94,
-       2.06,
+       2.98,
+       3.08,
        0.99
       ],
       [
        "morning,",
-       2.06,
-       2.44,
+       3.08,
+       3.4,
        0.99
       ],
       [
        "trading",
-       2.7,
-       2.8,
-       0.74
+       3.62,
+       3.74,
+       0.4
       ],
       [
        "floor.",
-       2.8,
-       3.16,
+       3.74,
+       4.04,
        1.0
       ],
       [
        "This",
-       3.62,
-       3.8,
+       4.5,
+       4.7,
        1.0
       ],
       [
        "is",
-       3.8,
-       3.98,
+       4.7,
+       4.9,
        1.0
       ],
       [
        "Victor",
-       3.98,
-       4.22,
-       0.98
+       4.9,
+       5.18,
+       0.99
       ],
       [
        "Castel,",
-       4.22,
-       4.68,
-       0.34
+       5.18,
+       5.7,
+       0.49
       ],
       [
        "and",
-       4.86,
-       4.96,
+       5.96,
+       6.04,
        1.0
       ],
       [
        "you're",
-       4.96,
-       5.14,
-       0.99
+       6.04,
+       6.2,
+       0.98
       ],
       [
        "listening",
-       5.14,
-       5.48,
+       6.2,
+       6.52,
        1.0
       ],
       [
        "to",
-       5.48,
-       6.08,
+       6.52,
+       6.9,
        1.0
       ],
       [
-       "Macro",
-       6.08,
-       6.52,
-       0.93
-      ],
-      [
-       "Arsenal",
-       6.52,
-       6.8,
-       0.95
+       "MACROARSENAL",
+       6.9,
+       7.72,
+       0.59
       ],
       [
        "Radio.",
-       6.8,
-       7.24,
-       0.97
+       7.72,
+       8.0,
+       0.05
       ]
      ],
-     "clarte": 0.34,
+     "clarte": 0.05,
      "ok": true
     }
    ]
@@ -1562,6 +1598,222 @@
    },
    "toutes": [
     {
+     "prise": 1,
+     "file": "en-02-00-p1.wav",
+     "seconds": 13.28,
+     "compute": 95,
+     "heard": "On Wall Street, Tech lost its grip. On Friday, the NASDAQ fell 2.1 percent, its worst week since June, down 4.5 percent. The Dow Jones, meanwhile, ended the week slightly higher.",
+     "wer": 0.108,
+     "extra": 2,
+     "speech": [
+      0.0,
+      13.16
+     ],
+     "rate": 15.3,
+     "mots": [
+      [
+       "On",
+       0.0,
+       0.64,
+       0.88
+      ],
+      [
+       "Wall",
+       0.64,
+       0.9,
+       0.99
+      ],
+      [
+       "Street,",
+       0.9,
+       1.22,
+       0.98
+      ],
+      [
+       "Tech",
+       1.44,
+       1.6,
+       0.41
+      ],
+      [
+       "lost",
+       1.6,
+       1.96,
+       1.0
+      ],
+      [
+       "its",
+       1.96,
+       2.22,
+       0.94
+      ],
+      [
+       "grip.",
+       2.22,
+       2.46,
+       1.0
+      ],
+      [
+       "On",
+       3.08,
+       3.26,
+       0.99
+      ],
+      [
+       "Friday,",
+       3.26,
+       3.62,
+       1.0
+      ],
+      [
+       "the",
+       3.8,
+       3.94,
+       0.97
+      ],
+      [
+       "NASDAQ",
+       3.94,
+       4.44,
+       0.78
+      ],
+      [
+       "fell",
+       4.44,
+       4.7,
+       1.0
+      ],
+      [
+       "2",
+       4.7,
+       5.08,
+       0.99
+      ],
+      [
+       ".1",
+       5.08,
+       5.62,
+       1.0
+      ],
+      [
+       "percent,",
+       5.62,
+       6.12,
+       0.5
+      ],
+      [
+       "its",
+       6.42,
+       6.64,
+       0.96
+      ],
+      [
+       "worst",
+       6.64,
+       6.86,
+       1.0
+      ],
+      [
+       "week",
+       6.86,
+       7.1,
+       1.0
+      ],
+      [
+       "since",
+       7.1,
+       7.44,
+       1.0
+      ],
+      [
+       "June,",
+       7.44,
+       7.86,
+       1.0
+      ],
+      [
+       "down",
+       8.28,
+       8.52,
+       1.0
+      ],
+      [
+       "4",
+       8.52,
+       8.98,
+       0.99
+      ],
+      [
+       ".5",
+       8.98,
+       9.56,
+       1.0
+      ],
+      [
+       "percent.",
+       9.56,
+       9.96,
+       0.99
+      ],
+      [
+       "The",
+       10.26,
+       10.4,
+       0.99
+      ],
+      [
+       "Dow",
+       10.4,
+       10.62,
+       1.0
+      ],
+      [
+       "Jones,",
+       10.62,
+       10.94,
+       1.0
+      ],
+      [
+       "meanwhile,",
+       10.94,
+       11.56,
+       1.0
+      ],
+      [
+       "ended",
+       11.96,
+       12.0,
+       1.0
+      ],
+      [
+       "the",
+       12.0,
+       12.2,
+       1.0
+      ],
+      [
+       "week",
+       12.2,
+       12.38,
+       0.99
+      ],
+      [
+       "slightly",
+       12.38,
+       12.8,
+       1.0
+      ],
+      [
+       "higher.",
+       12.8,
+       13.16,
+       1.0
+      ]
+     ],
+     "clarte": 0.41,
+     "ok": false
+    },
+    {
      "prise": 2,
      "file": "en-02-00-p2.wav",
      "seconds": 13.76,
@@ -2411,222 +2663,6 @@
       ]
      ],
      "clarte": 0.37,
-     "ok": false
-    },
-    {
-     "prise": 1,
-     "file": "en-02-00-p1.wav",
-     "seconds": 13.28,
-     "compute": 95,
-     "heard": "On Wall Street, Tech lost its grip. On Friday, the NASDAQ fell 2.1 percent, its worst week since June, down 4.5 percent. The Dow Jones, meanwhile, ended the week slightly higher.",
-     "wer": 0.108,
-     "extra": 2,
-     "speech": [
-      0.0,
-      13.16
-     ],
-     "rate": 15.3,
-     "mots": [
-      [
-       "On",
-       0.0,
-       0.64,
-       0.88
-      ],
-      [
-       "Wall",
-       0.64,
-       0.9,
-       0.99
-      ],
-      [
-       "Street,",
-       0.9,
-       1.22,
-       0.98
-      ],
-      [
-       "Tech",
-       1.44,
-       1.6,
-       0.41
-      ],
-      [
-       "lost",
-       1.6,
-       1.96,
-       1.0
-      ],
-      [
-       "its",
-       1.96,
-       2.22,
-       0.94
-      ],
-      [
-       "grip.",
-       2.22,
-       2.46,
-       1.0
-      ],
-      [
-       "On",
-       3.08,
-       3.26,
-       0.99
-      ],
-      [
-       "Friday,",
-       3.26,
-       3.62,
-       1.0
-      ],
-      [
-       "the",
-       3.8,
-       3.94,
-       0.97
-      ],
-      [
-       "NASDAQ",
-       3.94,
-       4.44,
-       0.78
-      ],
-      [
-       "fell",
-       4.44,
-       4.7,
-       1.0
-      ],
-      [
-       "2",
-       4.7,
-       5.08,
-       0.99
-      ],
-      [
-       ".1",
-       5.08,
-       5.62,
-       1.0
-      ],
-      [
-       "percent,",
-       5.62,
-       6.12,
-       0.5
-      ],
-      [
-       "its",
-       6.42,
-       6.64,
-       0.96
-      ],
-      [
-       "worst",
-       6.64,
-       6.86,
-       1.0
-      ],
-      [
-       "week",
-       6.86,
-       7.1,
-       1.0
-      ],
-      [
-       "since",
-       7.1,
-       7.44,
-       1.0
-      ],
-      [
-       "June,",
-       7.44,
-       7.86,
-       1.0
-      ],
-      [
-       "down",
-       8.28,
-       8.52,
-       1.0
-      ],
-      [
-       "4",
-       8.52,
-       8.98,
-       0.99
-      ],
-      [
-       ".5",
-       8.98,
-       9.56,
-       1.0
-      ],
-      [
-       "percent.",
-       9.56,
-       9.96,
-       0.99
-      ],
-      [
-       "The",
-       10.26,
-       10.4,
-       0.99
-      ],
-      [
-       "Dow",
-       10.4,
-       10.62,
-       1.0
-      ],
-      [
-       "Jones,",
-       10.62,
-       10.94,
-       1.0
-      ],
-      [
-       "meanwhile,",
-       10.94,
-       11.56,
-       1.0
-      ],
-      [
-       "ended",
-       11.96,
-       12.0,
-       1.0
-      ],
-      [
-       "the",
-       12.0,
-       12.2,
-       1.0
-      ],
-      [
-       "week",
-       12.2,
-       12.38,
-       0.99
-      ],
-      [
-       "slightly",
-       12.38,
-       12.8,
-       1.0
-      ],
-      [
-       "higher.",
-       12.8,
-       13.16,
-       1.0
-      ]
-     ],
-     "clarte": 0.41,
      "ok": false
     }
    ]
@@ -7847,92 +7883,116 @@
    "id": "11-01",
    "bloc": 11,
    "ton": "chaleureux",
-   "text": "See you tomorrow morning.",
-   "tts": "See you tomorrow morning.",
+   "text": "See you tomorrow morning, same time.",
+   "tts": "See you tomorrow morning, same time.",
    "gen": {},
    "prise": {
     "prise": 1,
     "file": "en-11-01-p1.wav",
-    "seconds": 1.28,
-    "compute": 17,
-    "heard": "See you tomorrow morning.",
+    "seconds": 2.32,
+    "compute": 25,
+    "heard": "See you tomorrow morning, same time.",
     "wer": 0.0,
     "extra": 0,
     "speech": [
      0.0,
-     1.2
+     2.06
     ],
-    "rate": 20.8,
+    "rate": 17.5,
     "mots": [
      [
       "See",
       0.0,
-      0.36,
-      0.94
+      0.4,
+      0.96
      ],
      [
       "you",
-      0.36,
-      0.54,
+      0.4,
+      0.6,
       1.0
      ],
      [
       "tomorrow",
-      0.54,
-      0.88,
+      0.6,
+      0.9,
       1.0
      ],
      [
-      "morning.",
-      0.88,
-      1.2,
-      0.99
+      "morning,",
+      0.9,
+      1.32,
+      1.0
+     ],
+     [
+      "same",
+      1.58,
+      1.76,
+      1.0
+     ],
+     [
+      "time.",
+      1.76,
+      2.06,
+      1.0
      ]
     ],
-    "clarte": 0.94,
+    "clarte": 0.96,
     "ok": true
    },
    "toutes": [
     {
      "prise": 1,
      "file": "en-11-01-p1.wav",
-     "seconds": 1.28,
-     "compute": 17,
-     "heard": "See you tomorrow morning.",
+     "seconds": 2.32,
+     "compute": 25,
+     "heard": "See you tomorrow morning, same time.",
      "wer": 0.0,
      "extra": 0,
      "speech": [
       0.0,
-      1.2
+      2.06
      ],
-     "rate": 20.8,
+     "rate": 17.5,
      "mots": [
       [
        "See",
        0.0,
-       0.36,
-       0.94
+       0.4,
+       0.96
       ],
       [
        "you",
-       0.36,
-       0.54,
+       0.4,
+       0.6,
        1.0
       ],
       [
        "tomorrow",
-       0.54,
-       0.88,
+       0.6,
+       0.9,
        1.0
       ],
       [
-       "morning.",
-       0.88,
-       1.2,
-       0.99
+       "morning,",
+       0.9,
+       1.32,
+       1.0
+      ],
+      [
+       "same",
+       1.58,
+       1.76,
+       1.0
+      ],
+      [
+       "time.",
+       1.76,
+       2.06,
+       1.0
       ]
      ],
-     "clarte": 0.94,
+     "clarte": 0.96,
      "ok": true
     }
    ]
