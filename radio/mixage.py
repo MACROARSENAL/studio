@@ -38,7 +38,8 @@ INTRO_VOIX = 3.55      # la voix entre pendant l'accord tenu de « NAL »
 CARILLON_VOIX = 0.62   # la nouvelle tombe juste après les deux notes
 VIRGULE_VOIX = 0.75
 SOUVENIR_VOIX = 1.35   # la harpe a fini de descendre
-ROOM = impulse(rt60=0.32, pre=0.005, bright=9000, damp=5000, width=0.4, seed=21)
+# Une vraie cabine de radio est sèche : juste quelques réflexions très courtes, à peine audibles.
+ROOM = impulse(rt60=0.18, pre=0.004, bright=8000, damp=4500, width=0.35, seed=21)
 
 
 def niveau_parole(x):
@@ -54,7 +55,7 @@ def niveau_parole(x):
 def phrase(sid):
     p = C[sid]['prise']
     x = load(os.path.join(PRISES, p['file']))
-    x, _ = trim_silence(x, thresh_db=-42, pre=0.05, post=0.2)
+    x, _ = trim_silence(x, thresh_db=-52, pre=0.14, post=0.24)   # on garde les respirations : c'est ce qui fait vrai
     return x * db(-20 - niveau_parole(x))           # toutes les phrases au même niveau avant la chaîne
 
 
@@ -68,10 +69,26 @@ def pause_apres(text):
 
 
 def chaine_voix(x):
-    x = eq(x, ('hp', 80), ('peak', 170, 1.5, 0.9), ('peak', 380, -2.0, 1.1), ('peak', 3300, 2.5, 0.9), ('highshelf', 9500, 1.5))
-    x, _ = compress(x, threshold_db=-24, ratio=3.0, attack=0.005, release=0.08, makeup_db=4)
-    x = deess(x)
-    return reverb(x, ROOM, wet_db=-26)
+    """Chaîne d'un studio de radio, réglée pour sonner vrai (demande de Kévin, 18/10 : « une touche plus réaliste ») :
+    chaleur de proximité du micro, un peu moins de « boue », présence douce ; deux compresseurs légers (un qui nivelle
+    lentement, un qui tient les crêtes) plutôt qu'un seul qui écrase ; une saturation à peine perceptible en parallèle
+    (les harmoniques d'une console analogique) ; une cabine sèche."""
+    x = eq(x, ('hp', 70), ('lowshelf', 160, 2.0), ('peak', 320, -1.8, 1.0), ('peak', 2600, -0.8, 1.2), ('peak', 4200, 1.8, 0.8), ('highshelf', 10000, 1.0))
+    x, _ = compress(x, threshold_db=-28, ratio=1.8, attack=0.02, release=0.35, knee_db=10, makeup_db=2.5)
+    x, _ = compress(x, threshold_db=-16, ratio=4.0, attack=0.003, release=0.06, makeup_db=1.0)
+    x = deess(x, threshold_db=-30)
+    sat = np.tanh(x * 2.2) / np.tanh(2.2)
+    x = 0.88 * x + 0.12 * eq(sat.astype(np.float32), ('lp', 9000))
+    return reverb(x, ROOM, wet_db=-31)
+
+
+def bruit_de_cabine(n, seed=7):
+    """Le souffle d'une cabine (ventilation, préampli) : jamais de silence numérique parfait entre deux phrases."""
+    rng = np.random.default_rng(seed)
+    w = rng.standard_normal((n, 2)).astype(np.float32)
+    w = eq(w, ('hp', 90), ('lp', 5200), ('lowshelf', 300, 3.0))
+    w[:, 1] = 0.7 * w[:, 1] + 0.3 * w[:, 0]
+    return w / np.sqrt((w ** 2).mean()) * db(-69)
 
 
 def boucle(name, dur, fin=1.0, fout=1.5):
@@ -145,6 +162,12 @@ gi = np.interp(np.arange(len(voice)), np.arange(len(g)) * step, g)
 duck = db(-11 * gi).astype(np.float32)          # fond musical
 duck_s = db(-16 * gi).astype(np.float32)        # fin d'un indicatif ou d'un carillon sous les premiers mots
 mix = voice + music * duck[:, None] + stings * duck_s[:, None]
+# Souffle de cabine sous tout le programme (entre en douceur après l'indicatif, s'efface sous l'indicatif de fin)
+tone = bruit_de_cabine(len(mix))
+env_tone = np.ones(len(mix), np.float32)
+env_tone[: int(2.0 * SR)] = np.linspace(0, 1, int(2.0 * SR))
+env_tone[-int(5.0 * SR):] = np.linspace(1, 0, int(5.0 * SR))
+mix = mix + tone * env_tone[:, None]
 
 if os.environ.get('STEMS'):  # pistes séparées, pour vérifier les équilibres
     for n, x in (('voix', voice), ('fond', music * duck[:, None]), ('habillage', stings * duck_s[:, None])):

@@ -28,9 +28,10 @@ def note(level, title, msg):
     print(f'::{level} title={title}::{msg}', flush=True)
 
 
-def phrases(texte, max_len=240):
-    """Découpe un bloc en phrases (une phrase = un fichier : contrôle et reprise plus faciles).
-    Une phrase très courte rejoint la suivante ; une phrase très longue est coupée à la virgule la plus proche du milieu."""
+def phrases(texte, max_len=240, chunk=230):
+    """Découpe un bloc en passages de deux ou trois phrases (≈ 230 caractères au plus) : lues d'une traite, elles gardent
+    l'intonation naturelle d'un vrai speaker (une phrase isolée « repart à zéro » et sonne lu). Une phrase très longue est
+    coupée à la virgule la plus proche du milieu. Un passage = un fichier : contrôle et reprise faciles."""
     parts = [p.strip() for p in re.split(r'(?<=[.!?…])\s+', texte.strip()) if p.strip()]
     out = []
     for p in parts:
@@ -45,7 +46,13 @@ def phrases(texte, max_len=240):
             c = min(cuts, key=lambda k: abs(k - mid))
             out.append(p[:c].strip()); p = p[c:].strip()
         out.append(p)
-    return out
+    grouped = []
+    for p in out:
+        if grouped and len(grouped[-1]) + 1 + len(p) <= chunk and grouped[-1].count('. ') + grouped[-1].count('? ') + grouped[-1].count('! ') < 2:
+            grouped[-1] = grouped[-1] + ' ' + p
+        else:
+            grouped.append(p)
+    return grouped
 
 
 def a_lire(t):
