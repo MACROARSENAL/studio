@@ -1,0 +1,70 @@
+{
+ "voice": "conteur-es",
+ "langue": "es",
+ "label": "Narrador (España, grave y cálido)",
+ "take": 2,
+ "acts": [
+  "conte"
+ ],
+ "engine": "Qwen3-TTS 1.7B VoiceDesign (Apache-2.0)",
+ "design": "A warm, gentle male storyteller from Madrid in his fifties with a rich, velvety, deep baritone voice, like the Spanish narrator of a classic animated family film. He tells a fairy tale with wonder and tenderness and a smile in his voice. Native Castilian Spanish from Spain, perfect diction, no foreign accent. Intimate close-microphone studio recording, natural breathing, unhurried expressive delivery, never robotic.",
+ "sr": 24000,
+ "seconds": 30.8,
+ "compute": 241,
+ "text": "Érase una vez… un logo. Un pequeño escudo de oro que velaba por los mercados del mundo. Cada noche veía a traders solos frente a sus pantallas. Miles de cifras. Decisiones que tomar… y nadie con quien hablar. En el fondo, soñaba con cobrar vida… para estar a su lado. Así que Macro Arsenal le hizo un compañero. Y una bella mañana… ¡sus ojos se encendieron!",
+ "lines": [
+  {
+   "id": "l1",
+   "text": "Érase una vez… un logo.",
+   "tts": "Érase una vez… un logo.",
+   "start": 0.0,
+   "end": 1.92
+  },
+  {
+   "id": "l2",
+   "text": "Un pequeño escudo de oro que velaba por los mercados del mundo.",
+   "tts": "Un pequeño escudo de oro que velaba por los mercados del mundo.",
+   "start": 3.04,
+   "end": 6.7
+  },
+  {
+   "id": "l3",
+   "text": "Cada noche veía a traders solos frente a sus pantallas.",
+   "tts": "Cada noche veía a traders solos frente a sus pantallas.",
+   "start": 7.28,
+   "end": 11.22
+  },
+  {
+   "id": "l4",
+   "text": "Miles de cifras. Decisiones que tomar… y nadie con quien hablar.",
+   "tts": "Miles de cifras. Decisiones que tomar… y nadie con quien hablar.",
+   "start": 11.64,
+   "end": 16.42
+  },
+  {
+   "id": "l5",
+   "text": "En el fondo, soñaba con cobrar vida… para estar a su lado.",
+   "tts": "En el fondo, soñaba con cobrar vida… para estar a su lado.",
+   "start": 16.96,
+   "end": 21.5
+  },
+  {
+   "id": "l6",
+   "text": "Así que MACROARSENAL le hizo un compañero.",
+   "tts": "Así que Macro Arsenal le hizo un compañero.",
+   "start": 22.22,
+   "end": 25.34
+  },
+  {
+   "id": "l7",
+   "text": "Y una bella mañana… ¡sus ojos se encendieron!",
+   "tts": "Y una bella mañana… ¡sus ojos se encendieron!",
+   "start": 25.34,
+   "end": 30.46
+  }
+ ],
+ "heard": "Érase una vez un loco, un pequeño escudo de oro que velaba por los mercados del mundo. Cada noche veía a Trader solos frente a sus pantallas. Miles de cifras. Decisiones que tomar y nadie con quien hablar. En el fondo soñaba con cobrar vida para estar a su lado. Así que Macro Arsenal le hizo un compañero y una bella mañana. Sus ojos se encendieron.",
+ "wer": 0.015,
+ "extra": 1,
+ "ok": true
+}

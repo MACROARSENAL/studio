@@ -1,0 +1,70 @@
+{
+ "voice": "conteur-en-us",
+ "langue": "en",
+ "label": "Storyteller (US, deep and warm)",
+ "take": 2,
+ "acts": [
+  "conte"
+ ],
+ "engine": "Qwen3-TTS 1.7B VoiceDesign (Apache-2.0)",
+ "design": "A warm, gentle American male storyteller in his fifties with a rich, velvety, deep baritone voice, like the narrator of a classic animated family film. He tells a fairy tale with wonder and tenderness and a smile in his voice. Native General American English, no foreign accent. Intimate close-microphone studio recording, natural breathing, unhurried expressive delivery, never robotic.",
+ "sr": 24000,
+ "seconds": 30.24,
+ "compute": 182,
+ "text": "Once upon a time… a logo. A little golden shield, watching over the markets of the world. Every night, it saw traders, alone in front of their screens. Thousands of numbers. Decisions to make… and no one to talk to. Deep down, it dreamed of coming to life… to be by their side. So Macro Arsenal made you a companion. And one fine morning… its eyes lit up!",
+ "lines": [
+  {
+   "id": "l1",
+   "text": "Once upon a time… a logo.",
+   "tts": "Once upon a time… a logo.",
+   "start": 0.0,
+   "end": 1.84
+  },
+  {
+   "id": "l2",
+   "text": "A little golden shield, watching over the markets of the world.",
+   "tts": "A little golden shield, watching over the markets of the world.",
+   "start": 2.78,
+   "end": 6.2
+  },
+  {
+   "id": "l3",
+   "text": "Every night, it saw traders, alone in front of their screens.",
+   "tts": "Every night, it saw traders, alone in front of their screens.",
+   "start": 7.18,
+   "end": 11.12
+  },
+  {
+   "id": "l4",
+   "text": "Thousands of numbers. Decisions to make… and no one to talk to.",
+   "tts": "Thousands of numbers. Decisions to make… and no one to talk to.",
+   "start": 12.0,
+   "end": 17.04
+  },
+  {
+   "id": "l5",
+   "text": "Deep down, it dreamed of coming to life… to be by their side.",
+   "tts": "Deep down, it dreamed of coming to life… to be by their side.",
+   "start": 17.86,
+   "end": 22.24
+  },
+  {
+   "id": "l6",
+   "text": "So MACROARSENAL made you a companion.",
+   "tts": "So Macro Arsenal made you a companion.",
+   "start": 23.22,
+   "end": 26.02
+  },
+  {
+   "id": "l7",
+   "text": "And one fine morning… its eyes lit up!",
+   "tts": "And one fine morning… its eyes lit up!",
+   "start": 27.14,
+   "end": 30.06
+  }
+ ],
+ "heard": "Once upon a time, a logo, a little golden shield watching over the markets of the world. Every night it saw traitors alone in front of their screens, thousands of numbers, decisions to make, and no one to talk to. Deep down, it dreamed of coming to life to be by their side. So macro arsenal made you a companion, and one fine morning, its eyes lit up.",
+ "wer": 0.015,
+ "extra": 1,
+ "ok": true
+}
