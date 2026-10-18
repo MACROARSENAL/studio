@@ -216,9 +216,11 @@ for m, M in loaded:
 
 choix, redo = {}, []
 for sid, s in sorted(phr.items()):
-    # à égalité, la prise où l'heure est dite le plus posément
-    best = min(s['prises'].values(), key=lambda p: (not p['ok'], p['wer'], p['extra'], -(p.get('heure') or {}).get('duree', 0),
-                                                    abs(p.get('rate', CPS) - CPS)))
+    # à égalité, la prise où l'heure est la plus nette : dite posément (durée rapportée au minimum) et bien reconnue
+    def nettete(p):
+        h = p.get('heure') or {}
+        return h.get('duree', 0) / max(h.get('mini') or 0.34, 0.1) + h.get('confiance', 0) if h else 0
+    best = min(s['prises'].values(), key=lambda p: (not p['ok'], p['wer'], p['extra'], -nettete(p), abs(p.get('rate', CPS) - CPS)))
     choix[sid] = {k: v for k, v in s.items() if k != 'prises'} | {'prise': best, 'toutes': list(s['prises'].values())}
     if not best['ok']:
         redo.append(sid)
