@@ -2,6 +2,7 @@
 
 Usage : python radio/publier.py <émission.json> <dossier des sons>
         (le dossier de l'émission sur la branche « emissions » : <id>-<langue>.mp3 et <id>-<langue>-minutage.json)
+        python radio/publier.py --verifier   (contrôle des secrets et de l'accès à Supabase, sans rien publier)
 Variables : SUPABASE_URL et SUPABASE_SERVICE_ROLE_KEY (secrets du dépôt). Sans elles, rien n'est publié (simple avis).
 
 - Le MP3 de chaque langue fabriquée part dans le stockage Supabase (dossier public « radio »), sous un nom propre à
@@ -69,7 +70,23 @@ def nom_objet(url):
     return url.split(PUBLIC, 1)[1] if PUBLIC in url else None
 
 
+def verifier():
+    """Contrôle des secrets, sans rien publier ni rien créer : lecture du dossier « radio » du stockage et de la fiche
+    market_stats « radio ». Sert une fois les secrets rangés (Kévin, 18/10/2026), avant le redémarrage de la radio."""
+    if not URL or not KEY:
+        manque = [n for n, v in (('SUPABASE_URL', URL), ('SUPABASE_SERVICE_ROLE_KEY', KEY)) if not v]
+        raise Refus(f"secret(s) absent(s) du dépôt : {', '.join(manque)}")
+    code, _ = appel('GET', '/storage/v1/bucket/radio', accepte=(400, 404))
+    dossier = 'présent' if code == 200 else 'absent (il sera créé à la première mise à l\'antenne)'
+    _, rows = appel('GET', '/rest/v1/market_stats?select=id,updated_at&id=eq.radio')
+    fiche = f"présente (mise à jour le {rows[0]['updated_at'][:10]})" if rows else 'aucune pour l\'instant'
+    note('notice', f"Connexion à Supabase réussie. Stockage accessible : dossier « radio » {dossier}. "
+                   f"Base accessible : fiche « radio » {fiche}. Rien n'a été publié.")
+
+
 def main():
+    if sys.argv[1:2] == ['--verifier']:
+        return verifier()
     emi, dossier = sys.argv[1:3]
     E = json.load(open(emi, encoding='utf-8'))
     S = E.get('site') or {}
