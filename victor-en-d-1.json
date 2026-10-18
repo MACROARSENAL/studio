@@ -1,0 +1,78 @@
+{
+ "voice": "victor-en-d",
+ "langue": "en",
+ "label": "Victor EN, American, warm and husky (FR 3 model)",
+ "take": 1,
+ "acts": [
+  "essai"
+ ],
+ "engine": "Qwen3-TTS 1.7B VoiceDesign (Apache-2.0)",
+ "design": "A charismatic American male morning radio host, about 55, with a warm, slightly husky, textured baritone voice, the kind of intimate radio voice listeners trust at dawn, with a smile in it. Calm authority and an unhurried rhythm. Native General American English broadcast diction, no foreign accent. Close-microphone broadcast studio sound, natural breathing, expressive and human, never robotic, never shouting.",
+ "acting": "Read it like a trusted morning radio voice: calm and warm, relaxed and unhurried, never pushy, never excited; a gentle, smiling opening; clear, steady headlines; an intimate, slightly amused tone when the memory starts, turning quiet and serious on the lesson; a warm, confident sign-off. Natural pauses, every word clear.",
+ "sr": 24000,
+ "seconds": 52.56,
+ "compute": 314,
+ "text": "Eight a.m. in Paris. Good morning, trading floor! This is Victor Castel, and you're listening to Macro Arsenal Radio. Strong coffee, screens on: three minutes around the world. Crossing the screens: Asia opened cautiously, oil is firming, and the dollar is waiting for its big moment at two thirty, Paris time. From the floor. January the fifteenth, twenty fifteen. I was on the microphone when the Swiss National Bank scrapped its floor. Within minutes, the franc jumped almost thirty percent against the euro. That morning, I understood one thing: it's not the news that blows up an account. It's having no plan. The market will still be here tomorrow. So will your capital, if you protect it. This was Victor Castel. See you tomorrow at eight!",
+ "lines": [
+  {
+   "id": "r1",
+   "text": "Eight a.m. in Paris. Good morning, trading floor!",
+   "tts": "Eight a.m. in Paris. Good morning, trading floor!",
+   "start": 0.32,
+   "end": 3.04
+  },
+  {
+   "id": "r2",
+   "text": "This is Victor Castel, and you're listening to MACROARSENAL Radio.",
+   "tts": "This is Victor Castel, and you're listening to Macro Arsenal Radio.",
+   "start": 3.48,
+   "end": 7.32
+  },
+  {
+   "id": "r3",
+   "text": "Strong coffee, screens on: three minutes around the world.",
+   "tts": "Strong coffee, screens on: three minutes around the world.",
+   "start": 7.92,
+   "end": 12.04
+  },
+  {
+   "id": "r4",
+   "text": "Crossing the screens: Asia opened cautiously, oil is firming, and the dollar is waiting for its big moment at two thirty, Paris time.",
+   "tts": "Crossing the screens: Asia opened cautiously, oil is firming, and the dollar is waiting for its big moment at two thirty, Paris time.",
+   "start": 12.82,
+   "end": 21.48
+  },
+  {
+   "id": "r5",
+   "text": "From the floor. January the fifteenth, twenty fifteen. I was on the microphone when the Swiss National Bank scrapped its floor.",
+   "tts": "From the floor. January the fifteenth, twenty fifteen. I was on the microphone when the Swiss National Bank scrapped its floor.",
+   "start": 22.18,
+   "end": 30.2
+  },
+  {
+   "id": "r6",
+   "text": "Within minutes, the franc jumped almost thirty percent against the euro.",
+   "tts": "Within minutes, the franc jumped almost thirty percent against the euro.",
+   "start": 30.8,
+   "end": 34.9
+  },
+  {
+   "id": "r7",
+   "text": "That morning, I understood one thing: it's not the news that blows up an account. It's having no plan.",
+   "tts": "That morning, I understood one thing: it's not the news that blows up an account. It's having no plan.",
+   "start": 35.58,
+   "end": 42.42
+  },
+  {
+   "id": "r8",
+   "text": "The market will still be here tomorrow. So will your capital, if you protect it. This was Victor Castel. See you tomorrow at eight!",
+   "tts": "The market will still be here tomorrow. So will your capital, if you protect it. This was Victor Castel. See you tomorrow at eight!",
+   "start": 43.12,
+   "end": 52.38
+  }
+ ],
+ "heard": "8 a.m. in Paris. Good morning, trading floor. This is Victor Castell, and you're listening to Macro Arsenal Radio. Strong coffee, screens on, three minutes around the world. Crossing the screens, Asia opened cautiously. Oil is firming, and the dollar is waiting for its big moment at 2.30 Paris time. From the floor, January the 15th, 2015. I was on the microphone when the Swiss National Bank scrapped its floor. Within minutes, the franc jumped almost 30% against the euro. That morning, I understood one thing. It's not the news that blows up an account. It's having no plan. The market will still be here tomorrow. So will your capital, if you protect it. This was Victor Castell. See you tomorrow at eight.",
+ "wer": 0.077,
+ "extra": 8,
+ "ok": false
+}
