@@ -19,7 +19,15 @@
    "tts": "Meet your Macro Arsenal assistant.",
    "file": "conteur-en-c1-c1-p2.wav",
    "seconds": 2.56,
-   "compute": 24
+   "compute": 24,
+   "heard": "Meet your Macro Arsenal Assistant.",
+   "wer": 0.0,
+   "extra": 0,
+   "speech": [
+    0.0,
+    2.46
+   ],
+   "ok": true
   },
   {
    "id": "c2",
@@ -27,7 +35,15 @@
    "tts": "It knows the terminal by heart, and it keeps an eye on your markets, every day.",
    "file": "conteur-en-c1-c2-p2.wav",
    "seconds": 5.12,
-   "compute": 43
+   "compute": 43,
+   "heard": "It knows the terminal by heart and it keeps an eye on your markets every day.",
+   "wer": 0.0,
+   "extra": 0,
+   "speech": [
+    0.0,
+    4.92
+   ],
+   "ok": true
   },
   {
    "id": "c3",
@@ -35,7 +51,15 @@
    "tts": "Every morning, three things are waiting for you: My morning, the Daily Bias, and the quiz.",
    "file": "conteur-en-c1-c3-p2.wav",
    "seconds": 6.56,
-   "compute": 53
+   "compute": 53,
+   "heard": "Every morning three things are waiting for you. My morning, the daily bias, and the quiz.",
+   "wer": 0.0,
+   "extra": 0,
+   "speech": [
+    0.0,
+    6.46
+   ],
+   "ok": true
   },
   {
    "id": "c4",
@@ -43,7 +67,15 @@
    "tts": "Give it a name… and ask it all your questions.",
    "file": "conteur-en-c1-c4-p2.wav",
    "seconds": 4.0,
-   "compute": 34
+   "compute": 34,
+   "heard": "Give it a name and ask it all your questions.",
+   "wer": 0.0,
+   "extra": 0,
+   "speech": [
+    0.84,
+    3.74
+   ],
+   "ok": true
   }
  ]
 }

@@ -19,7 +19,15 @@
    "tts": "Voici votre assistant Macro Arsenal.",
    "file": "conteur-c1-c1-p3.wav",
    "seconds": 2.08,
-   "compute": 16
+   "compute": 16,
+   "heard": "Voici votre assistant Macro Arsenal.",
+   "wer": 0.0,
+   "extra": 0,
+   "speech": [
+    0.0,
+    1.9
+   ],
+   "ok": true
   },
   {
    "id": "c2",
@@ -27,7 +35,15 @@
    "tts": "Il connaît le terminal par cœur, et il veille sur vos marchés, chaque jour.",
    "file": "conteur-c1-c2-p3.wav",
    "seconds": 5.28,
-   "compute": 34
+   "compute": 34,
+   "heard": "Il connaît le terminal par cœur et il veille sur vos marchés chaque jour.",
+   "wer": 0.0,
+   "extra": 0,
+   "speech": [
+    0.0,
+    5.04
+   ],
+   "ok": true
   },
   {
    "id": "c3",
@@ -35,7 +51,15 @@
    "tts": "Chaque matin, trois rendez-vous vous attendent : Mon matin, le Biais du jour, et le quiz.",
    "file": "conteur-c1-c3-p3.wav",
    "seconds": 6.0,
-   "compute": 37
+   "compute": 37,
+   "heard": "Chaque matin, trois rendez-vous vous attendent. Mon matin, le biais du jour et le quiz.",
+   "wer": 0.0,
+   "extra": 0,
+   "speech": [
+    0.72,
+    5.92
+   ],
+   "ok": true
   },
   {
    "id": "c4",
@@ -43,7 +67,15 @@
    "tts": "Donnez-lui un prénom… et posez-lui toutes vos questions.",
    "file": "conteur-c1-c4-p3.wav",
    "seconds": 3.12,
-   "compute": 21
+   "compute": 21,
+   "heard": "Donnez-lui un prénom et posez-lui toutes vos questions.",
+   "wer": 0.0,
+   "extra": 0,
+   "speech": [
+    0.0,
+    3.06
+   ],
+   "ok": true
   }
  ]
 }
