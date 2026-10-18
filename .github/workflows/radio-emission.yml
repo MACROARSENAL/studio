@@ -15,13 +15,14 @@ on:
 permissions:
   contents: write
 
+# Image figée (ubuntu-24.04) : « ubuntu-latest » passe à Ubuntu 26 à partir du 19/10/2026 ; la fabrication quotidienne ne doit pas casser.
 concurrency:
   group: radio-emission
   cancel-in-progress: false
 
 jobs:
   plan:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
     outputs:
       matrix: ${{ steps.m.outputs.matrix }}
       emission: ${{ steps.m.outputs.emission }}
@@ -46,7 +47,7 @@ jobs:
 
   voix:
     needs: plan
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
     timeout-minutes: 60
     strategy:
       fail-fast: false
@@ -110,7 +111,7 @@ jobs:
 
   mixage:
     needs: [plan, voix]
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
     strategy:
       fail-fast: false
       matrix:
@@ -143,7 +144,7 @@ jobs:
 
   ranger:
     needs: [plan, mixage]
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
     steps:
       - uses: actions/download-artifact@v4
         with:
