@@ -1,0 +1,113 @@
+{
+ "voice": "conteur-es-latam",
+ "langue": "es",
+ "casting_take": "1",
+ "take": 1,
+ "span": "l8-l13",
+ "engine": "Qwen3-TTS 1.7B Base, voix clonée depuis le casting (Apache-2.0)",
+ "reference": {
+  "from": "conteur-es-latam-1",
+  "span": "l6-l7",
+  "start": 23.7,
+  "end": 32.08,
+  "text": "Así que Macro Arsenal le hizo un compañero. Y una bella mañana… ¡sus ojos se encendieron!"
+ },
+ "lines": [
+  {
+   "id": "l8",
+   "text": "Desde entonces vela por usted, día y noche. Conoce su cuenta de memoria.",
+   "tts": "Desde entonces vela por usted, día y noche. Conoce su cuenta de memoria.",
+   "file": "conteur-es-latam-c1-l8-p1.wav",
+   "seconds": 5.76,
+   "compute": 52,
+   "heard": "Desde entonces, vela por usted, día y noche, conoce su cuenta de memoria.",
+   "wer": 0.0,
+   "extra": 0,
+   "speech": [
+    0.0,
+    5.62
+   ],
+   "ok": true
+  },
+  {
+   "id": "l9",
+   "text": "¿Se acerca un dato importante? Le avisa a tiempo.",
+   "tts": "¿Se acerca un dato importante? Le avisa a tiempo.",
+   "file": "conteur-es-latam-c1-l9-p1.wav",
+   "seconds": 4.08,
+   "compute": 38,
+   "heard": "Se acerca un dato importante, le avisa tiempo.",
+   "wer": 0.111,
+   "extra": 0,
+   "speech": [
+    0.0,
+    3.88
+   ],
+   "ok": false
+  },
+  {
+   "id": "l10",
+   "text": "¿Una pantalla se le resiste? Un clic, y se la explica.",
+   "tts": "¿Una pantalla se le resiste? Un clic, y se la explica.",
+   "file": "conteur-es-latam-c1-l10-p1.wav",
+   "seconds": 5.04,
+   "compute": 44,
+   "heard": "¿Una pantalla se le resiste? Un clic y se la explica.",
+   "wer": 0.0,
+   "extra": 0,
+   "speech": [
+    0.0,
+    4.8
+   ],
+   "ok": true
+  },
+  {
+   "id": "l11",
+   "text": "Prepara sus órdenes… pero quien decide es usted. Siempre.",
+   "tts": "Prepara sus órdenes… pero quien decide es usted. Siempre.",
+   "file": "conteur-es-latam-c1-l11-p1.wav",
+   "seconds": 5.12,
+   "compute": 45,
+   "heard": "Prepara sus órdenes, pero quien decide es usted, siempre.",
+   "wer": 0.0,
+   "extra": 0,
+   "speech": [
+    0.0,
+    4.86
+   ],
+   "ok": true
+  },
+  {
+   "id": "l12",
+   "text": "No promete milagros. Le ayuda a mantener la cabeza fría.",
+   "tts": "No promete milagros. Le ayuda a mantener la cabeza fría.",
+   "file": "conteur-es-latam-c1-l12-p1.wav",
+   "seconds": 4.32,
+   "compute": 39,
+   "heard": "No promete milagros, le ayuda a mantener la cabeza fría.",
+   "wer": 0.0,
+   "extra": 0,
+   "speech": [
+    0.0,
+    4.22
+   ],
+   "ok": true
+  },
+  {
+   "id": "l13",
+   "text": "Los días de duda, está ahí. Los de victoria, también.",
+   "tts": "Los días de duda, está ahí. Los de victoria, también.",
+   "file": "conteur-es-latam-c1-l13-p1.wav",
+   "seconds": 4.64,
+   "compute": 42,
+   "heard": "Los días de duda está ahí, los de victoria también.",
+   "wer": 0.0,
+   "extra": 0,
+   "speech": [
+    0.0,
+    4.36
+   ],
+   "ok": true
+  }
+ ]
+}

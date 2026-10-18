@@ -1,0 +1,97 @@
+{
+ "voice": "conteur-es-latam",
+ "langue": "es",
+ "casting_take": "1",
+ "take": 1,
+ "span": "l14-l18",
+ "engine": "Qwen3-TTS 1.7B Base, voix clonée depuis le casting (Apache-2.0)",
+ "reference": {
+  "from": "conteur-es-latam-1",
+  "span": "l6-l7",
+  "start": 23.7,
+  "end": 32.08,
+  "text": "Así que Macro Arsenal le hizo un compañero. Y una bella mañana… ¡sus ojos se encendieron!"
+ },
+ "lines": [
+  {
+   "id": "l14",
+   "text": "Y a veces… hasta le hace sonreír.",
+   "tts": "Y a veces… hasta le hace sonreír.",
+   "file": "conteur-es-latam-c1-l14-p1.wav",
+   "seconds": 3.36,
+   "compute": 33,
+   "heard": "Y a veces, hasta le hace sonreír.",
+   "wer": 0.0,
+   "extra": 0,
+   "speech": [
+    0.0,
+    3.28
+   ],
+   "ok": true
+  },
+  {
+   "id": "l15",
+   "text": "¿Necesita calma? Un clic, y se retira. Vuelve en cuanto lo llama.",
+   "tts": "¿Necesita calma? Un clic, y se retira. Vuelve en cuanto lo llama.",
+   "file": "conteur-es-latam-c1-l15-p1.wav",
+   "seconds": 6.8,
+   "compute": 60,
+   "heard": "¿Necesita calma? Un clic y se retira. Vuelve en cuanto lo llama.",
+   "wer": 0.0,
+   "extra": 0,
+   "speech": [
+    0.72,
+    6.56
+   ],
+   "ok": true
+  },
+  {
+   "id": "l16",
+   "text": "Todavía no tiene nombre. Será usted quien se lo dé.",
+   "tts": "Todavía no tiene nombre. Será usted quien se lo dé.",
+   "file": "conteur-es-latam-c1-l16-p1.wav",
+   "seconds": 3.44,
+   "compute": 34,
+   "heard": "Todavía no tiene nombre. Será usted quien se lo dé.",
+   "wer": 0.0,
+   "extra": 0,
+   "speech": [
+    0.0,
+    3.3
+   ],
+   "ok": true
+  },
+  {
+   "id": "l17",
+   "text": "Tres preguntas al día para conocerse. Quince con Fundador. Y con Arsenal… es todo suyo.",
+   "tts": "Tres preguntas al día para conocerse. Quince con Fundador. Y con Arsenal… es todo suyo.",
+   "file": "conteur-es-latam-c1-l17-p1.wav",
+   "seconds": 8.88,
+   "compute": 76,
+   "heard": "Tres preguntas al día para conocerse. Quince con Fundador. Y con Arsenal. Es todo suyo.",
+   "wer": 0.0,
+   "extra": 0,
+   "speech": [
+    0.0,
+    8.6
+   ],
+   "ok": true
+  },
+  {
+   "id": "l18",
+   "text": "MACROARSENAL. Nunca más opere solo.",
+   "tts": "Macro Arsenal. Nunca más opere solo.",
+   "file": "conteur-es-latam-c1-l18-p1.wav",
+   "seconds": 4.16,
+   "compute": 40,
+   "heard": "Macro Arsenal, nunca más opere solo.",
+   "wer": 0.0,
+   "extra": 0,
+   "speech": [
+    0.0,
+    3.82
+   ],
+   "ok": true
+  }
+ ]
+}
