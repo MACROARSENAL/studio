@@ -51,6 +51,18 @@
    "id": "victor-es-b",
    "label": "Víctor ES, Latinoamérica",
    "design": "A charismatic Latin American male morning radio host, 53 years old, with a warm, rich baritone voice and a smile in it. Relaxed confidence and a lively rhythm, like the most loved presenter of a major Latin American morning news radio. Native neutral Latin American Spanish broadcast diction, no foreign accent. Close-microphone broadcast studio sound, natural breathing, expressive and human, never robotic, never shouting."
+  },
+  {
+   "id": "victor-es-c",
+   "label": "Víctor ES, España, voz pausada (modelo FR 3)",
+   "design": "A Spanish male radio host from Madrid, about 55, with a warm, slightly husky, textured baritone voice, the kind of intimate radio voice listeners trust at dawn, with a gentle smile in it. Calm, measured and unhurried, never excited, never pushy. Native Castilian Spanish broadcast diction from Spain, no foreign accent. Close-microphone broadcast studio sound, natural breathing, expressive and human, never robotic, never shouting.",
+   "acting": "Read it like a trusted morning radio voice: calm and warm, relaxed and unhurried, never pushy, never excited; a gentle, smiling opening; clear, steady headlines; an intimate, slightly amused tone when the memory starts, turning quiet and serious on the lesson; a warm, confident sign-off. Natural pauses, every word clear."
+  },
+  {
+   "id": "victor-es-d",
+   "label": "Víctor ES, Latinoamérica, voz pausada (modelo FR 3)",
+   "design": "A Latin American male radio host, about 55, with a warm, slightly husky, textured baritone voice, the kind of intimate radio voice listeners trust at dawn, with a gentle smile in it. Calm, measured and unhurried, never excited, never pushy. Native neutral Latin American Spanish broadcast diction, no foreign accent. Close-microphone broadcast studio sound, natural breathing, expressive and human, never robotic, never shouting.",
+   "acting": "Read it like a trusted morning radio voice: calm and warm, relaxed and unhurried, never pushy, never excited; a gentle, smiling opening; clear, steady headlines; an intimate, slightly amused tone when the memory starts, turning quiet and serious on the lesson; a warm, confident sign-off. Natural pauses, every word clear."
   }
  ],
  "acting": "Read it like a live morning radio show: an energetic, smiling opening; crisp, quick headlines; a warm, slightly amused tone when the memory starts, turning calm and serious on the lesson; a warm, confident sign-off. Natural pauses, varied intonation, every word clear."

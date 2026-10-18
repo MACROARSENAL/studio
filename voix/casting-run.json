@@ -1,101 +1,73 @@
 {
- "_": "Casting de la voix de Victor Castel, MACROARSENAL Radio (18/10/2026) : FR 3 timbres, EN et ES 2 timbres, 2 prises chacun.",
- "branche": "radio-casting",
+ "_": "Casting n° 2 de Victor Castel (18/10/2026) : EN et ES refaits sur le modèle du FR 3 choisi par Kévin (voix chaude, grain, posée ; l'espagnol précédent était trop dynamique, aucun anglais ne lui plaisait).",
+ "branche": "radio-casting2",
  "jobs": [
   {
-   "langue": "fr",
-   "voix": "victor-fr-a",
-   "prise": 1,
-   "texte": "radio/texte-fr.json",
-   "actes": "essai"
-  },
-  {
-   "langue": "fr",
-   "voix": "victor-fr-a",
-   "prise": 2,
-   "texte": "radio/texte-fr.json",
-   "actes": "essai"
-  },
-  {
-   "langue": "fr",
-   "voix": "victor-fr-b",
-   "prise": 1,
-   "texte": "radio/texte-fr.json",
-   "actes": "essai"
-  },
-  {
-   "langue": "fr",
-   "voix": "victor-fr-b",
-   "prise": 2,
-   "texte": "radio/texte-fr.json",
-   "actes": "essai"
-  },
-  {
-   "langue": "fr",
-   "voix": "victor-fr-c",
-   "prise": 1,
-   "texte": "radio/texte-fr.json",
-   "actes": "essai"
-  },
-  {
-   "langue": "fr",
-   "voix": "victor-fr-c",
-   "prise": 2,
-   "texte": "radio/texte-fr.json",
-   "actes": "essai"
-  },
-  {
    "langue": "en",
-   "voix": "victor-en-a",
+   "voix": "victor-en-c",
    "prise": 1,
    "texte": "radio/texte-en.json",
    "actes": "essai"
   },
   {
    "langue": "en",
-   "voix": "victor-en-a",
+   "voix": "victor-en-c",
    "prise": 2,
    "texte": "radio/texte-en.json",
    "actes": "essai"
   },
   {
    "langue": "en",
-   "voix": "victor-en-b",
+   "voix": "victor-en-d",
    "prise": 1,
    "texte": "radio/texte-en.json",
    "actes": "essai"
   },
   {
    "langue": "en",
-   "voix": "victor-en-b",
+   "voix": "victor-en-d",
+   "prise": 2,
+   "texte": "radio/texte-en.json",
+   "actes": "essai"
+  },
+  {
+   "langue": "en",
+   "voix": "victor-en-e",
+   "prise": 1,
+   "texte": "radio/texte-en.json",
+   "actes": "essai"
+  },
+  {
+   "langue": "en",
+   "voix": "victor-en-e",
    "prise": 2,
    "texte": "radio/texte-en.json",
    "actes": "essai"
   },
   {
    "langue": "es",
-   "voix": "victor-es-a",
+   "voix": "victor-es-c",
    "prise": 1,
    "texte": "radio/texte-es.json",
    "actes": "essai"
   },
   {
    "langue": "es",
-   "voix": "victor-es-a",
+   "voix": "victor-es-c",
    "prise": 2,
    "texte": "radio/texte-es.json",
    "actes": "essai"
   },
   {
    "langue": "es",
-   "voix": "victor-es-b",
+   "voix": "victor-es-d",
    "prise": 1,
    "texte": "radio/texte-es.json",
    "actes": "essai"
   },
   {
    "langue": "es",
-   "voix": "victor-es-b",
+   "voix": "victor-es-d",
    "prise": 2,
    "texte": "radio/texte-es.json",
    "actes": "essai"
