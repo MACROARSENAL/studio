@@ -1,0 +1,23 @@
+{
+ "bpm": 120,
+ "mesure": 2.0,
+ "intro_voix": 3.35,
+ "intro_fond": 3.2,
+ "carillon_voix": 0.55,
+ "virgule_voix": 1.08,
+ "souvenir_voix": 1.65,
+ "souvenir_fond": 1.15,
+ "fin_attaque": 0.02,
+ "style": "telegraphe",
+ "fichiers": [
+  "intro",
+  "carillon",
+  "virgule",
+  "souvenir",
+  "fin",
+  "fond",
+  "fond-ecrans",
+  "fond-souvenir"
+ ],
+ "effacement_fond_db": -10
+}

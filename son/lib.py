@@ -26,11 +26,14 @@ def save(path, x, sr=SR):
 
 def loudness(path_or_x, sr=SR):
     """Intégrée (LUFS), vraie crête (dBTP), plage (LU) via le filtre loudnorm de ffmpeg."""
-    path = path_or_x
-    if not isinstance(path_or_x, str):
-        path = '/tmp/_ln.wav'; save(path, path_or_x, sr)
+    import os, tempfile
+    path, tmp = path_or_x, None
+    if not isinstance(path_or_x, str):  # fichier temporaire propre à l'appel : plusieurs mixages peuvent tourner en même temps
+        fd, tmp = tempfile.mkstemp(suffix='.wav'); os.close(fd); path = tmp; save(path, path_or_x, sr)
     err = subprocess.run(['ffmpeg', '-hide_banner', '-nostats', '-i', path, '-af', 'loudnorm=print_format=json', '-f', 'null', '-'],
                          capture_output=True, text=True).stderr
+    if tmp:
+        os.remove(tmp)
     j = json.loads(re.search(r'\{[^{}]*"input_i"[^{}]*\}', err, re.S).group(0))
     return float(j['input_i']), float(j['input_tp']), float(j['input_lra'])
 

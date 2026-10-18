@@ -31,13 +31,18 @@ def _hab(n):
     raise SystemExit(f'habillage manquant : {n}')
 
 
-H = {n: _hab(n) for n in ('intro', 'carillon', 'virgule', 'souvenir', 'fin', 'fond', 'fond-souvenir')}
-
-# Instants clés de l'habillage (secondes depuis le début du son)
-INTRO_VOIX = 3.55      # la voix entre pendant l'accord tenu de « NAL »
-CARILLON_VOIX = 0.62   # la nouvelle tombe juste après les deux notes
-VIRGULE_VOIX = 0.75
-SOUVENIR_VOIX = 1.35   # la harpe a fini de descendre
+# Instants clés de l'habillage (secondes depuis le début du son). Un habillage en mesure (son/habillage.py) les donne dans
+# reperes.json, avec son tempo : les fonds partent alors en mesure avec l'indicatif, et l'indicatif de fin tombe sur un temps.
+_R = os.path.join(HAB, 'reperes.json')
+REP = json.load(open(_R, encoding='utf-8')) if os.path.exists(_R) else {}
+INTRO_VOIX = REP.get('intro_voix', 3.55)        # v1 : la voix entre pendant l'accord tenu de « NAL »
+CARILLON_VOIX = REP.get('carillon_voix', 0.62)  # la nouvelle tombe juste après le carillon
+VIRGULE_VOIX = REP.get('virgule_voix', 0.75)
+SOUVENIR_VOIX = REP.get('souvenir_voix', 1.35)
+MESURE = REP.get('mesure')
+DUCK = REP.get('effacement_fond_db', -11)
+OPT = [n for n in ('fond-ecrans',) if any(os.path.exists(os.path.join(HAB, f'{n}.{e}')) for e in ('flac', 'wav'))]
+H = {n: _hab(n) for n in ('intro', 'carillon', 'virgule', 'souvenir', 'fin', 'fond', 'fond-souvenir', *OPT)}
 # Une vraie cabine de radio est sèche : juste quelques réflexions très courtes, à peine audibles.
 ROOM = impulse(rt60=0.18, pre=0.004, bright=8000, damp=4500, width=0.35, seed=21)
 
@@ -107,6 +112,7 @@ for b, bloc in enumerate(BLOCS):
     son = bloc.get('son')
     ids = sorted(k for k, v in C.items() if v['bloc'] == b)
     if son == 'intro':
+        t_intro = t
         place(stings, H['intro'], t)
         t += INTRO_VOIX
     elif son == 'carillon':
@@ -125,27 +131,42 @@ for b, bloc in enumerate(BLOCS):
         t += len(x) / SR + (pause_apres(C[sid]['text']) if k < len(ids) - 1 else 0)
     end = t
     minutage.append({'bloc': b, 'rubrique': bloc.get('rubrique'), 'start': round(start, 2), 'end': round(end, 2)})
-    if son == 'intro' or bloc.get('rubrique') == 'ouverture':
-        beds.append(('fond', start - 0.6, end + 0.6, -3))
+    if son == 'intro' and MESURE:                 # le fond prend le relais de l'indicatif, pile sur le temps
+        beds.append(('fond', t_intro + REP['intro_fond'], end + 0.6, -3, 0.02, 1.5))
+    elif son == 'intro' or bloc.get('rubrique') == 'ouverture':
+        beds.append(('fond', start - 0.6, end + 0.6, -3, 1.0, 1.5))
+    if son == 'carillon' and 'fond-ecrans' in H:  # un fond plus nerveux sous les nouvelles, d'un seul tenant
+        a0 = start - CARILLON_VOIX + 0.1
+        if beds and beds[-1][0] == 'fond-ecrans' and a0 - beds[-1][2] < 2.0:
+            beds[-1] = beds[-1][:2] + (end + 0.5,) + beds[-1][3:]
+        else:
+            beds.append(('fond-ecrans', a0, end + 0.5, -4, 0.3, 0.8))
     if son == 'souvenir':
-        beds.append(('fond-souvenir', start - SOUVENIR_VOIX + 0.4, end + 0.9, -2))
+        beds.append(('fond-souvenir', start - SOUVENIR_VOIX + REP.get('souvenir_fond', 0.4), end + 0.9, -2, 0.4 if MESURE else 1.0, 1.5))
     if son == 'fin' or b == len(BLOCS) - 1:
-        beds.append(('fond', start - 1.2, end + 0.4, -3))
+        a0 = start - 1.2
         t = end + 0.15
+        if MESURE:  # l'indicatif de fin tombe sur un temps fort du fond, qui s'efface à cet instant
+            q = MESURE / 2
+            hit = a0 + np.ceil((t - a0) / q) * q
+            t = hit - REP.get('fin_attaque', 0.0)
+            beds.append(('fond', a0, hit + 0.25, -3, 1.0, 0.35))
+        else:
+            beds.append(('fond', a0, end + 0.4, -3, 1.0, 1.5))
         place(stings, H['fin'], t)
         t += len(H['fin']) / SR
         break
     nxt = BLOCS[b + 1].get('son') if b + 1 < len(BLOCS) else None
     t += 0.35 if nxt in ('carillon', 'virgule', 'souvenir') else 0.55
 
-for name, a, z, gain in beds:
-    place(music, boucle(name, z - a), a, db(gain + 4))
+for name, a, z, gain, fi, fo in beds:
+    place(music, boucle(name, z - a, fi, fo), a, db(gain + 4))
 
 end = int((t + 0.4) * SR)
 voice, music, stings = voice[:end], music[:end], stings[:end]
 voice = chaine_voix(voice)[:end]
 
-# Effacement de la musique sous la voix (−11 dB) : attaque rapide ; on garde l'effacement pendant les courtes pauses
+# Effacement de la musique sous la voix (−11 dB, ou la valeur de l'habillage) : attaque rapide ; on garde l'effacement pendant les courtes pauses
 # (maintien 0,7 s) pour que le fond ne « pompe » pas entre deux phrases ; retour lent quand la voix s'arrête vraiment.
 from scipy.ndimage import maximum_filter1d  # noqa: E402
 env = np.sqrt(np.convolve((voice ** 2).mean(1), np.ones(int(0.03 * SR)) / int(0.03 * SR), mode='same'))
@@ -159,7 +180,7 @@ for i, v in enumerate(a_):
     e = att * e + (1 - att) * v if v > e else rel * e + (1 - rel) * v
     g[i] = e
 gi = np.interp(np.arange(len(voice)), np.arange(len(g)) * step, g)
-duck = db(-11 * gi).astype(np.float32)          # fond musical
+duck = db(DUCK * gi).astype(np.float32)          # fond musical
 duck_s = db(-16 * gi).astype(np.float32)        # fin d'un indicatif ou d'un carillon sous les premiers mots
 mix = voice + music * duck[:, None] + stings * duck_s[:, None]
 # Souffle de cabine sous tout le programme (entre en douceur après l'indicatif, s'efface sous l'indicatif de fin)
