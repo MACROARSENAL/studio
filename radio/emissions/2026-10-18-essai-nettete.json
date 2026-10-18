@@ -1,0 +1,59 @@
+{
+ "id": "2026-10-18-essai-nettete",
+ "_": "Essai (18/10, Kévin : « il continue, écoute à 0:19 et 0:30 ») : même passage des nouvelles, quatre réglages. bloc 0 = A (réglage actuel) ; bloc 1 = B (débit plus posé) ; bloc 2 = C (voix plus stable) ; bloc 3 = D (voix plus stable et débit plus posé)",
+ "date": "2026-10-18",
+ "voix": {
+  "fr": "victor-fr"
+ },
+ "parties": 4,
+ "prononciation": {
+  "fr": {
+   "Moody's": "Moudize",
+   "SpaceX": "Space X",
+   "Times": "Taïmz",
+   "la Fed ": "la Fède "
+  }
+ },
+ "blocs": {
+  "fr": [
+   {
+    "son": "carillon",
+    "rubrique": "ecrans",
+    "ton": "net",
+    "texte": "Le pétrole, d'abord. Vendredi, le Brent a touché cent dix dollars le baril, une première depuis mai, après de nouvelles attaques de navires dans le détroit d'Ormuz. Samedi, l'Iran a affirmé que deux superpétroliers avaient heurté des mines. Washington assure garder le contrôle du passage. Et ce dimanche, Téhéran répète que son offre de rouvrir le détroit tient toujours.",
+    "reglages": {},
+    "tempo": 1.0
+   },
+   {
+    "son": "carillon",
+    "rubrique": "ecrans",
+    "ton": "net",
+    "texte": "Le pétrole, d'abord. Vendredi, le Brent a touché cent dix dollars le baril, une première depuis mai, après de nouvelles attaques de navires dans le détroit d'Ormuz. Samedi, l'Iran a affirmé que deux superpétroliers avaient heurté des mines. Washington assure garder le contrôle du passage. Et ce dimanche, Téhéran répète que son offre de rouvrir le détroit tient toujours.",
+    "reglages": {},
+    "tempo": 0.88
+   },
+   {
+    "son": "carillon",
+    "rubrique": "ecrans",
+    "ton": "net",
+    "texte": "Le pétrole, d'abord. Vendredi, le Brent a touché cent dix dollars le baril, une première depuis mai, après de nouvelles attaques de navires dans le détroit d'Ormuz. Samedi, l'Iran a affirmé que deux superpétroliers avaient heurté des mines. Washington assure garder le contrôle du passage. Et ce dimanche, Téhéran répète que son offre de rouvrir le détroit tient toujours.",
+    "reglages": {
+     "temperature": 0.6,
+     "subtalker_temperature": 0.6
+    },
+    "tempo": 1.0
+   },
+   {
+    "son": "carillon",
+    "rubrique": "ecrans",
+    "ton": "net",
+    "texte": "Le pétrole, d'abord. Vendredi, le Brent a touché cent dix dollars le baril, une première depuis mai, après de nouvelles attaques de navires dans le détroit d'Ormuz. Samedi, l'Iran a affirmé que deux superpétroliers avaient heurté des mines. Washington assure garder le contrôle du passage. Et ce dimanche, Téhéran répète que son offre de rouvrir le détroit tient toujours.",
+    "reglages": {
+     "temperature": 0.6,
+     "subtalker_temperature": 0.6
+    },
+    "tempo": 0.88
+   }
+  ]
+ }
+}

@@ -57,9 +57,25 @@ def niveau_parole(x):
     return 20 * np.log10(np.sqrt((act ** 2).mean()) + 1e-9) if len(act) else -60.0
 
 
+TEMPO = float(E.get('tempo') or 1.0)
+
+
+def ralentir(path, tempo):
+    """Débit posé : la phrase est ralentie sans changer la hauteur de la voix (Rubber Band, sinon WSOLA)."""
+    import tempfile
+    fd, out = tempfile.mkstemp(suffix='.wav'); os.close(fd)
+    for af in (f'rubberband=tempo={tempo}:transients=smooth:window=long', f'atempo={tempo}'):
+        r = subprocess.run(['ffmpeg', '-loglevel', 'error', '-y', '-i', path, '-af', af, out], capture_output=True)
+        if r.returncode == 0:
+            x = load(out); os.remove(out)
+            return x
+    raise RuntimeError(f'ralentissement impossible : {r.stderr.decode()[-300:]}')
+
+
 def phrase(sid):
     p = C[sid]['prise']
-    x = load(os.path.join(PRISES, p['file']))
+    tempo = float(BLOCS[C[sid]['bloc']].get('tempo') or TEMPO)
+    x = load(os.path.join(PRISES, p['file'])) if tempo == 1.0 else ralentir(os.path.join(PRISES, p['file']), tempo)
     x, _ = trim_silence(x, thresh_db=-52, pre=0.14, post=0.24)   # on garde les respirations : c'est ce qui fait vrai
     return x * db(-20 - niveau_parole(x))           # toutes les phrases au même niveau avant la chaîne
 

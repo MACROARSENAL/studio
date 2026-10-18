@@ -1,13 +1,3 @@
 {
- "emission": "radio/emissions/2026-10-19-matinale.json",
- "retouche": {
-  "run": 39122975402,
-  "phrases": [
-   "00-00",
-   "05-00",
-   "07-00",
-   "10-00",
-   "11-01"
-  ]
- }
+ "emission": "radio/emissions/2026-10-18-essai-nettete.json"
 }

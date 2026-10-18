@@ -72,7 +72,9 @@ BLOCS = E['blocs'][LANGUE]
 ALL = []
 for b, bloc in enumerate(BLOCS):
     for k, p in enumerate(phrases(bloc['texte'])):
-        ALL.append({'id': f'{b:02d}-{k:02d}', 'bloc': b, 'ton': bloc.get('ton', 'net'), 'text': p, 'tts': a_lire(p)})
+        # réglages de la voix (échantillonnage du modèle) : ceux de l'émission, précisés bloc par bloc si besoin
+        gen = {**(E.get('reglages') or {}), **(bloc.get('reglages') or {})}
+        ALL.append({'id': f'{b:02d}-{k:02d}', 'bloc': b, 'ton': bloc.get('ton', 'net'), 'text': p, 'tts': a_lire(p), 'gen': gen})
 # Répartition équilibrée (en caractères) entre les parties ; une phrase n'est jamais coupée en deux.
 total = sum(len(s['tts']) for s in ALL)
 acc, mine = 0, []
@@ -105,7 +107,7 @@ for s in mine:
     for take in TAKES:
         torch.manual_seed(9000 + take * 131 + zlib.crc32(s['id'].encode()) % 997)
         t1 = time.time()
-        wavs, sr = model.generate_voice_clone(text=s['tts'], language=LANGUAGE, voice_clone_prompt=prompts[s['ton']])
+        wavs, sr = model.generate_voice_clone(text=s['tts'], language=LANGUAGE, voice_clone_prompt=prompts[s['ton']], **s.get('gen', {}))
         w = np.asarray(wavs[0], dtype=np.float32)
         f = f"{LANGUE}-{s['id']}-p{take}.wav"
         sf.write(os.path.join(OUT, f), w, sr)
