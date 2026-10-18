@@ -1,0 +1,77 @@
+{
+ "voice": "victor-es-a",
+ "langue": "es",
+ "label": "Víctor ES, España",
+ "take": 1,
+ "acts": [
+  "essai"
+ ],
+ "engine": "Qwen3-TTS 1.7B VoiceDesign (Apache-2.0)",
+ "design": "A charismatic Spanish male morning radio host from Madrid, 53 years old, with a warm, rich baritone voice and a smile in it. Relaxed confidence and a lively rhythm, like the most loved presenter of a national Spanish morning news radio. Native Castilian Spanish broadcast diction from Spain, no foreign accent. Close-microphone broadcast studio sound, natural breathing, expressive and human, never robotic, never shouting.",
+ "sr": 24000,
+ "seconds": 48.8,
+ "compute": 287,
+ "text": "Las ocho en París. ¡Buenos días, sala de mercados! Les habla Víctor Castel y esto es Macro Arsenal Radio. Café cargado, pantallas encendidas: la vuelta al mundo en tres minutos. En pantalla: Asia abrió con prudencia, el petróleo se tensa y el dólar espera su gran cita de las dos y media de la tarde, hora de París. Recuerdo de la sala. Quince de enero de dos mil quince. Yo estaba al micrófono cuando el Banco Nacional Suizo abandonó su tipo de cambio mínimo. En pocos minutos, el franco se disparó casi un treinta por ciento frente al euro. Esa mañana entendí algo: no es la noticia lo que hace saltar una cuenta. Es no tener un plan. El mercado seguirá aquí mañana. Su capital también, si lo protegen. Les habló Víctor Castel. ¡Hasta mañana, a las ocho!",
+ "lines": [
+  {
+   "id": "r1",
+   "text": "Las ocho en París. ¡Buenos días, sala de mercados!",
+   "tts": "Las ocho en París. ¡Buenos días, sala de mercados!",
+   "start": 0.0,
+   "end": 3.16
+  },
+  {
+   "id": "r2",
+   "text": "Les habla Víctor Castel y esto es MACROARSENAL Radio.",
+   "tts": "Les habla Víctor Castel y esto es Macro Arsenal Radio.",
+   "start": 3.46,
+   "end": 7.3
+  },
+  {
+   "id": "r3",
+   "text": "Café cargado, pantallas encendidas: la vuelta al mundo en tres minutos.",
+   "tts": "Café cargado, pantallas encendidas: la vuelta al mundo en tres minutos.",
+   "start": 7.64,
+   "end": 12.08
+  },
+  {
+   "id": "r4",
+   "text": "En pantalla: Asia abrió con prudencia, el petróleo se tensa y el dólar espera su gran cita de las dos y media de la tarde, hora de París.",
+   "tts": "En pantalla: Asia abrió con prudencia, el petróleo se tensa y el dólar espera su gran cita de las dos y media de la tarde, hora de París.",
+   "start": 12.44,
+   "end": 21.02
+  },
+  {
+   "id": "r5",
+   "text": "Recuerdo de la sala. Quince de enero de dos mil quince. Yo estaba al micrófono cuando el Banco Nacional Suizo abandonó su tipo de cambio mínimo.",
+   "tts": "Recuerdo de la sala. Quince de enero de dos mil quince. Yo estaba al micrófono cuando el Banco Nacional Suizo abandonó su tipo de cambio mínimo.",
+   "start": 21.3,
+   "end": 29.38
+  },
+  {
+   "id": "r6",
+   "text": "En pocos minutos, el franco se disparó casi un treinta por ciento frente al euro.",
+   "tts": "En pocos minutos, el franco se disparó casi un treinta por ciento frente al euro.",
+   "start": 29.38,
+   "end": 34.28
+  },
+  {
+   "id": "r7",
+   "text": "Esa mañana entendí algo: no es la noticia lo que hace saltar una cuenta. Es no tener un plan.",
+   "tts": "Esa mañana entendí algo: no es la noticia lo que hace saltar una cuenta. Es no tener un plan.",
+   "start": 34.78,
+   "end": 40.22
+  },
+  {
+   "id": "r8",
+   "text": "El mercado seguirá aquí mañana. Su capital también, si lo protegen. Les habló Víctor Castel. ¡Hasta mañana, a las ocho!",
+   "tts": "El mercado seguirá aquí mañana. Su capital también, si lo protegen. Les habló Víctor Castel. ¡Hasta mañana, a las ocho!",
+   "start": 40.58,
+   "end": 48.56
+  }
+ ],
+ "heard": "Las ocho en París. Buenos días, sala de mercados. Les habla Víctor Castell, y esto es Macro Arsenal Radio. Café cargado, pantallas encendidas, la vuelta al mundo en tres minutos. En pantalla, Asia abrió con prudencia. El petróleo, 70. Y el dólar espera su gran cita de las 2 y media de la tarde, hora de París. Recuerdo de la sala, 15 de enero de 2015. Yo estaba al micrófono cuando el Banco Nacional Suizo abandonó su tipo de cambio mínimo. En pocos minutos, el Franco se disparó casi un 30% frente al euro. Esa mañana entendí algo. No es la noticia lo que hace saltar una cuenta. Es no tener un plan. El mercado seguirá aquí mañana. Su capital también. Sí lo protegen. Les habló Víctor Castell. Hasta mañana a las ocho.",
+ "wer": 0.087,
+ "extra": 7,
+ "ok": false
+}
