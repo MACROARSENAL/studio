@@ -143,6 +143,8 @@ for b, bloc in enumerate(BLOCS):
             beds.append(('fond-ecrans', a0, end + 0.5, -4, 0.3, 0.8))
     if son == 'souvenir':
         beds.append(('fond-souvenir', start - SOUVENIR_VOIX + REP.get('souvenir_fond', 0.4), end + 0.9, -2, 0.4 if MESURE else 1.0, 1.5))
+    elif not son and b and bloc.get('rubrique') == BLOCS[b - 1].get('rubrique') and beds and beds[-1][0] == 'fond-souvenir':
+        beds[-1] = beds[-1][:2] + (end + 0.9,) + beds[-1][3:]   # la leçon du souvenir garde le même fond
     if son == 'fin' or b == len(BLOCS) - 1:
         a0 = start - 1.2
         t = end + 0.15

@@ -55,13 +55,19 @@ def phrases(texte, max_len=240, chunk=230):
     return grouped
 
 
+E = json.load(open(EMI, encoding='utf-8'))
+# Prononciation : mots que la voix lit mal tels qu'ils s'écrivent (« Moody's » → « Moudize »), propres à chaque langue.
+PRONON = (E.get('prononciation') or {}).get(LANGUE, {})
+
+
 def a_lire(t):
-    """Texte donné à la voix : le nom de la marque en deux mots (bonne prononciation), apostrophes droites."""
+    """Texte donné à la voix : le nom de la marque en deux mots (bonne prononciation), apostrophes droites, prononciations."""
     t = t.replace('’', "'").replace('MACROARSENAL', 'Macro Arsenal').replace('MacroArsenal', 'Macro Arsenal')
+    for a, b in PRONON.items():
+        t = t.replace(a, b)
     return re.sub(r'\s+', ' ', t).strip()
 
 
-E = json.load(open(EMI, encoding='utf-8'))
 BLOCS = E['blocs'][LANGUE]
 ALL = []
 for b, bloc in enumerate(BLOCS):

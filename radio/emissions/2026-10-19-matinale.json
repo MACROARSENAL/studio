@@ -1,0 +1,92 @@
+{
+ "id": "2026-10-19-matinale",
+ "_": "Matinale du lundi 19 octobre 2026 (pilote, préparée le dimanche 18 à 13 h avec les faits vérifiés jusque-là). Sources : AP via La Nación (clôtures du 16/10), ThriveInMarkets (pétrole, or, bitcoin, données du 16/10), Al Jazeera (Ormuz, 17/10), AFP via Oman Observer (mines, 17/10), Reuters via Asharq Al-Awsat (offre iranienne, 18/10), Newsquawk (semaine du 19 au 23/10), Hargreaves Lansdown (résultats), Wikipédia (lundi noir de 1987).",
+ "date": "2026-10-19",
+ "voix": {
+  "fr": "victor-fr"
+ },
+ "parties": 5,
+ "prononciation": {
+  "fr": {
+   "Moody's": "Moudize",
+   "SpaceX": "Space X",
+   "Times": "Taïmz",
+   "la Fed ": "la Fède "
+  }
+ },
+ "blocs": {
+  "fr": [
+   {
+    "son": "intro",
+    "rubrique": "ouverture",
+    "ton": "energique",
+    "texte": "Huit heures à Paris. Bonjour la salle ! Ici Victor Castel, et vous écoutez MACROARSENAL Radio. Café serré, écrans allumés : on fait le tour du monde en trois minutes. Lundi dix-neuf octobre, et c'est le pétrole qui donne le ton."
+   },
+   {
+    "son": "carillon",
+    "rubrique": "ecrans",
+    "ton": "net",
+    "texte": "Le pétrole, d'abord. Vendredi, le Brent a touché cent dix dollars le baril, une première depuis mai, après de nouvelles attaques de navires dans le détroit d'Ormuz. Samedi, l'Iran a affirmé que deux superpétroliers avaient heurté des mines. Washington assure garder le contrôle du passage. Et ce dimanche, Téhéran répète que son offre de rouvrir le détroit tient toujours."
+   },
+   {
+    "son": "carillon",
+    "rubrique": "ecrans",
+    "ton": "net",
+    "texte": "À Wall Street, la technologie a lâché prise. Vendredi, le Nasdaq a perdu deux virgule un pour cent : sa pire semaine depuis juin, avec moins quatre virgule cinq pour cent. Le Dow Jones, lui, termine la semaine en légère hausse."
+   },
+   {
+    "son": "carillon",
+    "rubrique": "ecrans",
+    "ton": "net",
+    "texte": "Aux États-Unis, les prix à l'importation ont bondi de huit virgule un pour cent sur un an, du jamais-vu depuis juillet deux mille vingt-deux. Et la Fed se tait désormais, jusqu'à sa réunion des vingt-sept et vingt-huit octobre."
+   },
+   {
+    "son": "virgule",
+    "rubrique": "semaine",
+    "ton": "pose",
+    "texte": "La semaine qui vient. Mardi, l'emploi au Royaume-Uni. Vendredi, les premiers indices d'activité d'octobre, en Europe et aux États-Unis : ils diront si les entreprises encaissent le choc du pétrole. Et vendredi soir, l'agence Moody's réexamine la note de la France."
+   },
+   {
+    "son": "virgule",
+    "rubrique": "biais",
+    "ton": "net",
+    "texte": "Le Biais du jour est en ligne depuis sept heures et demie : quarante marchés passés au crible, avec leur sens, leur force et notre niveau de confiance. Huit d'entre eux sont offerts à tous, ce matin, dans le terminal."
+   },
+   {
+    "son": "virgule",
+    "rubrique": "actions",
+    "ton": "net",
+    "texte": "Le monde des actions. La saison des résultats passe la vitesse supérieure : Netflix et SpaceX mardi soir, Tesla et Meta mercredi soir. Une question dominera : jusqu'où iront leurs dépenses dans l'intelligence artificielle ? Et dans le terminal, le Duel de la semaine commence : Meta contre Alphabet. À vous de voter."
+   },
+   {
+    "son": "virgule",
+    "rubrique": "rendez-vous",
+    "ton": "pose",
+    "texte": "Le rendez-vous de la semaine : mercredi, huit heures, l'inflation au Royaume-Uni. Le marché attend trois virgule quatre pour cent sur un an, après trois virgule un. Un chiffre plus fort que prévu soutient habituellement la livre sterling : il pousse la Banque d'Angleterre à rester ferme."
+   },
+   {
+    "son": "souvenir",
+    "rubrique": "souvenir",
+    "ton": "complice",
+    "texte": "Souvenir de salle. Dix-neuf octobre mille neuf cent quatre-vingt-sept, il y a trente-neuf ans jour pour jour, un lundi, comme aujourd'hui. J'avais quatorze ans, l'oreille collée à mon transistor. En une seule séance, le Dow Jones a perdu vingt-deux virgule six pour cent : la plus forte chute de son histoire en un jour. À Hong Kong, la bourse a fermé quatre jours. Le lendemain, la Réserve fédérale a promis toutes les liquidités nécessaires."
+   },
+   {
+    "rubrique": "souvenir",
+    "ton": "pose",
+    "texte": "Il a fallu moins de deux ans pour effacer la chute, et c'est après ce jour-là que les bourses ont inventé les coupe-circuits. La leçon, elle, n'a pas pris une ride : on ne choisit pas le jour où le marché panique. On choisit sa taille de position et son stop, avant. La panique est contagieuse. Le calme aussi."
+   },
+   {
+    "son": "virgule",
+    "rubrique": "terminal",
+    "ton": "chaleureux",
+    "texte": "Ce matin dans le terminal : le tout premier numéro de MACROARSENAL Times, sorti à sept heures et demie. Il s'intitule « L'or entre deux vagues », et il est offert à tous ceux qui ont un compte gratuit. Les membres Arsenal, eux, ont reçu leurs deux Convictions du jour : deux idées étudiées dans le moindre détail."
+   },
+   {
+    "son": "fin",
+    "rubrique": "cloture",
+    "ton": "chaleureux",
+    "texte": "Le marché sera encore là demain. Votre capital aussi, si vous le protégez. C'était Victor Castel. À demain, huit heures."
+   }
+  ]
+ }
+}
