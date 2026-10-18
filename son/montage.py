@@ -18,6 +18,9 @@ MUS = sys.argv[5] if len(sys.argv) > 5 else None
 os.makedirs(OUT, exist_ok=True)
 VOICE, CT = VOIX.rsplit('-c', 1)
 FPS = 25
+# Langue du film (variable LANGUE) : en français, l'acte I vient de la prise du casting écoutée par Kévin ;
+# en anglais et en espagnol, toutes les phrases viennent de la narration clonée.
+LANGUE = os.environ.get('LANGUE', 'fr')
 
 # [phrase, silence avant, silence après] : le rythme du conte (pauses longues à l'acte I, respiration après le réveil)
 GAPS = {'l1': (3.0, 1.0), 'l2': (0.3, 0.7), 'l3': (0.3, 0.6), 'l4': (0.3, 1.2), 'l5': (0.5, 0.7), 'l6': (0.3, 0.5), 'l7': (0.4, 2.0),
@@ -46,7 +49,7 @@ def from_casting():
 
 # Prises retenues pour la voix A (conteur-c1), d'après le contrôle par transcription (tout est juste, à l'homophonie près),
 # l'étendue mélodique et le rythme : lecture posée, pauses aux points de suspension.
-CHOIX = {'conteur-c1': {'l9': 'p2'}}
+CHOIX = {'conteur-c1': {'l9': 'p2'}} if LANGUE == 'fr' else json.loads(os.environ.get('CHOIX', '{}'))
 
 
 def from_narration():
@@ -62,7 +65,7 @@ def from_narration():
     return {k: (load(v[1]), v[2]) for k, v in best.items()}
 
 
-cast = from_casting()
+cast = from_casting() if LANGUE == 'fr' else {}
 narr = from_narration()
 lines, source = {}, {}
 for lid in IDS:
