@@ -1,0 +1,41 @@
+name: MACROARSENAL Radio — mise à l'antenne
+
+# Met une émission fabriquée (branche « emissions ») à l'antenne du terminal : son MP3 dans le stockage Supabase,
+# fiche dans market_stats « radio ». Le site la montre à son heure de sortie (8 h à Paris pour la matinale) ;
+# la matinale précédente est retirée à la sortie de la suivante. Aucune mise en ligne Netlify, aucune minute du dépôt privé.
+# Lancement : git push -f origin HEAD:antenne-run (radio/antenne-run.json indique l'émission), ou Actions → Run workflow.
+# Secrets du dépôt : SUPABASE_URL et SUPABASE_SERVICE_ROLE_KEY (les mêmes que ceux du terminal). Sans eux : simple avis.
+on:
+  push:
+    branches: [antenne-run]
+  workflow_dispatch:
+    inputs:
+      emission:
+        description: 'Fichier de l''émission (ex. radio/emissions/2026-10-19-matinale.json)'
+        required: false
+
+permissions:
+  contents: read
+
+concurrency:
+  group: radio-antenne
+  cancel-in-progress: false
+
+jobs:
+  antenne:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - name: Mise à l'antenne
+        env:
+          INPUT: ${{ github.event.inputs.emission }}
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
+        run: |
+          EMI=${INPUT:-$(python3 -c "import json; print(json.load(open('radio/antenne-run.json'))['emission'])")}
+          ID=$(basename "$EMI" .json)
+          git fetch -q --depth 1 origin emissions
+          git archive FETCH_HEAD "$ID" | tar -x -C /tmp
+          ls -la "/tmp/$ID"
+          python3 radio/publier.py "$EMI" "/tmp/$ID"

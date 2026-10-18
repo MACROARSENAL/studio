@@ -1,0 +1,11 @@
+{
+ "_": "Ce que le site affiche de l'animateur (onglet Radio). Personnage de fiction, voix de synthèse : fiche complète dans le dépôt terminal, docs/radio-personnage.md.",
+ "animateur": {
+  "name": "Victor Castel",
+  "bio": {
+   "fr": "Pendant dix-huit ans, Victor Castel a été « la voix de la salle des marchés » : le speaker qui lisait en direct les nouvelles du monde aux traders d'une grande salle de Londres. Aujourd'hui, il apporte cette voix chez vous, chaque matin à 8 h.",
+   "en": "For eighteen years, Victor Castel was “the voice of the trading floor”: the speaker who read the world's news live to the traders of a big London dealing room. Now he brings that voice to you, every morning at 8.",
+   "es": "Durante dieciocho años, Víctor Castel fue «la voz de la sala de mercados»: el locutor que leía en directo las noticias del mundo a los traders de una gran sala de Londres. Hoy trae esa voz a su casa, cada mañana a las 8."
+  }
+ }
+}

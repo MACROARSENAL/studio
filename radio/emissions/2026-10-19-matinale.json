@@ -2,6 +2,19 @@
  "id": "2026-10-19-matinale",
  "_": "Matinale du lundi 19 octobre 2026 (pilote, préparée le dimanche 18 à 13 h avec les faits vérifiés jusque-là). Sources : AP via La Nación (clôtures du 16/10), ThriveInMarkets (pétrole, or, bitcoin, données du 16/10), Al Jazeera (Ormuz, 17/10), AFP via Oman Observer (mines, 17/10), Reuters via Asharq Al-Awsat (offre iranienne, 18/10), Newsquawk (semaine du 19 au 23/10), Hargreaves Lansdown (résultats), Wikipédia (lundi noir de 1987).",
  "date": "2026-10-19",
+ "site": {
+  "genre": "matinale",
+  "titre": {
+   "fr": "Le pétrole donne le ton",
+   "en": "Oil sets the tone",
+   "es": "El petróleo marca la pauta"
+  },
+  "resume": {
+   "fr": "Le Brent a touché 110 dollars après les attaques dans le détroit d'Ormuz, le Nasdaq sort de sa pire semaine depuis juin, l'inflation britannique tombe mercredi, et Victor se souvient du lundi noir du 19 octobre 1987.",
+   "en": "Brent touched $110 after the attacks in the Strait of Hormuz, the Nasdaq is coming off its worst week since June, UK inflation is out on Wednesday, and Victor remembers Black Monday, 19 October 1987.",
+   "es": "El Brent tocó los 110 dólares tras los ataques en el estrecho de Ormuz, el Nasdaq sale de su peor semana desde junio, la inflación británica se publica el miércoles y Víctor recuerda el lunes negro del 19 de octubre de 1987."
+  }
+ },
  "voix": {
   "fr": "victor-fr"
  },
