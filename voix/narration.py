@@ -23,7 +23,10 @@ LANGUE = os.environ.get('LANGUE', 'fr')
 LANGUAGE = {'fr': 'French', 'en': 'English', 'es': 'Spanish'}[LANGUE]
 os.makedirs(OUT, exist_ok=True)
 HERE = os.path.dirname(os.path.abspath(__file__))
-T = json.load(open(os.path.join(HERE, 'texte.json' if LANGUE == 'fr' else f'texte-{LANGUE}.json'), encoding='utf-8'))
+# Texte : celui du film (par défaut) ou un autre (variable TEXTE, ex. « court » → texte-court.json, texte-court-en.json).
+TEXTE = os.environ.get('TEXTE', '')
+BASE = 'texte' + (f'-{TEXTE}' if TEXTE else '')
+T = json.load(open(os.path.join(HERE, f'{BASE}.json' if LANGUE == 'fr' else f'{BASE}-{LANGUE}.json'), encoding='utf-8'))
 ALL = [l for a in T['acts'] for l in a['lines']]
 IDS = [l['id'] for l in ALL]
 a, b = SPAN.split('-')

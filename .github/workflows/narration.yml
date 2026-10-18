@@ -23,8 +23,12 @@ jobs:
           python3 - <<'EOF' >> "$GITHUB_OUTPUT"
           import json
           R = json.load(open('voix/narration-run.json'))
-          inc = [{'voix': v['voice'], 'casting': str(v['casting_take']), 'lignes': s['lines'], 'ref': s['ref'], 'prise': p, 'langue': R.get('langue', 'fr')}
-                 for v in R['voices'] for s in R['spans'] for p in R['takes']]
+          if 'runs' in R:  # plusieurs langues d'un coup (film court)
+              inc = [{'voix': r['voice'], 'casting': str(r['casting_take']), 'lignes': r['lines'], 'ref': r['ref'], 'prise': p, 'langue': r['langue'], 'texte': R.get('texte', '')}
+                     for r in R['runs'] for p in R['takes']]
+          else:
+              inc = [{'voix': v['voice'], 'casting': str(v['casting_take']), 'lignes': s['lines'], 'ref': s['ref'], 'prise': p, 'langue': R.get('langue', 'fr'), 'texte': R.get('texte', '')}
+                     for v in R['voices'] for s in R['spans'] for p in R['takes']]
           print('matrix=' + json.dumps({'include': inc}))
           EOF
 
@@ -53,6 +57,7 @@ jobs:
       - name: Voix
         env:
           LANGUE: ${{ matrix.langue }}
+          TEXTE: ${{ matrix.texte }}
         run: |
           set -o pipefail
           python voix/narration.py ${{ matrix.voix }} ${{ matrix.casting }} casting ${{ matrix.lignes }} ${{ matrix.prise }} /tmp/out ${{ matrix.ref }} 2>&1 | tee /tmp/run.log || { grep -v '^ok' /tmp/run.log | grep -v -i -E 'warning|pci_bus|sox|flash-attn' | tail -15 | tr '\n' ' ' | sed 's/^/::error title=Voix::/'; echo; exit 1; }
@@ -65,7 +70,7 @@ jobs:
       - uses: actions/upload-artifact@v4
         if: always()
         with:
-          name: narration-${{ matrix.langue }}-${{ matrix.voix }}-${{ matrix.casting }}-${{ matrix.lignes }}-${{ matrix.prise }}
+          name: narration-${{ matrix.texte }}-${{ matrix.langue }}-${{ matrix.voix }}-${{ matrix.casting }}-${{ matrix.lignes }}-${{ matrix.prise }}
           path: /tmp/out
 
   ranger:
@@ -77,7 +82,7 @@ jobs:
         with:
           path: src
       - id: b
-        run: python3 -c "import json; l=json.load(open('src/voix/narration-run.json')).get('langue','fr'); print('branche=' + ('narration' if l == 'fr' else 'narration-' + l))" >> "$GITHUB_OUTPUT"
+        run: python3 -c "import json; R=json.load(open('src/voix/narration-run.json')); l=R.get('langue','fr'); print('branche=' + ('narration-' + R['texte'] if R.get('texte') else 'narration' if l == 'fr' else 'narration-' + l))" >> "$GITHUB_OUTPUT"
       - uses: actions/download-artifact@v4
         with:
           path: /tmp/all

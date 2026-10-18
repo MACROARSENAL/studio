@@ -1,0 +1,14 @@
+{
+ "_": "Film court de la première connexion (18/10/2026, accord de Kévin) : la seule phrase nouvelle ; le reste reprend les prises du film « Il était une fois… un logo ».",
+ "acts": [
+  {
+   "id": "court",
+   "lines": [
+    {
+     "id": "c1",
+     "text": "Chaque matin, trois rendez-vous vous attendent : Mon matin, le Biais du jour, et le quiz."
+    }
+   ]
+  }
+ ]
+}
