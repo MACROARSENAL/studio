@@ -48,7 +48,7 @@ jobs:
           print('retouche_run=' + str(rt.get('run', '')))
           print('retouche_ids=' + ','.join(rt.get('phrases', [])))
           n = int(E.get('parties', 5))
-          langs = [l for l in ('fr', 'en', 'es') if l in E['blocs']]
+          langs = [l for l in ('fr', 'en', 'es') if l in E['blocs'] and l in (R.get('langues') or ['fr', 'en', 'es'])]
           inc = [{'langue': l, 'partie': p, 'parties': n, 'voix': E['voix'][l]} for l in langs for p in range(1, n + 1)]
           print('matrix=' + json.dumps({'include': inc}))
           print('emission=' + path)
@@ -200,7 +200,8 @@ jobs:
           git config --global user.name "studio-bot"; git config --global user.email "studio-bot@users.noreply.github.com"
           URL="https://x-access-token:${{ github.token }}@github.com/${{ github.repository }}.git"
           if git clone -q --depth 1 -b emissions "$URL" /tmp/br 2>/dev/null; then cd /tmp/br; else mkdir /tmp/br && cd /tmp/br && git init -q -b emissions; fi
-          rm -rf "$ID" && mkdir -p "$ID" && cp /tmp/emission/* "$ID"/
+          # une fabrication qui ne refait que certaines langues garde les autres déjà rangées
+          mkdir -p "$ID" && cp /tmp/emission/* "$ID"/
           # on garde les 15 dernières émissions
           ls -d 20*/ 2>/dev/null | sort | head -n -15 | xargs -r rm -rf
           git add -A && git commit -qm "Émission $ID" && git push -q "$URL" HEAD:emissions

@@ -16,7 +16,9 @@
   }
  },
  "voix": {
-  "fr": "victor-fr"
+  "fr": "victor-fr",
+  "en": "victor-en",
+  "es": "victor-es"
  },
  "parties": 5,
  "prononciation": {
@@ -25,6 +27,15 @@
    "SpaceX": "Space X",
    "Times": "Taïmz",
    "la Fed ": "la Fède "
+  },
+  "en": {
+   "SpaceX": "Space X"
+  },
+  "es": {
+   "Moody's": "Múdis",
+   "SpaceX": "Space X",
+   "Times": "Taims",
+   "Dow Jones": "Dau Yons"
   }
  },
  "blocs": {
@@ -99,6 +110,152 @@
     "rubrique": "cloture",
     "ton": "chaleureux",
     "texte": "Le marché sera encore là demain. Votre capital aussi, si vous le protégez. C'était Victor Castel. À demain matin."
+   }
+  ],
+  "en": [
+   {
+    "son": "intro",
+    "rubrique": "ouverture",
+    "ton": "energique",
+    "texte": "The markets are waking up. Good morning, trading floor! This is Victor Castel, and you're listening to MACROARSENAL Radio. Strong coffee, screens on: three minutes around the world. Monday the nineteenth of October, and it's oil that sets the tone."
+   },
+   {
+    "son": "carillon",
+    "rubrique": "ecrans",
+    "ton": "net",
+    "texte": "Oil first. On Friday, Brent touched one hundred and ten dollars a barrel, a first since May, after fresh attacks on ships in the Strait of Hormuz. On Saturday, Iran said two supertankers had struck mines. Washington says it remains in control of the passage. And this Sunday, Tehran repeated that its offer to reopen the strait still stands."
+   },
+   {
+    "son": "carillon",
+    "rubrique": "ecrans",
+    "ton": "net",
+    "texte": "On Wall Street, tech lost its grip. On Friday, the Nasdaq fell two point one per cent: its worst week since June, down four point five per cent. The Dow Jones, meanwhile, ended the week slightly higher."
+   },
+   {
+    "son": "carillon",
+    "rubrique": "ecrans",
+    "ton": "net",
+    "texte": "In the United States, import prices jumped eight point one per cent over a year, the biggest rise since July twenty twenty-two. And the Fed now goes quiet, until its meeting on the twenty-seventh and twenty-eighth of October."
+   },
+   {
+    "son": "virgule",
+    "rubrique": "semaine",
+    "ton": "pose",
+    "texte": "The week ahead. On Tuesday, UK jobs. On Friday, the first October activity surveys, in Europe and the United States: they will show whether businesses are absorbing the oil shock. And on Friday evening, Moody's reviews France's credit rating."
+   },
+   {
+    "son": "virgule",
+    "rubrique": "biais",
+    "ton": "net",
+    "texte": "Today's Bias is live: forty markets under the microscope, with their direction, their strength and our level of confidence. Eight of them are free for everyone this morning, in the terminal."
+   },
+   {
+    "son": "virgule",
+    "rubrique": "actions",
+    "ton": "net",
+    "texte": "The world of stocks. Earnings season shifts up a gear: Netflix and SpaceX on Tuesday evening, Tesla and Meta on Wednesday evening. One question will dominate: how far will their spending on artificial intelligence go? And in the terminal, this week's Duel begins: Meta versus Alphabet. Cast your vote."
+   },
+   {
+    "son": "virgule",
+    "rubrique": "rendez-vous",
+    "ton": "pose",
+    "texte": "This week's big moment: Wednesday morning, UK inflation. The market expects three point four per cent over a year, after three point one. A stronger figure than expected usually supports sterling: it pushes the Bank of England to stay firm."
+   },
+   {
+    "son": "souvenir",
+    "rubrique": "souvenir",
+    "ton": "complice",
+    "texte": "From the floor. The nineteenth of October, nineteen eighty-seven, thirty-nine years ago to the day, on a Monday, just like today. I was fourteen, my ear glued to my transistor radio. In a single session, the Dow Jones lost twenty-two point six per cent: the biggest one-day fall in its history. In Hong Kong, the stock exchange closed for four days. The next day, the Federal Reserve promised all the liquidity needed."
+   },
+   {
+    "rubrique": "souvenir",
+    "ton": "pose",
+    "texte": "It took less than two years to wipe out the fall, and it was after that day that exchanges invented circuit breakers. The lesson hasn't aged a day: you don't choose the day the market panics. You choose your position size and your stop, beforehand. Panic is contagious. So is calm."
+   },
+   {
+    "son": "virgule",
+    "rubrique": "terminal",
+    "ton": "chaleureux",
+    "texte": "This morning in the terminal: the very first issue of MACROARSENAL Times. It's called “Gold between two waves”, and it's free for everyone with a free account. Arsenal members, for their part, have received their two Convictions of the day: two ideas studied in every detail."
+   },
+   {
+    "son": "fin",
+    "rubrique": "cloture",
+    "ton": "chaleureux",
+    "texte": "The market will still be here tomorrow. So will your capital, if you protect it. This was Victor Castel. See you tomorrow morning."
+   }
+  ],
+  "es": [
+   {
+    "son": "intro",
+    "rubrique": "ouverture",
+    "ton": "energique",
+    "texte": "Los mercados se despiertan. ¡Buenos días, sala de mercados! Les habla Víctor Castel y esto es MACROARSENAL Radio. Café cargado, pantallas encendidas: la vuelta al mundo en tres minutos. Lunes diecinueve de octubre, y es el petróleo el que marca la pauta."
+   },
+   {
+    "son": "carillon",
+    "rubrique": "ecrans",
+    "ton": "net",
+    "texte": "Primero, el petróleo. El viernes, el Brent tocó los ciento diez dólares por barril, algo que no ocurría desde mayo, tras nuevos ataques a buques en el estrecho de Ormuz. El sábado, Irán afirmó que dos superpetroleros habían chocado con minas. Washington asegura que mantiene el control del paso. Y este domingo, Teherán repite que su oferta de reabrir el estrecho sigue en pie."
+   },
+   {
+    "son": "carillon",
+    "rubrique": "ecrans",
+    "ton": "net",
+    "texte": "En Wall Street, la tecnología perdió pie. El viernes, el Nasdaq cayó un dos coma uno por ciento: su peor semana desde junio, con un descenso del cuatro coma cinco por ciento. El Dow Jones, en cambio, cerró la semana con una ligera subida."
+   },
+   {
+    "son": "carillon",
+    "rubrique": "ecrans",
+    "ton": "net",
+    "texte": "En Estados Unidos, los precios de importación se dispararon un ocho coma uno por ciento interanual, algo no visto desde julio de dos mil veintidós. Y la Reserva Federal guarda silencio desde ahora hasta su reunión del veintisiete y veintiocho de octubre."
+   },
+   {
+    "son": "virgule",
+    "rubrique": "semaine",
+    "ton": "pose",
+    "texte": "La semana que viene. El martes, el empleo en el Reino Unido. El viernes, los primeros índices de actividad de octubre, en Europa y en Estados Unidos: dirán si las empresas aguantan el golpe del petróleo. Y el viernes por la noche, la agencia Moody's revisa la calificación de Francia."
+   },
+   {
+    "son": "virgule",
+    "rubrique": "biais",
+    "ton": "net",
+    "texte": "El Sesgo del día ya está en línea: cuarenta mercados analizados a fondo, con su dirección, su fuerza y nuestro nivel de confianza. Ocho de ellos son gratuitos para todos esta mañana, en el terminal."
+   },
+   {
+    "son": "virgule",
+    "rubrique": "actions",
+    "ton": "net",
+    "texte": "El mundo de las acciones. La temporada de resultados acelera: Netflix y SpaceX el martes por la noche, Tesla y Meta el miércoles por la noche. Una pregunta lo dominará todo: ¿hasta dónde llegará su gasto en inteligencia artificial? Y en el terminal empieza el Duelo de la semana: Meta contra Alphabet. Les toca votar."
+   },
+   {
+    "son": "virgule",
+    "rubrique": "rendez-vous",
+    "ton": "pose",
+    "texte": "La cita de la semana: el miércoles por la mañana, la inflación en el Reino Unido. El mercado espera un tres coma cuatro por ciento interanual, tras un tres coma uno. Un dato más alto de lo previsto suele sostener a la libra esterlina: empuja al Banco de Inglaterra a mantenerse firme."
+   },
+   {
+    "son": "souvenir",
+    "rubrique": "souvenir",
+    "ton": "complice",
+    "texte": "Recuerdo de la sala. Diecinueve de octubre de mil novecientos ochenta y siete, hace treinta y nueve años exactos, un lunes, como hoy. Yo tenía catorce años, con la oreja pegada al transistor. En una sola sesión, el Dow Jones perdió un veintidós coma seis por ciento: la mayor caída de su historia en un solo día. En Hong Kong, la bolsa cerró cuatro días. Al día siguiente, la Reserva Federal prometió toda la liquidez necesaria."
+   },
+   {
+    "rubrique": "souvenir",
+    "ton": "pose",
+    "texte": "Hicieron falta menos de dos años para borrar la caída, y fue después de aquel día cuando las bolsas inventaron los cortacircuitos. La lección no ha envejecido: uno no elige el día en que el mercado entra en pánico. Uno elige el tamaño de su posición y su stop, antes. El pánico es contagioso. La calma también."
+   },
+   {
+    "son": "virgule",
+    "rubrique": "terminal",
+    "ton": "chaleureux",
+    "texte": "Esta mañana en el terminal: el primer número de MACROARSENAL Times. Se titula «El oro entre dos olas», y se ofrece a todos los que tienen una cuenta gratuita. Los miembros Arsenal, por su parte, han recibido sus dos Convicciones del día: dos ideas estudiadas al detalle."
+   },
+   {
+    "son": "fin",
+    "rubrique": "cloture",
+    "ton": "chaleureux",
+    "texte": "El mercado seguirá aquí mañana. Su capital también, si lo protegen. Les habló Víctor Castel. Hasta mañana."
    }
   ]
  }
