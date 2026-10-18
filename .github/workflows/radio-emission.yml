@@ -1,0 +1,151 @@
+name: MACROARSENAL Radio — émission
+
+# Fabrique la voix (Victor Castel, Qwen3-TTS, voix clonée) et le mixage d'une émission dans les trois langues, en parallèle,
+# puis range les sons sur la branche « emissions » (un dossier par émission). Le terminal les recopie ensuite dans son stockage.
+# Lancement : git push -f origin HEAD:emission-run (radio/emission-run.json indique l'émission), ou onglet Actions → Run workflow.
+on:
+  push:
+    branches: [emission-run]
+  workflow_dispatch:
+    inputs:
+      emission:
+        description: 'Fichier de l''émission (ex. radio/emissions/2026-10-19-matinale.json)'
+        required: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: radio-emission
+  cancel-in-progress: false
+
+jobs:
+  plan:
+    runs-on: ubuntu-latest
+    outputs:
+      matrix: ${{ steps.m.outputs.matrix }}
+      emission: ${{ steps.m.outputs.emission }}
+      langues: ${{ steps.m.outputs.langues }}
+    steps:
+      - uses: actions/checkout@v4
+      - id: m
+        env:
+          INPUT: ${{ github.event.inputs.emission }}
+        run: |
+          python3 - <<'EOF' >> "$GITHUB_OUTPUT"
+          import json, os
+          path = os.environ.get('INPUT') or json.load(open('radio/emission-run.json'))['emission']
+          E = json.load(open(path))
+          n = int(E.get('parties', 5))
+          langs = [l for l in ('fr', 'en', 'es') if l in E['blocs']]
+          inc = [{'langue': l, 'partie': p, 'parties': n, 'voix': E['voix'][l]} for l in langs for p in range(1, n + 1)]
+          print('matrix=' + json.dumps({'include': inc}))
+          print('emission=' + path)
+          print('langues=' + json.dumps(langs))
+          EOF
+
+  voix:
+    needs: plan
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    strategy:
+      fail-fast: false
+      matrix: ${{ fromJSON(needs.plan.outputs.matrix) }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - uses: actions/cache@v4
+        with:
+          path: |
+            ~/.cache/pip
+            ~/.cache/huggingface
+          key: qwen-tts-whisper-v1
+      - name: Outils
+        run: |
+          sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg sox > /dev/null
+          set -o pipefail
+          { pip install --index-url https://download.pytorch.org/whl/cpu torch torchaudio && pip install -U qwen-tts soundfile; } > /tmp/pip.log 2>&1 || { tail -40 /tmp/pip.log | tr '\n' ' ' | sed 's/^/::error title=pip::/'; echo; exit 1; }
+          python -m venv /tmp/asr && /tmp/asr/bin/pip install -q faster-whisper scipy > /tmp/pip2.log 2>&1 || { tail -20 /tmp/pip2.log | tr '\n' ' ' | sed 's/^/::error title=pip asr::/'; echo; exit 1; }
+      - name: Voix, contrôle et reprises
+        env:
+          EMI: ${{ needs.plan.outputs.emission }}
+          L: ${{ matrix.langue }}
+          P: ${{ matrix.partie }}
+          N: ${{ matrix.parties }}
+          V: radio/voix/${{ matrix.voix }}
+        run: |
+          set -o pipefail
+          python radio/emission.py "$EMI" "$L" "$P" "$N" "$V" /tmp/out 1 2>&1 | grep -v -i -E 'warning|pci_bus|flash-attn' | tee -a /tmp/run.log
+          /tmp/asr/bin/python radio/controle.py /tmp/out "$L" 2>&1 | grep -v -i warning | tee -a /tmp/qa.log
+          for r in "2,3" "4,5"; do
+            ids=$(cat /tmp/out/$L-a-refaire.txt 2>/dev/null || true)
+            [ -z "$ids" ] && break
+            echo "::notice title=Reprises $L $P::$ids (prises $r)"
+            python radio/emission.py "$EMI" "$L" "$P" "$N" "$V" /tmp/out "$r" "$ids" 2>&1 | grep -v -i -E 'warning|pci_bus|flash-attn' | tee -a /tmp/run.log
+            /tmp/asr/bin/python radio/controle.py /tmp/out "$L" 2>&1 | grep -v -i warning | tee -a /tmp/qa.log
+          done
+          rm -f /tmp/out/$L-choix.json /tmp/out/$L-a-refaire.txt
+      - uses: actions/upload-artifact@v4
+        with:
+          name: voix-${{ matrix.langue }}-${{ matrix.partie }}
+          path: /tmp/out
+          retention-days: 3
+
+  mixage:
+    needs: [plan, voix]
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      matrix:
+        langue: ${{ fromJSON(needs.plan.outputs.langues) }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - uses: actions/download-artifact@v4
+        with:
+          pattern: voix-${{ matrix.langue }}-*
+          path: /tmp/in
+          merge-multiple: true
+      - name: Choix des prises et mixage
+        env:
+          EMI: ${{ needs.plan.outputs.emission }}
+          L: ${{ matrix.langue }}
+        run: |
+          sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg > /dev/null
+          python -m venv /tmp/asr && /tmp/asr/bin/pip install -q faster-whisper scipy numpy > /dev/null
+          /tmp/asr/bin/python radio/controle.py /tmp/in "$L"
+          /tmp/asr/bin/python radio/mixage.py "$EMI" "$L" /tmp/in radio/habillage /tmp/emission
+          cp /tmp/in/$L-choix.json /tmp/emission/
+      - uses: actions/upload-artifact@v4
+        with:
+          name: emission-${{ matrix.langue }}
+          path: /tmp/emission
+          retention-days: 7
+
+  ranger:
+    needs: [plan, mixage]
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/download-artifact@v4
+        with:
+          pattern: emission-*
+          path: /tmp/emission
+          merge-multiple: true
+      - name: Ranger sur la branche « emissions »
+        env:
+          EMI: ${{ needs.plan.outputs.emission }}
+        run: |
+          ID=$(basename "$EMI" .json)
+          git config --global user.name "studio-bot"; git config --global user.email "studio-bot@users.noreply.github.com"
+          URL="https://x-access-token:${{ github.token }}@github.com/${{ github.repository }}.git"
+          if git clone -q --depth 1 -b emissions "$URL" /tmp/br 2>/dev/null; then cd /tmp/br; else mkdir /tmp/br && cd /tmp/br && git init -q -b emissions; fi
+          rm -rf "$ID" && mkdir -p "$ID" && cp /tmp/emission/* "$ID"/
+          # on garde les 15 dernières émissions
+          ls -d 20*/ 2>/dev/null | sort | head -n -15 | xargs -r rm -rf
+          git add -A && git commit -qm "Émission $ID" && git push -q "$URL" HEAD:emissions
+          ls -la "$ID"
+          echo "::notice title=Émission rangée::$ID ($(ls $ID/*.m4a | wc -l) langues)"

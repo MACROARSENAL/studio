@@ -5,7 +5,7 @@ Le motif : cinq notes sur « MA-CRO-AR-SE-NAL » (la, ré, fa#, mi, la), en ré 
 Piano, marimba et glockenspiel jouent le motif ; violoncelles et cor tiennent l'harmonie ; timbales, caisse claire
 et cymbale donnent l'élan d'une matinale. Rien d'imité : composition originale.
 
-Usage : VSCO=~/vsco python jingle.py <sortie>  → intro.wav, virgule.wav, fin.wav, fond.wav (48 kHz stéréo) + .mp3
+Usage : VSCO=~/vsco python jingle.py <sortie>  → intro, carillon, virgule, souvenir, fin, fond, fond-souvenir (.wav 48 kHz stéréo + .mp3)
 """
 import functools, glob, os, re, subprocess, sys
 
@@ -29,6 +29,8 @@ def bank(kind):
         'violin': 'Strings/Violin Section/susVib/VlnEns_susVib_*_v2.wav',
         'horn': 'Brass/F Horn/sus/MOHorn_sus_*_v2_1.wav',
         'trumpet': 'Brass/Trumpet/sus/Sum_SHTrumpet_sus_*_v3_rr1.wav',
+        'harp': 'Strings/Harp/KSHarp_*_mf.wav',
+        'viola': 'Strings/Viola Section/susvib/*_v2*.wav',
     }
     out = {}
     if kind == 'piano':
@@ -37,7 +39,7 @@ def bank(kind):
             out[21 + 2 * k] = os.path.relpath(p, V)   # MappingChart : fichier n → touche 21 + 2n (une note sur deux)
         return out
     # Mesuré : ces échantillons sonnent une octave au-dessus du nom du fichier (convention « do 3 = do central »).
-    shift = 12
+    shift = 0 if kind == 'harp' else 12  # la harpe suit déjà la convention « la 4 = 440 Hz » (mesuré)
     for p in sorted(glob.glob(os.path.join(V, pats[kind]))):
         out[midi_of(os.path.basename(p)) + shift] = os.path.relpath(p, V)
     return out
@@ -70,8 +72,12 @@ HALL = impulse(rt60=1.6, pre=0.018, bright=7500, damp=3200, width=1.0, seed=11)
 ROOM = impulse(rt60=0.6, pre=0.008, bright=8000, damp=4000, width=0.8, seed=12)
 
 
-def finish(bus, name, lufs=-16.0, tail=0.0, fin=0.0, fout=0.6):
+def finish(bus, name, lufs=-16.0, tail=0.0, fin=0.0, fout=0.6, loop=None):
     x = reverb(bus, HALL, wet_db=-13)
+    if loop:  # boucle sans couture : la queue de réverbération retombe au début, longueur exacte
+        n = int(loop * SR)
+        x[: len(x) - n] += x[n:]
+        x = x[:n]
     x = eq(x, ('hp', 35), ('peak', 250, -1.5, 0.9), ('highshelf', 9000, 1.5))
     x, _ = compress(x, threshold_db=-20, ratio=2.0, attack=0.01, release=0.15, makeup_db=0)
     if tail:
@@ -79,7 +85,7 @@ def finish(bus, name, lufs=-16.0, tail=0.0, fin=0.0, fout=0.6):
     x = fade(x, fin, fout)
     g = lufs - loudness(x)[0]
     x = limiter(x * db(g), ceiling_db=-1.0)
-    if name != 'fond':  # coupe la queue inaudible (sous −60 dBFS)
+    if not loop:  # coupe la queue inaudible (sous −60 dBFS)
         m = np.abs(x).max(1)
         last = np.nonzero(m > db(-60))[0]
         x = fade(x[: (last[-1] if len(last) else len(x)) + int(0.05 * SR)], 0.0, 0.25)
@@ -123,13 +129,13 @@ place(bus, perc('Timpani/Timpani2_Hit_v3_rr1_Sum.wav', 0.6), t3)
 place(bus, perc('Triangle3-Hit_v1_rr1_Sum.wav', 0.35), t3 + 0.5)
 intro = finish(bus[: int(6.6 * SR)], 'intro', -16, fout=1.2)
 
-# --- 2. Virgule « Ça tombe sur les écrans » (≈ 1,3 s) ----------------------------------------------------------------------
+# --- 2. Carillon de salle « Ça tombe sur les écrans » (≈ 1,3 s), avant chaque nouvelle ----------------------------------------------------------------------
 bus = np.zeros((int(2.5 * SR), 2), np.float32)
 place(bus, pan(note('glock', A + 24, 0.55, 0.3, 0.6), 0.2), 0.05)
 place(bus, pan(note('glock', D + 36, 0.6, 0.6, 0.9), -0.1), 0.05 + BEAT / 2)
 place(bus, pan(note('marimba', A + 12, 0.7, 0.3, 0.4), 0.0), 0.05)
 place(bus, pan(note('marimba', D + 24, 0.75, 0.5, 0.6), 0.0), 0.05 + BEAT / 2)
-virgule = finish(bus[: int(1.6 * SR)], 'virgule', -19, fout=0.5)
+carillon = finish(bus[: int(1.6 * SR)], 'carillon', -19, fout=0.5)
 
 # --- 3. Indicatif de fin (≈ 4,5 s) : le motif, plus doux, qui se pose ------------------------------------------------------
 bus = np.zeros((int(7 * SR), 2), np.float32)
@@ -155,4 +161,35 @@ for i, c in enumerate(prog):
         place(bus, pan(note('marimba', c[k % 3] + 12, 0.28, 0.25, 0.3), (-0.3, 0.3)[k % 2]), t + k * BEAT)
 x = bus[: int(16 * SR)]
 x[: int(2 * SR)] += bus[int(16 * SR): int(18 * SR)]                 # la queue retombe au début : boucle sans couture
-fond = finish(x, 'fond', -30, fout=0.0)
+fond = finish(x, 'fond', -30, fout=0.0, loop=16)
+
+
+# --- 5. Virgule entre deux rubriques (≈ 1,2 s) : ré majeur avec neuvième, égrené au piano, une étincelle de glockenspiel ----
+bus = np.zeros((int(2.6 * SR), 2), np.float32)
+for i, m in enumerate([D - 12, A - 12, D, E, FS]):
+    place(bus, pan(note('piano', m, 0.5 + 0.06 * i, 0.9, 0.7), -0.25 + 0.12 * i), 0.04 + i * 0.055)
+place(bus, pan(note('marimba', A + 12, 0.45, 0.3, 0.4), 0.15), 0.04 + 4 * 0.055)
+place(bus, pan(note('glock', FS + 24, 0.35, 0.3, 0.8), 0.3), 0.04 + 5 * 0.055)
+virgule = finish(bus[: int(1.9 * SR)], 'virgule', -21, fout=0.7)
+
+# --- 6. Souvenir de salle (≈ 3 s) : la harpe descend en si mineur, le violoncelle tient la note, on remonte le temps -------
+bus = np.zeros((int(5 * SR), 2), np.float32)
+for i, m in enumerate([B + 12, FS, D, B]):                 # si4, fa#4, ré4, si3
+    place(bus, pan(note('harp', m, 0.62 - 0.05 * i, 1.4, 1.2), 0.3 - 0.2 * i), 0.05 + i * 0.16)
+cel = note('cello', B - 12, 0.55, 2.6, 1.2)                # si2 tenu, qui enfle doucement
+cel = cel * np.minimum(1.0, np.linspace(0.2, 1.6, len(cel)))[:, None]
+place(bus, cel, 0.05)
+place(bus, pan(note('violin', FS + 12, 0.32, 2.2, 1.2), 0.25), 0.55)
+place(bus, perc('Triangle3-Hit_v1_rr1_Sum.wav', 0.18), 0.05)
+souvenir = finish(bus[: int(3.6 * SR)], 'souvenir', -22, fout=1.2)
+
+# --- 7. Fond du souvenir (boucle de 16 s) : cordes tenues, si mineur → sol → ré → la, très bas sous la voix -------------------
+bus = np.zeros((int(18 * SR), 2), np.float32)
+for i, c in enumerate([[B - 24, FS - 12, B - 12, D], [G - 24, D - 12, G - 12, B - 12], [D - 24, A - 12, D, FS], [A - 24, E - 12, A - 12, E]]):
+    t = i * 4.0
+    chord(bus, t, c[:2], 'cello', 0.32, 3.9, 0.9, 0.1)
+    chord(bus, t, c[2:], 'viola', 0.28, 3.9, 0.9, 0.2)
+    place(bus, pan(note('harp', c[2] + 12, 0.25, 1.2, 1.5), 0.2), t + 0.05)
+x = bus[: int(16 * SR)]
+x[: int(2 * SR)] += bus[int(16 * SR): int(18 * SR)]
+fond_souvenir = finish(x, 'fond-souvenir', -31, fout=0.0, loop=16)
