@@ -1,0 +1,33 @@
+{
+ "id": "2026-10-18-essai-nettete",
+ "langue": "fr",
+ "seconds": 107.47,
+ "lufs": -16.0,
+ "peak_dbtp": -1.0,
+ "blocs": [
+  {
+   "bloc": 0,
+   "rubrique": "ecrans",
+   "start": 0.85,
+   "end": 22.93
+  },
+  {
+   "bloc": 1,
+   "rubrique": "ecrans",
+   "start": 23.83,
+   "end": 50.4
+  },
+  {
+   "bloc": 2,
+   "rubrique": "ecrans",
+   "start": 51.3,
+   "end": 73.94
+  },
+  {
+   "bloc": 3,
+   "rubrique": "ecrans",
+   "start": 74.84,
+   "end": 100.42
+  }
+ ]
+}
