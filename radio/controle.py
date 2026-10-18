@@ -128,6 +128,43 @@ def norm(s):
     return out
 
 
+# Heures dites à l'antenne (FR) : une heure lue trop vite ou mâchée ne se comprend pas (Kévin, 18/10 : « on entend 30
+# seulement »). On mesure la durée et la confiance des mots de l'heure dans la transcription ; trop courte = reprise.
+NOMBRES_FR = r"(?:une|deux|trois|quatre|cinq|six|sept|huit|neuf|dix|onze|douze|treize|quatorze|quinze|seize|dix-sept|dix-huit|dix-neuf|vingt|vingt-et-une|vingt-deux|vingt-trois)"
+HEURE_FR = re.compile(NOMBRES_FR + r"\s+heures?(?:\s+(?:et\s+demie|et\s+quart|trente|quinze|quarante-cinq|pile))?", re.I)
+SUITE = {'et', 'demie', 'demi', 'quart', 'trente', 'quinze', 'pile', '30', '15', '45'}
+
+
+def syllabes(t):
+    """Syllabes dites (français) : le e muet de fin de mot ne compte pas (« heure » = 1, « demie » = 2, « trente » = 1)."""
+    n = 0
+    for w in re.split(r"[\s'-]+", t.lower()):
+        w = re.sub(r'(?<=[^aeiouy])es?$', '', w) if len(w) > 2 else w
+        n += len(re.findall(r'[aeiouyéèêëàâîïôûù]+', w))
+    return max(1, n)
+
+
+def heure_dite(tts, mots):
+    """Durée et confiance de la première heure du texte dans la transcription, ou None s'il n'y en a pas."""
+    if LANGUE != 'fr':
+        return None
+    m = HEURE_FR.search(tts)
+    if not m:
+        return None
+    w = [x[0].lower().strip('.,:;!?« »') for x in mots]
+    i = next((k for k, x in enumerate(w) if re.match(r'^\d{1,2}h', x) or x.startswith('heure')), None)
+    if i is None:
+        return {'texte': m.group(0), 'duree': 0.0, 'confiance': 0.0, 'nette': False}
+    a = i - 1 if w[i].startswith('heure') and i > 0 else i
+    z = i
+    while z + 1 < len(w) and w[z + 1] in SUITE:
+        z += 1
+    duree = round(mots[z][2] - mots[a][1], 2)
+    conf = round(min(x[3] for x in mots[a:z + 1]), 2)
+    mini = round(0.17 * syllabes(m.group(0)), 2)   # 0,17 s par syllabe : au-dessous, l'heure est avalée
+    return {'texte': m.group(0), 'duree': duree, 'mini': mini, 'confiance': conf, 'nette': bool(duree >= mini and conf >= 0.5)}
+
+
 def ecart(ref, heard):
     """(écart, mots en trop, mots attendus) entre un texte de référence et la transcription."""
     exp, got = norm(ref), norm(heard)
@@ -166,10 +203,12 @@ for sid, s in sorted(phr.items()):
         tol = max(1, round(0.05 * nexp))   # un mot ajouté ou coupé autrement par la transcription (« coupe-circuits »)
         # mot à mot : instants et confiance de la transcription (un mot avalé ou mâché ressort avec une confiance basse)
         mots = [[w.word.strip(), round(float(w.start), 2), round(float(w.end), 2), round(float(w.probability), 2)] for w in words]
+        h = heure_dite(s['tts'], mots)
         p.update({'heard': heard, 'wer': round(float(wer), 3), 'extra': int(extra), 'speech': speech, 'rate': round(rate, 1),
-                  'mots': mots, 'clarte': min((m[3] for m in mots), default=0.0),
-                  'ok': bool(wer <= 0.1 and extra <= tol and plausible)})
-        print(f"{'ok' if p['ok'] else 'À REVOIR'} {sid} {f} écart {wer:.2f} +{extra} débit {rate:.1f} « {heard} »", flush=True)
+                  'mots': mots, 'clarte': min((m[3] for m in mots), default=0.0), **({'heure': h} if h else {}),
+                  'ok': bool(wer <= 0.1 and extra <= tol and plausible and (h is None or h['nette']))})
+        hh = f" heure {h['duree']} s (mini {h.get('mini')}) confiance {h['confiance']}" if h else ''
+        print(f"{'ok' if p['ok'] else 'À REVOIR'} {sid} {f} écart {wer:.2f} +{extra} débit {rate:.1f}{hh} « {heard} »", flush=True)
 
 # Les résultats sont aussi écrits dans chaque fichier de partie : un contrôle suivant ne retranscrit pas ce qui l'a déjà été.
 for m, M in loaded:
@@ -177,7 +216,9 @@ for m, M in loaded:
 
 choix, redo = {}, []
 for sid, s in sorted(phr.items()):
-    best = min(s['prises'].values(), key=lambda p: (not p['ok'], p['wer'], p['extra'], abs(p.get('rate', CPS) - CPS)))
+    # à égalité, la prise où l'heure est dite le plus posément
+    best = min(s['prises'].values(), key=lambda p: (not p['ok'], p['wer'], p['extra'], -(p.get('heure') or {}).get('duree', 0),
+                                                    abs(p.get('rate', CPS) - CPS)))
     choix[sid] = {k: v for k, v in s.items() if k != 'prises'} | {'prise': best, 'toutes': list(s['prises'].values())}
     if not best['ok']:
         redo.append(sid)

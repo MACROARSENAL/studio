@@ -1,6 +1,6 @@
 {
  "id": "2026-10-19-matinale",
- "_": "Matinale du lundi 19 octobre 2026 (pilote, préparée le dimanche 18 à 13 h avec les faits vérifiés jusque-là). Sources : AP via La Nación (clôtures du 16/10), ThriveInMarkets (pétrole, or, bitcoin, données du 16/10), Al Jazeera (Ormuz, 17/10), AFP via Oman Observer (mines, 17/10), Reuters via Asharq Al-Awsat (offre iranienne, 18/10), Newsquawk (semaine du 19 au 23/10), Hargreaves Lansdown (résultats), Wikipédia (lundi noir de 1987).",
+ "_": "Matinale du lundi 19 octobre 2026 (pilote, préparée le dimanche 18 à 13 h avec les faits vérifiés jusque-là). Sources : AP via La Nación (clôtures du 16/10), ThriveInMarkets (pétrole, or, bitcoin, données du 16/10), Al Jazeera (Ormuz, 17/10), AFP via Oman Observer (mines, 17/10), Reuters via Asharq Al-Awsat (offre iranienne, 18/10), Newsquawk (semaine du 19 au 23/10), Hargreaves Lansdown (résultats), Wikipédia (lundi noir de 1987). Retouche du 18/10 (Kévin : « quand il dit les heures on ne les comprend pas ») : « Il est huit heures à Paris », « sept heures trente », « mercredi à huit heures », « À demain matin, huit heures » ; heure du Times retirée (essai 2026-10-18-essai-heures).",
  "date": "2026-10-19",
  "site": {
   "genre": "matinale",
@@ -33,7 +33,7 @@
     "son": "intro",
     "rubrique": "ouverture",
     "ton": "energique",
-    "texte": "Huit heures à Paris. Bonjour la salle ! Ici Victor Castel, et vous écoutez MACROARSENAL Radio. Café serré, écrans allumés : on fait le tour du monde en trois minutes. Lundi dix-neuf octobre, et c'est le pétrole qui donne le ton."
+    "texte": "Il est huit heures à Paris. Bonjour la salle ! Ici Victor Castel, et vous écoutez MACROARSENAL Radio. Café serré, écrans allumés : on fait le tour du monde en trois minutes. Lundi dix-neuf octobre, et c'est le pétrole qui donne le ton."
    },
    {
     "son": "carillon",
@@ -63,7 +63,7 @@
     "son": "virgule",
     "rubrique": "biais",
     "ton": "net",
-    "texte": "Le Biais du jour est en ligne depuis sept heures et demie : quarante marchés passés au crible, avec leur sens, leur force et notre niveau de confiance. Huit d'entre eux sont offerts à tous, ce matin, dans le terminal."
+    "texte": "Le Biais du jour est en ligne depuis sept heures trente : quarante marchés passés au crible, avec leur sens, leur force et notre niveau de confiance. Huit d'entre eux sont offerts à tous, ce matin, dans le terminal."
    },
    {
     "son": "virgule",
@@ -75,7 +75,7 @@
     "son": "virgule",
     "rubrique": "rendez-vous",
     "ton": "pose",
-    "texte": "Le rendez-vous de la semaine : mercredi, huit heures, l'inflation au Royaume-Uni. Le marché attend trois virgule quatre pour cent sur un an, après trois virgule un. Un chiffre plus fort que prévu soutient habituellement la livre sterling : il pousse la Banque d'Angleterre à rester ferme."
+    "texte": "Le rendez-vous de la semaine : mercredi à huit heures, l'inflation au Royaume-Uni. Le marché attend trois virgule quatre pour cent sur un an, après trois virgule un. Un chiffre plus fort que prévu soutient habituellement la livre sterling : il pousse la Banque d'Angleterre à rester ferme."
    },
    {
     "son": "souvenir",
@@ -92,13 +92,13 @@
     "son": "virgule",
     "rubrique": "terminal",
     "ton": "chaleureux",
-    "texte": "Ce matin dans le terminal : le tout premier numéro de MACROARSENAL Times, sorti à sept heures et demie. Il s'intitule « L'or entre deux vagues », et il est offert à tous ceux qui ont un compte gratuit. Les membres Arsenal, eux, ont reçu leurs deux Convictions du jour : deux idées étudiées dans le moindre détail."
+    "texte": "Ce matin dans le terminal : le tout premier numéro de MACROARSENAL Times. Il s'intitule « L'or entre deux vagues », et il est offert à tous ceux qui ont un compte gratuit. Les membres Arsenal, eux, ont reçu leurs deux Convictions du jour : deux idées étudiées dans le moindre détail."
    },
    {
     "son": "fin",
     "rubrique": "cloture",
     "ton": "chaleureux",
-    "texte": "Le marché sera encore là demain. Votre capital aussi, si vous le protégez. C'était Victor Castel. À demain, huit heures."
+    "texte": "Le marché sera encore là demain. Votre capital aussi, si vous le protégez. C'était Victor Castel. À demain matin, huit heures."
    }
   ]
  }

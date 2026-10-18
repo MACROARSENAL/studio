@@ -154,18 +154,18 @@ jobs:
           import glob, json, os, shutil
           L, ids = os.environ['L'], set(filter(None, os.environ['IDS'].split(',')))
           os.makedirs('/tmp/in', exist_ok=True)
-          gardees = 0
+          gardees = set()
           for f in sorted(glob.glob(f'/tmp/base/{L}-partie*.json')):
               M = json.load(open(f, encoding='utf-8'))
               M['phrases'] = [s for s in M['phrases'] if s['id'] not in ids]
               for s in M['phrases']:
                   for p in s['prises']:
                       shutil.copy(os.path.join('/tmp/base', p['file']), '/tmp/in')
-                  gardees += 1
+                  gardees.add(s['id'])
               json.dump(M, open('/tmp/in/' + os.path.basename(f)[:-5] + '-origine.json', 'w', encoding='utf-8'), ensure_ascii=False)
           for f in glob.glob('/tmp/new/*'):
               shutil.copy(f, '/tmp/in')
-          print(f'::notice title=Retouche {L}::{gardees} phrases reprises telles quelles, refaites : {", ".join(sorted(ids)) or "aucune"}' if ids else f'{L} : fabrication complète')
+          print(f'::notice title=Retouche {L}::{len(gardees)} phrases reprises telles quelles, refaites : {", ".join(sorted(ids)) or "aucune"}' if ids else f'{L} : fabrication complète')
           EOF
       - name: Choix des prises et mixage
         env:
