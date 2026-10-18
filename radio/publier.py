@@ -36,9 +36,32 @@ def adresse(v):
 
 
 BRUT = os.environ.get('SUPABASE_URL') or ''
+KEY = re.sub(r'^[\s`"\']+|[\s`"\']+$', '', os.environ.get('SUPABASE_SERVICE_ROLE_KEY') or '')
+# Secrets collés à l'envers (la clé dans SUPABASE_URL, l'adresse dans SUPABASE_SERVICE_ROLE_KEY) : on les remet dans l'ordre.
+INVERSES = bool(re.match(r'\s*[`"\']?(sb_secret_|eyJ)', BRUT)) and bool(adresse(KEY))
+if INVERSES:
+    BRUT, KEY = KEY, re.sub(r'^[\s`"\']+|[\s`"\']+$', '', BRUT)
 URL = adresse(BRUT) or PROJET
 URL_CORRIGEE = bool(BRUT) and URL != BRUT.strip().rstrip('/')
-KEY = re.sub(r'^[\s`"\']+|[\s`"\']+$', '', os.environ.get('SUPABASE_SERVICE_ROLE_KEY') or '')
+
+
+def nature(k):
+    """Ce que contient un secret, sans jamais l'afficher : le préfixe et, pour une clé JWT, son rôle."""
+    if k.startswith('sb_secret_'):
+        return f'une clé secrète « sb_secret_… » ({len(k)} caractères)'
+    if k.startswith('sb_publishable_'):
+        return 'la clé PUBLIQUE « sb_publishable_… » (il faut la clé secrète)'
+    if k.startswith('eyJ') and k.count('.') == 2:
+        try:
+            import base64
+            corps = k.split('.')[1]
+            role = json.loads(base64.urlsafe_b64decode(corps + '=' * (-len(corps) % 4))).get('role')
+        except Exception:
+            role = None
+        return f"une clé JWT de rôle « {role or 'inconnu'} »" + ('' if role == 'service_role' else ' (il faut celle de rôle « service_role »)')
+    if adresse(k):
+        return 'une adresse, pas une clé'
+    return f'un texte qui ne ressemble pas à une clé Supabase ({len(k)} caractères)'
 ICI = os.path.dirname(os.path.abspath(__file__))
 PUBLIC = '/storage/v1/object/public/radio/'
 
@@ -89,6 +112,9 @@ def verifier():
     market_stats « radio ». Sert une fois les secrets rangés (Kévin, 18/10/2026), avant le redémarrage de la radio."""
     if not KEY:
         raise Refus('secret SUPABASE_SERVICE_ROLE_KEY absent du dépôt')
+    if INVERSES:
+        note('notice', 'Les deux secrets étaient inversés (la clé dans SUPABASE_URL, l\'adresse dans SUPABASE_SERVICE_ROLE_KEY) : remis dans l\'ordre.')
+    note('notice', f'Le secret de la clé contient {nature(KEY)}.')
     if not BRUT:
         note('notice', "Secret SUPABASE_URL absent : adresse publique du projet utilisée (elle n'est pas secrète).")
     elif URL_CORRIGEE:
