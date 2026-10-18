@@ -16,6 +16,7 @@ Variables : SUPABASE_URL et SUPABASE_SERVICE_ROLE_KEY (secrets du dépôt). Sans
 import hashlib
 import json
 import os
+import re
 import sys
 import urllib.error
 import urllib.request
@@ -23,8 +24,21 @@ from datetime import datetime, timezone
 from zoneinfo import ZoneInfo
 
 LANGS = ('fr', 'en', 'es')
-URL = (os.environ.get('SUPABASE_URL') or '').strip().rstrip('/')
-KEY = (os.environ.get('SUPABASE_SERVICE_ROLE_KEY') or '').strip()
+# Adresse publique du projet (la même que src/lib/supabase-server.ts du terminal) : elle n'est pas secrète.
+PROJET = 'https://hdokeirmegwhcfpmkoqz.supabase.co'
+
+
+def adresse(v):
+    """Adresse du projet à partir du secret, même collé avec des guillemets, sans « https:// » ou depuis le tableau de bord."""
+    v = re.sub(r'^[\s`"\'<\[(]+|[\s`"\'>\])]+$', '', v or '')
+    m = re.search(r'([a-z0-9]{20})\.supabase\.co', v) or re.search(r'/project/([a-z0-9]{20})', v)
+    return f'https://{m.group(1)}.supabase.co' if m else (v.rstrip('/') if v.startswith('https://') else '')
+
+
+BRUT = os.environ.get('SUPABASE_URL') or ''
+URL = adresse(BRUT) or PROJET
+URL_CORRIGEE = bool(BRUT) and URL != BRUT.strip().rstrip('/')
+KEY = re.sub(r'^[\s`"\']+|[\s`"\']+$', '', os.environ.get('SUPABASE_SERVICE_ROLE_KEY') or '')
 ICI = os.path.dirname(os.path.abspath(__file__))
 PUBLIC = '/storage/v1/object/public/radio/'
 
@@ -73,12 +87,17 @@ def nom_objet(url):
 def verifier():
     """Contrôle des secrets, sans rien publier ni rien créer : lecture du dossier « radio » du stockage et de la fiche
     market_stats « radio ». Sert une fois les secrets rangés (Kévin, 18/10/2026), avant le redémarrage de la radio."""
-    if not URL or not KEY:
-        manque = [n for n, v in (('SUPABASE_URL', URL), ('SUPABASE_SERVICE_ROLE_KEY', KEY)) if not v]
-        raise Refus(f"secret(s) absent(s) du dépôt : {', '.join(manque)}")
+    if not KEY:
+        raise Refus('secret SUPABASE_SERVICE_ROLE_KEY absent du dépôt')
+    if not BRUT:
+        note('notice', "Secret SUPABASE_URL absent : adresse publique du projet utilisée (elle n'est pas secrète).")
+    elif URL_CORRIGEE:
+        note('notice', "Le secret SUPABASE_URL n'était pas une adresse complète (https://….supabase.co) : adresse du projet reconstituée.")
     code, _ = appel('GET', '/storage/v1/bucket/radio', accepte=(400, 404))
     dossier = 'présent' if code == 200 else 'absent (il sera créé à la première mise à l\'antenne)'
     _, rows = appel('GET', '/rest/v1/market_stats?select=id,updated_at&id=eq.radio')
+    if not isinstance(rows, list):
+        raise Refus('réponse inattendue de la base (clé refusée ?)')
     fiche = f"présente (mise à jour le {rows[0]['updated_at'][:10]})" if rows else 'aucune pour l\'instant'
     note('notice', f"Connexion à Supabase réussie. Stockage accessible : dossier « radio » {dossier}. "
                    f"Base accessible : fiche « radio » {fiche}. Rien n'a été publié.")
