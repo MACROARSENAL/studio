@@ -1,7 +1,7 @@
 {
  "id": "2026-10-19-matinale",
  "langue": "fr",
- "seconds": 217.08,
+ "seconds": 215.67,
  "lufs": -16.1,
  "peak_dbtp": -1.0,
  "blocs": [
@@ -9,73 +9,73 @@
    "bloc": 0,
    "rubrique": "ouverture",
    "start": 3.65,
-   "end": 18.69
+   "end": 18.29
   },
   {
    "bloc": 1,
    "rubrique": "ecrans",
-   "start": 19.59,
-   "end": 43.03
+   "start": 19.19,
+   "end": 42.63
   },
   {
    "bloc": 2,
    "rubrique": "ecrans",
-   "start": 43.93,
-   "end": 59.85
+   "start": 43.53,
+   "end": 59.45
   },
   {
    "bloc": 3,
    "rubrique": "ecrans",
-   "start": 60.75,
-   "end": 73.87
+   "start": 60.35,
+   "end": 73.47
   },
   {
    "bloc": 4,
    "rubrique": "semaine",
-   "start": 75.3,
-   "end": 90.45
+   "start": 74.9,
+   "end": 90.05
   },
   {
    "bloc": 5,
    "rubrique": "biais",
-   "start": 91.88,
-   "end": 104.12
+   "start": 91.48,
+   "end": 104.2
   },
   {
    "bloc": 6,
    "rubrique": "actions",
-   "start": 105.55,
-   "end": 125.13
+   "start": 105.63,
+   "end": 125.21
   },
   {
    "bloc": 7,
    "rubrique": "rendez-vous",
-   "start": 126.56,
-   "end": 141.08
+   "start": 126.64,
+   "end": 140.95
   },
   {
    "bloc": 8,
    "rubrique": "souvenir",
-   "start": 143.08,
-   "end": 168.86
+   "start": 142.95,
+   "end": 168.72
   },
   {
    "bloc": 9,
    "rubrique": "souvenir",
-   "start": 169.41,
-   "end": 183.99
+   "start": 169.27,
+   "end": 183.86
   },
   {
    "bloc": 10,
    "rubrique": "terminal",
-   "start": 185.42,
-   "end": 201.9
+   "start": 185.29,
+   "end": 200.49
   },
   {
    "bloc": 11,
    "rubrique": "cloture",
-   "start": 202.45,
-   "end": 209.41
+   "start": 201.04,
+   "end": 208.4
   }
  ]
 }
