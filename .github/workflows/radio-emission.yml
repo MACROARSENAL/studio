@@ -3,6 +3,9 @@ name: MACROARSENAL Radio — émission
 # Fabrique la voix (Victor Castel, Qwen3-TTS, voix clonée) et le mixage d'une émission dans les trois langues, en parallèle,
 # puis range les sons sur la branche « emissions » (un dossier par émission). Le terminal les recopie ensuite dans son stockage.
 # Lancement : git push -f origin HEAD:emission-run (radio/emission-run.json indique l'émission), ou onglet Actions → Run workflow.
+# Retouche : avec « retouche »: {"run": <numéro de la fabrication d'origine>, "phrases": ["05-00", …]} dans radio/emission-run.json,
+# seules ces phrases sont refaites ; toutes les autres prises sont reprises telles quelles de la fabrication d'origine
+# (fichiers gardés 3 jours) : le reste de l'émission ne change pas d'un souffle.
 on:
   push:
     branches: [emission-run]
@@ -14,6 +17,7 @@ on:
 
 permissions:
   contents: write
+  actions: read
 
 # Image figée (ubuntu-24.04) : « ubuntu-latest » passe à Ubuntu 26 à partir du 19/10/2026 ; la fabrication quotidienne ne doit pas casser.
 concurrency:
@@ -27,6 +31,8 @@ jobs:
       matrix: ${{ steps.m.outputs.matrix }}
       emission: ${{ steps.m.outputs.emission }}
       langues: ${{ steps.m.outputs.langues }}
+      retouche_run: ${{ steps.m.outputs.retouche_run }}
+      retouche_ids: ${{ steps.m.outputs.retouche_ids }}
     steps:
       - uses: actions/checkout@v4
       - id: m
@@ -35,8 +41,12 @@ jobs:
         run: |
           python3 - <<'EOF' >> "$GITHUB_OUTPUT"
           import json, os
-          path = os.environ.get('INPUT') or json.load(open('radio/emission-run.json'))['emission']
+          R = json.load(open('radio/emission-run.json'))
+          path = os.environ.get('INPUT') or R['emission']
           E = json.load(open(path))
+          rt = (R.get('retouche') or {}) if not os.environ.get('INPUT') else {}
+          print('retouche_run=' + str(rt.get('run', '')))
+          print('retouche_ids=' + ','.join(rt.get('phrases', [])))
           n = int(E.get('parties', 5))
           langs = [l for l in ('fr', 'en', 'es') if l in E['blocs']]
           inc = [{'langue': l, 'partie': p, 'parties': n, 'voix': E['voix'][l]} for l in langs for p in range(1, n + 1)]
@@ -76,6 +86,7 @@ jobs:
           P: ${{ matrix.partie }}
           N: ${{ matrix.parties }}
           V: radio/voix/${{ matrix.voix }}
+          IDS: ${{ needs.plan.outputs.retouche_ids }}
         run: |
           # Chaque étape garde son journal : en cas d'échec, la fin du journal remonte en annotation (lisible sans les logs).
           voix() {
@@ -92,7 +103,7 @@ jobs:
             tee -a /tmp/qa.log < /tmp/q.log
             if [ $c -ne 0 ]; then grep -v -i -E 'warning|userwarning' /tmp/q.log | tail -25 | tr '\n' ' ' | sed "s/^/::error title=Contrôle $L $P (code $c)::/"; echo; return 1; fi
           }
-          voix 1 || exit 1
+          if [ -n "$IDS" ]; then voix 1 "$IDS" || exit 1; else voix 1 || exit 1; fi
           controle || exit 1
           for r in "2,3" "4,5"; do
             ids=$(cat /tmp/out/$L-a-refaire.txt 2>/dev/null || true)
@@ -124,8 +135,38 @@ jobs:
       - uses: actions/download-artifact@v4
         with:
           pattern: voix-${{ matrix.langue }}-*
-          path: /tmp/in
+          path: /tmp/new
           merge-multiple: true
+      - if: needs.plan.outputs.retouche_run != ''
+        uses: actions/download-artifact@v4
+        with:
+          pattern: voix-${{ matrix.langue }}-*
+          path: /tmp/base
+          merge-multiple: true
+          run-id: ${{ needs.plan.outputs.retouche_run }}
+          github-token: ${{ github.token }}
+      - name: Prises de la fabrication d'origine (retouche)
+        env:
+          L: ${{ matrix.langue }}
+          IDS: ${{ needs.plan.outputs.retouche_ids }}
+        run: |
+          python3 - <<'EOF'
+          import glob, json, os, shutil
+          L, ids = os.environ['L'], set(filter(None, os.environ['IDS'].split(',')))
+          os.makedirs('/tmp/in', exist_ok=True)
+          gardees = 0
+          for f in sorted(glob.glob(f'/tmp/base/{L}-partie*.json')):
+              M = json.load(open(f, encoding='utf-8'))
+              M['phrases'] = [s for s in M['phrases'] if s['id'] not in ids]
+              for s in M['phrases']:
+                  for p in s['prises']:
+                      shutil.copy(os.path.join('/tmp/base', p['file']), '/tmp/in')
+                  gardees += 1
+              json.dump(M, open('/tmp/in/' + os.path.basename(f)[:-5] + '-origine.json', 'w', encoding='utf-8'), ensure_ascii=False)
+          for f in glob.glob('/tmp/new/*'):
+              shutil.copy(f, '/tmp/in')
+          print(f'::notice title=Retouche {L}::{gardees} phrases reprises telles quelles, refaites : {", ".join(sorted(ids)) or "aucune"}' if ids else f'{L} : fabrication complète')
+          EOF
       - name: Choix des prises et mixage
         env:
           EMI: ${{ needs.plan.outputs.emission }}

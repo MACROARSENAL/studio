@@ -81,9 +81,11 @@ for s in ALL:
     acc += len(s['tts'])
     if k == PART - 1 and (ONLY is None or s['id'] in ONLY):
         mine.append(s)
+# Une reprise (ou une retouche) porte son propre nom : elle ne remplace jamais le fichier d'une autre fabrication.
+name = f'{LANGUE}-partie{PART}' + (f'-reprise{TAKES[0]}' if ONLY else '')
 if not mine:
     note('notice', f'Partie {PART}/{NPARTS} ({LANGUE})', 'rien à lire')
-    json.dump({'langue': LANGUE, 'part': PART, 'phrases': []}, open(os.path.join(OUT, f'{LANGUE}-partie{PART}.json'), 'w'))
+    json.dump({'langue': LANGUE, 'part': PART, 'phrases': []}, open(os.path.join(OUT, name + '.json'), 'w'))
     sys.exit(0)
 
 # --- Profil de la voix : une référence par ton --------------------------------------------------------------------------
@@ -110,7 +112,6 @@ for s in mine:
         s['prises'].append({'prise': take, 'file': f, 'seconds': round(len(w) / sr, 2), 'compute': round(time.time() - t1)})
         print(f"ok {s['id']} p{take} {len(w) / sr:.1f}s en {time.time() - t1:.0f}s", flush=True)
 
-name = f'{LANGUE}-partie{PART}' + (f'-reprise{TAKES[0]}' if ONLY else '')
 json.dump({'langue': LANGUE, 'part': PART, 'voix': P['id'], 'phrases': mine}, open(os.path.join(OUT, name + '.json'), 'w', encoding='utf-8'),
           ensure_ascii=False, indent=1)
 del model; gc.collect()
