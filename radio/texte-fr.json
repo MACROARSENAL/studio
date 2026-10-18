@@ -1,34 +1,42 @@
 {
- "_": "MACROARSENAL Radio : casting de la voix de Victor Sable (FR, 18/10/2026). Extrait d'essai en personnage (aucun chiffre du jour).",
+ "_": "MACROARSENAL Radio : casting de la voix de Victor Castel (FR, 18/10/2026). Extrait d'essai, jamais diffusé.",
  "langue": "fr",
  "acts": [
   {
    "id": "essai",
    "lines": [
     {
-     "id": "e1",
-     "text": "Huit heures à Paris. Bonjour les lève-tôt, ici Victor Sable, et vous écoutez MACROARSENAL Radio.",
-     "tts": "Huit heures à Paris. Bonjour les lève-tôt, ici Victor Sable, et vous écoutez Macro Arsenal Radio."
+     "id": "r1",
+     "text": "Huit heures à Paris. Bonjour la salle !"
     },
     {
-     "id": "e2",
-     "text": "Café chaud, écrans allumés : on fait le tour du monde en trois minutes."
+     "id": "r2",
+     "text": "Ici Victor Castel, et vous écoutez MACROARSENAL Radio.",
+     "tts": "Ici Victor Castel, et vous écoutez Macro Arsenal Radio."
     },
     {
-     "id": "e3",
-     "text": "Ça tombe sur les écrans : cette nuit, l'Asie a ouvert prudemment, et le dollar attend son grand rendez-vous de l'après-midi."
+     "id": "r3",
+     "text": "Café serré, écrans allumés : on fait le tour du monde en trois minutes."
     },
     {
-     "id": "e4",
-     "text": "Souvenir de salle : le quinze janvier deux mille quinze, j'étais au micro quand la Banque nationale suisse a abandonné son cours plancher. En quelques minutes, le franc s'est envolé de plus de vingt pour cent."
+     "id": "r4",
+     "text": "Ça tombe sur les écrans : l'Asie a ouvert prudemment, le pétrole se tend, et le dollar attend son grand rendez-vous de quatorze heures trente."
     },
     {
-     "id": "e5",
-     "text": "Ce jour-là, j'ai appris une chose : ce n'est pas la nouvelle qui ruine un trader. C'est l'absence de plan."
+     "id": "r5",
+     "text": "Souvenir de salle. Quinze janvier deux mille quinze. J'étais au micro quand la Banque nationale suisse a abandonné son cours plancher."
     },
     {
-     "id": "e6",
-     "text": "Le marché sera encore là demain. Votre capital aussi, si vous le protégez. C'était Victor Sable. À demain, huit heures !"
+     "id": "r6",
+     "text": "En quelques minutes, le franc a bondi de près de trente pour cent face à l'euro."
+    },
+    {
+     "id": "r7",
+     "text": "Ce matin-là, j'ai compris une chose : ce n'est pas la nouvelle qui fait sauter un compte. C'est l'absence de plan."
+    },
+    {
+     "id": "r8",
+     "text": "Le marché sera encore là demain. Votre capital aussi, si vous le protégez. C'était Victor Castel. À demain, huit heures !"
     }
    ]
   }
@@ -36,14 +44,19 @@
  "voices": [
   {
    "id": "victor-fr-a",
-   "label": "Victor A (baryton chaleureux)",
-   "design": "A charismatic French male morning radio host in his early fifties with a warm, rich, slightly smoky baritone voice. Relaxed authority, quick wit and kindness, like the best morning show host on a national French news radio. Crisp native Parisian French diction, no foreign accent. Dynamic intonation that follows the meaning: lively and curious on the news, calm and serious on risk, amused and nostalgic on the trading-floor memory, warm on the goodbye, with a smile in the voice and an occasional short natural laugh. Close-microphone broadcast studio sound, natural breathing, never robotic, never monotone."
+   "label": "Victor FR, baryton chaud",
+   "design": "A charismatic French male morning radio host, 53 years old, with a warm, rich baritone voice and a smile in it. Relaxed confidence and a lively rhythm, like the most loved morning show host of a national French news radio. Perfect native French broadcast diction from Paris, with a faint sunny warmth from the south of France. Close-microphone broadcast studio sound, natural breathing, expressive and human, never robotic, never shouting."
   },
   {
    "id": "victor-fr-b",
-   "label": "Victor B (voix claire et vive)",
-   "design": "A charismatic French male morning radio host in his late forties with a bright, clear, energetic voice and a natural smile, like the star presenter of a popular French morning show. Fast but perfectly articulated, playful and warm. Native Parisian French diction, no foreign accent. Dynamic intonation that follows the meaning: lively and curious on the news, calm and serious on risk, amused and nostalgic on the trading-floor memory, warm on the goodbye, with a smile in the voice and an occasional short natural laugh. Close-microphone broadcast studio sound, natural breathing, never robotic, never monotone."
+   "label": "Victor FR, voix claire et vive",
+   "design": "A charismatic French male morning radio host in his late forties with a bright, clear and energetic voice, quick-witted and full of charm, like a star presenter of a national French morning show. Perfect native Parisian French broadcast diction. Close-microphone broadcast studio sound, natural breathing, expressive and human, never robotic, never shouting."
+  },
+  {
+   "id": "victor-fr-c",
+   "label": "Victor FR, voix chaude au grain de radio",
+   "design": "A charismatic French male morning radio host, about 55, with a warm, slightly husky, textured baritone voice, the kind of intimate radio voice listeners trust at dawn, with a smile in it. Calm authority and a lively but unhurried rhythm. Perfect native French broadcast diction from Paris. Close-microphone broadcast studio sound, natural breathing, expressive and human, never robotic, never shouting."
   }
  ],
- "acting": "Read it as the opening of a lively morning radio show, live on air, in French: confident, warm and smiling, natural radio rhythm with short pauses between ideas, a touch of nostalgia and humour on the trading-floor memory, and a warm, upbeat goodbye."
+ "acting": "Read it like a live morning radio show: an energetic, smiling opening; crisp, quick headlines; a warm, slightly amused tone when the memory starts, turning calm and serious on the lesson; a warm, confident sign-off. Natural pauses, varied intonation, every word clear."
 }

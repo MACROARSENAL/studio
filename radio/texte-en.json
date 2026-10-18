@@ -1,34 +1,42 @@
 {
- "_": "MACROARSENAL Radio : casting de la voix de Victor Sable (EN, 18/10/2026). Extrait d'essai en personnage (aucun chiffre du jour).",
+ "_": "MACROARSENAL Radio : casting de la voix de Victor Castel (EN, 18/10/2026). Extrait d'essai, jamais diffusé.",
  "langue": "en",
  "acts": [
   {
    "id": "essai",
    "lines": [
     {
-     "id": "e1",
-     "text": "Eight o'clock in Paris. Good morning, early birds, this is Victor Sable, and you're listening to MACROARSENAL Radio.",
-     "tts": "Eight o'clock in Paris. Good morning, early birds, this is Victor Sable, and you're listening to Macro Arsenal Radio."
+     "id": "r1",
+     "text": "Eight a.m. in Paris. Good morning, trading floor!"
     },
     {
-     "id": "e2",
-     "text": "Hot coffee, screens on: let's go around the world in three minutes."
+     "id": "r2",
+     "text": "This is Victor Castel, and you're listening to MACROARSENAL Radio.",
+     "tts": "This is Victor Castel, and you're listening to Macro Arsenal Radio."
     },
     {
-     "id": "e3",
-     "text": "Crossing the screens: overnight, Asia opened cautiously, and the dollar is waiting for its big moment this afternoon."
+     "id": "r3",
+     "text": "Strong coffee, screens on: three minutes around the world."
     },
     {
-     "id": "e4",
-     "text": "From the trading floor: on the fifteenth of January, two thousand and fifteen, I was on the microphone when the Swiss National Bank scrapped its floor on the euro. Within minutes, the franc jumped more than twenty percent."
+     "id": "r4",
+     "text": "Crossing the screens: Asia opened cautiously, oil is firming, and the dollar is waiting for its big moment at two thirty, Paris time."
     },
     {
-     "id": "e5",
-     "text": "That day, I learned one thing: it's not the news that ruins a trader. It's having no plan."
+     "id": "r5",
+     "text": "From the floor. January the fifteenth, twenty fifteen. I was on the microphone when the Swiss National Bank scrapped its floor."
     },
     {
-     "id": "e6",
-     "text": "The market will still be here tomorrow. So will your capital, if you protect it. This was Victor Sable. See you tomorrow, eight o'clock!"
+     "id": "r6",
+     "text": "Within minutes, the franc jumped almost thirty percent against the euro."
+    },
+    {
+     "id": "r7",
+     "text": "That morning, I understood one thing: it's not the news that blows up an account. It's having no plan."
+    },
+    {
+     "id": "r8",
+     "text": "The market will still be here tomorrow. So will your capital, if you protect it. This was Victor Castel. See you tomorrow at eight!"
     }
    ]
   }
@@ -36,14 +44,14 @@
  "voices": [
   {
    "id": "victor-en-a",
-   "label": "Victor A (British baritone)",
-   "design": "A charismatic British male morning radio host in his early fifties with a warm, rich baritone voice, like the best presenter of a national morning news show in London. Relaxed authority, dry wit and kindness. Native British English, London, no foreign accent. Dynamic intonation that follows the meaning: lively and curious on the news, calm and serious on risk, amused and nostalgic on the trading-floor memory, warm on the goodbye, with a smile in the voice and an occasional short natural laugh. Close-microphone broadcast studio sound, natural breathing, never robotic, never monotone."
+   "label": "Victor EN, British baritone",
+   "design": "A charismatic British male morning radio host, 53 years old, with a warm, rich baritone voice and a smile in it. Relaxed confidence and a lively rhythm, like the most loved presenter of a national British morning news programme. Native British English from London, no foreign accent. Close-microphone broadcast studio sound, natural breathing, expressive and human, never robotic, never shouting."
   },
   {
    "id": "victor-en-b",
-   "label": "Victor B (American, warm and bright)",
-   "design": "A charismatic American male morning radio host in his late forties with a warm, bright, confident voice and a natural smile, like the star host of a top business morning show in New York. Energetic, friendly and sharp. Native General American English, no foreign accent. Dynamic intonation that follows the meaning: lively and curious on the news, calm and serious on risk, amused and nostalgic on the trading-floor memory, warm on the goodbye, with a smile in the voice and an occasional short natural laugh. Close-microphone broadcast studio sound, natural breathing, never robotic, never monotone."
+   "label": "Victor EN, bright British voice",
+   "design": "A charismatic British male morning radio host in his late forties with a bright, clear and energetic voice, quick-witted and full of charm, like a star presenter of a national British breakfast show. Native British English from London, no foreign accent. Close-microphone broadcast studio sound, natural breathing, expressive and human, never robotic, never shouting."
   }
  ],
- "acting": "Read it as the opening of a lively morning radio show, live on air, in English: confident, warm and smiling, natural radio rhythm with short pauses between ideas, a touch of nostalgia and humour on the trading-floor memory, and a warm, upbeat goodbye."
+ "acting": "Read it like a live morning radio show: an energetic, smiling opening; crisp, quick headlines; a warm, slightly amused tone when the memory starts, turning calm and serious on the lesson; a warm, confident sign-off. Natural pauses, varied intonation, every word clear."
 }

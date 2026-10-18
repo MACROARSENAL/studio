@@ -1,34 +1,42 @@
 {
- "_": "MACROARSENAL Radio : casting de la voix de Victor Sable (ES, 18/10/2026). Extrait d'essai en personnage (aucun chiffre du jour).",
+ "_": "MACROARSENAL Radio : casting de la voix de Victor Castel (ES, 18/10/2026). Extrait d'essai, jamais diffusé.",
  "langue": "es",
  "acts": [
   {
    "id": "essai",
    "lines": [
     {
-     "id": "e1",
-     "text": "Las ocho en París. Buenos días, madrugadores: les habla Víctor Sable, y están escuchando MACROARSENAL Radio.",
-     "tts": "Las ocho en París. Buenos días, madrugadores: les habla Víctor Sable, y están escuchando Macro Arsenal Radio."
+     "id": "r1",
+     "text": "Las ocho en París. ¡Buenos días, sala de mercados!"
     },
     {
-     "id": "e2",
-     "text": "Café caliente, pantallas encendidas: damos la vuelta al mundo en tres minutos."
+     "id": "r2",
+     "text": "Les habla Víctor Castel y esto es MACROARSENAL Radio.",
+     "tts": "Les habla Víctor Castel y esto es Macro Arsenal Radio."
     },
     {
-     "id": "e3",
-     "text": "Salta en las pantallas: esta noche, Asia ha abierto con prudencia, y el dólar espera su gran cita de la tarde."
+     "id": "r3",
+     "text": "Café cargado, pantallas encendidas: la vuelta al mundo en tres minutos."
     },
     {
-     "id": "e4",
-     "text": "Recuerdo de la sala: el quince de enero de dos mil quince, yo estaba al micrófono cuando el Banco Nacional Suizo abandonó su tipo de cambio mínimo. En pocos minutos, el franco se disparó más de un veinte por ciento."
+     "id": "r4",
+     "text": "En pantalla: Asia abrió con prudencia, el petróleo se tensa y el dólar espera su gran cita de las dos y media de la tarde, hora de París."
     },
     {
-     "id": "e5",
-     "text": "Ese día aprendí una cosa: no es la noticia la que arruina a un trader. Es no tener un plan."
+     "id": "r5",
+     "text": "Recuerdo de la sala. Quince de enero de dos mil quince. Yo estaba al micrófono cuando el Banco Nacional Suizo abandonó su tipo de cambio mínimo."
     },
     {
-     "id": "e6",
-     "text": "El mercado seguirá aquí mañana. Su capital también, si lo protegen. Les habló Víctor Sable. ¡Hasta mañana, a las ocho!"
+     "id": "r6",
+     "text": "En pocos minutos, el franco se disparó casi un treinta por ciento frente al euro."
+    },
+    {
+     "id": "r7",
+     "text": "Esa mañana entendí algo: no es la noticia lo que hace saltar una cuenta. Es no tener un plan."
+    },
+    {
+     "id": "r8",
+     "text": "El mercado seguirá aquí mañana. Su capital también, si lo protegen. Les habló Víctor Castel. ¡Hasta mañana, a las ocho!"
     }
    ]
   }
@@ -36,14 +44,14 @@
  "voices": [
   {
    "id": "victor-es-a",
-   "label": "Víctor A (barítono cálido, Madrid)",
-   "design": "A charismatic Spanish male morning radio host from Madrid in his early fifties with a warm, rich baritone voice, like the best presenter of a national morning news radio show in Spain. Relaxed authority, wit and kindness. Native Castilian Spanish from Spain, perfect diction, no foreign accent. Dynamic intonation that follows the meaning: lively and curious on the news, calm and serious on risk, amused and nostalgic on the trading-floor memory, warm on the goodbye, with a smile in the voice and an occasional short natural laugh. Close-microphone broadcast studio sound, natural breathing, never robotic, never monotone."
+   "label": "Víctor ES, España",
+   "design": "A charismatic Spanish male morning radio host from Madrid, 53 years old, with a warm, rich baritone voice and a smile in it. Relaxed confidence and a lively rhythm, like the most loved presenter of a national Spanish morning news radio. Native Castilian Spanish broadcast diction from Spain, no foreign accent. Close-microphone broadcast studio sound, natural breathing, expressive and human, never robotic, never shouting."
   },
   {
    "id": "victor-es-b",
-   "label": "Víctor B (voz clara y viva, Madrid)",
-   "design": "A charismatic Spanish male morning radio host from Madrid in his late forties with a bright, clear, energetic voice and a natural smile, like the star presenter of a popular morning show in Spain. Fast but perfectly articulated, playful and warm. Native Castilian Spanish from Spain, no foreign accent. Dynamic intonation that follows the meaning: lively and curious on the news, calm and serious on risk, amused and nostalgic on the trading-floor memory, warm on the goodbye, with a smile in the voice and an occasional short natural laugh. Close-microphone broadcast studio sound, natural breathing, never robotic, never monotone."
+   "label": "Víctor ES, Latinoamérica",
+   "design": "A charismatic Latin American male morning radio host, 53 years old, with a warm, rich baritone voice and a smile in it. Relaxed confidence and a lively rhythm, like the most loved presenter of a major Latin American morning news radio. Native neutral Latin American Spanish broadcast diction, no foreign accent. Close-microphone broadcast studio sound, natural breathing, expressive and human, never robotic, never shouting."
   }
  ],
- "acting": "Read it as the opening of a lively morning radio show, live on air, in Spanish: confident, warm and smiling, natural radio rhythm with short pauses between ideas, a touch of nostalgia and humour on the trading-floor memory, and a warm, upbeat goodbye."
+ "acting": "Read it like a live morning radio show: an energetic, smiling opening; crisp, quick headlines; a warm, slightly amused tone when the memory starts, turning calm and serious on the lesson; a warm, confident sign-off. Natural pauses, varied intonation, every word clear."
 }
