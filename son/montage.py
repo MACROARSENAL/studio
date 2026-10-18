@@ -18,8 +18,8 @@ MUS = sys.argv[5] if len(sys.argv) > 5 else None
 os.makedirs(OUT, exist_ok=True)
 VOICE, CT = VOIX.rsplit('-c', 1)
 FPS = 25
-# Langue du film (variable LANGUE) : en français, l'acte I vient de la prise du casting écoutée par Kévin ;
-# en anglais et en espagnol, toutes les phrases viennent de la narration clonée.
+# Langue du film (variable LANGUE : fr, en, es). Dans chaque langue, l'acte I vient de la prise du casting choisie par Kévin
+# (FR : conteur-c1 ; EN : conteur-en-c1 ; ES : conteur-es-latam-c1, choix du 18/10/2026) et la suite de la narration clonée.
 LANGUE = os.environ.get('LANGUE', 'fr')
 
 # [phrase, silence avant, silence après] : le rythme du conte (pauses longues à l'acte I, respiration après le réveil)
@@ -65,11 +65,14 @@ def from_narration():
     return {k: (load(v[1]), v[2]) for k, v in best.items()}
 
 
-cast = from_casting() if LANGUE == 'fr' else {}
+cast = from_casting()
+# Phrases prises dans la lecture du casting (celle que Kévin a écoutée) ; les autres viennent de la narration clonée.
+# Variable CASTING_LINES (ex. « l1,l2,l3,l4,l5 ») quand une frontière de phrase du casting est trop serrée pour être coupée proprement.
+FROM_CAST = set(os.environ.get('CASTING_LINES', ','.join(IDS[:7])).split(','))
 narr = from_narration()
 lines, source = {}, {}
 for lid in IDS:
-    if lid in cast and IDS.index(lid) < 7:
+    if lid in cast and lid in FROM_CAST:
         lines[lid], source[lid] = cast[lid], f'casting {VOICE}-{CT}'
     elif lid in narr:
         lines[lid], source[lid] = narr[lid][0], f"narration {narr[lid][1]['file']} (écart {narr[lid][1].get('wer')})"
