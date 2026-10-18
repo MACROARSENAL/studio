@@ -1,0 +1,34 @@
+{
+ "id": "victor-en",
+ "langue": "en",
+ "source": "victor-en-c-2 (casting n° 2 du 18/10/2026, voix 3 validée par Kévin avec la musique Télégraphe)",
+ "design": "A charismatic British male morning radio host, about 55, with a warm, slightly husky, textured baritone voice, the kind of intimate radio voice listeners trust at dawn, with a smile in it. Calm authority and an unhurried rhythm. Native British English broadcast diction from London, no foreign accent. Close-microphone broadcast studio sound, natural breathing, expressive and human, never robotic, never shouting.",
+ "defaut": "net",
+ "refs": {
+  "energique": {
+   "wav": "energique.wav",
+   "texte": "Eight a.m. in Paris. Good morning, trading floor! This is Victor Castel, and you're listening to Macro Arsenal Radio. Strong coffee, screens on: three minutes around the world.",
+   "secondes": 12.9
+  },
+  "net": {
+   "wav": "net.wav",
+   "texte": "Crossing the screens: Asia opened cautiously, oil is firming, and the dollar is waiting for its big moment at two thirty, Paris time.",
+   "secondes": 9.76
+  },
+  "complice": {
+   "wav": "complice.wav",
+   "texte": "From the floor. January the fifteenth, twenty fifteen. I was on the microphone when the Swiss National Bank scrapped its floor. Within minutes, the franc jumped almost thirty percent against the euro.",
+   "secondes": 13.58
+  },
+  "pose": {
+   "wav": "pose.wav",
+   "texte": "That morning, I understood one thing: it's not the news that blows up an account. It's having no plan.",
+   "secondes": 7.12
+  },
+  "chaleureux": {
+   "wav": "chaleureux.wav",
+   "texte": "The market will still be here tomorrow. So will your capital, if you protect it. This was Victor Castel. See you tomorrow at eight!",
+   "secondes": 9.95
+  }
+ }
+}
