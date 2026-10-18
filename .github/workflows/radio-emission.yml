@@ -76,15 +76,29 @@ jobs:
           N: ${{ matrix.parties }}
           V: radio/voix/${{ matrix.voix }}
         run: |
-          set -o pipefail
-          python radio/emission.py "$EMI" "$L" "$P" "$N" "$V" /tmp/out 1 2>&1 | grep -v -i -E 'warning|pci_bus|flash-attn' | tee -a /tmp/run.log
-          /tmp/asr/bin/python radio/controle.py /tmp/out "$L" 2>&1 | grep -v -i warning | tee -a /tmp/qa.log
+          # Chaque étape garde son journal : en cas d'échec, la fin du journal remonte en annotation (lisible sans les logs).
+          voix() {
+            python radio/emission.py "$EMI" "$L" "$P" "$N" "$V" /tmp/out "$@" > /tmp/v.log 2>&1; c=$?
+            grep -v -i -E 'warning|pci_bus|flash-attn' /tmp/v.log | tee -a /tmp/run.log || true
+            if [ $c -ne 0 ]; then
+              # sortie en erreur après avoir tout écrit (plantage à la fermeture) : on garde le travail
+              if ls /tmp/out/$L-partie$P*.json > /dev/null 2>&1 && grep -q "phrases," /tmp/v.log; then echo "::warning title=Voix $L $P::sortie $c après la fin du travail, prises gardées"; return 0; fi
+              grep -v -i -E 'warning|pci_bus|flash-attn' /tmp/v.log | tail -25 | tr '\n' ' ' | sed "s/^/::error title=Voix $L $P (code $c)::/"; echo; return 1
+            fi
+          }
+          controle() {
+            /tmp/asr/bin/python radio/controle.py /tmp/out "$L" > /tmp/q.log 2>&1; c=$?
+            tee -a /tmp/qa.log < /tmp/q.log
+            if [ $c -ne 0 ]; then grep -v -i -E 'warning|userwarning' /tmp/q.log | tail -25 | tr '\n' ' ' | sed "s/^/::error title=Contrôle $L $P (code $c)::/"; echo; return 1; fi
+          }
+          voix 1 || exit 1
+          controle || exit 1
           for r in "2,3" "4,5"; do
             ids=$(cat /tmp/out/$L-a-refaire.txt 2>/dev/null || true)
             [ -z "$ids" ] && break
             echo "::notice title=Reprises $L $P::$ids (prises $r)"
-            python radio/emission.py "$EMI" "$L" "$P" "$N" "$V" /tmp/out "$r" "$ids" 2>&1 | grep -v -i -E 'warning|pci_bus|flash-attn' | tee -a /tmp/run.log
-            /tmp/asr/bin/python radio/controle.py /tmp/out "$L" 2>&1 | grep -v -i warning | tee -a /tmp/qa.log
+            voix "$r" "$ids" || exit 1
+            controle || exit 1
           done
           rm -f /tmp/out/$L-choix.json /tmp/out/$L-a-refaire.txt
       - uses: actions/upload-artifact@v4
