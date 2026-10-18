@@ -15,7 +15,9 @@ ACTS = sys.argv[4].split(',') if len(sys.argv) > 4 else ['conte']
 os.makedirs(OUT, exist_ok=True)
 HERE = os.path.dirname(os.path.abspath(__file__))
 LANGUE = os.environ.get('LANGUE', 'fr')  # fr, en, es : voix conçue dans la langue du film (accent natif)
-T = json.load(open(os.path.join(HERE, 'texte.json' if LANGUE == 'fr' else f'texte-{LANGUE}.json'), encoding='utf-8'))
+# TEXTE : autre fichier de texte (ex. radio/texte-fr.json pour la voix de la radio), relatif à la racine du dépôt.
+TPATH = os.path.join(HERE, '..', os.environ['TEXTE']) if os.environ.get('TEXTE') else os.path.join(HERE, 'texte.json' if LANGUE == 'fr' else f'texte-{LANGUE}.json')
+T = json.load(open(TPATH, encoding='utf-8'))
 V = next(v for v in T['voices'] if v['id'] == VOICE)
 LINES = [l for a in T['acts'] if a['id'] in ACTS for l in a['lines']]
 TEXT = ' '.join(l.get('tts', l['text']) for l in LINES)

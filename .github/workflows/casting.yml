@@ -51,9 +51,10 @@ jobs:
       - name: Voix
         env:
           LANGUE: ${{ matrix.langue }}
+          TEXTE: ${{ matrix.texte }}
         run: |
           set -o pipefail
-          python voix/casting.py ${{ matrix.voix }} ${{ matrix.prise }} /tmp/out 2>&1 | tee /tmp/run.log || { grep -v '^ok' /tmp/run.log | grep -v -i -E 'warning|pci_bus|sox|flash-attn' | tail -15 | tr '\n' ' ' | sed 's/^/::error title=Voix::/'; echo; exit 1; }
+          python voix/casting.py ${{ matrix.voix }} ${{ matrix.prise }} /tmp/out ${{ matrix.actes || 'conte' }} 2>&1 | tee /tmp/run.log || { grep -v '^ok' /tmp/run.log | grep -v -i -E 'warning|pci_bus|sox|flash-attn' | tail -15 | tr '\n' ' ' | sed 's/^/::error title=Voix::/'; echo; exit 1; }
       - name: Contrôle par transcription
         env:
           LANGUE: ${{ matrix.langue }}
