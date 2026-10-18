@@ -5,223 +5,262 @@
    "id": "00-00",
    "bloc": 0,
    "ton": "energique",
-   "text": "Les marchés se réveillent. Bonjour la salle ! Ici Victor Castel, et vous écoutez MACROARSENAL Radio.",
-   "tts": "Les marchés se réveillent. Bonjour la salle ! Ici Victor Castel, et vous écoutez Macro Arsenal Radio.",
+   "text": "Huit heures, les marchés se réveillent. Bonjour la salle ! Ici Victor Castel, et vous écoutez MACROARSENAL Radio.",
+   "tts": "Huit heures, les marchés se réveillent. Bonjour la salle ! Ici Victor Castel, et vous écoutez Macro Arsenal Radio.",
+   "gen": {},
    "prise": {
     "prise": 1,
     "file": "fr-00-00-p1.wav",
-    "seconds": 6.8,
-    "compute": 49,
-    "heard": "Les marchés se réveillent. Bonjour la salle, ici Victor Castel et vous écoutez MACROARSENAL Radio.",
+    "seconds": 6.88,
+    "compute": 54,
+    "heard": "Huit heures, les marchés se réveillent. Bonjour la salle, ici Victor Castel et vous écoutez MACROARSENAL Radio.",
     "wer": 0.0,
     "extra": 0,
     "speech": [
      0.0,
      6.78
     ],
-    "rate": 14.9,
+    "rate": 16.8,
     "mots": [
      [
-      "Les",
+      "Huit",
       0.0,
-      0.32,
-      0.29
+      0.36,
+      0.66
+     ],
+     [
+      "heures,",
+      0.36,
+      0.64,
+      1.0
+     ],
+     [
+      "les",
+      0.72,
+      0.84,
+      0.98
      ],
      [
       "marchés",
-      0.32,
-      0.7,
+      0.84,
+      1.08,
       0.97
      ],
      [
       "se",
-      0.7,
-      0.9,
+      1.08,
+      1.24,
       1.0
      ],
      [
       "réveillent.",
-      0.9,
-      1.82,
+      1.24,
+      2.08,
       0.99
      ],
      [
       "Bonjour",
-      2.04,
-      2.2,
-      0.95
+      2.3,
+      2.44,
+      0.96
      ],
      [
       "la",
-      2.2,
-      2.48,
-      0.92
-     ],
-     [
-      "salle,",
-      2.48,
-      2.98,
+      2.44,
+      2.72,
       0.9
      ],
      [
+      "salle,",
+      2.72,
+      3.26,
+      0.94
+     ],
+     [
       "ici",
-      3.3,
-      3.5,
-      0.97
+      3.6,
+      3.8,
+      0.98
      ],
      [
       "Victor",
-      3.5,
-      3.92,
+      3.8,
+      4.22,
       0.98
      ],
      [
       "Castel",
-      3.92,
-      4.42,
+      4.22,
+      4.72,
       0.95
      ],
      [
       "et",
-      4.42,
-      4.92,
-      0.64
+      4.72,
+      5.2,
+      0.78
      ],
      [
       "vous",
-      4.92,
-      5.08,
-      0.99
+      5.2,
+      5.38,
+      1.0
      ],
      [
       "écoutez",
-      5.08,
-      5.54,
+      5.38,
+      5.72,
       0.99
      ],
      [
       "MACROARSENAL",
-      5.54,
-      6.5,
-      0.6
+      5.72,
+      6.56,
+      0.59
      ],
      [
       "Radio.",
-      6.5,
+      6.56,
       6.78,
       0.02
      ]
     ],
     "clarte": 0.02,
+    "heure": {
+     "texte": "Huit heures",
+     "duree": 0.64,
+     "mini": 0.34,
+     "confiance": 0.66,
+     "nette": true
+    },
     "ok": true
    },
    "toutes": [
     {
      "prise": 1,
      "file": "fr-00-00-p1.wav",
-     "seconds": 6.8,
-     "compute": 49,
-     "heard": "Les marchés se réveillent. Bonjour la salle, ici Victor Castel et vous écoutez MACROARSENAL Radio.",
+     "seconds": 6.88,
+     "compute": 54,
+     "heard": "Huit heures, les marchés se réveillent. Bonjour la salle, ici Victor Castel et vous écoutez MACROARSENAL Radio.",
      "wer": 0.0,
      "extra": 0,
      "speech": [
       0.0,
       6.78
      ],
-     "rate": 14.9,
+     "rate": 16.8,
      "mots": [
       [
-       "Les",
+       "Huit",
        0.0,
-       0.32,
-       0.29
+       0.36,
+       0.66
+      ],
+      [
+       "heures,",
+       0.36,
+       0.64,
+       1.0
+      ],
+      [
+       "les",
+       0.72,
+       0.84,
+       0.98
       ],
       [
        "marchés",
-       0.32,
-       0.7,
+       0.84,
+       1.08,
        0.97
       ],
       [
        "se",
-       0.7,
-       0.9,
+       1.08,
+       1.24,
        1.0
       ],
       [
        "réveillent.",
-       0.9,
-       1.82,
+       1.24,
+       2.08,
        0.99
       ],
       [
        "Bonjour",
-       2.04,
-       2.2,
-       0.95
+       2.3,
+       2.44,
+       0.96
       ],
       [
        "la",
-       2.2,
-       2.48,
-       0.92
-      ],
-      [
-       "salle,",
-       2.48,
-       2.98,
+       2.44,
+       2.72,
        0.9
       ],
       [
+       "salle,",
+       2.72,
+       3.26,
+       0.94
+      ],
+      [
        "ici",
-       3.3,
-       3.5,
-       0.97
+       3.6,
+       3.8,
+       0.98
       ],
       [
        "Victor",
-       3.5,
-       3.92,
+       3.8,
+       4.22,
        0.98
       ],
       [
        "Castel",
-       3.92,
-       4.42,
+       4.22,
+       4.72,
        0.95
       ],
       [
        "et",
-       4.42,
-       4.92,
-       0.64
+       4.72,
+       5.2,
+       0.78
       ],
       [
        "vous",
-       4.92,
-       5.08,
-       0.99
+       5.2,
+       5.38,
+       1.0
       ],
       [
        "écoutez",
-       5.08,
-       5.54,
+       5.38,
+       5.72,
        0.99
       ],
       [
        "MACROARSENAL",
-       5.54,
-       6.5,
-       0.6
+       5.72,
+       6.56,
+       0.59
       ],
       [
        "Radio.",
-       6.5,
+       6.56,
        6.78,
        0.02
       ]
      ],
      "clarte": 0.02,
+     "heure": {
+      "texte": "Huit heures",
+      "duree": 0.64,
+      "mini": 0.34,
+      "confiance": 0.66,
+      "nette": true
+     },
      "ok": true
     }
    ]
@@ -625,25 +664,26 @@
    "ton": "net",
    "text": "Le Biais du jour est en ligne : quarante marchés passés au crible, avec leur sens, leur force et notre niveau de confiance. Huit d'entre eux sont offerts à tous, ce matin, dans le terminal.",
    "tts": "Le Biais du jour est en ligne : quarante marchés passés au crible, avec leur sens, leur force et notre niveau de confiance. Huit d'entre eux sont offerts à tous, ce matin, dans le terminal.",
+   "gen": {},
    "prise": {
     "prise": 1,
     "file": "fr-05-00-p1.wav",
     "seconds": 11.6,
-    "compute": 93,
-    "heard": "Le biais du jour est en ligne, 40 marchés passés au crible avec leur sens, leur force et notre niveau de confiance. Huit d'entre eux sont offerts à tous ce matin dans le terminal.",
+    "compute": 74,
+    "heard": "Le biais du jour est en ligne, 40 marchés passés au crible, avec leur sens, leur force et notre niveau de confiance. Huit d'entre eux sont offerts à tous, ce matin, dans le terminal.",
     "wer": 0.0,
     "extra": 0,
     "speech": [
-     0.58,
+     0.7,
      11.44
     ],
-    "rate": 17.4,
+    "rate": 17.6,
     "mots": [
      [
       "Le",
-      0.58,
+      0.7,
       1.14,
-      0.15
+      0.17
      ],
      [
       "biais",
@@ -684,12 +724,12 @@
      [
       "40",
       2.8,
-      3.0,
-      0.94
+      2.98,
+      0.95
      ],
      [
       "marchés",
-      3.0,
+      2.98,
       3.44,
       0.98
      ],
@@ -702,38 +742,38 @@
      [
       "au",
       3.74,
-      3.96,
-      0.87
+      3.94,
+      0.9
      ],
      [
-      "crible",
-      3.96,
+      "crible,",
+      3.94,
       4.24,
-      0.7
+      0.66
      ],
      [
       "avec",
-      4.24,
-      4.74,
-      0.77
+      4.64,
+      4.76,
+      1.0
      ],
      [
       "leur",
-      4.74,
+      4.76,
       4.98,
-      0.72
+      0.76
      ],
      [
       "sens,",
       4.98,
-      5.44,
+      5.42,
       1.0
      ],
      [
       "leur",
       5.74,
       5.86,
-      0.79
+      0.81
      ],
      [
       "force",
@@ -745,7 +785,7 @@
       "et",
       6.16,
       6.36,
-      0.94
+      0.9
      ],
      [
       "notre",
@@ -768,7 +808,7 @@
      [
       "confiance.",
       7.12,
-      7.54,
+      7.52,
       1.0
      ],
      [
@@ -798,59 +838,59 @@
      [
       "sont",
       8.66,
-      8.9,
+      8.88,
       0.99
      ],
      [
       "offerts",
-      8.9,
+      8.88,
       9.24,
-      0.96
+      0.97
      ],
      [
       "à",
       9.24,
       9.42,
-      1.0
+      0.99
      ],
      [
-      "tous",
+      "tous,",
       9.42,
       9.76,
       1.0
      ],
      [
       "ce",
-      9.76,
-      10.12,
-      0.66
+      9.98,
+      10.1,
+      0.99
      ],
      [
-      "matin",
-      10.12,
-      10.44,
+      "matin,",
+      10.1,
+      10.4,
       1.0
      ],
      [
       "dans",
-      10.44,
+      10.78,
       10.86,
-      0.82
+      1.0
      ],
      [
       "le",
       10.86,
-      11.1,
-      1.0
+      11.08,
+      0.99
      ],
      [
       "terminal.",
-      11.1,
+      11.08,
       11.44,
-      0.88
+      0.91
      ]
     ],
-    "clarte": 0.15,
+    "clarte": 0.17,
     "ok": true
    },
    "toutes": [
@@ -858,21 +898,21 @@
      "prise": 1,
      "file": "fr-05-00-p1.wav",
      "seconds": 11.6,
-     "compute": 93,
-     "heard": "Le biais du jour est en ligne, 40 marchés passés au crible avec leur sens, leur force et notre niveau de confiance. Huit d'entre eux sont offerts à tous ce matin dans le terminal.",
+     "compute": 74,
+     "heard": "Le biais du jour est en ligne, 40 marchés passés au crible, avec leur sens, leur force et notre niveau de confiance. Huit d'entre eux sont offerts à tous, ce matin, dans le terminal.",
      "wer": 0.0,
      "extra": 0,
      "speech": [
-      0.58,
+      0.7,
       11.44
      ],
-     "rate": 17.4,
+     "rate": 17.6,
      "mots": [
       [
        "Le",
-       0.58,
+       0.7,
        1.14,
-       0.15
+       0.17
       ],
       [
        "biais",
@@ -913,12 +953,12 @@
       [
        "40",
        2.8,
-       3.0,
-       0.94
+       2.98,
+       0.95
       ],
       [
        "marchés",
-       3.0,
+       2.98,
        3.44,
        0.98
       ],
@@ -931,38 +971,38 @@
       [
        "au",
        3.74,
-       3.96,
-       0.87
+       3.94,
+       0.9
       ],
       [
-       "crible",
-       3.96,
+       "crible,",
+       3.94,
        4.24,
-       0.7
+       0.66
       ],
       [
        "avec",
-       4.24,
-       4.74,
-       0.77
+       4.64,
+       4.76,
+       1.0
       ],
       [
        "leur",
-       4.74,
+       4.76,
        4.98,
-       0.72
+       0.76
       ],
       [
        "sens,",
        4.98,
-       5.44,
+       5.42,
        1.0
       ],
       [
        "leur",
        5.74,
        5.86,
-       0.79
+       0.81
       ],
       [
        "force",
@@ -974,7 +1014,7 @@
        "et",
        6.16,
        6.36,
-       0.94
+       0.9
       ],
       [
        "notre",
@@ -997,7 +1037,7 @@
       [
        "confiance.",
        7.12,
-       7.54,
+       7.52,
        1.0
       ],
       [
@@ -1027,59 +1067,59 @@
       [
        "sont",
        8.66,
-       8.9,
+       8.88,
        0.99
       ],
       [
        "offerts",
-       8.9,
+       8.88,
        9.24,
-       0.96
+       0.97
       ],
       [
        "à",
        9.24,
        9.42,
-       1.0
+       0.99
       ],
       [
-       "tous",
+       "tous,",
        9.42,
        9.76,
        1.0
       ],
       [
        "ce",
-       9.76,
-       10.12,
-       0.66
+       9.98,
+       10.1,
+       0.99
       ],
       [
-       "matin",
-       10.12,
-       10.44,
+       "matin,",
+       10.1,
+       10.4,
        1.0
       ],
       [
        "dans",
-       10.44,
+       10.78,
        10.86,
-       0.82
+       1.0
       ],
       [
        "le",
        10.86,
-       11.1,
-       1.0
+       11.08,
+       0.99
       ],
       [
        "terminal.",
-       11.1,
+       11.08,
        11.44,
-       0.88
+       0.91
       ]
      ],
-     "clarte": 0.15,
+     "clarte": 0.17,
      "ok": true
     }
    ]
@@ -1168,11 +1208,12 @@
    "ton": "pose",
    "text": "Le rendez-vous de la semaine : mercredi matin, l'inflation au Royaume-Uni. Le marché attend trois virgule quatre pour cent sur un an, après trois virgule un.",
    "tts": "Le rendez-vous de la semaine : mercredi matin, l'inflation au Royaume-Uni. Le marché attend trois virgule quatre pour cent sur un an, après trois virgule un.",
+   "gen": {},
    "prise": {
     "prise": 1,
     "file": "fr-07-00-p1.wav",
     "seconds": 7.76,
-    "compute": 62,
+    "compute": 48,
     "heard": "Le rendez-vous de la semaine, mercredi matin, l'inflation au Royaume-Uni. Le marché attend 3,4% sur un an, après 3,1.",
     "wer": 0.0,
     "extra": 0,
@@ -1192,7 +1233,7 @@
       "rendez",
       0.34,
       0.54,
-      0.98
+      0.99
      ],
      [
       "-vous",
@@ -1221,12 +1262,12 @@
      [
       "mercredi",
       1.56,
-      1.9,
+      1.88,
       0.99
      ],
      [
       "matin,",
-      1.9,
+      1.88,
       2.18,
       0.99
      ],
@@ -1258,7 +1299,7 @@
       "-Uni.",
       3.48,
       3.9,
-      0.99
+      0.98
      ],
      [
       "Le",
@@ -1281,20 +1322,20 @@
      [
       "3",
       4.88,
-      5.16,
+      5.14,
       0.99
      ],
      [
       ",4",
-      5.16,
+      5.14,
       5.8,
-      1.0
+      0.99
      ],
      [
       "%",
       5.8,
       6.12,
-      0.45
+      0.47
      ],
      [
       "sur",
@@ -1306,7 +1347,7 @@
       "un",
       6.3,
       6.5,
-      0.87
+      0.88
      ],
      [
       "an,",
@@ -1316,7 +1357,7 @@
      ],
      [
       "après",
-      6.88,
+      6.94,
       7.1,
       1.0
      ],
@@ -1333,7 +1374,7 @@
       1.0
      ]
     ],
-    "clarte": 0.45,
+    "clarte": 0.47,
     "ok": true
    },
    "toutes": [
@@ -1341,7 +1382,7 @@
      "prise": 1,
      "file": "fr-07-00-p1.wav",
      "seconds": 7.76,
-     "compute": 62,
+     "compute": 48,
      "heard": "Le rendez-vous de la semaine, mercredi matin, l'inflation au Royaume-Uni. Le marché attend 3,4% sur un an, après 3,1.",
      "wer": 0.0,
      "extra": 0,
@@ -1361,7 +1402,7 @@
        "rendez",
        0.34,
        0.54,
-       0.98
+       0.99
       ],
       [
        "-vous",
@@ -1390,12 +1431,12 @@
       [
        "mercredi",
        1.56,
-       1.9,
+       1.88,
        0.99
       ],
       [
        "matin,",
-       1.9,
+       1.88,
        2.18,
        0.99
       ],
@@ -1427,7 +1468,7 @@
        "-Uni.",
        3.48,
        3.9,
-       0.99
+       0.98
       ],
       [
        "Le",
@@ -1450,20 +1491,20 @@
       [
        "3",
        4.88,
-       5.16,
+       5.14,
        0.99
       ],
       [
        ",4",
-       5.16,
+       5.14,
        5.8,
-       1.0
+       0.99
       ],
       [
        "%",
        5.8,
        6.12,
-       0.45
+       0.47
       ],
       [
        "sur",
@@ -1475,7 +1516,7 @@
        "un",
        6.3,
        6.5,
-       0.87
+       0.88
       ],
       [
        "an,",
@@ -1485,7 +1526,7 @@
       ],
       [
        "après",
-       6.88,
+       6.94,
        7.1,
        1.0
       ],
@@ -1502,7 +1543,7 @@
        1.0
       ]
      ],
-     "clarte": 0.45,
+     "clarte": 0.47,
      "ok": true
     }
    ]
@@ -1747,11 +1788,12 @@
    "ton": "chaleureux",
    "text": "Ce matin dans le terminal : le tout premier numéro de MACROARSENAL Times. Il s'intitule « L'or entre deux vagues », et il est offert à tous ceux qui ont un compte gratuit.",
    "tts": "Ce matin dans le terminal : le tout premier numéro de Macro Arsenal Taïmz. Il s'intitule « L'or entre deux vagues », et il est offert à tous ceux qui ont un compte gratuit.",
+   "gen": {},
    "prise": {
     "prise": 1,
     "file": "fr-10-00-p1.wav",
     "seconds": 8.48,
-    "compute": 68,
+    "compute": 71,
     "heard": "Ce matin dans le terminal, le tout premier numéro de MACROARSENAL Times, il s'intitule « l'or entre deux vagues » et il est offert à tous ceux qui ont un compte gratuit.",
     "wer": 0.0,
     "extra": 0,
@@ -1974,7 +2016,7 @@
      "prise": 1,
      "file": "fr-10-00-p1.wav",
      "seconds": 8.48,
-     "compute": 68,
+     "compute": 71,
      "heard": "Ce matin dans le terminal, le tout premier numéro de MACROARSENAL Times, il s'intitule « l'or entre deux vagues » et il est offert à tous ceux qui ont un compte gratuit.",
      "wer": 0.0,
      "extra": 0,
@@ -2276,79 +2318,104 @@
    "id": "11-01",
    "bloc": 11,
    "ton": "chaleureux",
-   "text": "À demain matin.",
-   "tts": "À demain matin.",
+   "text": "À demain matin, même heure.",
+   "tts": "À demain matin, même heure.",
+   "gen": {},
    "prise": {
     "prise": 1,
     "file": "fr-11-01-p1.wav",
-    "seconds": 0.8,
-    "compute": 12,
-    "heard": "À demain matin.",
+    "seconds": 1.68,
+    "compute": 19,
+    "heard": "À demain matin, même heure.",
     "wer": 0.0,
     "extra": 0,
     "speech": [
      0.0,
-     0.72
+     1.66
     ],
-    "rate": 20.8,
+    "rate": 16.3,
     "mots": [
      [
       "À",
       0.0,
-      0.28,
-      0.67
+      0.3,
+      0.71
      ],
      [
       "demain",
-      0.28,
-      0.48,
+      0.3,
+      0.5,
+      0.99
+     ],
+     [
+      "matin,",
+      0.5,
+      1.0,
       1.0
      ],
      [
-      "matin.",
-      0.48,
-      0.72,
-      1.0
+      "même",
+      1.28,
+      1.42,
+      0.96
+     ],
+     [
+      "heure.",
+      1.42,
+      1.66,
+      0.99
      ]
     ],
-    "clarte": 0.67,
+    "clarte": 0.71,
     "ok": true
    },
    "toutes": [
     {
      "prise": 1,
      "file": "fr-11-01-p1.wav",
-     "seconds": 0.8,
-     "compute": 12,
-     "heard": "À demain matin.",
+     "seconds": 1.68,
+     "compute": 19,
+     "heard": "À demain matin, même heure.",
      "wer": 0.0,
      "extra": 0,
      "speech": [
       0.0,
-      0.72
+      1.66
      ],
-     "rate": 20.8,
+     "rate": 16.3,
      "mots": [
       [
        "À",
        0.0,
-       0.28,
-       0.67
+       0.3,
+       0.71
       ],
       [
        "demain",
-       0.28,
-       0.48,
+       0.3,
+       0.5,
+       0.99
+      ],
+      [
+       "matin,",
+       0.5,
+       1.0,
        1.0
       ],
       [
-       "matin.",
-       0.48,
-       0.72,
-       1.0
+       "même",
+       1.28,
+       1.42,
+       0.96
+      ],
+      [
+       "heure.",
+       1.42,
+       1.66,
+       0.99
       ]
      ],
-     "clarte": 0.67,
+     "clarte": 0.71,
      "ok": true
     }
    ]
