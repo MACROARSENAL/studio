@@ -1,26 +1,26 @@
 {
- "_": "Film court : la phrase « trois rendez-vous » dans les trois langues, avec la voix choisie par Kévin pour chaque langue (référence de ton : « Alors… ses yeux se sont allumés ! »).",
+ "_": "Film court : 4 phrases nouvelles en FR / EN / ES, voix choisie par Kévin pour chaque langue (référence de ton : « Alors… ses yeux se sont allumés ! »).",
  "texte": "court",
  "runs": [
   {
    "langue": "fr",
    "voice": "conteur",
    "casting_take": 1,
-   "lines": "c1-c1",
+   "lines": "c1-c4",
    "ref": "l6-l7"
   },
   {
    "langue": "en",
    "voice": "conteur-en",
    "casting_take": 1,
-   "lines": "c1-c1",
+   "lines": "c1-c4",
    "ref": "l6-l7"
   },
   {
    "langue": "es",
    "voice": "conteur-es-latam",
    "casting_take": 1,
-   "lines": "c1-c1",
+   "lines": "c1-c4",
    "ref": "l6-l7"
   }
  ],

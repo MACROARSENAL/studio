@@ -1,12 +1,25 @@
 {
- "_": "Film court de la première connexion (18/10/2026, accord de Kévin) : la seule phrase nouvelle ; le reste reprend les prises du film « Il était une fois… un logo ».",
+ "_": "Film court de la première connexion (18/10/2026, accord de Kévin) : ton de présentation d'outil, sans conte. La fin (« MACROARSENAL. Ne tradez plus jamais seul. ») reprend la prise du film.",
  "acts": [
   {
    "id": "court",
    "lines": [
     {
      "id": "c1",
+     "text": "Le presentamos a su asistente MACROARSENAL.",
+     "tts": "Le presentamos a su asistente Macro Arsenal."
+    },
+    {
+     "id": "c2",
+     "text": "Conoce el terminal de memoria, y vigila sus mercados, cada día."
+    },
+    {
+     "id": "c3",
      "text": "Cada mañana, tres citas le esperan: Mi mañana, el Sesgo del día, y el quiz."
+    },
+    {
+     "id": "c4",
+     "text": "Póngale un nombre… y hágale todas sus preguntas."
     }
    ]
   }
