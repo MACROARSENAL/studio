@@ -149,13 +149,15 @@ for sid, s in sorted(phr.items()):
         matched = sum(b.size for b in sm.get_matching_blocks())
         wer = 1 - matched / max(1, len(exp))
         extra = max(0, len(got) - matched)
-        speech = [round(words[0].start, 2), round(words[-1].end, 2)] if words else None
+        # les instants de faster-whisper sont des flottants numpy : convertis pour l'écriture JSON
+        speech = [round(float(words[0].start), 2), round(float(words[-1].end), 2)] if words else None
         dur = (speech[1] - speech[0]) if speech else 0
-        rate = len(s['tts']) / max(dur, 0.1)
+        rate = float(len(s['tts']) / max(dur, 0.1))
         # une phrase lue beaucoup trop vite ou trop lentement (mots avalés, hésitations, répétitions) est refusée
         plausible = 0.55 * CPS <= rate <= 1.9 * CPS
-        p.update({'heard': heard, 'wer': round(wer, 3), 'extra': extra, 'speech': speech, 'rate': round(rate, 1),
-                  'ok': wer <= 0.1 and extra <= 1 and plausible})
+        tol = max(1, round(0.05 * len(exp)))   # un mot ajouté ou coupé autrement par la transcription (« coupe-circuits »)
+        p.update({'heard': heard, 'wer': round(float(wer), 3), 'extra': int(extra), 'speech': speech, 'rate': round(rate, 1),
+                  'ok': bool(wer <= 0.1 and extra <= tol and plausible)})
         print(f"{'ok' if p['ok'] else 'À REVOIR'} {sid} {f} écart {wer:.2f} +{extra} débit {rate:.1f} « {heard} »", flush=True)
 
 # Les résultats sont aussi écrits dans chaque fichier de partie : un contrôle suivant ne retranscrit pas ce qui l'a déjà été.
