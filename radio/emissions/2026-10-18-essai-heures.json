@@ -1,0 +1,198 @@
+{
+ "id": "2026-10-18-essai-heures",
+ "_": "Essai (18/10) : façons de dire les heures, deux prises chacune (Kévin : « quand il dit les heures on ne les comprend pas »). 00 = groupe 1, variante a, essai 1 ; 01 = groupe 1, variante a, essai 2 ; 02 = groupe 1, variante b, essai 1 ; 03 = groupe 1, variante b, essai 2 ; 04 = groupe 2, variante a, essai 1 ; 05 = groupe 2, variante a, essai 2 ; 06 = groupe 2, variante b, essai 1 ; 07 = groupe 2, variante b, essai 2 ; 08 = groupe 2, variante c, essai 1 ; 09 = groupe 2, variante c, essai 2 ; 10 = groupe 2, variante d, essai 1 ; 11 = groupe 2, variante d, essai 2 ; 12 = groupe 3, variante a, essai 1 ; 13 = groupe 3, variante a, essai 2 ; 14 = groupe 3, variante b, essai 1 ; 15 = groupe 3, variante b, essai 2 ; 16 = groupe 3, variante c, essai 1 ; 17 = groupe 3, variante c, essai 2 ; 18 = groupe 4, variante a, essai 1 ; 19 = groupe 4, variante a, essai 2 ; 20 = groupe 4, variante b, essai 1 ; 21 = groupe 4, variante b, essai 2 ; 22 = groupe 4, variante c, essai 1 ; 23 = groupe 4, variante c, essai 2 ; 24 = groupe 5, variante a, essai 1 ; 25 = groupe 5, variante a, essai 2 ; 26 = groupe 5, variante b, essai 1 ; 27 = groupe 5, variante b, essai 2 ; 28 = groupe 5, variante c, essai 1 ; 29 = groupe 5, variante c, essai 2",
+ "date": "2026-10-18",
+ "voix": {
+  "fr": "victor-fr"
+ },
+ "parties": 8,
+ "prononciation": {
+  "fr": {
+   "Times": "Taïmz"
+  }
+ },
+ "blocs": {
+  "fr": [
+   {
+    "son": "intro",
+    "rubrique": "essai",
+    "ton": "energique",
+    "texte": "Huit heures à Paris. Bonjour la salle ! Ici Victor Castel, et vous écoutez MACROARSENAL Radio."
+   },
+   {
+    "son": "virgule",
+    "rubrique": "essai",
+    "ton": "energique",
+    "texte": "Huit heures à Paris. Bonjour la salle ! Ici Victor Castel, et vous écoutez MACROARSENAL Radio."
+   },
+   {
+    "son": "virgule",
+    "rubrique": "essai",
+    "ton": "energique",
+    "texte": "Il est huit heures à Paris. Bonjour la salle ! Ici Victor Castel, et vous écoutez MACROARSENAL Radio."
+   },
+   {
+    "son": "virgule",
+    "rubrique": "essai",
+    "ton": "energique",
+    "texte": "Il est huit heures à Paris. Bonjour la salle ! Ici Victor Castel, et vous écoutez MACROARSENAL Radio."
+   },
+   {
+    "son": "virgule",
+    "rubrique": "essai",
+    "ton": "net",
+    "texte": "Le Biais du jour est en ligne depuis sept heures et demie : quarante marchés passés au crible."
+   },
+   {
+    "son": "virgule",
+    "rubrique": "essai",
+    "ton": "net",
+    "texte": "Le Biais du jour est en ligne depuis sept heures et demie : quarante marchés passés au crible."
+   },
+   {
+    "son": "virgule",
+    "rubrique": "essai",
+    "ton": "net",
+    "texte": "Le Biais du jour est en ligne depuis sept heures trente : quarante marchés passés au crible."
+   },
+   {
+    "son": "virgule",
+    "rubrique": "essai",
+    "ton": "net",
+    "texte": "Le Biais du jour est en ligne depuis sept heures trente : quarante marchés passés au crible."
+   },
+   {
+    "son": "virgule",
+    "rubrique": "essai",
+    "ton": "net",
+    "texte": "Le Biais du jour est en ligne depuis une demi-heure : quarante marchés passés au crible."
+   },
+   {
+    "son": "virgule",
+    "rubrique": "essai",
+    "ton": "net",
+    "texte": "Le Biais du jour est en ligne depuis une demi-heure : quarante marchés passés au crible."
+   },
+   {
+    "son": "virgule",
+    "rubrique": "essai",
+    "ton": "net",
+    "texte": "Le Biais du jour est en ligne depuis 7 h 30 : quarante marchés passés au crible."
+   },
+   {
+    "son": "virgule",
+    "rubrique": "essai",
+    "ton": "net",
+    "texte": "Le Biais du jour est en ligne depuis 7 h 30 : quarante marchés passés au crible."
+   },
+   {
+    "son": "virgule",
+    "rubrique": "essai",
+    "ton": "pose",
+    "texte": "Le rendez-vous de la semaine : mercredi, huit heures, l'inflation au Royaume-Uni."
+   },
+   {
+    "son": "virgule",
+    "rubrique": "essai",
+    "ton": "pose",
+    "texte": "Le rendez-vous de la semaine : mercredi, huit heures, l'inflation au Royaume-Uni."
+   },
+   {
+    "son": "virgule",
+    "rubrique": "essai",
+    "ton": "pose",
+    "texte": "Le rendez-vous de la semaine : mercredi à huit heures, l'inflation au Royaume-Uni."
+   },
+   {
+    "son": "virgule",
+    "rubrique": "essai",
+    "ton": "pose",
+    "texte": "Le rendez-vous de la semaine : mercredi à huit heures, l'inflation au Royaume-Uni."
+   },
+   {
+    "son": "virgule",
+    "rubrique": "essai",
+    "ton": "pose",
+    "texte": "Le rendez-vous de la semaine : mercredi, à huit heures du matin, l'inflation au Royaume-Uni."
+   },
+   {
+    "son": "virgule",
+    "rubrique": "essai",
+    "ton": "pose",
+    "texte": "Le rendez-vous de la semaine : mercredi, à huit heures du matin, l'inflation au Royaume-Uni."
+   },
+   {
+    "son": "virgule",
+    "rubrique": "essai",
+    "ton": "chaleureux",
+    "texte": "Ce matin dans le terminal : le tout premier numéro de MACROARSENAL Times, sorti à sept heures et demie."
+   },
+   {
+    "son": "virgule",
+    "rubrique": "essai",
+    "ton": "chaleureux",
+    "texte": "Ce matin dans le terminal : le tout premier numéro de MACROARSENAL Times, sorti à sept heures et demie."
+   },
+   {
+    "son": "virgule",
+    "rubrique": "essai",
+    "ton": "chaleureux",
+    "texte": "Ce matin dans le terminal : le tout premier numéro de MACROARSENAL Times, sorti à sept heures trente."
+   },
+   {
+    "son": "virgule",
+    "rubrique": "essai",
+    "ton": "chaleureux",
+    "texte": "Ce matin dans le terminal : le tout premier numéro de MACROARSENAL Times, sorti à sept heures trente."
+   },
+   {
+    "son": "virgule",
+    "rubrique": "essai",
+    "ton": "chaleureux",
+    "texte": "Ce matin dans le terminal : le tout premier numéro de MACROARSENAL Times, sorti il y a une demi-heure."
+   },
+   {
+    "son": "virgule",
+    "rubrique": "essai",
+    "ton": "chaleureux",
+    "texte": "Ce matin dans le terminal : le tout premier numéro de MACROARSENAL Times, sorti il y a une demi-heure."
+   },
+   {
+    "son": "virgule",
+    "rubrique": "essai",
+    "ton": "chaleureux",
+    "texte": "À demain, huit heures."
+   },
+   {
+    "son": "virgule",
+    "rubrique": "essai",
+    "ton": "chaleureux",
+    "texte": "À demain, huit heures."
+   },
+   {
+    "son": "virgule",
+    "rubrique": "essai",
+    "ton": "chaleureux",
+    "texte": "À demain, à huit heures."
+   },
+   {
+    "son": "virgule",
+    "rubrique": "essai",
+    "ton": "chaleureux",
+    "texte": "À demain, à huit heures."
+   },
+   {
+    "son": "virgule",
+    "rubrique": "essai",
+    "ton": "chaleureux",
+    "texte": "À demain matin, huit heures."
+   },
+   {
+    "son": "fin",
+    "rubrique": "essai",
+    "ton": "chaleureux",
+    "texte": "À demain matin, huit heures."
+   }
+  ]
+ }
+}

@@ -164,7 +164,10 @@ for sid, s in sorted(phr.items()):
         # une phrase lue beaucoup trop vite ou trop lentement (mots avalés, hésitations, répétitions) est refusée
         plausible = 0.55 * CPS <= rate <= 1.9 * CPS
         tol = max(1, round(0.05 * nexp))   # un mot ajouté ou coupé autrement par la transcription (« coupe-circuits »)
+        # mot à mot : instants et confiance de la transcription (un mot avalé ou mâché ressort avec une confiance basse)
+        mots = [[w.word.strip(), round(float(w.start), 2), round(float(w.end), 2), round(float(w.probability), 2)] for w in words]
         p.update({'heard': heard, 'wer': round(float(wer), 3), 'extra': int(extra), 'speech': speech, 'rate': round(rate, 1),
+                  'mots': mots, 'clarte': min((m[3] for m in mots), default=0.0),
                   'ok': bool(wer <= 0.1 and extra <= tol and plausible)})
         print(f"{'ok' if p['ok'] else 'À REVOIR'} {sid} {f} écart {wer:.2f} +{extra} débit {rate:.1f} « {heard} »", flush=True)
 
