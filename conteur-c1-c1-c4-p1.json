@@ -1,0 +1,49 @@
+{
+ "voice": "conteur",
+ "langue": "fr",
+ "casting_take": "1",
+ "take": 1,
+ "span": "c1-c4",
+ "engine": "Qwen3-TTS 1.7B Base, voix clonée depuis le casting (Apache-2.0)",
+ "reference": {
+  "from": "conteur-1",
+  "span": "l6-l7",
+  "start": 22.82,
+  "end": 29.36,
+  "text": "Alors Macro Arsenal vous a fait un compagnon. Et un beau matin… ses yeux se sont allumés !"
+ },
+ "lines": [
+  {
+   "id": "c1",
+   "text": "Voici votre assistant MACROARSENAL.",
+   "tts": "Voici votre assistant Macro Arsenal.",
+   "file": "conteur-c1-c1-p1.wav",
+   "seconds": 3.04,
+   "compute": 27
+  },
+  {
+   "id": "c2",
+   "text": "Il connaît le terminal par cœur, et il veille sur vos marchés, chaque jour.",
+   "tts": "Il connaît le terminal par cœur, et il veille sur vos marchés, chaque jour.",
+   "file": "conteur-c1-c2-p1.wav",
+   "seconds": 4.56,
+   "compute": 39
+  },
+  {
+   "id": "c3",
+   "text": "Chaque matin, trois rendez-vous vous attendent : Mon matin, le Biais du jour, et le quiz.",
+   "tts": "Chaque matin, trois rendez-vous vous attendent : Mon matin, le Biais du jour, et le quiz.",
+   "file": "conteur-c1-c3-p1.wav",
+   "seconds": 6.16,
+   "compute": 51
+  },
+  {
+   "id": "c4",
+   "text": "Donnez-lui un prénom… et posez-lui toutes vos questions.",
+   "tts": "Donnez-lui un prénom… et posez-lui toutes vos questions.",
+   "file": "conteur-c1-c4-p1.wav",
+   "seconds": 3.12,
+   "compute": 27
+  }
+ ]
+}

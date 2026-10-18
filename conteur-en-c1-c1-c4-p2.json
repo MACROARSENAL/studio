@@ -1,0 +1,49 @@
+{
+ "voice": "conteur-en",
+ "langue": "en",
+ "casting_take": "1",
+ "take": 2,
+ "span": "c1-c4",
+ "engine": "Qwen3-TTS 1.7B Base, voix clonée depuis le casting (Apache-2.0)",
+ "reference": {
+  "from": "conteur-en-1",
+  "span": "l6-l7",
+  "start": 22.3,
+  "end": 28.08,
+  "text": "So Macro Arsenal made you a companion. And one fine morning… its eyes lit up!"
+ },
+ "lines": [
+  {
+   "id": "c1",
+   "text": "Meet your MACROARSENAL assistant.",
+   "tts": "Meet your Macro Arsenal assistant.",
+   "file": "conteur-en-c1-c1-p2.wav",
+   "seconds": 2.56,
+   "compute": 24
+  },
+  {
+   "id": "c2",
+   "text": "It knows the terminal by heart, and it keeps an eye on your markets, every day.",
+   "tts": "It knows the terminal by heart, and it keeps an eye on your markets, every day.",
+   "file": "conteur-en-c1-c2-p2.wav",
+   "seconds": 5.12,
+   "compute": 43
+  },
+  {
+   "id": "c3",
+   "text": "Every morning, three things are waiting for you: My morning, the Daily Bias, and the quiz.",
+   "tts": "Every morning, three things are waiting for you: My morning, the Daily Bias, and the quiz.",
+   "file": "conteur-en-c1-c3-p2.wav",
+   "seconds": 6.56,
+   "compute": 53
+  },
+  {
+   "id": "c4",
+   "text": "Give it a name… and ask it all your questions.",
+   "tts": "Give it a name… and ask it all your questions.",
+   "file": "conteur-en-c1-c4-p2.wav",
+   "seconds": 4.0,
+   "compute": 34
+  }
+ ]
+}
