@@ -44,7 +44,9 @@ def norm(s):
     return [SAME.get(w, w) for w in s.replace("'", "' ").split() if w]
 
 
-for man in sorted(glob.glob(os.path.join(DIR, '*-l*-p*.json'))):
+# Fichiers à contrôler : variable FICHIERS (motif, ex. « conteur-en-c1-* ») ; par défaut toutes les prises du dossier.
+MOTIF = os.environ.get('FICHIERS', '*')
+for man in sorted(glob.glob(os.path.join(DIR, f'{MOTIF}-p[0-9]*.json'))):
     M = json.load(open(man, encoding='utf-8'))
     for l in M['lines']:
         segs, _ = asr.transcribe(load16k(os.path.join(DIR, l['file'])), language=LANGUE, word_timestamps=True, beam_size=5, vad_filter=False,

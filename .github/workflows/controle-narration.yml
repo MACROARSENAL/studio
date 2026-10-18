@@ -1,0 +1,42 @@
+name: Contrôle d'une narration
+
+# Transcrit les prises d'une branche de narration (faster-whisper), langue par langue, et range le résultat sur la même branche.
+# Lancement : onglet Actions → Run workflow (branche de narration, ex. narration-court).
+on:
+  workflow_dispatch:
+    inputs:
+      branche:
+        description: 'Branche de narration'
+        required: true
+        default: narration-court
+
+permissions:
+  contents: write
+
+jobs:
+  controle:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event.inputs.branche }}
+          path: n
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Outils
+        run: python -m venv /tmp/asr && /tmp/asr/bin/pip install -q faster-whisper scipy
+      - name: Contrôle
+        run: |
+          for spec in "fr:conteur-c1" "en:conteur-en-c1" "es:conteur-es-latam-c1"; do
+            l=${spec%%:*}; m=${spec#*:}
+            ls n/$m-*-p*.json > /dev/null 2>&1 || continue
+            LANGUE=$l FICHIERS="$m-*" /tmp/asr/bin/python voix/qa_lignes.py n 2>&1 | grep -v -i warning || true
+          done
+      - name: Ranger
+        run: |
+          cd n
+          git config user.name "studio-bot"; git config user.email "studio-bot@users.noreply.github.com"
+          git add -A && git commit -qm "Contrôle de la narration" && git push -q origin HEAD:${{ github.event.inputs.branche }}
