@@ -1,0 +1,7799 @@
+{
+ "langue": "fr",
+ "phrases": {
+  "00-00": {
+   "id": "00-00",
+   "bloc": 0,
+   "ton": "energique",
+   "text": "Huit heures à Paris. Bonjour la salle ! Ici Victor Castel, et vous écoutez MACROARSENAL Radio.",
+   "tts": "Huit heures à Paris. Bonjour la salle ! Ici Victor Castel, et vous écoutez Macro Arsenal Radio.",
+   "prise": {
+    "prise": 1,
+    "file": "fr-00-00-p1.wav",
+    "seconds": 6.8,
+    "compute": 51,
+    "heard": "8 heures à Paris. Bonjour la salle, ici Victor Castel et vous écoutez MACROARSENAL Radio.",
+    "wer": 0.0,
+    "extra": 0,
+    "speech": [
+     0.0,
+     6.68
+    ],
+    "rate": 14.2,
+    "mots": [
+     [
+      "8",
+      0.0,
+      0.38,
+      0.71
+     ],
+     [
+      "heures",
+      0.38,
+      0.58,
+      0.55
+     ],
+     [
+      "à",
+      0.58,
+      0.8,
+      0.99
+     ],
+     [
+      "Paris.",
+      0.8,
+      1.08,
+      0.98
+     ],
+     [
+      "Bonjour",
+      1.68,
+      1.8,
+      0.95
+     ],
+     [
+      "la",
+      1.8,
+      2.06,
+      0.93
+     ],
+     [
+      "salle,",
+      2.06,
+      2.52,
+      0.95
+     ],
+     [
+      "ici",
+      2.9,
+      3.1,
+      0.98
+     ],
+     [
+      "Victor",
+      3.1,
+      3.58,
+      0.98
+     ],
+     [
+      "Castel",
+      3.58,
+      4.08,
+      0.93
+     ],
+     [
+      "et",
+      4.08,
+      4.56,
+      0.76
+     ],
+     [
+      "vous",
+      4.56,
+      4.76,
+      0.99
+     ],
+     [
+      "écoutez",
+      4.76,
+      5.28,
+      0.99
+     ],
+     [
+      "MACROARSENAL",
+      5.28,
+      6.42,
+      0.6
+     ],
+     [
+      "Radio.",
+      6.42,
+      6.68,
+      0.03
+     ]
+    ],
+    "clarte": 0.03,
+    "ok": true
+   },
+   "toutes": [
+    {
+     "prise": 1,
+     "file": "fr-00-00-p1.wav",
+     "seconds": 6.8,
+     "compute": 51,
+     "heard": "8 heures à Paris. Bonjour la salle, ici Victor Castel et vous écoutez MACROARSENAL Radio.",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      6.68
+     ],
+     "rate": 14.2,
+     "mots": [
+      [
+       "8",
+       0.0,
+       0.38,
+       0.71
+      ],
+      [
+       "heures",
+       0.38,
+       0.58,
+       0.55
+      ],
+      [
+       "à",
+       0.58,
+       0.8,
+       0.99
+      ],
+      [
+       "Paris.",
+       0.8,
+       1.08,
+       0.98
+      ],
+      [
+       "Bonjour",
+       1.68,
+       1.8,
+       0.95
+      ],
+      [
+       "la",
+       1.8,
+       2.06,
+       0.93
+      ],
+      [
+       "salle,",
+       2.06,
+       2.52,
+       0.95
+      ],
+      [
+       "ici",
+       2.9,
+       3.1,
+       0.98
+      ],
+      [
+       "Victor",
+       3.1,
+       3.58,
+       0.98
+      ],
+      [
+       "Castel",
+       3.58,
+       4.08,
+       0.93
+      ],
+      [
+       "et",
+       4.08,
+       4.56,
+       0.76
+      ],
+      [
+       "vous",
+       4.56,
+       4.76,
+       0.99
+      ],
+      [
+       "écoutez",
+       4.76,
+       5.28,
+       0.99
+      ],
+      [
+       "MACROARSENAL",
+       5.28,
+       6.42,
+       0.6
+      ],
+      [
+       "Radio.",
+       6.42,
+       6.68,
+       0.03
+      ]
+     ],
+     "clarte": 0.03,
+     "ok": true
+    }
+   ]
+  },
+  "01-00": {
+   "id": "01-00",
+   "bloc": 1,
+   "ton": "energique",
+   "text": "Huit heures à Paris. Bonjour la salle ! Ici Victor Castel, et vous écoutez MACROARSENAL Radio.",
+   "tts": "Huit heures à Paris. Bonjour la salle ! Ici Victor Castel, et vous écoutez Macro Arsenal Radio.",
+   "prise": {
+    "prise": 1,
+    "file": "fr-01-00-p1.wav",
+    "seconds": 6.24,
+    "compute": 48,
+    "heard": "8 heures à Paris. Bonjour la salle, ici Victor Castel et vous écoutez MACROARSENAL Radio.",
+    "wer": 0.0,
+    "extra": 0,
+    "speech": [
+     0.0,
+     6.14
+    ],
+    "rate": 15.5,
+    "mots": [
+     [
+      "8",
+      0.0,
+      0.38,
+      0.72
+     ],
+     [
+      "heures",
+      0.38,
+      0.66,
+      0.61
+     ],
+     [
+      "à",
+      0.66,
+      0.96,
+      0.99
+     ],
+     [
+      "Paris.",
+      0.96,
+      1.32,
+      0.99
+     ],
+     [
+      "Bonjour",
+      1.9,
+      2.02,
+      0.97
+     ],
+     [
+      "la",
+      2.02,
+      2.28,
+      0.94
+     ],
+     [
+      "salle,",
+      2.28,
+      2.64,
+      0.96
+     ],
+     [
+      "ici",
+      3.04,
+      3.22,
+      0.98
+     ],
+     [
+      "Victor",
+      3.22,
+      3.66,
+      0.98
+     ],
+     [
+      "Castel",
+      3.66,
+      4.1,
+      0.96
+     ],
+     [
+      "et",
+      4.1,
+      4.38,
+      0.83
+     ],
+     [
+      "vous",
+      4.38,
+      4.54,
+      0.99
+     ],
+     [
+      "écoutez",
+      4.54,
+      4.94,
+      0.99
+     ],
+     [
+      "MACROARSENAL",
+      4.94,
+      5.88,
+      0.6
+     ],
+     [
+      "Radio.",
+      5.88,
+      6.14,
+      0.02
+     ]
+    ],
+    "clarte": 0.02,
+    "ok": true
+   },
+   "toutes": [
+    {
+     "prise": 1,
+     "file": "fr-01-00-p1.wav",
+     "seconds": 6.24,
+     "compute": 48,
+     "heard": "8 heures à Paris. Bonjour la salle, ici Victor Castel et vous écoutez MACROARSENAL Radio.",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      6.14
+     ],
+     "rate": 15.5,
+     "mots": [
+      [
+       "8",
+       0.0,
+       0.38,
+       0.72
+      ],
+      [
+       "heures",
+       0.38,
+       0.66,
+       0.61
+      ],
+      [
+       "à",
+       0.66,
+       0.96,
+       0.99
+      ],
+      [
+       "Paris.",
+       0.96,
+       1.32,
+       0.99
+      ],
+      [
+       "Bonjour",
+       1.9,
+       2.02,
+       0.97
+      ],
+      [
+       "la",
+       2.02,
+       2.28,
+       0.94
+      ],
+      [
+       "salle,",
+       2.28,
+       2.64,
+       0.96
+      ],
+      [
+       "ici",
+       3.04,
+       3.22,
+       0.98
+      ],
+      [
+       "Victor",
+       3.22,
+       3.66,
+       0.98
+      ],
+      [
+       "Castel",
+       3.66,
+       4.1,
+       0.96
+      ],
+      [
+       "et",
+       4.1,
+       4.38,
+       0.83
+      ],
+      [
+       "vous",
+       4.38,
+       4.54,
+       0.99
+      ],
+      [
+       "écoutez",
+       4.54,
+       4.94,
+       0.99
+      ],
+      [
+       "MACROARSENAL",
+       4.94,
+       5.88,
+       0.6
+      ],
+      [
+       "Radio.",
+       5.88,
+       6.14,
+       0.02
+      ]
+     ],
+     "clarte": 0.02,
+     "ok": true
+    }
+   ]
+  },
+  "02-00": {
+   "id": "02-00",
+   "bloc": 2,
+   "ton": "energique",
+   "text": "Il est huit heures à Paris. Bonjour la salle ! Ici Victor Castel, et vous écoutez MACROARSENAL Radio.",
+   "tts": "Il est huit heures à Paris. Bonjour la salle ! Ici Victor Castel, et vous écoutez Macro Arsenal Radio.",
+   "prise": {
+    "prise": 1,
+    "file": "fr-02-00-p1.wav",
+    "seconds": 6.88,
+    "compute": 51,
+    "heard": "Il est 8h à Paris, bonjour la salle, ici Victor Castel et vous écoutez MACROARSENAL Radio.",
+    "wer": 0.0,
+    "extra": 0,
+    "speech": [
+     0.0,
+     6.78
+    ],
+    "rate": 15.0,
+    "mots": [
+     [
+      "Il",
+      0.0,
+      0.26,
+      0.83
+     ],
+     [
+      "est",
+      0.26,
+      0.48,
+      1.0
+     ],
+     [
+      "8h",
+      0.48,
+      1.0,
+      0.69
+     ],
+     [
+      "à",
+      1.0,
+      1.22,
+      0.95
+     ],
+     [
+      "Paris,",
+      1.22,
+      1.48,
+      1.0
+     ],
+     [
+      "bonjour",
+      1.92,
+      2.06,
+      0.94
+     ],
+     [
+      "la",
+      2.06,
+      2.3,
+      0.97
+     ],
+     [
+      "salle,",
+      2.3,
+      2.66,
+      0.95
+     ],
+     [
+      "ici",
+      3.02,
+      3.22,
+      0.98
+     ],
+     [
+      "Victor",
+      3.22,
+      3.76,
+      0.98
+     ],
+     [
+      "Castel",
+      3.76,
+      4.3,
+      0.95
+     ],
+     [
+      "et",
+      4.3,
+      4.74,
+      0.81
+     ],
+     [
+      "vous",
+      4.74,
+      4.9,
+      0.99
+     ],
+     [
+      "écoutez",
+      4.9,
+      5.34,
+      0.99
+     ],
+     [
+      "MACROARSENAL",
+      5.34,
+      6.52,
+      0.6
+     ],
+     [
+      "Radio.",
+      6.52,
+      6.78,
+      0.02
+     ]
+    ],
+    "clarte": 0.02,
+    "ok": true
+   },
+   "toutes": [
+    {
+     "prise": 1,
+     "file": "fr-02-00-p1.wav",
+     "seconds": 6.88,
+     "compute": 51,
+     "heard": "Il est 8h à Paris, bonjour la salle, ici Victor Castel et vous écoutez MACROARSENAL Radio.",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      6.78
+     ],
+     "rate": 15.0,
+     "mots": [
+      [
+       "Il",
+       0.0,
+       0.26,
+       0.83
+      ],
+      [
+       "est",
+       0.26,
+       0.48,
+       1.0
+      ],
+      [
+       "8h",
+       0.48,
+       1.0,
+       0.69
+      ],
+      [
+       "à",
+       1.0,
+       1.22,
+       0.95
+      ],
+      [
+       "Paris,",
+       1.22,
+       1.48,
+       1.0
+      ],
+      [
+       "bonjour",
+       1.92,
+       2.06,
+       0.94
+      ],
+      [
+       "la",
+       2.06,
+       2.3,
+       0.97
+      ],
+      [
+       "salle,",
+       2.3,
+       2.66,
+       0.95
+      ],
+      [
+       "ici",
+       3.02,
+       3.22,
+       0.98
+      ],
+      [
+       "Victor",
+       3.22,
+       3.76,
+       0.98
+      ],
+      [
+       "Castel",
+       3.76,
+       4.3,
+       0.95
+      ],
+      [
+       "et",
+       4.3,
+       4.74,
+       0.81
+      ],
+      [
+       "vous",
+       4.74,
+       4.9,
+       0.99
+      ],
+      [
+       "écoutez",
+       4.9,
+       5.34,
+       0.99
+      ],
+      [
+       "MACROARSENAL",
+       5.34,
+       6.52,
+       0.6
+      ],
+      [
+       "Radio.",
+       6.52,
+       6.78,
+       0.02
+      ]
+     ],
+     "clarte": 0.02,
+     "ok": true
+    }
+   ]
+  },
+  "03-00": {
+   "id": "03-00",
+   "bloc": 3,
+   "ton": "energique",
+   "text": "Il est huit heures à Paris. Bonjour la salle ! Ici Victor Castel, et vous écoutez MACROARSENAL Radio.",
+   "tts": "Il est huit heures à Paris. Bonjour la salle ! Ici Victor Castel, et vous écoutez Macro Arsenal Radio.",
+   "prise": {
+    "prise": 1,
+    "file": "fr-03-00-p1.wav",
+    "seconds": 7.04,
+    "compute": 52,
+    "heard": "Il est 8h à Paris. Bonjour la salle, ici Victor Castel et vous écoutez MACROARSENAL Radio.",
+    "wer": 0.0,
+    "extra": 0,
+    "speech": [
+     0.0,
+     6.94
+    ],
+    "rate": 14.7,
+    "mots": [
+     [
+      "Il",
+      0.0,
+      0.24,
+      0.82
+     ],
+     [
+      "est",
+      0.24,
+      0.44,
+      1.0
+     ],
+     [
+      "8h",
+      0.44,
+      0.98,
+      0.66
+     ],
+     [
+      "à",
+      0.98,
+      1.2,
+      0.96
+     ],
+     [
+      "Paris.",
+      1.2,
+      1.54,
+      1.0
+     ],
+     [
+      "Bonjour",
+      2.12,
+      2.26,
+      0.96
+     ],
+     [
+      "la",
+      2.26,
+      2.54,
+      0.89
+     ],
+     [
+      "salle,",
+      2.54,
+      2.88,
+      0.94
+     ],
+     [
+      "ici",
+      3.46,
+      3.76,
+      0.98
+     ],
+     [
+      "Victor",
+      3.76,
+      4.28,
+      0.98
+     ],
+     [
+      "Castel",
+      4.28,
+      4.76,
+      0.93
+     ],
+     [
+      "et",
+      4.76,
+      5.1,
+      0.88
+     ],
+     [
+      "vous",
+      5.1,
+      5.26,
+      0.99
+     ],
+     [
+      "écoutez",
+      5.26,
+      5.68,
+      1.0
+     ],
+     [
+      "MACROARSENAL",
+      5.68,
+      6.72,
+      0.6
+     ],
+     [
+      "Radio.",
+      6.72,
+      6.94,
+      0.02
+     ]
+    ],
+    "clarte": 0.02,
+    "ok": true
+   },
+   "toutes": [
+    {
+     "prise": 1,
+     "file": "fr-03-00-p1.wav",
+     "seconds": 7.04,
+     "compute": 52,
+     "heard": "Il est 8h à Paris. Bonjour la salle, ici Victor Castel et vous écoutez MACROARSENAL Radio.",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      6.94
+     ],
+     "rate": 14.7,
+     "mots": [
+      [
+       "Il",
+       0.0,
+       0.24,
+       0.82
+      ],
+      [
+       "est",
+       0.24,
+       0.44,
+       1.0
+      ],
+      [
+       "8h",
+       0.44,
+       0.98,
+       0.66
+      ],
+      [
+       "à",
+       0.98,
+       1.2,
+       0.96
+      ],
+      [
+       "Paris.",
+       1.2,
+       1.54,
+       1.0
+      ],
+      [
+       "Bonjour",
+       2.12,
+       2.26,
+       0.96
+      ],
+      [
+       "la",
+       2.26,
+       2.54,
+       0.89
+      ],
+      [
+       "salle,",
+       2.54,
+       2.88,
+       0.94
+      ],
+      [
+       "ici",
+       3.46,
+       3.76,
+       0.98
+      ],
+      [
+       "Victor",
+       3.76,
+       4.28,
+       0.98
+      ],
+      [
+       "Castel",
+       4.28,
+       4.76,
+       0.93
+      ],
+      [
+       "et",
+       4.76,
+       5.1,
+       0.88
+      ],
+      [
+       "vous",
+       5.1,
+       5.26,
+       0.99
+      ],
+      [
+       "écoutez",
+       5.26,
+       5.68,
+       1.0
+      ],
+      [
+       "MACROARSENAL",
+       5.68,
+       6.72,
+       0.6
+      ],
+      [
+       "Radio.",
+       6.72,
+       6.94,
+       0.02
+      ]
+     ],
+     "clarte": 0.02,
+     "ok": true
+    }
+   ]
+  },
+  "04-00": {
+   "id": "04-00",
+   "bloc": 4,
+   "ton": "net",
+   "text": "Le Biais du jour est en ligne depuis sept heures et demie : quarante marchés passés au crible.",
+   "tts": "Le Biais du jour est en ligne depuis sept heures et demie : quarante marchés passés au crible.",
+   "prise": {
+    "prise": 5,
+    "file": "fr-04-00-p5.wav",
+    "seconds": 5.52,
+    "compute": 48,
+    "heard": "Le biais du jour est en ligne depuis sept heures et demie, quarante marchés passés au crible.",
+    "wer": 0.0,
+    "extra": 0,
+    "speech": [
+     0.7,
+     5.42
+    ],
+    "rate": 19.9,
+    "mots": [
+     [
+      "Le",
+      0.7,
+      1.14,
+      0.12
+     ],
+     [
+      "biais",
+      1.14,
+      1.44,
+      0.99
+     ],
+     [
+      "du",
+      1.44,
+      1.6,
+      1.0
+     ],
+     [
+      "jour",
+      1.6,
+      1.74,
+      1.0
+     ],
+     [
+      "est",
+      1.74,
+      1.94,
+      0.99
+     ],
+     [
+      "en",
+      1.94,
+      2.1,
+      1.0
+     ],
+     [
+      "ligne",
+      2.1,
+      2.36,
+      1.0
+     ],
+     [
+      "depuis",
+      2.36,
+      2.78,
+      0.94
+     ],
+     [
+      "sept",
+      2.78,
+      3.02,
+      0.39
+     ],
+     [
+      "heures",
+      3.02,
+      3.16,
+      0.98
+     ],
+     [
+      "et",
+      3.16,
+      3.32,
+      0.99
+     ],
+     [
+      "demie,",
+      3.32,
+      3.86,
+      0.91
+     ],
+     [
+      "quarante",
+      4.06,
+      4.28,
+      0.69
+     ],
+     [
+      "marchés",
+      4.28,
+      4.64,
+      0.94
+     ],
+     [
+      "passés",
+      4.64,
+      4.98,
+      0.89
+     ],
+     [
+      "au",
+      4.98,
+      5.18,
+      0.9
+     ],
+     [
+      "crible.",
+      5.18,
+      5.42,
+      0.65
+     ]
+    ],
+    "clarte": 0.12,
+    "ok": true
+   },
+   "toutes": [
+    {
+     "prise": 2,
+     "file": "fr-04-00-p2.wav",
+     "seconds": 5.92,
+     "compute": 51,
+     "heard": "Le biais du jour est en ligne depuis 7h30. 40 marchés passés au crible.",
+     "wer": 0.118,
+     "extra": 1,
+     "speech": [
+      0.7,
+      5.76
+     ],
+     "rate": 18.6,
+     "mots": [
+      [
+       "Le",
+       0.7,
+       1.22,
+       0.1
+      ],
+      [
+       "biais",
+       1.22,
+       1.56,
+       0.96
+      ],
+      [
+       "du",
+       1.56,
+       1.74,
+       0.99
+      ],
+      [
+       "jour",
+       1.74,
+       1.92,
+       1.0
+      ],
+      [
+       "est",
+       1.92,
+       2.16,
+       0.99
+      ],
+      [
+       "en",
+       2.16,
+       2.3,
+       1.0
+      ],
+      [
+       "ligne",
+       2.3,
+       2.62,
+       1.0
+      ],
+      [
+       "depuis",
+       2.62,
+       3.06,
+       1.0
+      ],
+      [
+       "7h30.",
+       3.06,
+       3.98,
+       0.8
+      ],
+      [
+       "40",
+       4.24,
+       4.5,
+       0.97
+      ],
+      [
+       "marchés",
+       4.5,
+       5.0,
+       0.98
+      ],
+      [
+       "passés",
+       5.0,
+       5.36,
+       0.95
+      ],
+      [
+       "au",
+       5.36,
+       5.56,
+       0.91
+      ],
+      [
+       "crible.",
+       5.56,
+       5.76,
+       0.67
+      ]
+     ],
+     "clarte": 0.1,
+     "ok": false
+    },
+    {
+     "prise": 3,
+     "file": "fr-04-00-p3.wav",
+     "seconds": 4.96,
+     "compute": 44,
+     "heard": "Le biais du jour est en ligne depuis 7h30, 40 marchés passés au crible.",
+     "wer": 0.118,
+     "extra": 1,
+     "speech": [
+      0.0,
+      4.94
+     ],
+     "rate": 19.0,
+     "mots": [
+      [
+       "Le",
+       0.0,
+       0.96,
+       0.17
+      ],
+      [
+       "biais",
+       0.96,
+       1.26,
+       0.97
+      ],
+      [
+       "du",
+       1.26,
+       1.42,
+       0.99
+      ],
+      [
+       "jour",
+       1.42,
+       1.56,
+       1.0
+      ],
+      [
+       "est",
+       1.56,
+       1.78,
+       0.99
+      ],
+      [
+       "en",
+       1.78,
+       1.92,
+       1.0
+      ],
+      [
+       "ligne",
+       1.92,
+       2.12,
+       1.0
+      ],
+      [
+       "depuis",
+       2.12,
+       2.48,
+       1.0
+      ],
+      [
+       "7h30,",
+       2.48,
+       3.22,
+       0.81
+      ],
+      [
+       "40",
+       3.58,
+       3.78,
+       0.96
+      ],
+      [
+       "marchés",
+       3.78,
+       4.18,
+       0.98
+      ],
+      [
+       "passés",
+       4.18,
+       4.52,
+       0.96
+      ],
+      [
+       "au",
+       4.52,
+       4.68,
+       0.93
+      ],
+      [
+       "crible.",
+       4.68,
+       4.94,
+       0.63
+      ]
+     ],
+     "clarte": 0.17,
+     "ok": false
+    },
+    {
+     "prise": 4,
+     "file": "fr-04-00-p4.wav",
+     "seconds": 5.52,
+     "compute": 48,
+     "heard": "10h30. Le biais du jour est en ligne depuis 7h30. 40 marchés passés au crible.",
+     "wer": 0.118,
+     "extra": 4,
+     "speech": [
+      0.0,
+      5.5
+     ],
+     "rate": 17.1,
+     "mots": [
+      [
+       "10h30.",
+       0.0,
+       0.62,
+       0.65
+      ],
+      [
+       "Le",
+       0.86,
+       1.02,
+       0.96
+      ],
+      [
+       "biais",
+       1.02,
+       1.24,
+       0.95
+      ],
+      [
+       "du",
+       1.24,
+       1.4,
+       0.99
+      ],
+      [
+       "jour",
+       1.4,
+       1.54,
+       1.0
+      ],
+      [
+       "est",
+       1.54,
+       1.74,
+       0.99
+      ],
+      [
+       "en",
+       1.74,
+       1.86,
+       1.0
+      ],
+      [
+       "ligne",
+       1.86,
+       2.02,
+       1.0
+      ],
+      [
+       "depuis",
+       2.02,
+       2.42,
+       1.0
+      ],
+      [
+       "7h30.",
+       2.42,
+       3.22,
+       0.77
+      ],
+      [
+       "40",
+       3.88,
+       4.2,
+       0.98
+      ],
+      [
+       "marchés",
+       4.2,
+       4.72,
+       0.98
+      ],
+      [
+       "passés",
+       4.72,
+       5.1,
+       0.93
+      ],
+      [
+       "au",
+       5.1,
+       5.3,
+       0.91
+      ],
+      [
+       "crible.",
+       5.3,
+       5.5,
+       0.62
+      ]
+     ],
+     "clarte": 0.62,
+     "ok": false
+    },
+    {
+     "prise": 5,
+     "file": "fr-04-00-p5.wav",
+     "seconds": 5.52,
+     "compute": 48,
+     "heard": "Le biais du jour est en ligne depuis sept heures et demie, quarante marchés passés au crible.",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.7,
+      5.42
+     ],
+     "rate": 19.9,
+     "mots": [
+      [
+       "Le",
+       0.7,
+       1.14,
+       0.12
+      ],
+      [
+       "biais",
+       1.14,
+       1.44,
+       0.99
+      ],
+      [
+       "du",
+       1.44,
+       1.6,
+       1.0
+      ],
+      [
+       "jour",
+       1.6,
+       1.74,
+       1.0
+      ],
+      [
+       "est",
+       1.74,
+       1.94,
+       0.99
+      ],
+      [
+       "en",
+       1.94,
+       2.1,
+       1.0
+      ],
+      [
+       "ligne",
+       2.1,
+       2.36,
+       1.0
+      ],
+      [
+       "depuis",
+       2.36,
+       2.78,
+       0.94
+      ],
+      [
+       "sept",
+       2.78,
+       3.02,
+       0.39
+      ],
+      [
+       "heures",
+       3.02,
+       3.16,
+       0.98
+      ],
+      [
+       "et",
+       3.16,
+       3.32,
+       0.99
+      ],
+      [
+       "demie,",
+       3.32,
+       3.86,
+       0.91
+      ],
+      [
+       "quarante",
+       4.06,
+       4.28,
+       0.69
+      ],
+      [
+       "marchés",
+       4.28,
+       4.64,
+       0.94
+      ],
+      [
+       "passés",
+       4.64,
+       4.98,
+       0.89
+      ],
+      [
+       "au",
+       4.98,
+       5.18,
+       0.9
+      ],
+      [
+       "crible.",
+       5.18,
+       5.42,
+       0.65
+      ]
+     ],
+     "clarte": 0.12,
+     "ok": true
+    },
+    {
+     "prise": 1,
+     "file": "fr-04-00-p1.wav",
+     "seconds": 4.8,
+     "compute": 44,
+     "heard": "Le biais du jour est en ligne depuis 7h30. 40 marchés passés au crible.",
+     "wer": 0.118,
+     "extra": 1,
+     "speech": [
+      0.54,
+      4.7
+     ],
+     "rate": 22.6,
+     "mots": [
+      [
+       "Le",
+       0.54,
+       0.96,
+       0.19
+      ],
+      [
+       "biais",
+       0.96,
+       1.28,
+       0.97
+      ],
+      [
+       "du",
+       1.28,
+       1.4,
+       0.99
+      ],
+      [
+       "jour",
+       1.4,
+       1.52,
+       1.0
+      ],
+      [
+       "est",
+       1.52,
+       1.74,
+       0.99
+      ],
+      [
+       "en",
+       1.74,
+       1.86,
+       1.0
+      ],
+      [
+       "ligne",
+       1.86,
+       2.0,
+       1.0
+      ],
+      [
+       "depuis",
+       2.0,
+       2.32,
+       1.0
+      ],
+      [
+       "7h30.",
+       2.32,
+       3.16,
+       0.77
+      ],
+      [
+       "40",
+       3.32,
+       3.62,
+       0.97
+      ],
+      [
+       "marchés",
+       3.62,
+       4.0,
+       0.98
+      ],
+      [
+       "passés",
+       4.0,
+       4.32,
+       0.93
+      ],
+      [
+       "au",
+       4.32,
+       4.5,
+       0.93
+      ],
+      [
+       "crible.",
+       4.5,
+       4.7,
+       0.61
+      ]
+     ],
+     "clarte": 0.19,
+     "ok": false
+    }
+   ]
+  },
+  "05-00": {
+   "id": "05-00",
+   "bloc": 5,
+   "ton": "net",
+   "text": "Le Biais du jour est en ligne depuis sept heures et demie : quarante marchés passés au crible.",
+   "tts": "Le Biais du jour est en ligne depuis sept heures et demie : quarante marchés passés au crible.",
+   "prise": {
+    "prise": 5,
+    "file": "fr-05-00-p5.wav",
+    "seconds": 5.2,
+    "compute": 46,
+    "heard": "Le biais du jour est en ligne depuis 7h30. 40 marchés passés au crible.",
+    "wer": 0.118,
+    "extra": 1,
+    "speech": [
+     0.0,
+     5.18
+    ],
+    "rate": 18.1,
+    "mots": [
+     [
+      "Le",
+      0.0,
+      0.96,
+      0.13
+     ],
+     [
+      "biais",
+      0.96,
+      1.26,
+      0.97
+     ],
+     [
+      "du",
+      1.26,
+      1.48,
+      0.99
+     ],
+     [
+      "jour",
+      1.48,
+      1.66,
+      1.0
+     ],
+     [
+      "est",
+      1.66,
+      1.88,
+      0.99
+     ],
+     [
+      "en",
+      1.88,
+      2.02,
+      1.0
+     ],
+     [
+      "ligne",
+      2.02,
+      2.22,
+      1.0
+     ],
+     [
+      "depuis",
+      2.22,
+      2.56,
+      1.0
+     ],
+     [
+      "7h30.",
+      2.56,
+      3.48,
+      0.77
+     ],
+     [
+      "40",
+      3.76,
+      4.06,
+      0.97
+     ],
+     [
+      "marchés",
+      4.06,
+      4.46,
+      0.98
+     ],
+     [
+      "passés",
+      4.46,
+      4.78,
+      0.95
+     ],
+     [
+      "au",
+      4.78,
+      4.96,
+      0.93
+     ],
+     [
+      "crible.",
+      4.96,
+      5.18,
+      0.62
+     ]
+    ],
+    "clarte": 0.13,
+    "ok": false
+   },
+   "toutes": [
+    {
+     "prise": 2,
+     "file": "fr-05-00-p2.wav",
+     "seconds": 5.36,
+     "compute": 46,
+     "heard": "Le biais du jour est en ligne depuis 7h30, 40 marchés passés au crible.",
+     "wer": 0.118,
+     "extra": 1,
+     "speech": [
+      0.6,
+      5.28
+     ],
+     "rate": 20.1,
+     "mots": [
+      [
+       "Le",
+       0.6,
+       1.04,
+       0.11
+      ],
+      [
+       "biais",
+       1.04,
+       1.34,
+       0.97
+      ],
+      [
+       "du",
+       1.34,
+       1.52,
+       0.98
+      ],
+      [
+       "jour",
+       1.52,
+       1.68,
+       1.0
+      ],
+      [
+       "est",
+       1.68,
+       1.92,
+       0.99
+      ],
+      [
+       "en",
+       1.92,
+       2.04,
+       1.0
+      ],
+      [
+       "ligne",
+       2.04,
+       2.18,
+       1.0
+      ],
+      [
+       "depuis",
+       2.18,
+       2.56,
+       1.0
+      ],
+      [
+       "7h30,",
+       2.56,
+       3.6,
+       0.81
+      ],
+      [
+       "40",
+       3.9,
+       4.1,
+       0.97
+      ],
+      [
+       "marchés",
+       4.1,
+       4.56,
+       0.97
+      ],
+      [
+       "passés",
+       4.56,
+       4.9,
+       0.96
+      ],
+      [
+       "au",
+       4.9,
+       5.08,
+       0.95
+      ],
+      [
+       "crible.",
+       5.08,
+       5.28,
+       0.62
+      ]
+     ],
+     "clarte": 0.11,
+     "ok": false
+    },
+    {
+     "prise": 3,
+     "file": "fr-05-00-p3.wav",
+     "seconds": 5.12,
+     "compute": 44,
+     "heard": "Le biais du jour est en ligne depuis 7h30. 40 marchés passés au crible.",
+     "wer": 0.118,
+     "extra": 1,
+     "speech": [
+      0.0,
+      5.04
+     ],
+     "rate": 18.7,
+     "mots": [
+      [
+       "Le",
+       0.0,
+       0.94,
+       0.12
+      ],
+      [
+       "biais",
+       0.94,
+       1.26,
+       0.97
+      ],
+      [
+       "du",
+       1.26,
+       1.42,
+       0.99
+      ],
+      [
+       "jour",
+       1.42,
+       1.54,
+       1.0
+      ],
+      [
+       "est",
+       1.54,
+       1.76,
+       0.99
+      ],
+      [
+       "en",
+       1.76,
+       1.9,
+       1.0
+      ],
+      [
+       "ligne",
+       1.9,
+       2.1,
+       1.0
+      ],
+      [
+       "depuis",
+       2.1,
+       2.48,
+       1.0
+      ],
+      [
+       "7h30.",
+       2.48,
+       3.32,
+       0.8
+      ],
+      [
+       "40",
+       3.66,
+       3.94,
+       0.96
+      ],
+      [
+       "marchés",
+       3.94,
+       4.34,
+       0.98
+      ],
+      [
+       "passés",
+       4.34,
+       4.68,
+       0.95
+      ],
+      [
+       "au",
+       4.68,
+       4.86,
+       0.87
+      ],
+      [
+       "crible.",
+       4.86,
+       5.04,
+       0.64
+      ]
+     ],
+     "clarte": 0.12,
+     "ok": false
+    },
+    {
+     "prise": 4,
+     "file": "fr-05-00-p4.wav",
+     "seconds": 5.52,
+     "compute": 47,
+     "heard": "Le biais du jour est en ligne depuis 7h30, 40 marchés passés au crible.",
+     "wer": 0.118,
+     "extra": 1,
+     "speech": [
+      0.68,
+      5.4
+     ],
+     "rate": 19.9,
+     "mots": [
+      [
+       "Le",
+       0.68,
+       1.14,
+       0.1
+      ],
+      [
+       "biais",
+       1.14,
+       1.5,
+       0.97
+      ],
+      [
+       "du",
+       1.5,
+       1.68,
+       0.99
+      ],
+      [
+       "jour",
+       1.68,
+       1.82,
+       1.0
+      ],
+      [
+       "est",
+       1.82,
+       2.04,
+       0.99
+      ],
+      [
+       "en",
+       2.04,
+       2.16,
+       1.0
+      ],
+      [
+       "ligne",
+       2.16,
+       2.32,
+       1.0
+      ],
+      [
+       "depuis",
+       2.32,
+       2.66,
+       1.0
+      ],
+      [
+       "7h30,",
+       2.66,
+       3.48,
+       0.77
+      ],
+      [
+       "40",
+       4.02,
+       4.26,
+       0.97
+      ],
+      [
+       "marchés",
+       4.26,
+       4.68,
+       0.97
+      ],
+      [
+       "passés",
+       4.68,
+       5.02,
+       0.96
+      ],
+      [
+       "au",
+       5.02,
+       5.18,
+       0.95
+      ],
+      [
+       "crible.",
+       5.18,
+       5.4,
+       0.61
+      ]
+     ],
+     "clarte": 0.1,
+     "ok": false
+    },
+    {
+     "prise": 5,
+     "file": "fr-05-00-p5.wav",
+     "seconds": 5.2,
+     "compute": 46,
+     "heard": "Le biais du jour est en ligne depuis 7h30. 40 marchés passés au crible.",
+     "wer": 0.118,
+     "extra": 1,
+     "speech": [
+      0.0,
+      5.18
+     ],
+     "rate": 18.1,
+     "mots": [
+      [
+       "Le",
+       0.0,
+       0.96,
+       0.13
+      ],
+      [
+       "biais",
+       0.96,
+       1.26,
+       0.97
+      ],
+      [
+       "du",
+       1.26,
+       1.48,
+       0.99
+      ],
+      [
+       "jour",
+       1.48,
+       1.66,
+       1.0
+      ],
+      [
+       "est",
+       1.66,
+       1.88,
+       0.99
+      ],
+      [
+       "en",
+       1.88,
+       2.02,
+       1.0
+      ],
+      [
+       "ligne",
+       2.02,
+       2.22,
+       1.0
+      ],
+      [
+       "depuis",
+       2.22,
+       2.56,
+       1.0
+      ],
+      [
+       "7h30.",
+       2.56,
+       3.48,
+       0.77
+      ],
+      [
+       "40",
+       3.76,
+       4.06,
+       0.97
+      ],
+      [
+       "marchés",
+       4.06,
+       4.46,
+       0.98
+      ],
+      [
+       "passés",
+       4.46,
+       4.78,
+       0.95
+      ],
+      [
+       "au",
+       4.78,
+       4.96,
+       0.93
+      ],
+      [
+       "crible.",
+       4.96,
+       5.18,
+       0.62
+      ]
+     ],
+     "clarte": 0.13,
+     "ok": false
+    },
+    {
+     "prise": 1,
+     "file": "fr-05-00-p1.wav",
+     "seconds": 5.04,
+     "compute": 44,
+     "heard": "Le biais du jour est en ligne depuis 7h30. 40 marchés passés au crible.",
+     "wer": 0.118,
+     "extra": 1,
+     "speech": [
+      0.6,
+      4.96
+     ],
+     "rate": 21.6,
+     "mots": [
+      [
+       "Le",
+       0.6,
+       1.06,
+       0.14
+      ],
+      [
+       "biais",
+       1.06,
+       1.32,
+       0.98
+      ],
+      [
+       "du",
+       1.32,
+       1.48,
+       0.99
+      ],
+      [
+       "jour",
+       1.48,
+       1.6,
+       1.0
+      ],
+      [
+       "est",
+       1.6,
+       1.8,
+       0.99
+      ],
+      [
+       "en",
+       1.8,
+       1.94,
+       1.0
+      ],
+      [
+       "ligne",
+       1.94,
+       2.12,
+       1.0
+      ],
+      [
+       "depuis",
+       2.12,
+       2.52,
+       1.0
+      ],
+      [
+       "7h30.",
+       2.52,
+       3.34,
+       0.73
+      ],
+      [
+       "40",
+       3.6,
+       3.86,
+       0.97
+      ],
+      [
+       "marchés",
+       3.86,
+       4.32,
+       0.98
+      ],
+      [
+       "passés",
+       4.32,
+       4.64,
+       0.92
+      ],
+      [
+       "au",
+       4.64,
+       4.8,
+       0.94
+      ],
+      [
+       "crible.",
+       4.8,
+       4.96,
+       0.65
+      ]
+     ],
+     "clarte": 0.14,
+     "ok": false
+    }
+   ]
+  },
+  "06-00": {
+   "id": "06-00",
+   "bloc": 6,
+   "ton": "net",
+   "text": "Le Biais du jour est en ligne depuis sept heures trente : quarante marchés passés au crible.",
+   "tts": "Le Biais du jour est en ligne depuis sept heures trente : quarante marchés passés au crible.",
+   "prise": {
+    "prise": 1,
+    "file": "fr-06-00-p1.wav",
+    "seconds": 5.12,
+    "compute": 44,
+    "heard": "Le biais du jour est en ligne depuis 7h30. 40 marchés passés au crible.",
+    "wer": 0.0,
+    "extra": 0,
+    "speech": [
+     0.64,
+     5.06
+    ],
+    "rate": 20.8,
+    "mots": [
+     [
+      "Le",
+      0.64,
+      1.1,
+      0.11
+     ],
+     [
+      "biais",
+      1.1,
+      1.42,
+      0.98
+     ],
+     [
+      "du",
+      1.42,
+      1.6,
+      0.99
+     ],
+     [
+      "jour",
+      1.6,
+      1.74,
+      1.0
+     ],
+     [
+      "est",
+      1.74,
+      1.96,
+      0.99
+     ],
+     [
+      "en",
+      1.96,
+      2.08,
+      1.0
+     ],
+     [
+      "ligne",
+      2.08,
+      2.28,
+      1.0
+     ],
+     [
+      "depuis",
+      2.28,
+      2.58,
+      1.0
+     ],
+     [
+      "7h30.",
+      2.58,
+      3.48,
+      0.93
+     ],
+     [
+      "40",
+      3.72,
+      3.98,
+      0.96
+     ],
+     [
+      "marchés",
+      3.98,
+      4.38,
+      0.98
+     ],
+     [
+      "passés",
+      4.38,
+      4.72,
+      0.94
+     ],
+     [
+      "au",
+      4.72,
+      4.88,
+      0.92
+     ],
+     [
+      "crible.",
+      4.88,
+      5.06,
+      0.62
+     ]
+    ],
+    "clarte": 0.11,
+    "ok": true
+   },
+   "toutes": [
+    {
+     "prise": 1,
+     "file": "fr-06-00-p1.wav",
+     "seconds": 5.12,
+     "compute": 44,
+     "heard": "Le biais du jour est en ligne depuis 7h30. 40 marchés passés au crible.",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.64,
+      5.06
+     ],
+     "rate": 20.8,
+     "mots": [
+      [
+       "Le",
+       0.64,
+       1.1,
+       0.11
+      ],
+      [
+       "biais",
+       1.1,
+       1.42,
+       0.98
+      ],
+      [
+       "du",
+       1.42,
+       1.6,
+       0.99
+      ],
+      [
+       "jour",
+       1.6,
+       1.74,
+       1.0
+      ],
+      [
+       "est",
+       1.74,
+       1.96,
+       0.99
+      ],
+      [
+       "en",
+       1.96,
+       2.08,
+       1.0
+      ],
+      [
+       "ligne",
+       2.08,
+       2.28,
+       1.0
+      ],
+      [
+       "depuis",
+       2.28,
+       2.58,
+       1.0
+      ],
+      [
+       "7h30.",
+       2.58,
+       3.48,
+       0.93
+      ],
+      [
+       "40",
+       3.72,
+       3.98,
+       0.96
+      ],
+      [
+       "marchés",
+       3.98,
+       4.38,
+       0.98
+      ],
+      [
+       "passés",
+       4.38,
+       4.72,
+       0.94
+      ],
+      [
+       "au",
+       4.72,
+       4.88,
+       0.92
+      ],
+      [
+       "crible.",
+       4.88,
+       5.06,
+       0.62
+      ]
+     ],
+     "clarte": 0.11,
+     "ok": true
+    }
+   ]
+  },
+  "07-00": {
+   "id": "07-00",
+   "bloc": 7,
+   "ton": "net",
+   "text": "Le Biais du jour est en ligne depuis sept heures trente : quarante marchés passés au crible.",
+   "tts": "Le Biais du jour est en ligne depuis sept heures trente : quarante marchés passés au crible.",
+   "prise": {
+    "prise": 1,
+    "file": "fr-07-00-p1.wav",
+    "seconds": 5.84,
+    "compute": 42,
+    "heard": "Le biais du jour est en ligne depuis 7h30, 40 marchés passés au crible.",
+    "wer": 0.0,
+    "extra": 0,
+    "speech": [
+     0.0,
+     5.82
+    ],
+    "rate": 15.8,
+    "mots": [
+     [
+      "Le",
+      0.0,
+      1.22,
+      0.1
+     ],
+     [
+      "biais",
+      1.22,
+      1.58,
+      0.93
+     ],
+     [
+      "du",
+      1.58,
+      1.76,
+      1.0
+     ],
+     [
+      "jour",
+      1.76,
+      1.92,
+      1.0
+     ],
+     [
+      "est",
+      1.92,
+      2.16,
+      0.99
+     ],
+     [
+      "en",
+      2.16,
+      2.28,
+      1.0
+     ],
+     [
+      "ligne",
+      2.28,
+      2.66,
+      0.99
+     ],
+     [
+      "depuis",
+      2.66,
+      3.16,
+      0.92
+     ],
+     [
+      "7h30,",
+      3.16,
+      4.14,
+      0.91
+     ],
+     [
+      "40",
+      4.46,
+      4.66,
+      0.93
+     ],
+     [
+      "marchés",
+      4.66,
+      5.06,
+      0.97
+     ],
+     [
+      "passés",
+      5.06,
+      5.42,
+      0.96
+     ],
+     [
+      "au",
+      5.42,
+      5.6,
+      0.92
+     ],
+     [
+      "crible.",
+      5.6,
+      5.82,
+      0.57
+     ]
+    ],
+    "clarte": 0.1,
+    "ok": true
+   },
+   "toutes": [
+    {
+     "prise": 1,
+     "file": "fr-07-00-p1.wav",
+     "seconds": 5.84,
+     "compute": 42,
+     "heard": "Le biais du jour est en ligne depuis 7h30, 40 marchés passés au crible.",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      5.82
+     ],
+     "rate": 15.8,
+     "mots": [
+      [
+       "Le",
+       0.0,
+       1.22,
+       0.1
+      ],
+      [
+       "biais",
+       1.22,
+       1.58,
+       0.93
+      ],
+      [
+       "du",
+       1.58,
+       1.76,
+       1.0
+      ],
+      [
+       "jour",
+       1.76,
+       1.92,
+       1.0
+      ],
+      [
+       "est",
+       1.92,
+       2.16,
+       0.99
+      ],
+      [
+       "en",
+       2.16,
+       2.28,
+       1.0
+      ],
+      [
+       "ligne",
+       2.28,
+       2.66,
+       0.99
+      ],
+      [
+       "depuis",
+       2.66,
+       3.16,
+       0.92
+      ],
+      [
+       "7h30,",
+       3.16,
+       4.14,
+       0.91
+      ],
+      [
+       "40",
+       4.46,
+       4.66,
+       0.93
+      ],
+      [
+       "marchés",
+       4.66,
+       5.06,
+       0.97
+      ],
+      [
+       "passés",
+       5.06,
+       5.42,
+       0.96
+      ],
+      [
+       "au",
+       5.42,
+       5.6,
+       0.92
+      ],
+      [
+       "crible.",
+       5.6,
+       5.82,
+       0.57
+      ]
+     ],
+     "clarte": 0.1,
+     "ok": true
+    }
+   ]
+  },
+  "08-00": {
+   "id": "08-00",
+   "bloc": 8,
+   "ton": "net",
+   "text": "Le Biais du jour est en ligne depuis une demi-heure : quarante marchés passés au crible.",
+   "tts": "Le Biais du jour est en ligne depuis une demi-heure : quarante marchés passés au crible.",
+   "prise": {
+    "prise": 1,
+    "file": "fr-08-00-p1.wav",
+    "seconds": 5.44,
+    "compute": 39,
+    "heard": "Le biais du jour est en ligne depuis une demi-heure, 40 marchés passés au crible.",
+    "wer": 0.0,
+    "extra": 0,
+    "speech": [
+     0.72,
+     5.36
+    ],
+    "rate": 19.0,
+    "mots": [
+     [
+      "Le",
+      0.72,
+      1.16,
+      0.15
+     ],
+     [
+      "biais",
+      1.16,
+      1.46,
+      0.99
+     ],
+     [
+      "du",
+      1.46,
+      1.62,
+      0.99
+     ],
+     [
+      "jour",
+      1.62,
+      1.74,
+      1.0
+     ],
+     [
+      "est",
+      1.74,
+      1.96,
+      0.99
+     ],
+     [
+      "en",
+      1.96,
+      2.08,
+      1.0
+     ],
+     [
+      "ligne",
+      2.08,
+      2.3,
+      1.0
+     ],
+     [
+      "depuis",
+      2.3,
+      2.64,
+      1.0
+     ],
+     [
+      "une",
+      2.64,
+      2.88,
+      0.9
+     ],
+     [
+      "demi",
+      2.88,
+      3.1,
+      0.89
+     ],
+     [
+      "-heure,",
+      3.1,
+      3.54,
+      0.94
+     ],
+     [
+      "40",
+      4.0,
+      4.2,
+      0.91
+     ],
+     [
+      "marchés",
+      4.2,
+      4.62,
+      0.97
+     ],
+     [
+      "passés",
+      4.62,
+      4.96,
+      0.93
+     ],
+     [
+      "au",
+      4.96,
+      5.14,
+      0.93
+     ],
+     [
+      "crible.",
+      5.14,
+      5.36,
+      0.65
+     ]
+    ],
+    "clarte": 0.15,
+    "ok": true
+   },
+   "toutes": [
+    {
+     "prise": 1,
+     "file": "fr-08-00-p1.wav",
+     "seconds": 5.44,
+     "compute": 39,
+     "heard": "Le biais du jour est en ligne depuis une demi-heure, 40 marchés passés au crible.",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.72,
+      5.36
+     ],
+     "rate": 19.0,
+     "mots": [
+      [
+       "Le",
+       0.72,
+       1.16,
+       0.15
+      ],
+      [
+       "biais",
+       1.16,
+       1.46,
+       0.99
+      ],
+      [
+       "du",
+       1.46,
+       1.62,
+       0.99
+      ],
+      [
+       "jour",
+       1.62,
+       1.74,
+       1.0
+      ],
+      [
+       "est",
+       1.74,
+       1.96,
+       0.99
+      ],
+      [
+       "en",
+       1.96,
+       2.08,
+       1.0
+      ],
+      [
+       "ligne",
+       2.08,
+       2.3,
+       1.0
+      ],
+      [
+       "depuis",
+       2.3,
+       2.64,
+       1.0
+      ],
+      [
+       "une",
+       2.64,
+       2.88,
+       0.9
+      ],
+      [
+       "demi",
+       2.88,
+       3.1,
+       0.89
+      ],
+      [
+       "-heure,",
+       3.1,
+       3.54,
+       0.94
+      ],
+      [
+       "40",
+       4.0,
+       4.2,
+       0.91
+      ],
+      [
+       "marchés",
+       4.2,
+       4.62,
+       0.97
+      ],
+      [
+       "passés",
+       4.62,
+       4.96,
+       0.93
+      ],
+      [
+       "au",
+       4.96,
+       5.14,
+       0.93
+      ],
+      [
+       "crible.",
+       5.14,
+       5.36,
+       0.65
+      ]
+     ],
+     "clarte": 0.15,
+     "ok": true
+    }
+   ]
+  },
+  "09-00": {
+   "id": "09-00",
+   "bloc": 9,
+   "ton": "net",
+   "text": "Le Biais du jour est en ligne depuis une demi-heure : quarante marchés passés au crible.",
+   "tts": "Le Biais du jour est en ligne depuis une demi-heure : quarante marchés passés au crible.",
+   "prise": {
+    "prise": 1,
+    "file": "fr-09-00-p1.wav",
+    "seconds": 5.04,
+    "compute": 37,
+    "heard": "Le biais du jour est en ligne depuis une demi-heure, 40 marchés passés au crible.",
+    "wer": 0.0,
+    "extra": 0,
+    "speech": [
+     0.74,
+     5.02
+    ],
+    "rate": 20.6,
+    "mots": [
+     [
+      "Le",
+      0.74,
+      1.14,
+      0.13
+     ],
+     [
+      "biais",
+      1.14,
+      1.48,
+      0.99
+     ],
+     [
+      "du",
+      1.48,
+      1.6,
+      0.99
+     ],
+     [
+      "jour",
+      1.6,
+      1.72,
+      1.0
+     ],
+     [
+      "est",
+      1.72,
+      1.92,
+      0.99
+     ],
+     [
+      "en",
+      1.92,
+      2.02,
+      1.0
+     ],
+     [
+      "ligne",
+      2.02,
+      2.16,
+      1.0
+     ],
+     [
+      "depuis",
+      2.16,
+      2.48,
+      1.0
+     ],
+     [
+      "une",
+      2.48,
+      2.74,
+      0.88
+     ],
+     [
+      "demi",
+      2.74,
+      2.94,
+      0.89
+     ],
+     [
+      "-heure,",
+      2.94,
+      3.38,
+      0.95
+     ],
+     [
+      "40",
+      3.7,
+      3.84,
+      0.86
+     ],
+     [
+      "marchés",
+      3.84,
+      4.32,
+      0.98
+     ],
+     [
+      "passés",
+      4.32,
+      4.64,
+      0.94
+     ],
+     [
+      "au",
+      4.64,
+      4.82,
+      0.95
+     ],
+     [
+      "crible.",
+      4.82,
+      5.02,
+      0.63
+     ]
+    ],
+    "clarte": 0.13,
+    "ok": true
+   },
+   "toutes": [
+    {
+     "prise": 1,
+     "file": "fr-09-00-p1.wav",
+     "seconds": 5.04,
+     "compute": 37,
+     "heard": "Le biais du jour est en ligne depuis une demi-heure, 40 marchés passés au crible.",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.74,
+      5.02
+     ],
+     "rate": 20.6,
+     "mots": [
+      [
+       "Le",
+       0.74,
+       1.14,
+       0.13
+      ],
+      [
+       "biais",
+       1.14,
+       1.48,
+       0.99
+      ],
+      [
+       "du",
+       1.48,
+       1.6,
+       0.99
+      ],
+      [
+       "jour",
+       1.6,
+       1.72,
+       1.0
+      ],
+      [
+       "est",
+       1.72,
+       1.92,
+       0.99
+      ],
+      [
+       "en",
+       1.92,
+       2.02,
+       1.0
+      ],
+      [
+       "ligne",
+       2.02,
+       2.16,
+       1.0
+      ],
+      [
+       "depuis",
+       2.16,
+       2.48,
+       1.0
+      ],
+      [
+       "une",
+       2.48,
+       2.74,
+       0.88
+      ],
+      [
+       "demi",
+       2.74,
+       2.94,
+       0.89
+      ],
+      [
+       "-heure,",
+       2.94,
+       3.38,
+       0.95
+      ],
+      [
+       "40",
+       3.7,
+       3.84,
+       0.86
+      ],
+      [
+       "marchés",
+       3.84,
+       4.32,
+       0.98
+      ],
+      [
+       "passés",
+       4.32,
+       4.64,
+       0.94
+      ],
+      [
+       "au",
+       4.64,
+       4.82,
+       0.95
+      ],
+      [
+       "crible.",
+       4.82,
+       5.02,
+       0.63
+      ]
+     ],
+     "clarte": 0.13,
+     "ok": true
+    }
+   ]
+  },
+  "10-00": {
+   "id": "10-00",
+   "bloc": 10,
+   "ton": "net",
+   "text": "Le Biais du jour est en ligne depuis 7 h 30 : quarante marchés passés au crible.",
+   "tts": "Le Biais du jour est en ligne depuis 7 h 30 : quarante marchés passés au crible.",
+   "prise": {
+    "prise": 1,
+    "file": "fr-10-00-p1.wav",
+    "seconds": 5.44,
+    "compute": 36,
+    "heard": "Le biais du jour est en ligne depuis 7h30, 40 marchés passés au crible.",
+    "wer": 0.0,
+    "extra": 0,
+    "speech": [
+     0.76,
+     5.42
+    ],
+    "rate": 17.2,
+    "mots": [
+     [
+      "Le",
+      0.76,
+      1.2,
+      0.14
+     ],
+     [
+      "biais",
+      1.2,
+      1.54,
+      0.98
+     ],
+     [
+      "du",
+      1.54,
+      1.76,
+      0.99
+     ],
+     [
+      "jour",
+      1.76,
+      1.96,
+      1.0
+     ],
+     [
+      "est",
+      1.96,
+      2.18,
+      0.99
+     ],
+     [
+      "en",
+      2.18,
+      2.3,
+      1.0
+     ],
+     [
+      "ligne",
+      2.3,
+      2.5,
+      1.0
+     ],
+     [
+      "depuis",
+      2.5,
+      2.84,
+      1.0
+     ],
+     [
+      "7h30,",
+      2.84,
+      3.76,
+      0.95
+     ],
+     [
+      "40",
+      4.18,
+      4.34,
+      0.94
+     ],
+     [
+      "marchés",
+      4.34,
+      4.74,
+      0.97
+     ],
+     [
+      "passés",
+      4.74,
+      5.04,
+      0.96
+     ],
+     [
+      "au",
+      5.04,
+      5.2,
+      0.95
+     ],
+     [
+      "crible.",
+      5.2,
+      5.42,
+      0.55
+     ]
+    ],
+    "clarte": 0.14,
+    "ok": true
+   },
+   "toutes": [
+    {
+     "prise": 1,
+     "file": "fr-10-00-p1.wav",
+     "seconds": 5.44,
+     "compute": 36,
+     "heard": "Le biais du jour est en ligne depuis 7h30, 40 marchés passés au crible.",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.76,
+      5.42
+     ],
+     "rate": 17.2,
+     "mots": [
+      [
+       "Le",
+       0.76,
+       1.2,
+       0.14
+      ],
+      [
+       "biais",
+       1.2,
+       1.54,
+       0.98
+      ],
+      [
+       "du",
+       1.54,
+       1.76,
+       0.99
+      ],
+      [
+       "jour",
+       1.76,
+       1.96,
+       1.0
+      ],
+      [
+       "est",
+       1.96,
+       2.18,
+       0.99
+      ],
+      [
+       "en",
+       2.18,
+       2.3,
+       1.0
+      ],
+      [
+       "ligne",
+       2.3,
+       2.5,
+       1.0
+      ],
+      [
+       "depuis",
+       2.5,
+       2.84,
+       1.0
+      ],
+      [
+       "7h30,",
+       2.84,
+       3.76,
+       0.95
+      ],
+      [
+       "40",
+       4.18,
+       4.34,
+       0.94
+      ],
+      [
+       "marchés",
+       4.34,
+       4.74,
+       0.97
+      ],
+      [
+       "passés",
+       4.74,
+       5.04,
+       0.96
+      ],
+      [
+       "au",
+       5.04,
+       5.2,
+       0.95
+      ],
+      [
+       "crible.",
+       5.2,
+       5.42,
+       0.55
+      ]
+     ],
+     "clarte": 0.14,
+     "ok": true
+    }
+   ]
+  },
+  "11-00": {
+   "id": "11-00",
+   "bloc": 11,
+   "ton": "net",
+   "text": "Le Biais du jour est en ligne depuis 7 h 30 : quarante marchés passés au crible.",
+   "tts": "Le Biais du jour est en ligne depuis 7 h 30 : quarante marchés passés au crible.",
+   "prise": {
+    "prise": 1,
+    "file": "fr-11-00-p1.wav",
+    "seconds": 5.36,
+    "compute": 35,
+    "heard": "Le biais du jour est en ligne depuis 7h30, 40 marchés passés au crible.",
+    "wer": 0.0,
+    "extra": 0,
+    "speech": [
+     0.6,
+     5.24
+    ],
+    "rate": 17.2,
+    "mots": [
+     [
+      "Le",
+      0.6,
+      1.04,
+      0.13
+     ],
+     [
+      "biais",
+      1.04,
+      1.36,
+      0.98
+     ],
+     [
+      "du",
+      1.36,
+      1.52,
+      1.0
+     ],
+     [
+      "jour",
+      1.52,
+      1.66,
+      1.0
+     ],
+     [
+      "est",
+      1.66,
+      1.88,
+      0.98
+     ],
+     [
+      "en",
+      1.88,
+      2.0,
+      1.0
+     ],
+     [
+      "ligne",
+      2.0,
+      2.22,
+      1.0
+     ],
+     [
+      "depuis",
+      2.22,
+      2.6,
+      0.98
+     ],
+     [
+      "7h30,",
+      2.6,
+      3.54,
+      0.93
+     ],
+     [
+      "40",
+      3.92,
+      4.14,
+      0.95
+     ],
+     [
+      "marchés",
+      4.14,
+      4.56,
+      0.97
+     ],
+     [
+      "passés",
+      4.56,
+      4.88,
+      0.92
+     ],
+     [
+      "au",
+      4.88,
+      5.06,
+      0.94
+     ],
+     [
+      "crible.",
+      5.06,
+      5.24,
+      0.6
+     ]
+    ],
+    "clarte": 0.13,
+    "ok": true
+   },
+   "toutes": [
+    {
+     "prise": 1,
+     "file": "fr-11-00-p1.wav",
+     "seconds": 5.36,
+     "compute": 35,
+     "heard": "Le biais du jour est en ligne depuis 7h30, 40 marchés passés au crible.",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.6,
+      5.24
+     ],
+     "rate": 17.2,
+     "mots": [
+      [
+       "Le",
+       0.6,
+       1.04,
+       0.13
+      ],
+      [
+       "biais",
+       1.04,
+       1.36,
+       0.98
+      ],
+      [
+       "du",
+       1.36,
+       1.52,
+       1.0
+      ],
+      [
+       "jour",
+       1.52,
+       1.66,
+       1.0
+      ],
+      [
+       "est",
+       1.66,
+       1.88,
+       0.98
+      ],
+      [
+       "en",
+       1.88,
+       2.0,
+       1.0
+      ],
+      [
+       "ligne",
+       2.0,
+       2.22,
+       1.0
+      ],
+      [
+       "depuis",
+       2.22,
+       2.6,
+       0.98
+      ],
+      [
+       "7h30,",
+       2.6,
+       3.54,
+       0.93
+      ],
+      [
+       "40",
+       3.92,
+       4.14,
+       0.95
+      ],
+      [
+       "marchés",
+       4.14,
+       4.56,
+       0.97
+      ],
+      [
+       "passés",
+       4.56,
+       4.88,
+       0.92
+      ],
+      [
+       "au",
+       4.88,
+       5.06,
+       0.94
+      ],
+      [
+       "crible.",
+       5.06,
+       5.24,
+       0.6
+      ]
+     ],
+     "clarte": 0.13,
+     "ok": true
+    }
+   ]
+  },
+  "12-00": {
+   "id": "12-00",
+   "bloc": 12,
+   "ton": "pose",
+   "text": "Le rendez-vous de la semaine : mercredi, huit heures, l'inflation au Royaume-Uni.",
+   "tts": "Le rendez-vous de la semaine : mercredi, huit heures, l'inflation au Royaume-Uni.",
+   "prise": {
+    "prise": 1,
+    "file": "fr-12-00-p1.wav",
+    "seconds": 4.48,
+    "compute": 29,
+    "heard": "Le rendez-vous de la semaine, mercredi, 8h, l'inflation au Royaume-Uni.",
+    "wer": 0.0,
+    "extra": 0,
+    "speech": [
+     0.0,
+     4.06
+    ],
+    "rate": 20.0,
+    "mots": [
+     [
+      "Le",
+      0.0,
+      0.42,
+      0.77
+     ],
+     [
+      "rendez",
+      0.42,
+      0.62,
+      0.99
+     ],
+     [
+      "-vous",
+      0.62,
+      0.72,
+      0.99
+     ],
+     [
+      "de",
+      0.72,
+      0.86,
+      1.0
+     ],
+     [
+      "la",
+      0.86,
+      1.0,
+      1.0
+     ],
+     [
+      "semaine,",
+      1.0,
+      1.28,
+      1.0
+     ],
+     [
+      "mercredi,",
+      1.66,
+      2.28,
+      0.98
+     ],
+     [
+      "8h,",
+      2.4,
+      2.86,
+      0.77
+     ],
+     [
+      "l",
+      3.04,
+      3.12,
+      0.93
+     ],
+     [
+      "'inflation",
+      3.12,
+      3.46,
+      0.99
+     ],
+     [
+      "au",
+      3.46,
+      3.62,
+      0.99
+     ],
+     [
+      "Royaume",
+      3.62,
+      3.9,
+      1.0
+     ],
+     [
+      "-Uni.",
+      3.9,
+      4.06,
+      0.98
+     ]
+    ],
+    "clarte": 0.77,
+    "ok": true
+   },
+   "toutes": [
+    {
+     "prise": 1,
+     "file": "fr-12-00-p1.wav",
+     "seconds": 4.48,
+     "compute": 29,
+     "heard": "Le rendez-vous de la semaine, mercredi, 8h, l'inflation au Royaume-Uni.",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      4.06
+     ],
+     "rate": 20.0,
+     "mots": [
+      [
+       "Le",
+       0.0,
+       0.42,
+       0.77
+      ],
+      [
+       "rendez",
+       0.42,
+       0.62,
+       0.99
+      ],
+      [
+       "-vous",
+       0.62,
+       0.72,
+       0.99
+      ],
+      [
+       "de",
+       0.72,
+       0.86,
+       1.0
+      ],
+      [
+       "la",
+       0.86,
+       1.0,
+       1.0
+      ],
+      [
+       "semaine,",
+       1.0,
+       1.28,
+       1.0
+      ],
+      [
+       "mercredi,",
+       1.66,
+       2.28,
+       0.98
+      ],
+      [
+       "8h,",
+       2.4,
+       2.86,
+       0.77
+      ],
+      [
+       "l",
+       3.04,
+       3.12,
+       0.93
+      ],
+      [
+       "'inflation",
+       3.12,
+       3.46,
+       0.99
+      ],
+      [
+       "au",
+       3.46,
+       3.62,
+       0.99
+      ],
+      [
+       "Royaume",
+       3.62,
+       3.9,
+       1.0
+      ],
+      [
+       "-Uni.",
+       3.9,
+       4.06,
+       0.98
+      ]
+     ],
+     "clarte": 0.77,
+     "ok": true
+    }
+   ]
+  },
+  "13-00": {
+   "id": "13-00",
+   "bloc": 13,
+   "ton": "pose",
+   "text": "Le rendez-vous de la semaine : mercredi, huit heures, l'inflation au Royaume-Uni.",
+   "tts": "Le rendez-vous de la semaine : mercredi, huit heures, l'inflation au Royaume-Uni.",
+   "prise": {
+    "prise": 1,
+    "file": "fr-13-00-p1.wav",
+    "seconds": 4.32,
+    "compute": 28,
+    "heard": "Le rendez-vous de la semaine, mercredi 8h, l'inflation au Royaume-Uni.",
+    "wer": 0.0,
+    "extra": 0,
+    "speech": [
+     0.0,
+     4.18
+    ],
+    "rate": 19.4,
+    "mots": [
+     [
+      "Le",
+      0.0,
+      0.64,
+      0.65
+     ],
+     [
+      "rendez",
+      0.64,
+      0.86,
+      0.96
+     ],
+     [
+      "-vous",
+      0.86,
+      0.96,
+      0.99
+     ],
+     [
+      "de",
+      0.96,
+      1.08,
+      1.0
+     ],
+     [
+      "la",
+      1.08,
+      1.18,
+      1.0
+     ],
+     [
+      "semaine,",
+      1.18,
+      1.62,
+      1.0
+     ],
+     [
+      "mercredi",
+      2.02,
+      2.44,
+      0.98
+     ],
+     [
+      "8h,",
+      2.44,
+      2.96,
+      0.71
+     ],
+     [
+      "l",
+      3.14,
+      3.24,
+      0.96
+     ],
+     [
+      "'inflation",
+      3.24,
+      3.62,
+      1.0
+     ],
+     [
+      "au",
+      3.62,
+      3.82,
+      0.98
+     ],
+     [
+      "Royaume",
+      3.82,
+      4.04,
+      1.0
+     ],
+     [
+      "-Uni.",
+      4.04,
+      4.18,
+      0.97
+     ]
+    ],
+    "clarte": 0.65,
+    "ok": true
+   },
+   "toutes": [
+    {
+     "prise": 1,
+     "file": "fr-13-00-p1.wav",
+     "seconds": 4.32,
+     "compute": 28,
+     "heard": "Le rendez-vous de la semaine, mercredi 8h, l'inflation au Royaume-Uni.",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      4.18
+     ],
+     "rate": 19.4,
+     "mots": [
+      [
+       "Le",
+       0.0,
+       0.64,
+       0.65
+      ],
+      [
+       "rendez",
+       0.64,
+       0.86,
+       0.96
+      ],
+      [
+       "-vous",
+       0.86,
+       0.96,
+       0.99
+      ],
+      [
+       "de",
+       0.96,
+       1.08,
+       1.0
+      ],
+      [
+       "la",
+       1.08,
+       1.18,
+       1.0
+      ],
+      [
+       "semaine,",
+       1.18,
+       1.62,
+       1.0
+      ],
+      [
+       "mercredi",
+       2.02,
+       2.44,
+       0.98
+      ],
+      [
+       "8h,",
+       2.44,
+       2.96,
+       0.71
+      ],
+      [
+       "l",
+       3.14,
+       3.24,
+       0.96
+      ],
+      [
+       "'inflation",
+       3.24,
+       3.62,
+       1.0
+      ],
+      [
+       "au",
+       3.62,
+       3.82,
+       0.98
+      ],
+      [
+       "Royaume",
+       3.82,
+       4.04,
+       1.0
+      ],
+      [
+       "-Uni.",
+       4.04,
+       4.18,
+       0.97
+      ]
+     ],
+     "clarte": 0.65,
+     "ok": true
+    }
+   ]
+  },
+  "14-00": {
+   "id": "14-00",
+   "bloc": 14,
+   "ton": "pose",
+   "text": "Le rendez-vous de la semaine : mercredi à huit heures, l'inflation au Royaume-Uni.",
+   "tts": "Le rendez-vous de la semaine : mercredi à huit heures, l'inflation au Royaume-Uni.",
+   "prise": {
+    "prise": 1,
+    "file": "fr-14-00-p1.wav",
+    "seconds": 3.6,
+    "compute": 32,
+    "heard": "Le rendez-vous de la semaine, mercredi à 8h, l'inflation au Royaume-Uni.",
+    "wer": 0.0,
+    "extra": 0,
+    "speech": [
+     0.0,
+     3.58
+    ],
+    "rate": 22.9,
+    "mots": [
+     [
+      "Le",
+      0.0,
+      0.28,
+      0.88
+     ],
+     [
+      "rendez",
+      0.28,
+      0.48,
+      0.98
+     ],
+     [
+      "-vous",
+      0.48,
+      0.58,
+      0.98
+     ],
+     [
+      "de",
+      0.58,
+      0.7,
+      1.0
+     ],
+     [
+      "la",
+      0.7,
+      0.8,
+      1.0
+     ],
+     [
+      "semaine,",
+      0.8,
+      1.14,
+      1.0
+     ],
+     [
+      "mercredi",
+      1.48,
+      1.8,
+      0.99
+     ],
+     [
+      "à",
+      1.8,
+      1.86,
+      0.98
+     ],
+     [
+      "8h,",
+      1.86,
+      2.26,
+      0.8
+     ],
+     [
+      "l",
+      2.6,
+      2.7,
+      0.92
+     ],
+     [
+      "'inflation",
+      2.7,
+      3.06,
+      0.99
+     ],
+     [
+      "au",
+      3.06,
+      3.22,
+      0.99
+     ],
+     [
+      "Royaume",
+      3.22,
+      3.42,
+      1.0
+     ],
+     [
+      "-Uni.",
+      3.42,
+      3.58,
+      0.97
+     ]
+    ],
+    "clarte": 0.8,
+    "ok": true
+   },
+   "toutes": [
+    {
+     "prise": 1,
+     "file": "fr-14-00-p1.wav",
+     "seconds": 3.6,
+     "compute": 32,
+     "heard": "Le rendez-vous de la semaine, mercredi à 8h, l'inflation au Royaume-Uni.",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      3.58
+     ],
+     "rate": 22.9,
+     "mots": [
+      [
+       "Le",
+       0.0,
+       0.28,
+       0.88
+      ],
+      [
+       "rendez",
+       0.28,
+       0.48,
+       0.98
+      ],
+      [
+       "-vous",
+       0.48,
+       0.58,
+       0.98
+      ],
+      [
+       "de",
+       0.58,
+       0.7,
+       1.0
+      ],
+      [
+       "la",
+       0.7,
+       0.8,
+       1.0
+      ],
+      [
+       "semaine,",
+       0.8,
+       1.14,
+       1.0
+      ],
+      [
+       "mercredi",
+       1.48,
+       1.8,
+       0.99
+      ],
+      [
+       "à",
+       1.8,
+       1.86,
+       0.98
+      ],
+      [
+       "8h,",
+       1.86,
+       2.26,
+       0.8
+      ],
+      [
+       "l",
+       2.6,
+       2.7,
+       0.92
+      ],
+      [
+       "'inflation",
+       2.7,
+       3.06,
+       0.99
+      ],
+      [
+       "au",
+       3.06,
+       3.22,
+       0.99
+      ],
+      [
+       "Royaume",
+       3.22,
+       3.42,
+       1.0
+      ],
+      [
+       "-Uni.",
+       3.42,
+       3.58,
+       0.97
+      ]
+     ],
+     "clarte": 0.8,
+     "ok": true
+    }
+   ]
+  },
+  "15-00": {
+   "id": "15-00",
+   "bloc": 15,
+   "ton": "pose",
+   "text": "Le rendez-vous de la semaine : mercredi à huit heures, l'inflation au Royaume-Uni.",
+   "tts": "Le rendez-vous de la semaine : mercredi à huit heures, l'inflation au Royaume-Uni.",
+   "prise": {
+    "prise": 1,
+    "file": "fr-15-00-p1.wav",
+    "seconds": 3.92,
+    "compute": 34,
+    "heard": "Le rendez-vous de la semaine, mercredi à 8h, l'inflation au Royaume-Uni.",
+    "wer": 0.0,
+    "extra": 0,
+    "speech": [
+     0.0,
+     3.84
+    ],
+    "rate": 21.4,
+    "mots": [
+     [
+      "Le",
+      0.0,
+      0.38,
+      0.72
+     ],
+     [
+      "rendez",
+      0.38,
+      0.58,
+      0.96
+     ],
+     [
+      "-vous",
+      0.58,
+      0.7,
+      0.98
+     ],
+     [
+      "de",
+      0.7,
+      0.84,
+      1.0
+     ],
+     [
+      "la",
+      0.84,
+      1.0,
+      1.0
+     ],
+     [
+      "semaine,",
+      1.0,
+      1.34,
+      1.0
+     ],
+     [
+      "mercredi",
+      1.58,
+      1.98,
+      0.98
+     ],
+     [
+      "à",
+      1.98,
+      2.06,
+      0.98
+     ],
+     [
+      "8h,",
+      2.06,
+      2.54,
+      0.78
+     ],
+     [
+      "l",
+      2.86,
+      2.98,
+      0.93
+     ],
+     [
+      "'inflation",
+      2.98,
+      3.34,
+      1.0
+     ],
+     [
+      "au",
+      3.34,
+      3.48,
+      0.99
+     ],
+     [
+      "Royaume",
+      3.48,
+      3.72,
+      0.99
+     ],
+     [
+      "-Uni.",
+      3.72,
+      3.84,
+      0.97
+     ]
+    ],
+    "clarte": 0.72,
+    "ok": true
+   },
+   "toutes": [
+    {
+     "prise": 1,
+     "file": "fr-15-00-p1.wav",
+     "seconds": 3.92,
+     "compute": 34,
+     "heard": "Le rendez-vous de la semaine, mercredi à 8h, l'inflation au Royaume-Uni.",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      3.84
+     ],
+     "rate": 21.4,
+     "mots": [
+      [
+       "Le",
+       0.0,
+       0.38,
+       0.72
+      ],
+      [
+       "rendez",
+       0.38,
+       0.58,
+       0.96
+      ],
+      [
+       "-vous",
+       0.58,
+       0.7,
+       0.98
+      ],
+      [
+       "de",
+       0.7,
+       0.84,
+       1.0
+      ],
+      [
+       "la",
+       0.84,
+       1.0,
+       1.0
+      ],
+      [
+       "semaine,",
+       1.0,
+       1.34,
+       1.0
+      ],
+      [
+       "mercredi",
+       1.58,
+       1.98,
+       0.98
+      ],
+      [
+       "à",
+       1.98,
+       2.06,
+       0.98
+      ],
+      [
+       "8h,",
+       2.06,
+       2.54,
+       0.78
+      ],
+      [
+       "l",
+       2.86,
+       2.98,
+       0.93
+      ],
+      [
+       "'inflation",
+       2.98,
+       3.34,
+       1.0
+      ],
+      [
+       "au",
+       3.34,
+       3.48,
+       0.99
+      ],
+      [
+       "Royaume",
+       3.48,
+       3.72,
+       0.99
+      ],
+      [
+       "-Uni.",
+       3.72,
+       3.84,
+       0.97
+      ]
+     ],
+     "clarte": 0.72,
+     "ok": true
+    }
+   ]
+  },
+  "16-00": {
+   "id": "16-00",
+   "bloc": 16,
+   "ton": "pose",
+   "text": "Le rendez-vous de la semaine : mercredi, à huit heures du matin, l'inflation au Royaume-Uni.",
+   "tts": "Le rendez-vous de la semaine : mercredi, à huit heures du matin, l'inflation au Royaume-Uni.",
+   "prise": {
+    "prise": 1,
+    "file": "fr-16-00-p1.wav",
+    "seconds": 4.56,
+    "compute": 40,
+    "heard": "Le rendez-vous de la semaine, mercredi, à 8h du matin, l'inflation au Royaume-Uni.",
+    "wer": 0.0,
+    "extra": 0,
+    "speech": [
+     0.0,
+     4.46
+    ],
+    "rate": 20.6,
+    "mots": [
+     [
+      "Le",
+      0.0,
+      0.36,
+      0.76
+     ],
+     [
+      "rendez",
+      0.36,
+      0.58,
+      0.99
+     ],
+     [
+      "-vous",
+      0.58,
+      0.7,
+      0.99
+     ],
+     [
+      "de",
+      0.7,
+      0.82,
+      1.0
+     ],
+     [
+      "la",
+      0.82,
+      0.94,
+      1.0
+     ],
+     [
+      "semaine,",
+      0.94,
+      1.34,
+      1.0
+     ],
+     [
+      "mercredi,",
+      1.54,
+      2.22,
+      0.99
+     ],
+     [
+      "à",
+      2.38,
+      2.38,
+      1.0
+     ],
+     [
+      "8h",
+      2.38,
+      2.7,
+      0.77
+     ],
+     [
+      "du",
+      2.7,
+      2.88,
+      0.88
+     ],
+     [
+      "matin,",
+      2.88,
+      3.1,
+      1.0
+     ],
+     [
+      "l",
+      3.46,
+      3.54,
+      0.89
+     ],
+     [
+      "'inflation",
+      3.54,
+      3.92,
+      1.0
+     ],
+     [
+      "au",
+      3.92,
+      4.1,
+      0.99
+     ],
+     [
+      "Royaume",
+      4.1,
+      4.36,
+      1.0
+     ],
+     [
+      "-Uni.",
+      4.36,
+      4.46,
+      0.98
+     ]
+    ],
+    "clarte": 0.76,
+    "ok": true
+   },
+   "toutes": [
+    {
+     "prise": 1,
+     "file": "fr-16-00-p1.wav",
+     "seconds": 4.56,
+     "compute": 40,
+     "heard": "Le rendez-vous de la semaine, mercredi, à 8h du matin, l'inflation au Royaume-Uni.",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      4.46
+     ],
+     "rate": 20.6,
+     "mots": [
+      [
+       "Le",
+       0.0,
+       0.36,
+       0.76
+      ],
+      [
+       "rendez",
+       0.36,
+       0.58,
+       0.99
+      ],
+      [
+       "-vous",
+       0.58,
+       0.7,
+       0.99
+      ],
+      [
+       "de",
+       0.7,
+       0.82,
+       1.0
+      ],
+      [
+       "la",
+       0.82,
+       0.94,
+       1.0
+      ],
+      [
+       "semaine,",
+       0.94,
+       1.34,
+       1.0
+      ],
+      [
+       "mercredi,",
+       1.54,
+       2.22,
+       0.99
+      ],
+      [
+       "à",
+       2.38,
+       2.38,
+       1.0
+      ],
+      [
+       "8h",
+       2.38,
+       2.7,
+       0.77
+      ],
+      [
+       "du",
+       2.7,
+       2.88,
+       0.88
+      ],
+      [
+       "matin,",
+       2.88,
+       3.1,
+       1.0
+      ],
+      [
+       "l",
+       3.46,
+       3.54,
+       0.89
+      ],
+      [
+       "'inflation",
+       3.54,
+       3.92,
+       1.0
+      ],
+      [
+       "au",
+       3.92,
+       4.1,
+       0.99
+      ],
+      [
+       "Royaume",
+       4.1,
+       4.36,
+       1.0
+      ],
+      [
+       "-Uni.",
+       4.36,
+       4.46,
+       0.98
+      ]
+     ],
+     "clarte": 0.76,
+     "ok": true
+    }
+   ]
+  },
+  "17-00": {
+   "id": "17-00",
+   "bloc": 17,
+   "ton": "pose",
+   "text": "Le rendez-vous de la semaine : mercredi, à huit heures du matin, l'inflation au Royaume-Uni.",
+   "tts": "Le rendez-vous de la semaine : mercredi, à huit heures du matin, l'inflation au Royaume-Uni.",
+   "prise": {
+    "prise": 1,
+    "file": "fr-17-00-p1.wav",
+    "seconds": 4.48,
+    "compute": 35,
+    "heard": "Le rendez-vous de la semaine, mercredi, à 8h du matin, l'inflation au Royaume-Uni.",
+    "wer": 0.0,
+    "extra": 0,
+    "speech": [
+     0.0,
+     4.36
+    ],
+    "rate": 21.1,
+    "mots": [
+     [
+      "Le",
+      0.0,
+      0.34,
+      0.8
+     ],
+     [
+      "rendez",
+      0.34,
+      0.56,
+      0.98
+     ],
+     [
+      "-vous",
+      0.56,
+      0.68,
+      0.99
+     ],
+     [
+      "de",
+      0.68,
+      0.8,
+      1.0
+     ],
+     [
+      "la",
+      0.8,
+      0.92,
+      1.0
+     ],
+     [
+      "semaine,",
+      0.92,
+      1.24,
+      1.0
+     ],
+     [
+      "mercredi,",
+      1.48,
+      2.02,
+      0.99
+     ],
+     [
+      "à",
+      2.24,
+      2.28,
+      0.99
+     ],
+     [
+      "8h",
+      2.28,
+      2.58,
+      0.73
+     ],
+     [
+      "du",
+      2.58,
+      2.76,
+      0.84
+     ],
+     [
+      "matin,",
+      2.76,
+      2.98,
+      1.0
+     ],
+     [
+      "l",
+      3.36,
+      3.42,
+      0.93
+     ],
+     [
+      "'inflation",
+      3.42,
+      3.78,
+      0.99
+     ],
+     [
+      "au",
+      3.78,
+      3.94,
+      0.99
+     ],
+     [
+      "Royaume",
+      3.94,
+      4.2,
+      1.0
+     ],
+     [
+      "-Uni.",
+      4.2,
+      4.36,
+      0.98
+     ]
+    ],
+    "clarte": 0.73,
+    "ok": true
+   },
+   "toutes": [
+    {
+     "prise": 1,
+     "file": "fr-17-00-p1.wav",
+     "seconds": 4.48,
+     "compute": 35,
+     "heard": "Le rendez-vous de la semaine, mercredi, à 8h du matin, l'inflation au Royaume-Uni.",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      4.36
+     ],
+     "rate": 21.1,
+     "mots": [
+      [
+       "Le",
+       0.0,
+       0.34,
+       0.8
+      ],
+      [
+       "rendez",
+       0.34,
+       0.56,
+       0.98
+      ],
+      [
+       "-vous",
+       0.56,
+       0.68,
+       0.99
+      ],
+      [
+       "de",
+       0.68,
+       0.8,
+       1.0
+      ],
+      [
+       "la",
+       0.8,
+       0.92,
+       1.0
+      ],
+      [
+       "semaine,",
+       0.92,
+       1.24,
+       1.0
+      ],
+      [
+       "mercredi,",
+       1.48,
+       2.02,
+       0.99
+      ],
+      [
+       "à",
+       2.24,
+       2.28,
+       0.99
+      ],
+      [
+       "8h",
+       2.28,
+       2.58,
+       0.73
+      ],
+      [
+       "du",
+       2.58,
+       2.76,
+       0.84
+      ],
+      [
+       "matin,",
+       2.76,
+       2.98,
+       1.0
+      ],
+      [
+       "l",
+       3.36,
+       3.42,
+       0.93
+      ],
+      [
+       "'inflation",
+       3.42,
+       3.78,
+       0.99
+      ],
+      [
+       "au",
+       3.78,
+       3.94,
+       0.99
+      ],
+      [
+       "Royaume",
+       3.94,
+       4.2,
+       1.0
+      ],
+      [
+       "-Uni.",
+       4.2,
+       4.36,
+       0.98
+      ]
+     ],
+     "clarte": 0.73,
+     "ok": true
+    }
+   ]
+  },
+  "18-00": {
+   "id": "18-00",
+   "bloc": 18,
+   "ton": "chaleureux",
+   "text": "Ce matin dans le terminal : le tout premier numéro de MACROARSENAL Times, sorti à sept heures et demie.",
+   "tts": "Ce matin dans le terminal : le tout premier numéro de Macro Arsenal Taïmz, sorti à sept heures et demie.",
+   "prise": {
+    "prise": 4,
+    "file": "fr-18-00-p4.wav",
+    "seconds": 5.52,
+    "compute": 41,
+    "heard": "Ce matin dans le terminal, le tout premier numéro de Macro Arsenal Times, sorti à 7h30.",
+    "wer": 0.105,
+    "extra": 1,
+    "speech": [
+     0.0,
+     5.4
+    ],
+    "rate": 19.3,
+    "mots": [
+     [
+      "Ce",
+      0.0,
+      0.28,
+      0.87
+     ],
+     [
+      "matin",
+      0.28,
+      0.44,
+      1.0
+     ],
+     [
+      "dans",
+      0.44,
+      0.6,
+      0.95
+     ],
+     [
+      "le",
+      0.6,
+      0.82,
+      1.0
+     ],
+     [
+      "terminal,",
+      0.82,
+      1.18,
+      0.96
+     ],
+     [
+      "le",
+      1.66,
+      1.76,
+      0.99
+     ],
+     [
+      "tout",
+      1.76,
+      1.98,
+      0.99
+     ],
+     [
+      "premier",
+      1.98,
+      2.22,
+      0.99
+     ],
+     [
+      "numéro",
+      2.22,
+      2.54,
+      1.0
+     ],
+     [
+      "de",
+      2.54,
+      2.74,
+      0.99
+     ],
+     [
+      "Macro",
+      2.74,
+      3.06,
+      0.78
+     ],
+     [
+      "Arsenal",
+      3.06,
+      3.38,
+      0.91
+     ],
+     [
+      "Times,",
+      3.38,
+      3.88,
+      0.8
+     ],
+     [
+      "sorti",
+      4.52,
+      4.68,
+      0.98
+     ],
+     [
+      "à",
+      4.68,
+      4.86,
+      1.0
+     ],
+     [
+      "7h30.",
+      4.86,
+      5.4,
+      0.84
+     ]
+    ],
+    "clarte": 0.78,
+    "ok": false
+   },
+   "toutes": [
+    {
+     "prise": 2,
+     "file": "fr-18-00-p2.wav",
+     "seconds": 5.12,
+     "compute": 39,
+     "heard": "Ce matin dans le terminal, le tout premier numéro de Macro Arsenal Times, sorti à 7h30.",
+     "wer": 0.105,
+     "extra": 1,
+     "speech": [
+      0.0,
+      5.0
+     ],
+     "rate": 20.8,
+     "mots": [
+      [
+       "Ce",
+       0.0,
+       0.36,
+       0.9
+      ],
+      [
+       "matin",
+       0.36,
+       0.54,
+       1.0
+      ],
+      [
+       "dans",
+       0.54,
+       0.68,
+       0.89
+      ],
+      [
+       "le",
+       0.68,
+       0.88,
+       1.0
+      ],
+      [
+       "terminal,",
+       0.88,
+       1.22,
+       0.99
+      ],
+      [
+       "le",
+       1.64,
+       1.72,
+       0.99
+      ],
+      [
+       "tout",
+       1.72,
+       1.94,
+       0.99
+      ],
+      [
+       "premier",
+       1.94,
+       2.14,
+       0.99
+      ],
+      [
+       "numéro",
+       2.14,
+       2.42,
+       1.0
+      ],
+      [
+       "de",
+       2.42,
+       2.62,
+       0.99
+      ],
+      [
+       "Macro",
+       2.62,
+       2.9,
+       0.63
+      ],
+      [
+       "Arsenal",
+       2.9,
+       3.2,
+       0.91
+      ],
+      [
+       "Times,",
+       3.2,
+       3.7,
+       0.75
+      ],
+      [
+       "sorti",
+       4.2,
+       4.36,
+       0.98
+      ],
+      [
+       "à",
+       4.36,
+       4.52,
+       1.0
+      ],
+      [
+       "7h30.",
+       4.52,
+       5.0,
+       0.82
+      ]
+     ],
+     "clarte": 0.63,
+     "ok": false
+    },
+    {
+     "prise": 3,
+     "file": "fr-18-00-p3.wav",
+     "seconds": 5.04,
+     "compute": 37,
+     "heard": "Ce matin dans le terminal, le tout premier numéro de Macro Arsenal Times, sorti à 7h30.",
+     "wer": 0.105,
+     "extra": 1,
+     "speech": [
+      0.0,
+      4.96
+     ],
+     "rate": 21.0,
+     "mots": [
+      [
+       "Ce",
+       0.0,
+       0.42,
+       0.86
+      ],
+      [
+       "matin",
+       0.42,
+       0.64,
+       1.0
+      ],
+      [
+       "dans",
+       0.64,
+       0.78,
+       0.86
+      ],
+      [
+       "le",
+       0.78,
+       1.0,
+       1.0
+      ],
+      [
+       "terminal,",
+       1.0,
+       1.38,
+       0.95
+      ],
+      [
+       "le",
+       1.78,
+       1.86,
+       0.99
+      ],
+      [
+       "tout",
+       1.86,
+       2.06,
+       0.98
+      ],
+      [
+       "premier",
+       2.06,
+       2.24,
+       0.99
+      ],
+      [
+       "numéro",
+       2.24,
+       2.52,
+       1.0
+      ],
+      [
+       "de",
+       2.52,
+       2.72,
+       0.99
+      ],
+      [
+       "Macro",
+       2.72,
+       2.98,
+       0.83
+      ],
+      [
+       "Arsenal",
+       2.98,
+       3.26,
+       0.94
+      ],
+      [
+       "Times,",
+       3.26,
+       3.7,
+       0.89
+      ],
+      [
+       "sorti",
+       4.2,
+       4.36,
+       0.97
+      ],
+      [
+       "à",
+       4.36,
+       4.52,
+       1.0
+      ],
+      [
+       "7h30.",
+       4.52,
+       4.96,
+       0.86
+      ]
+     ],
+     "clarte": 0.83,
+     "ok": false
+    },
+    {
+     "prise": 4,
+     "file": "fr-18-00-p4.wav",
+     "seconds": 5.52,
+     "compute": 41,
+     "heard": "Ce matin dans le terminal, le tout premier numéro de Macro Arsenal Times, sorti à 7h30.",
+     "wer": 0.105,
+     "extra": 1,
+     "speech": [
+      0.0,
+      5.4
+     ],
+     "rate": 19.3,
+     "mots": [
+      [
+       "Ce",
+       0.0,
+       0.28,
+       0.87
+      ],
+      [
+       "matin",
+       0.28,
+       0.44,
+       1.0
+      ],
+      [
+       "dans",
+       0.44,
+       0.6,
+       0.95
+      ],
+      [
+       "le",
+       0.6,
+       0.82,
+       1.0
+      ],
+      [
+       "terminal,",
+       0.82,
+       1.18,
+       0.96
+      ],
+      [
+       "le",
+       1.66,
+       1.76,
+       0.99
+      ],
+      [
+       "tout",
+       1.76,
+       1.98,
+       0.99
+      ],
+      [
+       "premier",
+       1.98,
+       2.22,
+       0.99
+      ],
+      [
+       "numéro",
+       2.22,
+       2.54,
+       1.0
+      ],
+      [
+       "de",
+       2.54,
+       2.74,
+       0.99
+      ],
+      [
+       "Macro",
+       2.74,
+       3.06,
+       0.78
+      ],
+      [
+       "Arsenal",
+       3.06,
+       3.38,
+       0.91
+      ],
+      [
+       "Times,",
+       3.38,
+       3.88,
+       0.8
+      ],
+      [
+       "sorti",
+       4.52,
+       4.68,
+       0.98
+      ],
+      [
+       "à",
+       4.68,
+       4.86,
+       1.0
+      ],
+      [
+       "7h30.",
+       4.86,
+       5.4,
+       0.84
+      ]
+     ],
+     "clarte": 0.78,
+     "ok": false
+    },
+    {
+     "prise": 5,
+     "file": "fr-18-00-p5.wav",
+     "seconds": 5.12,
+     "compute": 38,
+     "heard": "Ce matin dans le terminal, le tout premier numéro de Macro Arsenal Times, sorti à 7h30.",
+     "wer": 0.105,
+     "extra": 1,
+     "speech": [
+      0.0,
+      5.02
+     ],
+     "rate": 20.7,
+     "mots": [
+      [
+       "Ce",
+       0.0,
+       0.4,
+       0.88
+      ],
+      [
+       "matin",
+       0.4,
+       0.62,
+       1.0
+      ],
+      [
+       "dans",
+       0.62,
+       0.78,
+       0.86
+      ],
+      [
+       "le",
+       0.78,
+       1.0,
+       1.0
+      ],
+      [
+       "terminal,",
+       1.0,
+       1.32,
+       0.97
+      ],
+      [
+       "le",
+       1.82,
+       1.88,
+       0.99
+      ],
+      [
+       "tout",
+       1.88,
+       2.08,
+       0.97
+      ],
+      [
+       "premier",
+       2.08,
+       2.26,
+       0.98
+      ],
+      [
+       "numéro",
+       2.26,
+       2.56,
+       1.0
+      ],
+      [
+       "de",
+       2.56,
+       2.76,
+       0.99
+      ],
+      [
+       "Macro",
+       2.76,
+       3.04,
+       0.71
+      ],
+      [
+       "Arsenal",
+       3.04,
+       3.32,
+       0.8
+      ],
+      [
+       "Times,",
+       3.32,
+       3.74,
+       0.88
+      ],
+      [
+       "sorti",
+       4.24,
+       4.42,
+       0.98
+      ],
+      [
+       "à",
+       4.42,
+       4.58,
+       1.0
+      ],
+      [
+       "7h30.",
+       4.58,
+       5.02,
+       0.87
+      ]
+     ],
+     "clarte": 0.71,
+     "ok": false
+    },
+    {
+     "prise": 1,
+     "file": "fr-18-00-p1.wav",
+     "seconds": 5.12,
+     "compute": 38,
+     "heard": "Ce matin dans le terminal, le tout premier numéro de MACROARSENAL Times sorti à 7h30.",
+     "wer": 0.105,
+     "extra": 1,
+     "speech": [
+      0.0,
+      5.02
+     ],
+     "rate": 20.7,
+     "mots": [
+      [
+       "Ce",
+       0.0,
+       0.38,
+       0.88
+      ],
+      [
+       "matin",
+       0.38,
+       0.62,
+       1.0
+      ],
+      [
+       "dans",
+       0.62,
+       0.78,
+       0.88
+      ],
+      [
+       "le",
+       0.78,
+       1.0,
+       1.0
+      ],
+      [
+       "terminal,",
+       1.0,
+       1.38,
+       0.97
+      ],
+      [
+       "le",
+       1.88,
+       1.94,
+       0.99
+      ],
+      [
+       "tout",
+       1.94,
+       2.16,
+       0.96
+      ],
+      [
+       "premier",
+       2.16,
+       2.32,
+       0.99
+      ],
+      [
+       "numéro",
+       2.32,
+       2.6,
+       1.0
+      ],
+      [
+       "de",
+       2.6,
+       2.8,
+       0.99
+      ],
+      [
+       "MACROARSENAL",
+       2.8,
+       3.58,
+       0.59
+      ],
+      [
+       "Times",
+       3.58,
+       3.96,
+       0.01
+      ],
+      [
+       "sorti",
+       3.96,
+       4.48,
+       0.81
+      ],
+      [
+       "à",
+       4.48,
+       4.6,
+       1.0
+      ],
+      [
+       "7h30.",
+       4.6,
+       5.02,
+       0.88
+      ]
+     ],
+     "clarte": 0.01,
+     "ok": false
+    }
+   ]
+  },
+  "19-00": {
+   "id": "19-00",
+   "bloc": 19,
+   "ton": "chaleureux",
+   "text": "Ce matin dans le terminal : le tout premier numéro de MACROARSENAL Times, sorti à sept heures et demie.",
+   "tts": "Ce matin dans le terminal : le tout premier numéro de Macro Arsenal Taïmz, sorti à sept heures et demie.",
+   "prise": {
+    "prise": 3,
+    "file": "fr-19-00-p3.wav",
+    "seconds": 5.6,
+    "compute": 42,
+    "heard": "Ce matin dans le terminal, le tout premier numéro de MACROARSENAL Times, sorti à 7h30.",
+    "wer": 0.105,
+    "extra": 1,
+    "speech": [
+     0.0,
+     5.44
+    ],
+    "rate": 19.1,
+    "mots": [
+     [
+      "Ce",
+      0.0,
+      0.34,
+      0.86
+     ],
+     [
+      "matin",
+      0.34,
+      0.56,
+      1.0
+     ],
+     [
+      "dans",
+      0.56,
+      0.7,
+      0.9
+     ],
+     [
+      "le",
+      0.7,
+      0.92,
+      1.0
+     ],
+     [
+      "terminal,",
+      0.92,
+      1.28,
+      0.99
+     ],
+     [
+      "le",
+      1.8,
+      1.88,
+      0.99
+     ],
+     [
+      "tout",
+      1.88,
+      2.1,
+      0.98
+     ],
+     [
+      "premier",
+      2.1,
+      2.3,
+      0.99
+     ],
+     [
+      "numéro",
+      2.3,
+      2.62,
+      0.99
+     ],
+     [
+      "de",
+      2.62,
+      2.84,
+      0.99
+     ],
+     [
+      "MACROARSENAL",
+      2.84,
+      3.6,
+      0.59
+     ],
+     [
+      "Times,",
+      3.6,
+      4.02,
+      0.02
+     ],
+     [
+      "sorti",
+      4.48,
+      4.72,
+      0.96
+     ],
+     [
+      "à",
+      4.72,
+      4.94,
+      1.0
+     ],
+     [
+      "7h30.",
+      4.94,
+      5.44,
+      0.88
+     ]
+    ],
+    "clarte": 0.02,
+    "ok": false
+   },
+   "toutes": [
+    {
+     "prise": 2,
+     "file": "fr-19-00-p2.wav",
+     "seconds": 5.44,
+     "compute": 40,
+     "heard": "Ce matin dans le terminal, le tout premier numéro de Macro Arsenal Times, sorti à 7h30.",
+     "wer": 0.105,
+     "extra": 1,
+     "speech": [
+      0.0,
+      5.32
+     ],
+     "rate": 19.5,
+     "mots": [
+      [
+       "Ce",
+       0.0,
+       0.28,
+       0.62
+      ],
+      [
+       "matin",
+       0.28,
+       0.46,
+       1.0
+      ],
+      [
+       "dans",
+       0.46,
+       0.62,
+       0.93
+      ],
+      [
+       "le",
+       0.62,
+       0.84,
+       1.0
+      ],
+      [
+       "terminal,",
+       0.84,
+       1.18,
+       0.92
+      ],
+      [
+       "le",
+       1.82,
+       1.9,
+       0.98
+      ],
+      [
+       "tout",
+       1.9,
+       2.14,
+       0.98
+      ],
+      [
+       "premier",
+       2.14,
+       2.34,
+       0.98
+      ],
+      [
+       "numéro",
+       2.34,
+       2.64,
+       1.0
+      ],
+      [
+       "de",
+       2.64,
+       2.86,
+       0.99
+      ],
+      [
+       "Macro",
+       2.86,
+       3.22,
+       0.8
+      ],
+      [
+       "Arsenal",
+       3.22,
+       3.62,
+       0.96
+      ],
+      [
+       "Times,",
+       3.62,
+       4.06,
+       0.86
+      ],
+      [
+       "sorti",
+       4.52,
+       4.7,
+       0.97
+      ],
+      [
+       "à",
+       4.7,
+       4.84,
+       1.0
+      ],
+      [
+       "7h30.",
+       4.84,
+       5.32,
+       0.88
+      ]
+     ],
+     "clarte": 0.62,
+     "ok": false
+    },
+    {
+     "prise": 3,
+     "file": "fr-19-00-p3.wav",
+     "seconds": 5.6,
+     "compute": 42,
+     "heard": "Ce matin dans le terminal, le tout premier numéro de MACROARSENAL Times, sorti à 7h30.",
+     "wer": 0.105,
+     "extra": 1,
+     "speech": [
+      0.0,
+      5.44
+     ],
+     "rate": 19.1,
+     "mots": [
+      [
+       "Ce",
+       0.0,
+       0.34,
+       0.86
+      ],
+      [
+       "matin",
+       0.34,
+       0.56,
+       1.0
+      ],
+      [
+       "dans",
+       0.56,
+       0.7,
+       0.9
+      ],
+      [
+       "le",
+       0.7,
+       0.92,
+       1.0
+      ],
+      [
+       "terminal,",
+       0.92,
+       1.28,
+       0.99
+      ],
+      [
+       "le",
+       1.8,
+       1.88,
+       0.99
+      ],
+      [
+       "tout",
+       1.88,
+       2.1,
+       0.98
+      ],
+      [
+       "premier",
+       2.1,
+       2.3,
+       0.99
+      ],
+      [
+       "numéro",
+       2.3,
+       2.62,
+       0.99
+      ],
+      [
+       "de",
+       2.62,
+       2.84,
+       0.99
+      ],
+      [
+       "MACROARSENAL",
+       2.84,
+       3.6,
+       0.59
+      ],
+      [
+       "Times,",
+       3.6,
+       4.02,
+       0.02
+      ],
+      [
+       "sorti",
+       4.48,
+       4.72,
+       0.96
+      ],
+      [
+       "à",
+       4.72,
+       4.94,
+       1.0
+      ],
+      [
+       "7h30.",
+       4.94,
+       5.44,
+       0.88
+      ]
+     ],
+     "clarte": 0.02,
+     "ok": false
+    },
+    {
+     "prise": 4,
+     "file": "fr-19-00-p4.wav",
+     "seconds": 5.44,
+     "compute": 40,
+     "heard": "Ce matin dans le terminal, le tout premier numéro de Macro Arsenal Times sorti à 7h30.",
+     "wer": 0.105,
+     "extra": 1,
+     "speech": [
+      0.0,
+      5.26
+     ],
+     "rate": 19.8,
+     "mots": [
+      [
+       "Ce",
+       0.0,
+       0.3,
+       0.78
+      ],
+      [
+       "matin",
+       0.3,
+       0.52,
+       1.0
+      ],
+      [
+       "dans",
+       0.52,
+       0.66,
+       0.87
+      ],
+      [
+       "le",
+       0.66,
+       0.9,
+       1.0
+      ],
+      [
+       "terminal,",
+       0.9,
+       1.26,
+       0.94
+      ],
+      [
+       "le",
+       1.78,
+       1.88,
+       0.99
+      ],
+      [
+       "tout",
+       1.88,
+       2.12,
+       0.97
+      ],
+      [
+       "premier",
+       2.12,
+       2.34,
+       0.99
+      ],
+      [
+       "numéro",
+       2.34,
+       2.62,
+       0.99
+      ],
+      [
+       "de",
+       2.62,
+       2.82,
+       0.99
+      ],
+      [
+       "Macro",
+       2.82,
+       3.18,
+       0.62
+      ],
+      [
+       "Arsenal",
+       3.18,
+       3.56,
+       0.96
+      ],
+      [
+       "Times",
+       3.56,
+       3.98,
+       0.65
+      ],
+      [
+       "sorti",
+       3.98,
+       4.62,
+       0.81
+      ],
+      [
+       "à",
+       4.62,
+       4.76,
+       1.0
+      ],
+      [
+       "7h30.",
+       4.76,
+       5.26,
+       0.86
+      ]
+     ],
+     "clarte": 0.62,
+     "ok": false
+    },
+    {
+     "prise": 5,
+     "file": "fr-19-00-p5.wav",
+     "seconds": 5.52,
+     "compute": 41,
+     "heard": "Ce matin dans le terminal, le tout premier numéro de Macro Arsenal Times sorti à 7h30.",
+     "wer": 0.105,
+     "extra": 1,
+     "speech": [
+      0.0,
+      5.44
+     ],
+     "rate": 19.1,
+     "mots": [
+      [
+       "Ce",
+       0.0,
+       0.68,
+       0.85
+      ],
+      [
+       "matin",
+       0.68,
+       0.86,
+       1.0
+      ],
+      [
+       "dans",
+       0.86,
+       1.0,
+       0.91
+      ],
+      [
+       "le",
+       1.0,
+       1.22,
+       1.0
+      ],
+      [
+       "terminal,",
+       1.22,
+       1.58,
+       0.95
+      ],
+      [
+       "le",
+       2.08,
+       2.16,
+       0.99
+      ],
+      [
+       "tout",
+       2.16,
+       2.36,
+       0.97
+      ],
+      [
+       "premier",
+       2.36,
+       2.54,
+       0.99
+      ],
+      [
+       "numéro",
+       2.54,
+       2.84,
+       0.99
+      ],
+      [
+       "de",
+       2.84,
+       3.06,
+       0.99
+      ],
+      [
+       "Macro",
+       3.06,
+       3.38,
+       0.77
+      ],
+      [
+       "Arsenal",
+       3.38,
+       3.72,
+       0.91
+      ],
+      [
+       "Times",
+       3.72,
+       4.16,
+       0.71
+      ],
+      [
+       "sorti",
+       4.16,
+       4.82,
+       0.87
+      ],
+      [
+       "à",
+       4.82,
+       4.98,
+       1.0
+      ],
+      [
+       "7h30.",
+       4.98,
+       5.44,
+       0.9
+      ]
+     ],
+     "clarte": 0.71,
+     "ok": false
+    },
+    {
+     "prise": 1,
+     "file": "fr-19-00-p1.wav",
+     "seconds": 5.44,
+     "compute": 40,
+     "heard": "Ce matin dans le terminal, le tout premier numéro de Macro Arsenal Times, sorti à 7h30.",
+     "wer": 0.105,
+     "extra": 1,
+     "speech": [
+      0.0,
+      5.28
+     ],
+     "rate": 19.7,
+     "mots": [
+      [
+       "Ce",
+       0.0,
+       0.38,
+       0.49
+      ],
+      [
+       "matin",
+       0.38,
+       0.54,
+       1.0
+      ],
+      [
+       "dans",
+       0.54,
+       0.68,
+       0.94
+      ],
+      [
+       "le",
+       0.68,
+       0.9,
+       1.0
+      ],
+      [
+       "terminal,",
+       0.9,
+       1.22,
+       0.94
+      ],
+      [
+       "le",
+       1.78,
+       1.86,
+       0.99
+      ],
+      [
+       "tout",
+       1.86,
+       2.06,
+       0.97
+      ],
+      [
+       "premier",
+       2.06,
+       2.28,
+       0.98
+      ],
+      [
+       "numéro",
+       2.28,
+       2.62,
+       0.99
+      ],
+      [
+       "de",
+       2.62,
+       2.86,
+       0.99
+      ],
+      [
+       "Macro",
+       2.86,
+       3.18,
+       0.78
+      ],
+      [
+       "Arsenal",
+       3.18,
+       3.5,
+       0.94
+      ],
+      [
+       "Times,",
+       3.5,
+       3.92,
+       0.85
+      ],
+      [
+       "sorti",
+       4.5,
+       4.64,
+       0.97
+      ],
+      [
+       "à",
+       4.64,
+       4.78,
+       1.0
+      ],
+      [
+       "7h30.",
+       4.78,
+       5.28,
+       0.85
+      ]
+     ],
+     "clarte": 0.49,
+     "ok": false
+    }
+   ]
+  },
+  "20-00": {
+   "id": "20-00",
+   "bloc": 20,
+   "ton": "chaleureux",
+   "text": "Ce matin dans le terminal : le tout premier numéro de MACROARSENAL Times, sorti à sept heures trente.",
+   "tts": "Ce matin dans le terminal : le tout premier numéro de Macro Arsenal Taïmz, sorti à sept heures trente.",
+   "prise": {
+    "prise": 1,
+    "file": "fr-20-00-p1.wav",
+    "seconds": 5.28,
+    "compute": 46,
+    "heard": "Ce matin dans le terminal, le tout premier numéro de Macro Arsenal Times, sorti à 7h30.",
+    "wer": 0.0,
+    "extra": 0,
+    "speech": [
+     0.0,
+     5.18
+    ],
+    "rate": 19.7,
+    "mots": [
+     [
+      "Ce",
+      0.0,
+      0.28,
+      0.92
+     ],
+     [
+      "matin",
+      0.28,
+      0.48,
+      1.0
+     ],
+     [
+      "dans",
+      0.48,
+      0.62,
+      0.92
+     ],
+     [
+      "le",
+      0.62,
+      0.82,
+      1.0
+     ],
+     [
+      "terminal,",
+      0.82,
+      1.14,
+      0.98
+     ],
+     [
+      "le",
+      1.56,
+      1.62,
+      0.99
+     ],
+     [
+      "tout",
+      1.62,
+      1.86,
+      0.98
+     ],
+     [
+      "premier",
+      1.86,
+      2.08,
+      0.99
+     ],
+     [
+      "numéro",
+      2.08,
+      2.38,
+      1.0
+     ],
+     [
+      "de",
+      2.38,
+      2.6,
+      0.99
+     ],
+     [
+      "Macro",
+      2.6,
+      2.96,
+      0.71
+     ],
+     [
+      "Arsenal",
+      2.96,
+      3.32,
+      0.95
+     ],
+     [
+      "Times,",
+      3.32,
+      3.78,
+      0.78
+     ],
+     [
+      "sorti",
+      4.28,
+      4.44,
+      0.98
+     ],
+     [
+      "à",
+      4.44,
+      4.62,
+      1.0
+     ],
+     [
+      "7h30.",
+      4.62,
+      5.18,
+      0.93
+     ]
+    ],
+    "clarte": 0.71,
+    "ok": true
+   },
+   "toutes": [
+    {
+     "prise": 1,
+     "file": "fr-20-00-p1.wav",
+     "seconds": 5.28,
+     "compute": 46,
+     "heard": "Ce matin dans le terminal, le tout premier numéro de Macro Arsenal Times, sorti à 7h30.",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      5.18
+     ],
+     "rate": 19.7,
+     "mots": [
+      [
+       "Ce",
+       0.0,
+       0.28,
+       0.92
+      ],
+      [
+       "matin",
+       0.28,
+       0.48,
+       1.0
+      ],
+      [
+       "dans",
+       0.48,
+       0.62,
+       0.92
+      ],
+      [
+       "le",
+       0.62,
+       0.82,
+       1.0
+      ],
+      [
+       "terminal,",
+       0.82,
+       1.14,
+       0.98
+      ],
+      [
+       "le",
+       1.56,
+       1.62,
+       0.99
+      ],
+      [
+       "tout",
+       1.62,
+       1.86,
+       0.98
+      ],
+      [
+       "premier",
+       1.86,
+       2.08,
+       0.99
+      ],
+      [
+       "numéro",
+       2.08,
+       2.38,
+       1.0
+      ],
+      [
+       "de",
+       2.38,
+       2.6,
+       0.99
+      ],
+      [
+       "Macro",
+       2.6,
+       2.96,
+       0.71
+      ],
+      [
+       "Arsenal",
+       2.96,
+       3.32,
+       0.95
+      ],
+      [
+       "Times,",
+       3.32,
+       3.78,
+       0.78
+      ],
+      [
+       "sorti",
+       4.28,
+       4.44,
+       0.98
+      ],
+      [
+       "à",
+       4.44,
+       4.62,
+       1.0
+      ],
+      [
+       "7h30.",
+       4.62,
+       5.18,
+       0.93
+      ]
+     ],
+     "clarte": 0.71,
+     "ok": true
+    }
+   ]
+  },
+  "21-00": {
+   "id": "21-00",
+   "bloc": 21,
+   "ton": "chaleureux",
+   "text": "Ce matin dans le terminal : le tout premier numéro de MACROARSENAL Times, sorti à sept heures trente.",
+   "tts": "Ce matin dans le terminal : le tout premier numéro de Macro Arsenal Taïmz, sorti à sept heures trente.",
+   "prise": {
+    "prise": 1,
+    "file": "fr-21-00-p1.wav",
+    "seconds": 5.2,
+    "compute": 44,
+    "heard": "Ce matin dans le terminal, le tout premier numéro de Macro Arsenal Times sorti à 7h30.",
+    "wer": 0.0,
+    "extra": 0,
+    "speech": [
+     0.0,
+     5.1
+    ],
+    "rate": 20.0,
+    "mots": [
+     [
+      "Ce",
+      0.0,
+      0.26,
+      0.87
+     ],
+     [
+      "matin",
+      0.26,
+      0.44,
+      1.0
+     ],
+     [
+      "dans",
+      0.44,
+      0.58,
+      0.92
+     ],
+     [
+      "le",
+      0.58,
+      0.8,
+      1.0
+     ],
+     [
+      "terminal,",
+      0.8,
+      1.14,
+      0.97
+     ],
+     [
+      "le",
+      1.7,
+      1.76,
+      0.99
+     ],
+     [
+      "tout",
+      1.76,
+      1.98,
+      0.98
+     ],
+     [
+      "premier",
+      1.98,
+      2.16,
+      0.98
+     ],
+     [
+      "numéro",
+      2.16,
+      2.5,
+      0.99
+     ],
+     [
+      "de",
+      2.5,
+      2.74,
+      0.99
+     ],
+     [
+      "Macro",
+      2.74,
+      3.08,
+      0.81
+     ],
+     [
+      "Arsenal",
+      3.08,
+      3.42,
+      0.91
+     ],
+     [
+      "Times",
+      3.42,
+      3.9,
+      0.86
+     ],
+     [
+      "sorti",
+      3.9,
+      4.44,
+      0.84
+     ],
+     [
+      "à",
+      4.44,
+      4.58,
+      1.0
+     ],
+     [
+      "7h30.",
+      4.58,
+      5.1,
+      0.92
+     ]
+    ],
+    "clarte": 0.81,
+    "ok": true
+   },
+   "toutes": [
+    {
+     "prise": 1,
+     "file": "fr-21-00-p1.wav",
+     "seconds": 5.2,
+     "compute": 44,
+     "heard": "Ce matin dans le terminal, le tout premier numéro de Macro Arsenal Times sorti à 7h30.",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      5.1
+     ],
+     "rate": 20.0,
+     "mots": [
+      [
+       "Ce",
+       0.0,
+       0.26,
+       0.87
+      ],
+      [
+       "matin",
+       0.26,
+       0.44,
+       1.0
+      ],
+      [
+       "dans",
+       0.44,
+       0.58,
+       0.92
+      ],
+      [
+       "le",
+       0.58,
+       0.8,
+       1.0
+      ],
+      [
+       "terminal,",
+       0.8,
+       1.14,
+       0.97
+      ],
+      [
+       "le",
+       1.7,
+       1.76,
+       0.99
+      ],
+      [
+       "tout",
+       1.76,
+       1.98,
+       0.98
+      ],
+      [
+       "premier",
+       1.98,
+       2.16,
+       0.98
+      ],
+      [
+       "numéro",
+       2.16,
+       2.5,
+       0.99
+      ],
+      [
+       "de",
+       2.5,
+       2.74,
+       0.99
+      ],
+      [
+       "Macro",
+       2.74,
+       3.08,
+       0.81
+      ],
+      [
+       "Arsenal",
+       3.08,
+       3.42,
+       0.91
+      ],
+      [
+       "Times",
+       3.42,
+       3.9,
+       0.86
+      ],
+      [
+       "sorti",
+       3.9,
+       4.44,
+       0.84
+      ],
+      [
+       "à",
+       4.44,
+       4.58,
+       1.0
+      ],
+      [
+       "7h30.",
+       4.58,
+       5.1,
+       0.92
+      ]
+     ],
+     "clarte": 0.81,
+     "ok": true
+    }
+   ]
+  },
+  "22-00": {
+   "id": "22-00",
+   "bloc": 22,
+   "ton": "chaleureux",
+   "text": "Ce matin dans le terminal : le tout premier numéro de MACROARSENAL Times, sorti il y a une demi-heure.",
+   "tts": "Ce matin dans le terminal : le tout premier numéro de Macro Arsenal Taïmz, sorti il y a une demi-heure.",
+   "prise": {
+    "prise": 1,
+    "file": "fr-22-00-p1.wav",
+    "seconds": 5.52,
+    "compute": 46,
+    "heard": "Ce matin dans le terminal, le tout premier numéro de Macro Arsenal Times, sorti il y a une demi-heure.",
+    "wer": 0.0,
+    "extra": 0,
+    "speech": [
+     0.0,
+     5.38
+    ],
+    "rate": 19.1,
+    "mots": [
+     [
+      "Ce",
+      0.0,
+      0.36,
+      0.78
+     ],
+     [
+      "matin",
+      0.36,
+      0.6,
+      1.0
+     ],
+     [
+      "dans",
+      0.6,
+      0.76,
+      0.8
+     ],
+     [
+      "le",
+      0.76,
+      1.0,
+      1.0
+     ],
+     [
+      "terminal,",
+      1.0,
+      1.36,
+      0.95
+     ],
+     [
+      "le",
+      1.78,
+      1.86,
+      0.99
+     ],
+     [
+      "tout",
+      1.86,
+      2.08,
+      0.99
+     ],
+     [
+      "premier",
+      2.08,
+      2.28,
+      0.99
+     ],
+     [
+      "numéro",
+      2.28,
+      2.6,
+      0.99
+     ],
+     [
+      "de",
+      2.6,
+      2.82,
+      0.99
+     ],
+     [
+      "Macro",
+      2.82,
+      3.14,
+      0.81
+     ],
+     [
+      "Arsenal",
+      3.14,
+      3.48,
+      0.93
+     ],
+     [
+      "Times,",
+      3.48,
+      3.92,
+      0.84
+     ],
+     [
+      "sorti",
+      4.5,
+      4.72,
+      0.99
+     ],
+     [
+      "il",
+      4.72,
+      4.78,
+      1.0
+     ],
+     [
+      "y",
+      4.78,
+      4.84,
+      0.99
+     ],
+     [
+      "a",
+      4.84,
+      4.92,
+      0.98
+     ],
+     [
+      "une",
+      4.92,
+      5.08,
+      0.97
+     ],
+     [
+      "demi",
+      5.08,
+      5.24,
+      0.93
+     ],
+     [
+      "-heure.",
+      5.24,
+      5.38,
+      0.96
+     ]
+    ],
+    "clarte": 0.78,
+    "ok": true
+   },
+   "toutes": [
+    {
+     "prise": 1,
+     "file": "fr-22-00-p1.wav",
+     "seconds": 5.52,
+     "compute": 46,
+     "heard": "Ce matin dans le terminal, le tout premier numéro de Macro Arsenal Times, sorti il y a une demi-heure.",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      5.38
+     ],
+     "rate": 19.1,
+     "mots": [
+      [
+       "Ce",
+       0.0,
+       0.36,
+       0.78
+      ],
+      [
+       "matin",
+       0.36,
+       0.6,
+       1.0
+      ],
+      [
+       "dans",
+       0.6,
+       0.76,
+       0.8
+      ],
+      [
+       "le",
+       0.76,
+       1.0,
+       1.0
+      ],
+      [
+       "terminal,",
+       1.0,
+       1.36,
+       0.95
+      ],
+      [
+       "le",
+       1.78,
+       1.86,
+       0.99
+      ],
+      [
+       "tout",
+       1.86,
+       2.08,
+       0.99
+      ],
+      [
+       "premier",
+       2.08,
+       2.28,
+       0.99
+      ],
+      [
+       "numéro",
+       2.28,
+       2.6,
+       0.99
+      ],
+      [
+       "de",
+       2.6,
+       2.82,
+       0.99
+      ],
+      [
+       "Macro",
+       2.82,
+       3.14,
+       0.81
+      ],
+      [
+       "Arsenal",
+       3.14,
+       3.48,
+       0.93
+      ],
+      [
+       "Times,",
+       3.48,
+       3.92,
+       0.84
+      ],
+      [
+       "sorti",
+       4.5,
+       4.72,
+       0.99
+      ],
+      [
+       "il",
+       4.72,
+       4.78,
+       1.0
+      ],
+      [
+       "y",
+       4.78,
+       4.84,
+       0.99
+      ],
+      [
+       "a",
+       4.84,
+       4.92,
+       0.98
+      ],
+      [
+       "une",
+       4.92,
+       5.08,
+       0.97
+      ],
+      [
+       "demi",
+       5.08,
+       5.24,
+       0.93
+      ],
+      [
+       "-heure.",
+       5.24,
+       5.38,
+       0.96
+      ]
+     ],
+     "clarte": 0.78,
+     "ok": true
+    }
+   ]
+  },
+  "23-00": {
+   "id": "23-00",
+   "bloc": 23,
+   "ton": "chaleureux",
+   "text": "Ce matin dans le terminal : le tout premier numéro de MACROARSENAL Times, sorti il y a une demi-heure.",
+   "tts": "Ce matin dans le terminal : le tout premier numéro de Macro Arsenal Taïmz, sorti il y a une demi-heure.",
+   "prise": {
+    "prise": 1,
+    "file": "fr-23-00-p1.wav",
+    "seconds": 5.92,
+    "compute": 47,
+    "heard": "Ce matin dans le terminal, le tout premier numéro de Macro Arsenal Times sorti il y a une demi-heure.",
+    "wer": 0.0,
+    "extra": 0,
+    "speech": [
+     0.0,
+     5.68
+    ],
+    "rate": 18.1,
+    "mots": [
+     [
+      "Ce",
+      0.0,
+      0.28,
+      0.88
+     ],
+     [
+      "matin",
+      0.28,
+      0.46,
+      1.0
+     ],
+     [
+      "dans",
+      0.46,
+      0.6,
+      0.88
+     ],
+     [
+      "le",
+      0.6,
+      0.8,
+      1.0
+     ],
+     [
+      "terminal,",
+      0.8,
+      1.16,
+      0.98
+     ],
+     [
+      "le",
+      1.56,
+      1.62,
+      0.99
+     ],
+     [
+      "tout",
+      1.62,
+      1.84,
+      0.98
+     ],
+     [
+      "premier",
+      1.84,
+      2.02,
+      0.98
+     ],
+     [
+      "numéro",
+      2.02,
+      2.36,
+      0.99
+     ],
+     [
+      "de",
+      2.36,
+      2.58,
+      0.99
+     ],
+     [
+      "Macro",
+      2.58,
+      2.96,
+      0.73
+     ],
+     [
+      "Arsenal",
+      2.96,
+      3.34,
+      0.92
+     ],
+     [
+      "Times",
+      3.34,
+      3.82,
+      0.65
+     ],
+     [
+      "sorti",
+      3.82,
+      4.68,
+      0.83
+     ],
+     [
+      "il",
+      4.68,
+      4.84,
+      0.99
+     ],
+     [
+      "y",
+      4.84,
+      4.98,
+      0.98
+     ],
+     [
+      "a",
+      4.98,
+      5.12,
+      0.98
+     ],
+     [
+      "une",
+      5.12,
+      5.3,
+      0.98
+     ],
+     [
+      "demi",
+      5.3,
+      5.48,
+      0.94
+     ],
+     [
+      "-heure.",
+      5.48,
+      5.68,
+      0.96
+     ]
+    ],
+    "clarte": 0.65,
+    "ok": true
+   },
+   "toutes": [
+    {
+     "prise": 1,
+     "file": "fr-23-00-p1.wav",
+     "seconds": 5.92,
+     "compute": 47,
+     "heard": "Ce matin dans le terminal, le tout premier numéro de Macro Arsenal Times sorti il y a une demi-heure.",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      5.68
+     ],
+     "rate": 18.1,
+     "mots": [
+      [
+       "Ce",
+       0.0,
+       0.28,
+       0.88
+      ],
+      [
+       "matin",
+       0.28,
+       0.46,
+       1.0
+      ],
+      [
+       "dans",
+       0.46,
+       0.6,
+       0.88
+      ],
+      [
+       "le",
+       0.6,
+       0.8,
+       1.0
+      ],
+      [
+       "terminal,",
+       0.8,
+       1.16,
+       0.98
+      ],
+      [
+       "le",
+       1.56,
+       1.62,
+       0.99
+      ],
+      [
+       "tout",
+       1.62,
+       1.84,
+       0.98
+      ],
+      [
+       "premier",
+       1.84,
+       2.02,
+       0.98
+      ],
+      [
+       "numéro",
+       2.02,
+       2.36,
+       0.99
+      ],
+      [
+       "de",
+       2.36,
+       2.58,
+       0.99
+      ],
+      [
+       "Macro",
+       2.58,
+       2.96,
+       0.73
+      ],
+      [
+       "Arsenal",
+       2.96,
+       3.34,
+       0.92
+      ],
+      [
+       "Times",
+       3.34,
+       3.82,
+       0.65
+      ],
+      [
+       "sorti",
+       3.82,
+       4.68,
+       0.83
+      ],
+      [
+       "il",
+       4.68,
+       4.84,
+       0.99
+      ],
+      [
+       "y",
+       4.84,
+       4.98,
+       0.98
+      ],
+      [
+       "a",
+       4.98,
+       5.12,
+       0.98
+      ],
+      [
+       "une",
+       5.12,
+       5.3,
+       0.98
+      ],
+      [
+       "demi",
+       5.3,
+       5.48,
+       0.94
+      ],
+      [
+       "-heure.",
+       5.48,
+       5.68,
+       0.96
+      ]
+     ],
+     "clarte": 0.65,
+     "ok": true
+    }
+   ]
+  },
+  "24-00": {
+   "id": "24-00",
+   "bloc": 24,
+   "ton": "chaleureux",
+   "text": "À demain, huit heures.",
+   "tts": "À demain, huit heures.",
+   "prise": {
+    "prise": 1,
+    "file": "fr-24-00-p1.wav",
+    "seconds": 1.36,
+    "compute": 13,
+    "heard": "À demain, 8h.",
+    "wer": 0.0,
+    "extra": 0,
+    "speech": [
+     0.0,
+     1.34
+    ],
+    "rate": 16.4,
+    "mots": [
+     [
+      "À",
+      0.0,
+      0.3,
+      0.73
+     ],
+     [
+      "demain,",
+      0.3,
+      0.74,
+      1.0
+     ],
+     [
+      "8h.",
+      1.14,
+      1.34,
+      0.68
+     ]
+    ],
+    "clarte": 0.68,
+    "ok": true
+   },
+   "toutes": [
+    {
+     "prise": 1,
+     "file": "fr-24-00-p1.wav",
+     "seconds": 1.36,
+     "compute": 13,
+     "heard": "À demain, 8h.",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      1.34
+     ],
+     "rate": 16.4,
+     "mots": [
+      [
+       "À",
+       0.0,
+       0.3,
+       0.73
+      ],
+      [
+       "demain,",
+       0.3,
+       0.74,
+       1.0
+      ],
+      [
+       "8h.",
+       1.14,
+       1.34,
+       0.68
+      ]
+     ],
+     "clarte": 0.68,
+     "ok": true
+    }
+   ]
+  },
+  "25-00": {
+   "id": "25-00",
+   "bloc": 25,
+   "ton": "chaleureux",
+   "text": "À demain, huit heures.",
+   "tts": "À demain, huit heures.",
+   "prise": {
+    "prise": 1,
+    "file": "fr-25-00-p1.wav",
+    "seconds": 1.36,
+    "compute": 14,
+    "heard": "À demain, 8h.",
+    "wer": 0.0,
+    "extra": 0,
+    "speech": [
+     0.0,
+     1.28
+    ],
+    "rate": 17.2,
+    "mots": [
+     [
+      "À",
+      0.0,
+      0.3,
+      0.73
+     ],
+     [
+      "demain,",
+      0.3,
+      0.7,
+      1.0
+     ],
+     [
+      "8h.",
+      1.02,
+      1.28,
+      0.66
+     ]
+    ],
+    "clarte": 0.66,
+    "ok": true
+   },
+   "toutes": [
+    {
+     "prise": 1,
+     "file": "fr-25-00-p1.wav",
+     "seconds": 1.36,
+     "compute": 14,
+     "heard": "À demain, 8h.",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      1.28
+     ],
+     "rate": 17.2,
+     "mots": [
+      [
+       "À",
+       0.0,
+       0.3,
+       0.73
+      ],
+      [
+       "demain,",
+       0.3,
+       0.7,
+       1.0
+      ],
+      [
+       "8h.",
+       1.02,
+       1.28,
+       0.66
+      ]
+     ],
+     "clarte": 0.66,
+     "ok": true
+    }
+   ]
+  },
+  "26-00": {
+   "id": "26-00",
+   "bloc": 26,
+   "ton": "chaleureux",
+   "text": "À demain, à huit heures.",
+   "tts": "À demain, à huit heures.",
+   "prise": {
+    "prise": 1,
+    "file": "fr-26-00-p1.wav",
+    "seconds": 1.28,
+    "compute": 13,
+    "heard": "À demain à 8h.",
+    "wer": 0.0,
+    "extra": 0,
+    "speech": [
+     0.0,
+     1.16
+    ],
+    "rate": 20.7,
+    "mots": [
+     [
+      "À",
+      0.0,
+      0.26,
+      0.84
+     ],
+     [
+      "demain",
+      0.26,
+      0.52,
+      1.0
+     ],
+     [
+      "à",
+      0.52,
+      0.78,
+      0.71
+     ],
+     [
+      "8h.",
+      0.78,
+      1.16,
+      0.69
+     ]
+    ],
+    "clarte": 0.69,
+    "ok": true
+   },
+   "toutes": [
+    {
+     "prise": 1,
+     "file": "fr-26-00-p1.wav",
+     "seconds": 1.28,
+     "compute": 13,
+     "heard": "À demain à 8h.",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      1.16
+     ],
+     "rate": 20.7,
+     "mots": [
+      [
+       "À",
+       0.0,
+       0.26,
+       0.84
+      ],
+      [
+       "demain",
+       0.26,
+       0.52,
+       1.0
+      ],
+      [
+       "à",
+       0.52,
+       0.78,
+       0.71
+      ],
+      [
+       "8h.",
+       0.78,
+       1.16,
+       0.69
+      ]
+     ],
+     "clarte": 0.69,
+     "ok": true
+    }
+   ]
+  },
+  "27-00": {
+   "id": "27-00",
+   "bloc": 27,
+   "ton": "chaleureux",
+   "text": "À demain, à huit heures.",
+   "tts": "À demain, à huit heures.",
+   "prise": {
+    "prise": 1,
+    "file": "fr-27-00-p1.wav",
+    "seconds": 1.68,
+    "compute": 16,
+    "heard": "À demain, à 8 heures.",
+    "wer": 0.0,
+    "extra": 0,
+    "speech": [
+     0.0,
+     1.6
+    ],
+    "rate": 15.0,
+    "mots": [
+     [
+      "À",
+      0.0,
+      0.22,
+      0.76
+     ],
+     [
+      "demain,",
+      0.22,
+      0.58,
+      0.99
+     ],
+     [
+      "à",
+      1.14,
+      1.2,
+      0.99
+     ],
+     [
+      "8",
+      1.2,
+      1.4,
+      0.97
+     ],
+     [
+      "heures.",
+      1.4,
+      1.6,
+      0.45
+     ]
+    ],
+    "clarte": 0.45,
+    "ok": true
+   },
+   "toutes": [
+    {
+     "prise": 1,
+     "file": "fr-27-00-p1.wav",
+     "seconds": 1.68,
+     "compute": 16,
+     "heard": "À demain, à 8 heures.",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      1.6
+     ],
+     "rate": 15.0,
+     "mots": [
+      [
+       "À",
+       0.0,
+       0.22,
+       0.76
+      ],
+      [
+       "demain,",
+       0.22,
+       0.58,
+       0.99
+      ],
+      [
+       "à",
+       1.14,
+       1.2,
+       0.99
+      ],
+      [
+       "8",
+       1.2,
+       1.4,
+       0.97
+      ],
+      [
+       "heures.",
+       1.4,
+       1.6,
+       0.45
+      ]
+     ],
+     "clarte": 0.45,
+     "ok": true
+    }
+   ]
+  },
+  "28-00": {
+   "id": "28-00",
+   "bloc": 28,
+   "ton": "chaleureux",
+   "text": "À demain matin, huit heures.",
+   "tts": "À demain matin, huit heures.",
+   "prise": {
+    "prise": 1,
+    "file": "fr-28-00-p1.wav",
+    "seconds": 1.76,
+    "compute": 17,
+    "heard": "À demain matin, 8h.",
+    "wer": 0.0,
+    "extra": 0,
+    "speech": [
+     0.0,
+     1.74
+    ],
+    "rate": 16.1,
+    "mots": [
+     [
+      "À",
+      0.0,
+      0.36,
+      0.83
+     ],
+     [
+      "demain",
+      0.36,
+      0.52,
+      1.0
+     ],
+     [
+      "matin,",
+      0.52,
+      0.98,
+      1.0
+     ],
+     [
+      "8h.",
+      1.32,
+      1.74,
+      0.67
+     ]
+    ],
+    "clarte": 0.67,
+    "ok": true
+   },
+   "toutes": [
+    {
+     "prise": 1,
+     "file": "fr-28-00-p1.wav",
+     "seconds": 1.76,
+     "compute": 17,
+     "heard": "À demain matin, 8h.",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      1.74
+     ],
+     "rate": 16.1,
+     "mots": [
+      [
+       "À",
+       0.0,
+       0.36,
+       0.83
+      ],
+      [
+       "demain",
+       0.36,
+       0.52,
+       1.0
+      ],
+      [
+       "matin,",
+       0.52,
+       0.98,
+       1.0
+      ],
+      [
+       "8h.",
+       1.32,
+       1.74,
+       0.67
+      ]
+     ],
+     "clarte": 0.67,
+     "ok": true
+    }
+   ]
+  },
+  "29-00": {
+   "id": "29-00",
+   "bloc": 29,
+   "ton": "chaleureux",
+   "text": "À demain matin, huit heures.",
+   "tts": "À demain matin, huit heures.",
+   "prise": {
+    "prise": 1,
+    "file": "fr-29-00-p1.wav",
+    "seconds": 1.68,
+    "compute": 17,
+    "heard": "À demain matin, 8h.",
+    "wer": 0.0,
+    "extra": 0,
+    "speech": [
+     0.0,
+     1.58
+    ],
+    "rate": 17.7,
+    "mots": [
+     [
+      "À",
+      0.0,
+      0.3,
+      0.81
+     ],
+     [
+      "demain",
+      0.3,
+      0.46,
+      1.0
+     ],
+     [
+      "matin,",
+      0.46,
+      1.0,
+      1.0
+     ],
+     [
+      "8h.",
+      1.28,
+      1.58,
+      0.66
+     ]
+    ],
+    "clarte": 0.66,
+    "ok": true
+   },
+   "toutes": [
+    {
+     "prise": 1,
+     "file": "fr-29-00-p1.wav",
+     "seconds": 1.68,
+     "compute": 17,
+     "heard": "À demain matin, 8h.",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      1.58
+     ],
+     "rate": 17.7,
+     "mots": [
+      [
+       "À",
+       0.0,
+       0.3,
+       0.81
+      ],
+      [
+       "demain",
+       0.3,
+       0.46,
+       1.0
+      ],
+      [
+       "matin,",
+       0.46,
+       1.0,
+       1.0
+      ],
+      [
+       "8h.",
+       1.28,
+       1.58,
+       0.66
+      ]
+     ],
+     "clarte": 0.66,
+     "ok": true
+    }
+   ]
+  }
+ }
+}

@@ -1,0 +1,189 @@
+{
+ "id": "2026-10-18-essai-heures",
+ "langue": "fr",
+ "seconds": 188.82,
+ "lufs": -16.2,
+ "peak_dbtp": -1.0,
+ "blocs": [
+  {
+   "bloc": 0,
+   "rubrique": "essai",
+   "start": 3.65,
+   "end": 10.45
+  },
+  {
+   "bloc": 1,
+   "rubrique": "essai",
+   "start": 11.88,
+   "end": 18.12
+  },
+  {
+   "bloc": 2,
+   "rubrique": "essai",
+   "start": 19.55,
+   "end": 26.43
+  },
+  {
+   "bloc": 3,
+   "rubrique": "essai",
+   "start": 27.86,
+   "end": 34.9
+  },
+  {
+   "bloc": 4,
+   "rubrique": "essai",
+   "start": 36.33,
+   "end": 41.85
+  },
+  {
+   "bloc": 5,
+   "rubrique": "essai",
+   "start": 43.28,
+   "end": 48.48
+  },
+  {
+   "bloc": 6,
+   "rubrique": "essai",
+   "start": 49.91,
+   "end": 55.03
+  },
+  {
+   "bloc": 7,
+   "rubrique": "essai",
+   "start": 56.46,
+   "end": 62.3
+  },
+  {
+   "bloc": 8,
+   "rubrique": "essai",
+   "start": 63.73,
+   "end": 69.17
+  },
+  {
+   "bloc": 9,
+   "rubrique": "essai",
+   "start": 70.6,
+   "end": 75.64
+  },
+  {
+   "bloc": 10,
+   "rubrique": "essai",
+   "start": 77.07,
+   "end": 82.51
+  },
+  {
+   "bloc": 11,
+   "rubrique": "essai",
+   "start": 83.94,
+   "end": 89.3
+  },
+  {
+   "bloc": 12,
+   "rubrique": "essai",
+   "start": 90.73,
+   "end": 94.91
+  },
+  {
+   "bloc": 13,
+   "rubrique": "essai",
+   "start": 96.34,
+   "end": 100.32
+  },
+  {
+   "bloc": 14,
+   "rubrique": "essai",
+   "start": 101.75,
+   "end": 105.35
+  },
+  {
+   "bloc": 15,
+   "rubrique": "essai",
+   "start": 106.78,
+   "end": 110.66
+  },
+  {
+   "bloc": 16,
+   "rubrique": "essai",
+   "start": 112.09,
+   "end": 116.62
+  },
+  {
+   "bloc": 17,
+   "rubrique": "essai",
+   "start": 118.05,
+   "end": 122.5
+  },
+  {
+   "bloc": 18,
+   "rubrique": "essai",
+   "start": 123.93,
+   "end": 129.45
+  },
+  {
+   "bloc": 19,
+   "rubrique": "essai",
+   "start": 130.88,
+   "end": 136.48
+  },
+  {
+   "bloc": 20,
+   "rubrique": "essai",
+   "start": 137.91,
+   "end": 143.19
+  },
+  {
+   "bloc": 21,
+   "rubrique": "essai",
+   "start": 144.62,
+   "end": 149.82
+  },
+  {
+   "bloc": 22,
+   "rubrique": "essai",
+   "start": 151.25,
+   "end": 156.77
+  },
+  {
+   "bloc": 23,
+   "rubrique": "essai",
+   "start": 158.2,
+   "end": 164.05
+  },
+  {
+   "bloc": 24,
+   "rubrique": "essai",
+   "start": 165.48,
+   "end": 166.84
+  },
+  {
+   "bloc": 25,
+   "rubrique": "essai",
+   "start": 168.27,
+   "end": 169.63
+  },
+  {
+   "bloc": 26,
+   "rubrique": "essai",
+   "start": 171.06,
+   "end": 172.34
+  },
+  {
+   "bloc": 27,
+   "rubrique": "essai",
+   "start": 173.77,
+   "end": 175.45
+  },
+  {
+   "bloc": 28,
+   "rubrique": "essai",
+   "start": 176.88,
+   "end": 178.64
+  },
+  {
+   "bloc": 29,
+   "rubrique": "essai",
+   "start": 179.19,
+   "end": 180.87
+  }
+ ]
+}
