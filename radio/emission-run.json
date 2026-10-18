@@ -1,3 +1,7 @@
 {
- "emission": "radio/emissions/2026-10-18-essai-nettete.json"
+ "emission": "radio/emissions/2026-10-19-matinale.json",
+ "langues": [
+  "en",
+  "es"
+ ]
 }
