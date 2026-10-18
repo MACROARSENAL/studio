@@ -92,5 +92,17 @@
   }
  ],
  "acting": "Read it like the opening of a fairy tale in an animated feature film, in English: begin softly, almost whispered, full of mystery on 'Once upon a time… a logo', with long natural pauses at every ellipsis. Gentle melancholy for the lonely traders at night. Then rising tenderness, warmth and hope on 'So Macro Arsenal made you a companion', and pure wonder and joy on 'its eyes lit up'. Slow storytelling pace, every word clear.",
- "langue": "en"
+ "langue": "en",
+ "voices": [
+  {
+   "id": "conteur-en",
+   "label": "Storyteller (UK, deep and warm)",
+   "design": "A warm, gentle British male storyteller in his fifties with a rich, velvety, deep baritone voice, like the narrator of a classic animated family film. He tells a fairy tale with wonder and tenderness and a smile in his voice. Native British English, Received Pronunciation, no foreign accent. Intimate close-microphone studio recording, natural breathing, unhurried expressive delivery, never robotic."
+  },
+  {
+   "id": "conteur-en-us",
+   "label": "Storyteller (US, deep and warm)",
+   "design": "A warm, gentle American male storyteller in his fifties with a rich, velvety, deep baritone voice, like the narrator of a classic animated family film. He tells a fairy tale with wonder and tenderness and a smile in his voice. Native General American English, no foreign accent. Intimate close-microphone studio recording, natural breathing, unhurried expressive delivery, never robotic."
+  }
+ ]
 }

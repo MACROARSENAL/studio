@@ -91,6 +91,18 @@
    ]
   }
  ],
- "acting": "Léelo como el comienzo de un cuento en una película de animación, en español: empieza suave, casi susurrado, lleno de misterio en 'Érase una vez… un logo', con pausas naturales en cada puntos suspensivos. Melancolía tierna por los traders solos de noche. Luego ternura, calidez y esperanza en 'Así que Macro Arsenal le hizo un compañero', y pura maravilla y alegría en 'sus ojos se encendieron'. Ritmo pausado, cada palabra clara.",
- "langue": "es"
+ "acting": "Read it in Spanish, like the opening of a fairy tale in an animated feature film: begin softly, almost whispered, full of mystery on 'Érase una vez… un logo', with long natural pauses at every ellipsis. Gentle melancholy for the lonely traders at night. Then rising tenderness, warmth and hope on 'Así que Macro Arsenal le hizo un compañero', and pure wonder and joy on 'sus ojos se encendieron'. Slow storytelling pace, every word clear.",
+ "langue": "es",
+ "voices": [
+  {
+   "id": "conteur-es",
+   "label": "Narrador (España, grave y cálido)",
+   "design": "A warm, gentle male storyteller from Madrid in his fifties with a rich, velvety, deep baritone voice, like the Spanish narrator of a classic animated family film. He tells a fairy tale with wonder and tenderness and a smile in his voice. Native Castilian Spanish from Spain, perfect diction, no foreign accent. Intimate close-microphone studio recording, natural breathing, unhurried expressive delivery, never robotic."
+  },
+  {
+   "id": "conteur-es-latam",
+   "label": "Narrador (Latinoamérica, grave y cálido)",
+   "design": "A warm, gentle male storyteller in his fifties with a rich, velvety, deep baritone voice, like the Latin American Spanish narrator of a classic animated family film. He tells a fairy tale with wonder and tenderness and a smile in his voice. Native neutral Latin American Spanish, perfect diction, no foreign accent. Intimate close-microphone studio recording, natural breathing, unhurried expressive delivery, never robotic."
+  }
+ ]
 }

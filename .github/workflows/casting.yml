@@ -11,14 +11,30 @@ permissions:
   contents: write
 
 jobs:
+  plan:
+    runs-on: ubuntu-latest
+    outputs:
+      matrix: ${{ steps.m.outputs.matrix }}
+      branche: ${{ steps.m.outputs.branche }}
+    steps:
+      - uses: actions/checkout@v4
+      - id: m
+        run: |
+          python3 - <<'EOF' >> "$GITHUB_OUTPUT"
+          import json, os
+          R = json.load(open('voix/casting-run.json')) if os.path.exists('voix/casting-run.json') else {}
+          jobs = R.get('jobs') or [{'langue': 'fr', 'voix': v, 'prise': p} for v in ['conteur', 'conteur-lumineux', 'conteuse'] for p in [1, 2]]
+          print('matrix=' + json.dumps({'include': jobs}))
+          print('branche=' + R.get('branche', 'casting'))
+          EOF
+
   voix:
+    needs: plan
     runs-on: ubuntu-latest
     timeout-minutes: 330
     strategy:
       fail-fast: false
-      matrix:
-        voix: [conteur, conteur-lumineux, conteuse]
-        prise: [1, 2]
+      matrix: ${{ fromJSON(needs.plan.outputs.matrix) }}
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
@@ -33,10 +49,14 @@ jobs:
           python -m venv /tmp/asr && /tmp/asr/bin/pip install -q faster-whisper scipy > /tmp/pip2.log 2>&1 || { tail -20 /tmp/pip2.log | tr '\n' ' ' | sed 's/^/::error title=pip asr::/'; echo; exit 1; }
           nproc; free -g
       - name: Voix
+        env:
+          LANGUE: ${{ matrix.langue }}
         run: |
           set -o pipefail
           python voix/casting.py ${{ matrix.voix }} ${{ matrix.prise }} /tmp/out 2>&1 | tee /tmp/run.log || { grep -v '^ok' /tmp/run.log | grep -v -i -E 'warning|pci_bus|sox|flash-attn' | tail -15 | tr '\n' ' ' | sed 's/^/::error title=Voix::/'; echo; exit 1; }
       - name: Contrôle par transcription
+        env:
+          LANGUE: ${{ matrix.langue }}
         run: |
           set -o pipefail
           /tmp/asr/bin/python voix/qa.py /tmp/out/${{ matrix.voix }}-${{ matrix.prise }} 2>&1 | tee /tmp/qa.log || { grep -v '^ok' /tmp/qa.log | grep -v -i warning | tail -12 | tr '\n' ' ' | sed 's/^/::warning title=Contrôle::/'; echo; }
@@ -47,7 +67,7 @@ jobs:
           path: /tmp/out
 
   ranger:
-    needs: voix
+    needs: [plan, voix]
     if: always()
     runs-on: ubuntu-latest
     steps:
@@ -58,7 +78,7 @@ jobs:
       - name: Ranger sur la branche « casting »
         run: |
           cd /tmp/all && ls -la
-          git init -q -b casting
+          git init -q -b ${{ needs.plan.outputs.branche }}
           git config user.name "studio-bot"; git config user.email "studio-bot@users.noreply.github.com"
           git add . && git commit -qm "Casting ${GITHUB_SHA::7}"
-          git push -qf "https://x-access-token:${{ github.token }}@github.com/${{ github.repository }}.git" casting
+          git push -qf "https://x-access-token:${{ github.token }}@github.com/${{ github.repository }}.git" ${{ needs.plan.outputs.branche }}

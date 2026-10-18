@@ -1,0 +1,46 @@
+{
+ "_": "Casting des voix anglaise et espagnole (18/10/2026, demande de Kévin : même style que la voix A, accent natif).",
+ "jobs": [
+  {
+   "langue": "en",
+   "voix": "conteur-en",
+   "prise": 1
+  },
+  {
+   "langue": "en",
+   "voix": "conteur-en",
+   "prise": 2
+  },
+  {
+   "langue": "en",
+   "voix": "conteur-en-us",
+   "prise": 1
+  },
+  {
+   "langue": "en",
+   "voix": "conteur-en-us",
+   "prise": 2
+  },
+  {
+   "langue": "es",
+   "voix": "conteur-es",
+   "prise": 1
+  },
+  {
+   "langue": "es",
+   "voix": "conteur-es",
+   "prise": 2
+  },
+  {
+   "langue": "es",
+   "voix": "conteur-es-latam",
+   "prise": 1
+  },
+  {
+   "langue": "es",
+   "voix": "conteur-es-latam",
+   "prise": 2
+  }
+ ],
+ "branche": "casting-intl"
+}

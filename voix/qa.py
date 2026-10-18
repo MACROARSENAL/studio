@@ -1,7 +1,7 @@
 """Contrôle d'une prise de voix par transcription (faster-whisper), dans son propre environnement Python.
 Usage : python qa.py <dossier>/<voix>-<prise>  → complète le .json (texte entendu, écart, instant de chaque phrase).
 """
-import difflib, json, re, sys, unicodedata
+import os, difflib, json, re, sys, unicodedata
 from faster_whisper import WhisperModel
 
 STEM = sys.argv[1]
@@ -30,7 +30,7 @@ def note(level, title, msg):
 
 
 asr = WhisperModel('medium', device='cpu', compute_type='int8')
-segs, _ = asr.transcribe(load16k(STEM + '.wav'), language='fr', word_timestamps=True, beam_size=5, vad_filter=False)
+segs, _ = asr.transcribe(load16k(STEM + '.wav'), language=os.environ.get('LANGUE', 'fr'), word_timestamps=True, beam_size=5, vad_filter=False)
 words = [w for s in segs for w in s.words]
 heard = ''.join(w.word for w in words).strip()
 
