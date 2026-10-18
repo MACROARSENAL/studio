@@ -1,0 +1,113 @@
+{
+ "voice": "conteur-en",
+ "langue": "en",
+ "casting_take": "1",
+ "take": 1,
+ "span": "l8-l13",
+ "engine": "Qwen3-TTS 1.7B Base, voix clonée depuis le casting (Apache-2.0)",
+ "reference": {
+  "from": "conteur-en-1",
+  "span": "l6-l7",
+  "start": 22.3,
+  "end": 28.08,
+  "text": "So Macro Arsenal made you a companion. And one fine morning… its eyes lit up!"
+ },
+ "lines": [
+  {
+   "id": "l8",
+   "text": "Ever since, it watches over you, day and night. It knows your account by heart.",
+   "tts": "Ever since, it watches over you, day and night. It knows your account by heart.",
+   "file": "conteur-en-c1-l8-p1.wav",
+   "seconds": 6.56,
+   "compute": 58,
+   "heard": "Ever since, it watches over you, day and night. It knows your account by heart.",
+   "wer": 0.0,
+   "extra": 0,
+   "speech": [
+    0.0,
+    6.34
+   ],
+   "ok": true
+  },
+  {
+   "id": "l9",
+   "text": "A major release coming up? It warns you in time.",
+   "tts": "A major release coming up? It warns you in time.",
+   "file": "conteur-en-c1-l9-p1.wav",
+   "seconds": 4.0,
+   "compute": 37,
+   "heard": "A major release coming up? It warns you in time.",
+   "wer": 0.0,
+   "extra": 0,
+   "speech": [
+    0.0,
+    3.86
+   ],
+   "ok": true
+  },
+  {
+   "id": "l10",
+   "text": "A screen doesn't make sense? One click, and it explains it.",
+   "tts": "A screen doesn't make sense? One click, and it explains it.",
+   "file": "conteur-en-c1-l10-p1.wav",
+   "seconds": 4.64,
+   "compute": 42,
+   "heard": "A screen doesn't make sense. One click, and it explains it.",
+   "wer": 0.0,
+   "extra": 0,
+   "speech": [
+    0.0,
+    4.54
+   ],
+   "ok": true
+  },
+  {
+   "id": "l11",
+   "text": "It prepares your orders… but you decide. Always.",
+   "tts": "It prepares your orders… but you decide. Always.",
+   "file": "conteur-en-c1-l11-p1.wav",
+   "seconds": 4.0,
+   "compute": 36,
+   "heard": "It prepares your orders, but you decide. Always.",
+   "wer": 0.0,
+   "extra": 0,
+   "speech": [
+    0.0,
+    3.78
+   ],
+   "ok": true
+  },
+  {
+   "id": "l12",
+   "text": "It doesn't promise miracles. It helps you keep a cool head.",
+   "tts": "It doesn't promise miracles. It helps you keep a cool head.",
+   "file": "conteur-en-c1-l12-p1.wav",
+   "seconds": 4.4,
+   "compute": 40,
+   "heard": "It doesn't promise miracles, it helps you keep a cool head.",
+   "wer": 0.0,
+   "extra": 0,
+   "speech": [
+    0.58,
+    4.24
+   ],
+   "ok": true
+  },
+  {
+   "id": "l13",
+   "text": "On days of doubt, it's there. On days of victory too.",
+   "tts": "On days of doubt, it's there. On days of victory too.",
+   "file": "conteur-en-c1-l13-p1.wav",
+   "seconds": 4.08,
+   "compute": 38,
+   "heard": "On days of doubt, it's there on days of victory too.",
+   "wer": 0.0,
+   "extra": 0,
+   "speech": [
+    0.0,
+    3.92
+   ],
+   "ok": true
+  }
+ ]
+}

@@ -1,0 +1,129 @@
+{
+ "voice": "conteur-en",
+ "langue": "en",
+ "casting_take": "1",
+ "take": 1,
+ "span": "l1-l7",
+ "engine": "Qwen3-TTS 1.7B Base, voix clonée depuis le casting (Apache-2.0)",
+ "reference": {
+  "from": "conteur-en-1",
+  "span": "l1-l2",
+  "start": 0.0,
+  "end": 6.63,
+  "text": "Once upon a time… a logo. A little golden shield, watching over the markets of the world."
+ },
+ "lines": [
+  {
+   "id": "l1",
+   "text": "Once upon a time… a logo.",
+   "tts": "Once upon a time… a logo.",
+   "file": "conteur-en-c1-l1-p1.wav",
+   "seconds": 2.08,
+   "compute": 21,
+   "heard": "Once upon a time, a logo.",
+   "wer": 0.0,
+   "extra": 0,
+   "speech": [
+    0.0,
+    1.92
+   ],
+   "ok": true
+  },
+  {
+   "id": "l2",
+   "text": "A little golden shield, watching over the markets of the world.",
+   "tts": "A little golden shield, watching over the markets of the world.",
+   "file": "conteur-en-c1-l2-p1.wav",
+   "seconds": 3.76,
+   "compute": 34,
+   "heard": "A little golden shield, watching over the markets of the world.",
+   "wer": 0.0,
+   "extra": 0,
+   "speech": [
+    0.0,
+    3.62
+   ],
+   "ok": true
+  },
+  {
+   "id": "l3",
+   "text": "Every night, it saw traders, alone in front of their screens.",
+   "tts": "Every night, it saw traders, alone in front of their screens.",
+   "file": "conteur-en-c1-l3-p1.wav",
+   "seconds": 4.16,
+   "compute": 36,
+   "heard": "Every night, it saw traders, alone in front of their screens.",
+   "wer": 0.0,
+   "extra": 0,
+   "speech": [
+    0.0,
+    4.0
+   ],
+   "ok": true
+  },
+  {
+   "id": "l4",
+   "text": "Thousands of numbers. Decisions to make… and no one to talk to.",
+   "tts": "Thousands of numbers. Decisions to make… and no one to talk to.",
+   "file": "conteur-en-c1-l4-p1.wav",
+   "seconds": 4.08,
+   "compute": 36,
+   "heard": "Thousands of numbers, decisions to make, and no one to talk to.",
+   "wer": 0.0,
+   "extra": 0,
+   "speech": [
+    0.0,
+    4.02
+   ],
+   "ok": true
+  },
+  {
+   "id": "l5",
+   "text": "Deep down, it dreamed of coming to life… to be by their side.",
+   "tts": "Deep down, it dreamed of coming to life… to be by their side.",
+   "file": "conteur-en-c1-l5-p1.wav",
+   "seconds": 4.16,
+   "compute": 36,
+   "heard": "Deep down, it dreamed of coming to life to be by their side.",
+   "wer": 0.0,
+   "extra": 0,
+   "speech": [
+    0.0,
+    4.0
+   ],
+   "ok": true
+  },
+  {
+   "id": "l6",
+   "text": "So MACROARSENAL made you a companion.",
+   "tts": "So Macro Arsenal made you a companion.",
+   "file": "conteur-en-c1-l6-p1.wav",
+   "seconds": 2.64,
+   "compute": 26,
+   "heard": "So Macro Arsenal made you a companion.",
+   "wer": 0.0,
+   "extra": 0,
+   "speech": [
+    0.0,
+    2.42
+   ],
+   "ok": true
+  },
+  {
+   "id": "l7",
+   "text": "And one fine morning… its eyes lit up!",
+   "tts": "And one fine morning… its eyes lit up!",
+   "file": "conteur-en-c1-l7-p1.wav",
+   "seconds": 2.32,
+   "compute": 23,
+   "heard": "And one fine morning, its eyes lit up.",
+   "wer": 0.0,
+   "extra": 0,
+   "speech": [
+    0.0,
+    2.3
+   ],
+   "ok": true
+  }
+ ]
+}

@@ -1,0 +1,97 @@
+{
+ "voice": "conteur-en",
+ "langue": "en",
+ "casting_take": "1",
+ "take": 2,
+ "span": "l14-l18",
+ "engine": "Qwen3-TTS 1.7B Base, voix clonée depuis le casting (Apache-2.0)",
+ "reference": {
+  "from": "conteur-en-1",
+  "span": "l6-l7",
+  "start": 22.3,
+  "end": 28.08,
+  "text": "So Macro Arsenal made you a companion. And one fine morning… its eyes lit up!"
+ },
+ "lines": [
+  {
+   "id": "l14",
+   "text": "And sometimes… it even makes you smile.",
+   "tts": "And sometimes… it even makes you smile.",
+   "file": "conteur-en-c1-l14-p2.wav",
+   "seconds": 2.64,
+   "compute": 25,
+   "heard": "And sometimes it even makes you smile.",
+   "wer": 0.0,
+   "extra": 0,
+   "speech": [
+    0.0,
+    2.44
+   ],
+   "ok": true
+  },
+  {
+   "id": "l15",
+   "text": "Need some quiet? One click, and it steps aside. It comes back the moment you call.",
+   "tts": "Need some quiet? One click, and it steps aside. It comes back the moment you call.",
+   "file": "conteur-en-c1-l15-p2.wav",
+   "seconds": 6.56,
+   "compute": 56,
+   "heard": "Need some quiet? One click, and it steps aside. It comes back the moment you call.",
+   "wer": 0.0,
+   "extra": 0,
+   "speech": [
+    0.74,
+    6.4
+   ],
+   "ok": true
+  },
+  {
+   "id": "l16",
+   "text": "It doesn't have a name yet. You'll be the one to give it.",
+   "tts": "It doesn't have a name yet. You'll be the one to give it.",
+   "file": "conteur-en-c1-l16-p2.wav",
+   "seconds": 4.08,
+   "compute": 36,
+   "heard": "It doesn't have a name yet. You'll be the one to give it.",
+   "wer": 0.0,
+   "extra": 0,
+   "speech": [
+    0.62,
+    3.98
+   ],
+   "ok": true
+  },
+  {
+   "id": "l17",
+   "text": "Three questions a day to get to know each other. Fifteen with Founder. And with Arsenal… it's all yours.",
+   "tts": "Three questions a day to get to know each other. Fifteen with Founder. And with Arsenal… it's all yours.",
+   "file": "conteur-en-c1-l17-p2.wav",
+   "seconds": 7.52,
+   "compute": 63,
+   "heard": "Three questions a day to get to know each other. 15 with Founder, and with Arsenal, it's all yours.",
+   "wer": 0.0,
+   "extra": 0,
+   "speech": [
+    0.7,
+    7.4
+   ],
+   "ok": true
+  },
+  {
+   "id": "l18",
+   "text": "MACROARSENAL. Never trade alone again.",
+   "tts": "Macro Arsenal. Never trade alone again.",
+   "file": "conteur-en-c1-l18-p2.wav",
+   "seconds": 3.92,
+   "compute": 35,
+   "heard": "Macro Arsenal, never trade alone again.",
+   "wer": 0.0,
+   "extra": 0,
+   "speech": [
+    0.0,
+    3.72
+   ],
+   "ok": true
+  }
+ ]
+}
