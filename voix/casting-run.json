@@ -1,76 +1,132 @@
 {
- "_": "Casting n° 2 de Victor Castel (18/10/2026) : EN et ES refaits sur le modèle du FR 3 choisi par Kévin (voix chaude, grain, posée ; l'espagnol précédent était trop dynamique, aucun anglais ne lui plaisait).",
- "branche": "radio-casting2",
+ "_": "Casting de la voix off du film d'accueil 45 s (19/10/2026) : 3 voix de bande-annonce par langue, 2 prises.",
+ "branche": "bande-casting",
  "jobs": [
   {
-   "langue": "en",
-   "voix": "victor-en-c",
+   "langue": "fr",
+   "voix": "bande-fr-a",
    "prise": 1,
-   "texte": "radio/texte-en.json",
-   "actes": "essai"
+   "texte": "voix/texte-bande-fr.json",
+   "actes": "bande"
   },
   {
-   "langue": "en",
-   "voix": "victor-en-c",
+   "langue": "fr",
+   "voix": "bande-fr-a",
    "prise": 2,
-   "texte": "radio/texte-en.json",
-   "actes": "essai"
+   "texte": "voix/texte-bande-fr.json",
+   "actes": "bande"
   },
   {
-   "langue": "en",
-   "voix": "victor-en-d",
+   "langue": "fr",
+   "voix": "bande-fr-b",
    "prise": 1,
-   "texte": "radio/texte-en.json",
-   "actes": "essai"
+   "texte": "voix/texte-bande-fr.json",
+   "actes": "bande"
   },
   {
-   "langue": "en",
-   "voix": "victor-en-d",
+   "langue": "fr",
+   "voix": "bande-fr-b",
    "prise": 2,
-   "texte": "radio/texte-en.json",
-   "actes": "essai"
+   "texte": "voix/texte-bande-fr.json",
+   "actes": "bande"
   },
   {
-   "langue": "en",
-   "voix": "victor-en-e",
+   "langue": "fr",
+   "voix": "bande-fr-c",
    "prise": 1,
-   "texte": "radio/texte-en.json",
-   "actes": "essai"
+   "texte": "voix/texte-bande-fr.json",
+   "actes": "bande"
+  },
+  {
+   "langue": "fr",
+   "voix": "bande-fr-c",
+   "prise": 2,
+   "texte": "voix/texte-bande-fr.json",
+   "actes": "bande"
   },
   {
    "langue": "en",
-   "voix": "victor-en-e",
+   "voix": "bande-en-a",
+   "prise": 1,
+   "texte": "voix/texte-bande-en.json",
+   "actes": "bande"
+  },
+  {
+   "langue": "en",
+   "voix": "bande-en-a",
    "prise": 2,
-   "texte": "radio/texte-en.json",
-   "actes": "essai"
+   "texte": "voix/texte-bande-en.json",
+   "actes": "bande"
+  },
+  {
+   "langue": "en",
+   "voix": "bande-en-b",
+   "prise": 1,
+   "texte": "voix/texte-bande-en.json",
+   "actes": "bande"
+  },
+  {
+   "langue": "en",
+   "voix": "bande-en-b",
+   "prise": 2,
+   "texte": "voix/texte-bande-en.json",
+   "actes": "bande"
+  },
+  {
+   "langue": "en",
+   "voix": "bande-en-c",
+   "prise": 1,
+   "texte": "voix/texte-bande-en.json",
+   "actes": "bande"
+  },
+  {
+   "langue": "en",
+   "voix": "bande-en-c",
+   "prise": 2,
+   "texte": "voix/texte-bande-en.json",
+   "actes": "bande"
   },
   {
    "langue": "es",
-   "voix": "victor-es-c",
+   "voix": "bande-es-a",
    "prise": 1,
-   "texte": "radio/texte-es.json",
-   "actes": "essai"
+   "texte": "voix/texte-bande-es.json",
+   "actes": "bande"
   },
   {
    "langue": "es",
-   "voix": "victor-es-c",
+   "voix": "bande-es-a",
    "prise": 2,
-   "texte": "radio/texte-es.json",
-   "actes": "essai"
+   "texte": "voix/texte-bande-es.json",
+   "actes": "bande"
   },
   {
    "langue": "es",
-   "voix": "victor-es-d",
+   "voix": "bande-es-b",
    "prise": 1,
-   "texte": "radio/texte-es.json",
-   "actes": "essai"
+   "texte": "voix/texte-bande-es.json",
+   "actes": "bande"
   },
   {
    "langue": "es",
-   "voix": "victor-es-d",
+   "voix": "bande-es-b",
    "prise": 2,
-   "texte": "radio/texte-es.json",
-   "actes": "essai"
+   "texte": "voix/texte-bande-es.json",
+   "actes": "bande"
+  },
+  {
+   "langue": "es",
+   "voix": "bande-es-c",
+   "prise": 1,
+   "texte": "voix/texte-bande-es.json",
+   "actes": "bande"
+  },
+  {
+   "langue": "es",
+   "voix": "bande-es-c",
+   "prise": 2,
+   "texte": "voix/texte-bande-es.json",
+   "actes": "bande"
   }
  ]
 }

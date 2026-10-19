@@ -1,0 +1,63 @@
+{
+ "_": "Film d'accueil 45 s « bande-annonce » (19/10/2026, Kévin : « hyper puissant », « voix off puissante »). Casting de la voix off.",
+ "langue": "en",
+ "acts": [
+  {
+   "id": "bande",
+   "lines": [
+    {
+     "id": "b1",
+     "text": "Markets never sleep."
+    },
+    {
+     "id": "b2",
+     "text": "Tokyo opens. London takes over. New York shakes the world."
+    },
+    {
+     "id": "b3",
+     "text": "Every day, thousands of numbers. One question: which ones really matter?"
+    },
+    {
+     "id": "b4",
+     "text": "MACROARSENAL brings it all together. Live. In a single view.",
+     "tts": "Macro Arsenal brings it all together. Live. In a single view."
+    },
+    {
+     "id": "b5",
+     "text": "Every morning, our read on the markets. Every evening, the verdict. Nothing hidden."
+    },
+    {
+     "id": "b6",
+     "text": "And before every trade, Doji checks everything. Your plan. The levels. The calendar. Your risk."
+    },
+    {
+     "id": "b7",
+     "text": "The best tools in the market. In your hands."
+    },
+    {
+     "id": "b8",
+     "text": "MACROARSENAL. The terminal that changes the way you see trading.",
+     "tts": "Macro Arsenal. The terminal that changes the way you see trading."
+    }
+   ]
+  }
+ ],
+ "voices": [
+  {
+   "id": "bande-en-a",
+   "label": "EN, grave de cinéma (américain)",
+   "design": "A deep, powerful American male movie trailer narrator in his fifties: a very low, resonant bass voice with a touch of gravel and immense authority, the classic voice of Hollywood blockbuster trailers. Native General American accent. Close-microphone professional voice-over studio sound, rich low end, natural breathing, human and alive, never robotic."
+  },
+  {
+   "id": "bande-en-b",
+   "label": "EN, puissant et moderne (britannique)",
+   "design": "A commanding British male voice-over artist in his late thirties, the voice of premium technology launches and luxury car commercials: deep, intense, controlled and refined, with quiet power. Native received pronunciation, London. Close-microphone professional voice-over studio sound, rich low end, natural breathing, human and alive, never robotic."
+  },
+  {
+   "id": "bande-en-c",
+   "label": "EN, rauque et intense (américain)",
+   "design": "An American male voice-over artist in his forties with a dark, husky, gritty deep voice, intense and magnetic, like the narrator of a high-stakes thriller trailer. Native General American accent. Close-microphone professional voice-over studio sound, rich low end, natural breathing, human and alive, never robotic."
+  }
+ ],
+ "acting": "Read it like an epic, cinematic movie trailer voice-over for a world-class product: slow, deep and powerful, with long dramatic pauses between sentences. Short sentences land like hammer blows. Low, resonant chest voice, quiet intensity that builds steadily towards the end; the final line is grand, confident and unforgettable. Never shouting, never rushed, every word crystal clear."
+}
