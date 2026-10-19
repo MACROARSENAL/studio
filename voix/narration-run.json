@@ -1,13 +1,20 @@
 {
- "_": "Film d'accueil : phrase 7 refaite (Kévin, 19/10, 14 h 55 : « terminal de pro » répété deux fois) : « Toute la puissance des pros. Sans leur prix. »",
+ "_": "Film d'accueil : narration anglaise et espagnole, voix C « pub premium » (même style que le français choisi par Kévin).",
  "texte": "bande",
- "casting_branche": "motivation-casting",
+ "casting_branche": "motivation-casting-intl",
  "runs": [
   {
-   "langue": "fr",
-   "voice": "motiv-fr-c",
+   "langue": "en",
+   "voice": "motiv-en-c",
    "casting_take": 1,
-   "lines": "b7-b7",
+   "lines": "b1-b8",
+   "ref": "b1-b2"
+  },
+  {
+   "langue": "es",
+   "voice": "motiv-es-c",
+   "casting_take": 1,
+   "lines": "b1-b8",
    "ref": "b1-b2"
   }
  ],
