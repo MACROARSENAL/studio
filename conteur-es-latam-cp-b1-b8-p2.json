@@ -1,0 +1,606 @@
+{
+ "voice": "conteur-es-latam",
+ "langue": "es",
+ "casting_take": "p",
+ "take": 2,
+ "span": "b1-b8",
+ "engine": "Qwen3-TTS 1.7B Base, voix clonée depuis le casting (Apache-2.0)",
+ "reference": {
+  "from": "conteur-es-latam-p",
+  "span": "r1-r2",
+  "start": 0.0,
+  "end": 11.75,
+  "text": "Conoce el terminal de memoria, y vigila sus mercados, cada día. Cada mañana, tres citas le esperan: Mi mañana, el Sesgo del día, y el quiz."
+ },
+ "lines": [
+  {
+   "id": "b1",
+   "text": "Los mercados nunca duermen.",
+   "tts": "Los mercados nunca duermen.",
+   "file": "conteur-es-latam-cp-b1-p2.wav",
+   "seconds": 2.32,
+   "compute": 29,
+   "heard": "Los mercados nunca duermen.",
+   "wer": 0.0,
+   "extra": 0,
+   "speech": [
+    0.0,
+    2.3
+   ],
+   "words": [
+    [
+     "Los",
+     0.0,
+     0.96
+    ],
+    [
+     "mercados",
+     0.96,
+     1.5
+    ],
+    [
+     "nunca",
+     1.5,
+     1.82
+    ],
+    [
+     "duermen.",
+     1.82,
+     2.3
+    ]
+   ],
+   "ok": true
+  },
+  {
+   "id": "b2",
+   "text": "Tokio abre. Londres toma el relevo. Nueva York hace temblar al mundo.",
+   "tts": "Tokio abre. Londres toma el relevo. Nueva York hace temblar al mundo.",
+   "file": "conteur-es-latam-cp-b2-p2.wav",
+   "seconds": 4.64,
+   "compute": 48,
+   "heard": "Tokyo abre, Londres toma el relevo, Nueva York hace temblar al mundo.",
+   "wer": 0.083,
+   "extra": 1,
+   "speech": [
+    0.0,
+    4.48
+   ],
+   "words": [
+    [
+     "Tokyo",
+     0.0,
+     0.5
+    ],
+    [
+     "abre,",
+     0.5,
+     0.98
+    ],
+    [
+     "Londres",
+     1.34,
+     1.74
+    ],
+    [
+     "toma",
+     1.74,
+     1.96
+    ],
+    [
+     "el",
+     1.96,
+     2.16
+    ],
+    [
+     "relevo,",
+     2.16,
+     2.72
+    ],
+    [
+     "Nueva",
+     2.98,
+     3.18
+    ],
+    [
+     "York",
+     3.18,
+     3.42
+    ],
+    [
+     "hace",
+     3.42,
+     3.64
+    ],
+    [
+     "temblar",
+     3.64,
+     4.06
+    ],
+    [
+     "al",
+     4.06,
+     4.24
+    ],
+    [
+     "mundo.",
+     4.24,
+     4.48
+    ]
+   ],
+   "ok": false
+  },
+  {
+   "id": "b3",
+   "text": "Cada día, miles de cifras. Los demás terminales se las dan todas.",
+   "tts": "Cada día, miles de cifras. Los demás terminales se las dan todas.",
+   "file": "conteur-es-latam-cp-b3-p2.wav",
+   "seconds": 5.52,
+   "compute": 53,
+   "heard": "Cada día, miles de cifras. Los demás terminales se las dan todas.",
+   "wer": 0.0,
+   "extra": 0,
+   "speech": [
+    0.0,
+    5.38
+   ],
+   "words": [
+    [
+     "Cada",
+     0.0,
+     0.74
+    ],
+    [
+     "día,",
+     0.74,
+     1.22
+    ],
+    [
+     "miles",
+     1.52,
+     1.64
+    ],
+    [
+     "de",
+     1.64,
+     1.9
+    ],
+    [
+     "cifras.",
+     1.9,
+     2.76
+    ],
+    [
+     "Los",
+     3.38,
+     3.6
+    ],
+    [
+     "demás",
+     3.6,
+     3.94
+    ],
+    [
+     "terminales",
+     3.94,
+     4.52
+    ],
+    [
+     "se",
+     4.52,
+     4.64
+    ],
+    [
+     "las",
+     4.64,
+     4.82
+    ],
+    [
+     "dan",
+     4.82,
+     5.0
+    ],
+    [
+     "todas.",
+     5.0,
+     5.38
+    ]
+   ],
+   "ok": true
+  },
+  {
+   "id": "b4",
+   "text": "MACROARSENAL le dice cuáles importan. En tiempo real.",
+   "tts": "Macro Arsenal le dice cuáles importan. En tiempo real.",
+   "file": "conteur-es-latam-cp-b4-p2.wav",
+   "seconds": 4.72,
+   "compute": 47,
+   "heard": "Macro Arsenal le dice cuáles importan, en tiempo real.",
+   "wer": 0.0,
+   "extra": 0,
+   "speech": [
+    0.64,
+    4.5
+   ],
+   "words": [
+    [
+     "Macro",
+     0.64,
+     1.24
+    ],
+    [
+     "Arsenal",
+     1.24,
+     1.58
+    ],
+    [
+     "le",
+     1.58,
+     1.82
+    ],
+    [
+     "dice",
+     1.82,
+     2.08
+    ],
+    [
+     "cuáles",
+     2.08,
+     2.5
+    ],
+    [
+     "importan,",
+     2.5,
+     3.48
+    ],
+    [
+     "en",
+     3.74,
+     3.9
+    ],
+    [
+     "tiempo",
+     3.9,
+     4.2
+    ],
+    [
+     "real.",
+     4.2,
+     4.5
+    ]
+   ],
+   "ok": true
+  },
+  {
+   "id": "b5",
+   "text": "Cada mañana, nuestra lectura de los mercados. Cada noche, el veredicto, publicado. Incluso cuando nos equivocamos.",
+   "tts": "Cada mañana, nuestra lectura de los mercados. Cada noche, el veredicto, publicado. Incluso cuando nos equivocamos.",
+   "file": "conteur-es-latam-cp-b5-p2.wav",
+   "seconds": 8.8,
+   "compute": 78,
+   "heard": "Cada mañana, nuestra lectura de los mercados, cada noche, el veredicto publicado, incluso cuando nos equivocamos.",
+   "wer": 0.0,
+   "extra": 0,
+   "speech": [
+    0.0,
+    8.78
+   ],
+   "words": [
+    [
+     "Cada",
+     0.0,
+     0.78
+    ],
+    [
+     "mañana,",
+     0.78,
+     1.44
+    ],
+    [
+     "nuestra",
+     1.86,
+     1.98
+    ],
+    [
+     "lectura",
+     1.98,
+     2.44
+    ],
+    [
+     "de",
+     2.44,
+     2.58
+    ],
+    [
+     "los",
+     2.58,
+     2.76
+    ],
+    [
+     "mercados,",
+     2.76,
+     3.48
+    ],
+    [
+     "cada",
+     3.74,
+     3.88
+    ],
+    [
+     "noche,",
+     3.88,
+     4.28
+    ],
+    [
+     "el",
+     4.64,
+     4.74
+    ],
+    [
+     "veredicto",
+     4.74,
+     5.62
+    ],
+    [
+     "publicado,",
+     5.62,
+     6.5
+    ],
+    [
+     "incluso",
+     7.4,
+     7.64
+    ],
+    [
+     "cuando",
+     7.64,
+     7.9
+    ],
+    [
+     "nos",
+     7.9,
+     8.18
+    ],
+    [
+     "equivocamos.",
+     8.18,
+     8.78
+    ]
+   ],
+   "ok": true
+  },
+  {
+   "id": "b6",
+   "text": "Y antes de cada operación, Doji lo verifica todo. Su plan. Los niveles. El calendario. Su riesgo.",
+   "tts": "Y antes de cada operación, Doji lo verifica todo. Su plan. Los niveles. El calendario. Su riesgo.",
+   "file": "conteur-es-latam-cp-b6-p2.wav",
+   "seconds": 7.6,
+   "compute": 69,
+   "heard": "Y antes de cada operación, Doge lo verifica todo, su plan, los niveles, el calendario, su riesgo.",
+   "wer": 0.059,
+   "extra": 1,
+   "speech": [
+    0.0,
+    7.58
+   ],
+   "words": [
+    [
+     "Y",
+     0.0,
+     0.56
+    ],
+    [
+     "antes",
+     0.56,
+     0.9
+    ],
+    [
+     "de",
+     0.9,
+     1.12
+    ],
+    [
+     "cada",
+     1.12,
+     1.26
+    ],
+    [
+     "operación,",
+     1.26,
+     2.12
+    ],
+    [
+     "Doge",
+     2.42,
+     2.54
+    ],
+    [
+     "lo",
+     2.54,
+     2.78
+    ],
+    [
+     "verifica",
+     2.78,
+     3.2
+    ],
+    [
+     "todo,",
+     3.2,
+     3.56
+    ],
+    [
+     "su",
+     3.96,
+     4.1
+    ],
+    [
+     "plan,",
+     4.1,
+     4.38
+    ],
+    [
+     "los",
+     4.8,
+     5.02
+    ],
+    [
+     "niveles,",
+     5.02,
+     5.58
+    ],
+    [
+     "el",
+     5.9,
+     6.04
+    ],
+    [
+     "calendario,",
+     6.04,
+     6.68
+    ],
+    [
+     "su",
+     7.06,
+     7.14
+    ],
+    [
+     "riesgo.",
+     7.14,
+     7.58
+    ]
+   ],
+   "ok": true
+  },
+  {
+   "id": "b7",
+   "text": "Toda la potencia de los profesionales. Sin su precio.",
+   "tts": "Toda la potencia de los profesionales. Sin su precio.",
+   "file": "conteur-es-latam-cp-b7-p2.wav",
+   "seconds": 3.2,
+   "compute": 34,
+   "heard": "Toda la potencia de los profesionales, sin su precio.",
+   "wer": 0.0,
+   "extra": 0,
+   "speech": [
+    0.0,
+    3.1
+   ],
+   "words": [
+    [
+     "Toda",
+     0.0,
+     0.44
+    ],
+    [
+     "la",
+     0.44,
+     0.58
+    ],
+    [
+     "potencia",
+     0.58,
+     0.98
+    ],
+    [
+     "de",
+     0.98,
+     1.1
+    ],
+    [
+     "los",
+     1.1,
+     1.32
+    ],
+    [
+     "profesionales,",
+     1.32,
+     2.34
+    ],
+    [
+     "sin",
+     2.46,
+     2.58
+    ],
+    [
+     "su",
+     2.58,
+     2.84
+    ],
+    [
+     "precio.",
+     2.84,
+     3.1
+    ]
+   ],
+   "ok": true
+  },
+  {
+   "id": "b8",
+   "text": "MACROARSENAL. El terminal que cambia su visión del trading.",
+   "tts": "Macro Arsenal. El terminal que cambia su visión del trading.",
+   "file": "conteur-es-latam-cp-b8-p2.wav",
+   "seconds": 4.56,
+   "compute": 45,
+   "heard": "Macro Arsenal, el terminal que cambia su visión del trading.",
+   "wer": 0.0,
+   "extra": 0,
+   "speech": [
+    0.0,
+    4.42
+   ],
+   "words": [
+    [
+     "Macro",
+     0.0,
+     0.98
+    ],
+    [
+     "Arsenal,",
+     0.98,
+     1.46
+    ],
+    [
+     "el",
+     2.36,
+     2.52
+    ],
+    [
+     "terminal",
+     2.52,
+     2.84
+    ],
+    [
+     "que",
+     2.84,
+     3.1
+    ],
+    [
+     "cambia",
+     3.1,
+     3.4
+    ],
+    [
+     "su",
+     3.4,
+     3.56
+    ],
+    [
+     "visión",
+     3.56,
+     3.9
+    ],
+    [
+     "del",
+     3.9,
+     4.08
+    ],
+    [
+     "trading.",
+     4.08,
+     4.42
+    ]
+   ],
+   "ok": true
+  }
+ ]
+}

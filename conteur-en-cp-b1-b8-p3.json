@@ -1,0 +1,576 @@
+{
+ "voice": "conteur-en",
+ "langue": "en",
+ "casting_take": "p",
+ "take": 3,
+ "span": "b1-b8",
+ "engine": "Qwen3-TTS 1.7B Base, voix clonée depuis le casting (Apache-2.0)",
+ "reference": {
+  "from": "conteur-en-p",
+  "span": "r1-r2",
+  "start": 0.0,
+  "end": 11.62,
+  "text": "It knows the terminal by heart, and it keeps an eye on your markets, every day. Every morning, three things are waiting for you: My morning, the Daily Bias, and the quiz."
+ },
+ "lines": [
+  {
+   "id": "b1",
+   "text": "Markets never sleep.",
+   "tts": "Markets never sleep.",
+   "file": "conteur-en-cp-b1-p3.wav",
+   "seconds": 1.52,
+   "compute": 22,
+   "heard": "Markets never sleep.",
+   "wer": 0.0,
+   "extra": 0,
+   "speech": [
+    0.0,
+    1.42
+   ],
+   "words": [
+    [
+     "Markets",
+     0.0,
+     0.82
+    ],
+    [
+     "never",
+     0.82,
+     1.1
+    ],
+    [
+     "sleep.",
+     1.1,
+     1.42
+    ]
+   ],
+   "ok": true
+  },
+  {
+   "id": "b2",
+   "text": "Tokyo opens. London takes over. New York shakes the world.",
+   "tts": "Tokyo opens. London takes over. New York shakes the world.",
+   "file": "conteur-en-cp-b2-p3.wav",
+   "seconds": 3.76,
+   "compute": 40,
+   "heard": "Tokyo opens, London takes over, New York shakes the world.",
+   "wer": 0.0,
+   "extra": 0,
+   "speech": [
+    0.0,
+    3.66
+   ],
+   "words": [
+    [
+     "Tokyo",
+     0.0,
+     0.48
+    ],
+    [
+     "opens,",
+     0.48,
+     0.98
+    ],
+    [
+     "London",
+     1.28,
+     1.44
+    ],
+    [
+     "takes",
+     1.44,
+     1.78
+    ],
+    [
+     "over,",
+     1.78,
+     2.18
+    ],
+    [
+     "New",
+     2.48,
+     2.62
+    ],
+    [
+     "York",
+     2.62,
+     2.86
+    ],
+    [
+     "shakes",
+     2.86,
+     3.18
+    ],
+    [
+     "the",
+     3.18,
+     3.44
+    ],
+    [
+     "world.",
+     3.44,
+     3.66
+    ]
+   ],
+   "ok": true
+  },
+  {
+   "id": "b3",
+   "text": "Every day, thousands of numbers. Other terminals give you all of them.",
+   "tts": "Every day, thousands of numbers. Other terminals give you all of them.",
+   "file": "conteur-en-cp-b3-p3.wav",
+   "seconds": 4.64,
+   "compute": 49,
+   "heard": "Every day, thousands of numbers. Other terminals give you all of them.",
+   "wer": 0.0,
+   "extra": 0,
+   "speech": [
+    0.0,
+    4.54
+   ],
+   "words": [
+    [
+     "Every",
+     0.0,
+     0.46
+    ],
+    [
+     "day,",
+     0.46,
+     0.84
+    ],
+    [
+     "thousands",
+     1.38,
+     1.6
+    ],
+    [
+     "of",
+     1.6,
+     1.88
+    ],
+    [
+     "numbers.",
+     1.88,
+     2.28
+    ],
+    [
+     "Other",
+     3.02,
+     3.24
+    ],
+    [
+     "terminals",
+     3.24,
+     3.66
+    ],
+    [
+     "give",
+     3.66,
+     3.88
+    ],
+    [
+     "you",
+     3.88,
+     4.1
+    ],
+    [
+     "all",
+     4.1,
+     4.3
+    ],
+    [
+     "of",
+     4.3,
+     4.44
+    ],
+    [
+     "them.",
+     4.44,
+     4.54
+    ]
+   ],
+   "ok": true
+  },
+  {
+   "id": "b4",
+   "text": "MACROARSENAL tells you which ones matter. Live.",
+   "tts": "Macro Arsenal tells you which ones matter. Live.",
+   "file": "conteur-en-cp-b4-p3.wav",
+   "seconds": 3.68,
+   "compute": 40,
+   "heard": "Macro Arsenal tells you which ones matter. Live.",
+   "wer": 0.0,
+   "extra": 0,
+   "speech": [
+    0.0,
+    3.5
+   ],
+   "words": [
+    [
+     "Macro",
+     0.0,
+     0.88
+    ],
+    [
+     "Arsenal",
+     0.88,
+     1.22
+    ],
+    [
+     "tells",
+     1.22,
+     1.5
+    ],
+    [
+     "you",
+     1.5,
+     1.78
+    ],
+    [
+     "which",
+     1.78,
+     1.96
+    ],
+    [
+     "ones",
+     1.96,
+     2.2
+    ],
+    [
+     "matter.",
+     2.2,
+     2.68
+    ],
+    [
+     "Live.",
+     3.28,
+     3.5
+    ]
+   ],
+   "ok": true
+  },
+  {
+   "id": "b5",
+   "text": "Every morning, our read on the markets. Every evening, the verdict, published. Even when we're wrong.",
+   "tts": "Every morning, our read on the markets. Every evening, the verdict, published. Even when we're wrong.",
+   "file": "conteur-en-cp-b5-p3.wav",
+   "seconds": 5.76,
+   "compute": 55,
+   "heard": "Every morning our read on the markets, every evening the verdict published, even when we're wrong.",
+   "wer": 0.0,
+   "extra": 0,
+   "speech": [
+    0.0,
+    5.58
+   ],
+   "words": [
+    [
+     "Every",
+     0.0,
+     0.44
+    ],
+    [
+     "morning",
+     0.44,
+     0.76
+    ],
+    [
+     "our",
+     0.76,
+     1.12
+    ],
+    [
+     "read",
+     1.12,
+     1.28
+    ],
+    [
+     "on",
+     1.28,
+     1.48
+    ],
+    [
+     "the",
+     1.48,
+     1.66
+    ],
+    [
+     "markets,",
+     1.66,
+     2.02
+    ],
+    [
+     "every",
+     2.66,
+     2.82
+    ],
+    [
+     "evening",
+     2.82,
+     3.14
+    ],
+    [
+     "the",
+     3.14,
+     3.44
+    ],
+    [
+     "verdict",
+     3.44,
+     3.7
+    ],
+    [
+     "published,",
+     3.7,
+     4.22
+    ],
+    [
+     "even",
+     4.7,
+     4.88
+    ],
+    [
+     "when",
+     4.88,
+     5.08
+    ],
+    [
+     "we're",
+     5.08,
+     5.32
+    ],
+    [
+     "wrong.",
+     5.32,
+     5.58
+    ]
+   ],
+   "ok": true
+  },
+  {
+   "id": "b6",
+   "text": "And before every trade, Doji checks everything. Your plan. The levels. The calendar. Your risk.",
+   "tts": "And before every trade, Doji checks everything. Your plan. The levels. The calendar. Your risk.",
+   "file": "conteur-en-cp-b6-p3.wav",
+   "seconds": 6.48,
+   "compute": 61,
+   "heard": "And before every trade, Doji checks everything, your plan, the levels, the calendar, your risk.",
+   "wer": 0.0,
+   "extra": 0,
+   "speech": [
+    0.0,
+    6.4
+   ],
+   "words": [
+    [
+     "And",
+     0.0,
+     0.36
+    ],
+    [
+     "before",
+     0.36,
+     0.72
+    ],
+    [
+     "every",
+     0.72,
+     1.04
+    ],
+    [
+     "trade,",
+     1.04,
+     1.48
+    ],
+    [
+     "Doji",
+     1.86,
+     2.04
+    ],
+    [
+     "checks",
+     2.04,
+     2.36
+    ],
+    [
+     "everything,",
+     2.36,
+     2.88
+    ],
+    [
+     "your",
+     3.3,
+     3.48
+    ],
+    [
+     "plan,",
+     3.48,
+     3.8
+    ],
+    [
+     "the",
+     4.14,
+     4.3
+    ],
+    [
+     "levels,",
+     4.3,
+     4.58
+    ],
+    [
+     "the",
+     5.0,
+     5.18
+    ],
+    [
+     "calendar,",
+     5.18,
+     5.48
+    ],
+    [
+     "your",
+     5.98,
+     6.12
+    ],
+    [
+     "risk.",
+     6.12,
+     6.4
+    ]
+   ],
+   "ok": true
+  },
+  {
+   "id": "b7",
+   "text": "All the power of the pros. Without the price.",
+   "tts": "All the power of the pros. Without the price.",
+   "file": "conteur-en-cp-b7-p3.wav",
+   "seconds": 2.8,
+   "compute": 32,
+   "heard": "All the power of the pros, without the price.",
+   "wer": 0.0,
+   "extra": 0,
+   "speech": [
+    0.0,
+    2.56
+   ],
+   "words": [
+    [
+     "All",
+     0.0,
+     0.4
+    ],
+    [
+     "the",
+     0.4,
+     0.62
+    ],
+    [
+     "power",
+     0.62,
+     0.84
+    ],
+    [
+     "of",
+     0.84,
+     1.04
+    ],
+    [
+     "the",
+     1.04,
+     1.24
+    ],
+    [
+     "pros,",
+     1.24,
+     1.5
+    ],
+    [
+     "without",
+     1.86,
+     2.08
+    ],
+    [
+     "the",
+     2.08,
+     2.34
+    ],
+    [
+     "price.",
+     2.34,
+     2.56
+    ]
+   ],
+   "ok": true
+  },
+  {
+   "id": "b8",
+   "text": "MACROARSENAL. The terminal that changes how you see trading.",
+   "tts": "Macro Arsenal. The terminal that changes how you see trading.",
+   "file": "conteur-en-cp-b8-p3.wav",
+   "seconds": 3.92,
+   "compute": 41,
+   "heard": "Macro Arsenal, the terminal that changes how you see trading.",
+   "wer": 0.0,
+   "extra": 0,
+   "speech": [
+    0.0,
+    3.7
+   ],
+   "words": [
+    [
+     "Macro",
+     0.0,
+     0.68
+    ],
+    [
+     "Arsenal,",
+     0.68,
+     1.1
+    ],
+    [
+     "the",
+     1.66,
+     1.82
+    ],
+    [
+     "terminal",
+     1.82,
+     2.14
+    ],
+    [
+     "that",
+     2.14,
+     2.4
+    ],
+    [
+     "changes",
+     2.4,
+     2.76
+    ],
+    [
+     "how",
+     2.76,
+     2.98
+    ],
+    [
+     "you",
+     2.98,
+     3.2
+    ],
+    [
+     "see",
+     3.2,
+     3.42
+    ],
+    [
+     "trading.",
+     3.42,
+     3.7
+    ]
+   ],
+   "ok": true
+  }
+ ]
+}
