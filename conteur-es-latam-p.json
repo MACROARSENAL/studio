@@ -1,0 +1,22 @@
+{
+ "voice": "conteur-es-latam",
+ "take": "p",
+ "note": "Référence de ton « présentation » (film court du 18/10 validé par Kévin), pas le ton du conte.",
+ "text": "Conoce el terminal de memoria, y vigila sus mercados, cada día. Cada mañana, tres citas le esperan: Mi mañana, el Sesgo del día, y el quiz.",
+ "lines": [
+  {
+   "id": "r1",
+   "text": "Conoce el terminal de memoria, y vigila sus mercados, cada día.",
+   "tts": "Conoce el terminal de memoria, y vigila sus mercados, cada día.",
+   "start": 0.05,
+   "end": 4.32
+  },
+  {
+   "id": "r2",
+   "text": "Cada mañana, tres citas le esperan: Mi mañana, el Sesgo del día, y el quiz.",
+   "tts": "Cada mañana, tres citas le esperan: Mi mañana, el Sesgo del día, y el quiz.",
+   "start": 4.87,
+   "end": 11.4
+  }
+ ]
+}

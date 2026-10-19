@@ -1,0 +1,22 @@
+{
+ "voice": "conteur-en",
+ "take": "p",
+ "note": "Référence de ton « présentation » (film court du 18/10 validé par Kévin), pas le ton du conte.",
+ "text": "It knows the terminal by heart, and it keeps an eye on your markets, every day. Every morning, three things are waiting for you: My morning, the Daily Bias, and the quiz.",
+ "lines": [
+  {
+   "id": "r1",
+   "text": "It knows the terminal by heart, and it keeps an eye on your markets, every day.",
+   "tts": "It knows the terminal by heart, and it keeps an eye on your markets, every day.",
+   "start": 0.05,
+   "end": 4.92
+  },
+  {
+   "id": "r2",
+   "text": "Every morning, three things are waiting for you: My morning, the Daily Bias, and the quiz.",
+   "tts": "Every morning, three things are waiting for you: My morning, the Daily Bias, and the quiz.",
+   "start": 5.47,
+   "end": 11.27
+  }
+ ]
+}
