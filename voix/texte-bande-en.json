@@ -57,6 +57,24 @@
    "id": "bande-en-c",
    "label": "EN, rauque et intense (américain)",
    "design": "An American male voice-over artist in his forties with a dark, husky, gritty deep voice, intense and magnetic, like the narrator of a high-stakes thriller trailer. Native General American accent. Close-microphone professional voice-over studio sound, rich low end, natural breathing, human and alive, never robotic."
+  },
+  {
+   "id": "motiv-en-a",
+   "label": "EN, motivation brute et vraie",
+   "design": "An American man in his late thirties with a deep, warm, slightly raspy voice, the narrator of viral motivational videos: real, raw and human, speaking from the heart with total conviction. Native General American accent. Recorded close to a high-end studio microphone, natural breathing, real human texture and small imperfections, never robotic, never synthetic.",
+   "acting": "Deliver it like the voice-over of a viral motivational video: natural, human and conversational, never theatrical, never announcer-like. Speak with real conviction and energy, a lively, dynamic rhythm with short punchy pauses, stress the key words, and let the intensity build up to a powerful, inspiring last line. Sounds like a real person talking from the heart, never shouting."
+  },
+  {
+   "id": "motiv-en-b",
+   "label": "EN, coach énergique",
+   "design": "An American man around thirty with a clear, powerful and energetic voice, like a top sports coach giving the speech before the final: intense, driven, inspiring and completely natural. Native General American accent. Recorded close to a high-end studio microphone, natural breathing, real human texture and small imperfections, never robotic, never synthetic.",
+   "acting": "Deliver it like the voice-over of a viral motivational video: natural, human and conversational, never theatrical, never announcer-like. Speak with real conviction and energy, a lively, dynamic rhythm with short punchy pauses, stress the key words, and let the intensity build up to a powerful, inspiring last line. Sounds like a real person talking from the heart, never shouting."
+  },
+  {
+   "id": "motiv-en-c",
+   "label": "EN, pub premium moderne",
+   "design": "An American man in his early forties with a rich, grounded baritone, the voice of a premium sports brand advertisement: confident, punchy, modern and natural, with a hint of grit. Native General American accent. Recorded close to a high-end studio microphone, natural breathing, real human texture and small imperfections, never robotic, never synthetic.",
+   "acting": "Deliver it like the voice-over of a viral motivational video: natural, human and conversational, never theatrical, never announcer-like. Speak with real conviction and energy, a lively, dynamic rhythm with short punchy pauses, stress the key words, and let the intensity build up to a powerful, inspiring last line. Sounds like a real person talking from the heart, never shouting."
   }
  ],
  "acting": "Read it like an epic, cinematic movie trailer voice-over for a world-class product: slow, deep and powerful, with long dramatic pauses between sentences. Short sentences land like hammer blows. Low, resonant chest voice, quiet intensity that builds steadily towards the end; the final line is grand, confident and unforgettable. Never shouting, never rushed, every word crystal clear."
