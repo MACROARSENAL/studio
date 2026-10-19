@@ -15,12 +15,12 @@
     },
     {
      "id": "b3",
-     "text": "Cada día, miles de cifras. Los demás terminales te las dan todas."
+     "text": "Cada día, miles de cifras. Los demás terminales se las dan todas."
     },
     {
      "id": "b4",
-     "text": "MACROARSENAL te dice cuáles importan. En tiempo real.",
-     "tts": "Macro Arsenal te dice cuáles importan. En tiempo real."
+     "text": "MACROARSENAL le dice cuáles importan. En tiempo real.",
+     "tts": "Macro Arsenal le dice cuáles importan. En tiempo real."
     },
     {
      "id": "b5",
@@ -28,7 +28,7 @@
     },
     {
      "id": "b6",
-     "text": "Y antes de cada operación, Doji lo verifica todo. Tu plan. Los niveles. El calendario. Tu riesgo."
+     "text": "Y antes de cada operación, Doji lo verifica todo. Su plan. Los niveles. El calendario. Su riesgo."
     },
     {
      "id": "b7",
@@ -36,8 +36,8 @@
     },
     {
      "id": "b8",
-     "text": "MACROARSENAL. El terminal que cambia tu forma de ver el trading.",
-     "tts": "Macro Arsenal. El terminal que cambia tu forma de ver el trading."
+     "text": "MACROARSENAL. El terminal que cambia su visión del trading.",
+     "tts": "Macro Arsenal. El terminal que cambia su visión del trading."
     }
    ]
   }
