@@ -1,27 +1,70 @@
 {
- "_": "Film court : 4 phrases nouvelles en FR / EN / ES, voix choisie par Kévin pour chaque langue (référence de ton : « Alors… ses yeux se sont allumés ! »).",
- "texte": "court",
+ "_": "Film d'accueil 45 s : narration complète (texte final) avec les voix du casting de bande-annonce, 3 prises par phrase.",
+ "texte": "bande",
+ "casting_branche": "bande-casting",
  "runs": [
   {
    "langue": "fr",
-   "voice": "conteur",
+   "voice": "bande-fr-a",
    "casting_take": 1,
-   "lines": "c1-c4",
-   "ref": "l6-l7"
+   "lines": "b1-b8",
+   "ref": "b1-b2"
+  },
+  {
+   "langue": "fr",
+   "voice": "bande-fr-b",
+   "casting_take": 1,
+   "lines": "b1-b8",
+   "ref": "b1-b2"
+  },
+  {
+   "langue": "fr",
+   "voice": "bande-fr-c",
+   "casting_take": 1,
+   "lines": "b1-b8",
+   "ref": "b1-b2"
   },
   {
    "langue": "en",
-   "voice": "conteur-en",
+   "voice": "bande-en-a",
    "casting_take": 1,
-   "lines": "c1-c4",
-   "ref": "l6-l7"
+   "lines": "b1-b8",
+   "ref": "b1-b2"
+  },
+  {
+   "langue": "en",
+   "voice": "bande-en-b",
+   "casting_take": 1,
+   "lines": "b1-b8",
+   "ref": "b1-b2"
+  },
+  {
+   "langue": "en",
+   "voice": "bande-en-c",
+   "casting_take": 2,
+   "lines": "b1-b8",
+   "ref": "b1-b2"
   },
   {
    "langue": "es",
-   "voice": "conteur-es-latam",
+   "voice": "bande-es-a",
    "casting_take": 1,
-   "lines": "c1-c4",
-   "ref": "l6-l7"
+   "lines": "b1-b8",
+   "ref": "b1-b2"
+  },
+  {
+   "langue": "es",
+   "voice": "bande-es-b",
+   "casting_take": 1,
+   "lines": "b1-b8",
+   "ref": "b1-b2"
+  },
+  {
+   "langue": "es",
+   "voice": "bande-es-c",
+   "casting_take": 1,
+   "lines": "b1-b8",
+   "ref": "b1-b2"
   }
  ],
  "takes": [

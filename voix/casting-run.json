@@ -6,42 +6,42 @@
    "langue": "fr",
    "voix": "bande-fr-a",
    "prise": 1,
-   "texte": "voix/texte-bande-fr.json",
+   "texte": "voix/texte-bande.json",
    "actes": "bande"
   },
   {
    "langue": "fr",
    "voix": "bande-fr-a",
    "prise": 2,
-   "texte": "voix/texte-bande-fr.json",
+   "texte": "voix/texte-bande.json",
    "actes": "bande"
   },
   {
    "langue": "fr",
    "voix": "bande-fr-b",
    "prise": 1,
-   "texte": "voix/texte-bande-fr.json",
+   "texte": "voix/texte-bande.json",
    "actes": "bande"
   },
   {
    "langue": "fr",
    "voix": "bande-fr-b",
    "prise": 2,
-   "texte": "voix/texte-bande-fr.json",
+   "texte": "voix/texte-bande.json",
    "actes": "bande"
   },
   {
    "langue": "fr",
    "voix": "bande-fr-c",
    "prise": 1,
-   "texte": "voix/texte-bande-fr.json",
+   "texte": "voix/texte-bande.json",
    "actes": "bande"
   },
   {
    "langue": "fr",
    "voix": "bande-fr-c",
    "prise": 2,
-   "texte": "voix/texte-bande-fr.json",
+   "texte": "voix/texte-bande.json",
    "actes": "bande"
   },
   {

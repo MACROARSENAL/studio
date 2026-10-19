@@ -24,8 +24,8 @@ jobs:
           import json
           R = json.load(open('voix/narration-run.json'))
           if 'runs' in R:  # plusieurs langues d'un coup (film court)
-              inc = [{'voix': r['voice'], 'casting': str(r['casting_take']), 'lignes': r['lines'], 'ref': r['ref'], 'prise': p, 'langue': r['langue'], 'texte': R.get('texte', '')}
-                     for r in R['runs'] for p in R['takes']]
+              inc = [{'voix': r['voice'], 'casting': str(r['casting_take']), 'lignes': r['lines'], 'ref': r['ref'], 'prise': p, 'langue': r['langue'], 'texte': R.get('texte', ''),
+                      'cbranche': R.get('casting_branche', '')} for r in R['runs'] for p in R['takes']]
           else:
               inc = [{'voix': v['voice'], 'casting': str(v['casting_take']), 'lignes': s['lines'], 'ref': s['ref'], 'prise': p, 'langue': R.get('langue', 'fr'), 'texte': R.get('texte', '')}
                      for v in R['voices'] for s in R['spans'] for p in R['takes']]
@@ -43,7 +43,7 @@ jobs:
       - uses: actions/checkout@v4
       - uses: actions/checkout@v4
         with:
-          ref: ${{ matrix.langue == 'fr' && 'casting' || 'casting-intl' }}
+          ref: ${{ matrix.cbranche || (matrix.langue == 'fr' && 'casting' || 'casting-intl') }}
           path: casting
       - uses: actions/setup-python@v5
         with:

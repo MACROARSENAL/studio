@@ -1,5 +1,5 @@
 {
- "_": "Film d'accueil 45 s « bande-annonce » (19/10/2026, Kévin : « hyper puissant », « voix off puissante »). Casting de la voix off.",
+ "_": "Film d'accueil 45 s « bande-annonce » (19/10/2026). Texte validé par Kévin le 19/10 à 14 h 23 : « pourquoi nous et pas un autre terminal » (on trie, on publie nos résultats même quand on a tort, le niveau pro sans le prix pro). Le casting (branche bande-casting) a été lu avec la première version du texte.",
  "langue": "en",
  "acts": [
   {
@@ -15,16 +15,16 @@
     },
     {
      "id": "b3",
-     "text": "Every day, thousands of numbers. One question: which ones really matter?"
+     "text": "Every day, thousands of numbers. Other terminals give you all of them."
     },
     {
      "id": "b4",
-     "text": "MACROARSENAL brings it all together. Live. In a single view.",
-     "tts": "Macro Arsenal brings it all together. Live. In a single view."
+     "text": "MACROARSENAL tells you which ones matter. Live.",
+     "tts": "Macro Arsenal tells you which ones matter. Live."
     },
     {
      "id": "b5",
-     "text": "Every morning, our read on the markets. Every evening, the verdict. Nothing hidden."
+     "text": "Every morning, our read on the markets. Every evening, the verdict, published. Even when we're wrong."
     },
     {
      "id": "b6",
@@ -32,7 +32,7 @@
     },
     {
      "id": "b7",
-     "text": "The best tools in the market. In your hands."
+     "text": "The power of a pro terminal. Without the price of a pro terminal."
     },
     {
      "id": "b8",
