@@ -1,131 +1,68 @@
 {
- "_": "Casting de la voix off du film d'accueil 45 s (19/10/2026) : 3 voix de bande-annonce par langue, 2 prises.",
- "branche": "bande-casting",
+ "_": "Casting n° 2 de la voix off du film d'accueil (19/10/2026) : Kévin trouve les voix de bande-annonce « trop IA », il veut « une voix naturelle, un peu plus dynamique », « style motivation ».",
+ "branche": "motivation-casting",
  "jobs": [
   {
    "langue": "fr",
-   "voix": "bande-fr-a",
+   "voix": "motiv-fr-a",
    "prise": 1,
    "texte": "voix/texte-bande.json",
    "actes": "bande"
   },
   {
    "langue": "fr",
-   "voix": "bande-fr-a",
+   "voix": "motiv-fr-a",
    "prise": 2,
    "texte": "voix/texte-bande.json",
    "actes": "bande"
   },
   {
    "langue": "fr",
-   "voix": "bande-fr-b",
+   "voix": "motiv-fr-a",
+   "prise": 3,
+   "texte": "voix/texte-bande.json",
+   "actes": "bande"
+  },
+  {
+   "langue": "fr",
+   "voix": "motiv-fr-b",
    "prise": 1,
    "texte": "voix/texte-bande.json",
    "actes": "bande"
   },
   {
    "langue": "fr",
-   "voix": "bande-fr-b",
+   "voix": "motiv-fr-b",
    "prise": 2,
    "texte": "voix/texte-bande.json",
    "actes": "bande"
   },
   {
    "langue": "fr",
-   "voix": "bande-fr-c",
+   "voix": "motiv-fr-b",
+   "prise": 3,
+   "texte": "voix/texte-bande.json",
+   "actes": "bande"
+  },
+  {
+   "langue": "fr",
+   "voix": "motiv-fr-c",
    "prise": 1,
    "texte": "voix/texte-bande.json",
    "actes": "bande"
   },
   {
    "langue": "fr",
-   "voix": "bande-fr-c",
+   "voix": "motiv-fr-c",
    "prise": 2,
    "texte": "voix/texte-bande.json",
    "actes": "bande"
   },
   {
-   "langue": "en",
-   "voix": "bande-en-a",
-   "prise": 1,
-   "texte": "voix/texte-bande-en.json",
-   "actes": "bande"
-  },
-  {
-   "langue": "en",
-   "voix": "bande-en-a",
-   "prise": 2,
-   "texte": "voix/texte-bande-en.json",
-   "actes": "bande"
-  },
-  {
-   "langue": "en",
-   "voix": "bande-en-b",
-   "prise": 1,
-   "texte": "voix/texte-bande-en.json",
-   "actes": "bande"
-  },
-  {
-   "langue": "en",
-   "voix": "bande-en-b",
-   "prise": 2,
-   "texte": "voix/texte-bande-en.json",
-   "actes": "bande"
-  },
-  {
-   "langue": "en",
-   "voix": "bande-en-c",
-   "prise": 1,
-   "texte": "voix/texte-bande-en.json",
-   "actes": "bande"
-  },
-  {
-   "langue": "en",
-   "voix": "bande-en-c",
-   "prise": 2,
-   "texte": "voix/texte-bande-en.json",
-   "actes": "bande"
-  },
-  {
-   "langue": "es",
-   "voix": "bande-es-a",
-   "prise": 1,
-   "texte": "voix/texte-bande-es.json",
-   "actes": "bande"
-  },
-  {
-   "langue": "es",
-   "voix": "bande-es-a",
-   "prise": 2,
-   "texte": "voix/texte-bande-es.json",
-   "actes": "bande"
-  },
-  {
-   "langue": "es",
-   "voix": "bande-es-b",
-   "prise": 1,
-   "texte": "voix/texte-bande-es.json",
-   "actes": "bande"
-  },
-  {
-   "langue": "es",
-   "voix": "bande-es-b",
-   "prise": 2,
-   "texte": "voix/texte-bande-es.json",
-   "actes": "bande"
-  },
-  {
-   "langue": "es",
-   "voix": "bande-es-c",
-   "prise": 1,
-   "texte": "voix/texte-bande-es.json",
-   "actes": "bande"
-  },
-  {
-   "langue": "es",
-   "voix": "bande-es-c",
-   "prise": 2,
-   "texte": "voix/texte-bande-es.json",
+   "langue": "fr",
+   "voix": "motiv-fr-c",
+   "prise": 3,
+   "texte": "voix/texte-bande.json",
    "actes": "bande"
   }
  ]
