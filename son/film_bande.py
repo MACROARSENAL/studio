@@ -19,17 +19,21 @@ sys.path.insert(0, HERE)
 from lib import SR, compress, db, deess, eq, fade, impulse, limiter, load, loudness, place, reverb, save  # noqa: E402
 
 LANG, NDIR, VOICE, OUT = sys.argv[1:5]
+TEMPO = float(os.environ.get('TEMPO', '1.0'))
 os.makedirs(OUT, exist_ok=True)
 FPS = 30
 BAR, BEAT = 2.0, 0.5
 IDS = [f'b{i}' for i in range(1, 9)]
 
 # --- 1. Choix des prises ------------------------------------------------------------------------------------------------
+TEXTE = {l['id']: l['text'] for l in json.load(open(os.path.join(HERE, '..', 'voix', 'texte-bande.json' if LANG == 'fr' else f'texte-bande-{LANG}.json'),
+                                                     encoding='utf-8'))['acts'][0]['lines']}
 takes = {}
-for man in sorted(glob.glob(os.path.join(NDIR, f'{VOICE}-c*-b1-b8-p*.json'))):
+for man in sorted(glob.glob(os.path.join(NDIR, f'{VOICE}-c*-b*-p*.json'))):   # narration complète et phrases refaites
     M = json.load(open(man, encoding='utf-8'))
     for l in M['lines']:
-        takes.setdefault(l['id'], []).append(l)
+        if l['text'] == TEXTE[l['id']]:          # seulement les prises du texte en vigueur
+            takes.setdefault(l['id'], []).append(l)
 chosen = {}
 for i in IDS:
     c = takes.get(i, [])
@@ -60,6 +64,12 @@ for i in IDS:
     l = chosen[i]
     x = load(os.path.join(NDIR, l['file']))
     a, b = l['speech']
+    if TEMPO != 1.0:   # débit légèrement resserré (sans changer la hauteur de la voix), pour tenir la durée du film
+        tmp = os.path.join(OUT, f'_tempo-{i}.wav'); save(tmp, x)
+        subprocess.run(['ffmpeg', '-loglevel', 'error', '-y', '-i', tmp, '-af', f'atempo={TEMPO}', '-ar', str(SR), tmp + '.wav'], check=True)
+        x = load(tmp + '.wav'); os.remove(tmp); os.remove(tmp + '.wav')
+        a, b = a / TEMPO, b / TEMPO
+        l = dict(l, words=[[w[0], w[1] / TEMPO, w[2] / TEMPO] for w in (l.get('words') or [])])
     a0 = max(0.0, a - 0.06)
     x = x[int(a0 * SR):int((b + 0.22) * SR)]
     x = fade(x, 0.01, 0.12)
