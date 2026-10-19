@@ -1,0 +1,78 @@
+{
+ "voice": "bande-fr-b",
+ "langue": "fr",
+ "label": "FR, puissant et moderne",
+ "take": 1,
+ "acts": [
+  "bande"
+ ],
+ "engine": "Qwen3-TTS 1.7B VoiceDesign (Apache-2.0)",
+ "design": "A commanding French male voice-over artist in his late thirties, the voice of premium technology and luxury car commercials: deep, intense, controlled and modern, with quiet power and magnetic charisma. Perfect native Parisian French diction. Close-microphone professional voice-over studio sound, rich low end, natural breathing, human and alive, never robotic.",
+ "acting": "Read it like an epic, cinematic movie trailer voice-over for a world-class product: slow, deep and powerful, with long dramatic pauses between sentences. Short sentences land like hammer blows. Low, resonant chest voice, quiet intensity that builds steadily towards the end; the final line is grand, confident and unforgettable. Never shouting, never rushed, every word crystal clear.",
+ "sr": 24000,
+ "seconds": 39.84,
+ "compute": 334,
+ "text": "Les marchés ne dorment jamais. Tokyo ouvre. Londres prend le relais. New York fait trembler le monde. Chaque jour, des milliers de chiffres. Une seule question : lesquels comptent vraiment ? Macro Arsenal réunit tout. En direct. En une seule vue. Chaque matin, notre lecture des marchés. Chaque soir, le verdict. Sans rien cacher. Et avant chaque trade, Doji vérifie tout. Votre plan. Les niveaux. Le calendrier. Votre risque. Les meilleurs outils du marché. Entre vos mains. Macro Arsenal. Le terminal qui change votre vision du trading.",
+ "lines": [
+  {
+   "id": "b1",
+   "text": "Les marchés ne dorment jamais.",
+   "tts": "Les marchés ne dorment jamais.",
+   "start": 0.0,
+   "end": 1.56
+  },
+  {
+   "id": "b2",
+   "text": "Tokyo ouvre. Londres prend le relais. New York fait trembler le monde.",
+   "tts": "Tokyo ouvre. Londres prend le relais. New York fait trembler le monde.",
+   "start": 2.46,
+   "end": 7.38
+  },
+  {
+   "id": "b3",
+   "text": "Chaque jour, des milliers de chiffres. Une seule question : lesquels comptent vraiment ?",
+   "tts": "Chaque jour, des milliers de chiffres. Une seule question : lesquels comptent vraiment ?",
+   "start": 8.04,
+   "end": 14.18
+  },
+  {
+   "id": "b4",
+   "text": "MACROARSENAL réunit tout. En direct. En une seule vue.",
+   "tts": "Macro Arsenal réunit tout. En direct. En une seule vue.",
+   "start": 14.66,
+   "end": 18.6
+  },
+  {
+   "id": "b5",
+   "text": "Chaque matin, notre lecture des marchés. Chaque soir, le verdict. Sans rien cacher.",
+   "tts": "Chaque matin, notre lecture des marchés. Chaque soir, le verdict. Sans rien cacher.",
+   "start": 19.14,
+   "end": 24.94
+  },
+  {
+   "id": "b6",
+   "text": "Et avant chaque trade, Doji vérifie tout. Votre plan. Les niveaux. Le calendrier. Votre risque.",
+   "tts": "Et avant chaque trade, Doji vérifie tout. Votre plan. Les niveaux. Le calendrier. Votre risque.",
+   "start": 25.56,
+   "end": 32.24
+  },
+  {
+   "id": "b7",
+   "text": "Les meilleurs outils du marché. Entre vos mains.",
+   "tts": "Les meilleurs outils du marché. Entre vos mains.",
+   "start": 32.84,
+   "end": 35.42
+  },
+  {
+   "id": "b8",
+   "text": "MACROARSENAL. Le terminal qui change votre vision du trading.",
+   "tts": "Macro Arsenal. Le terminal qui change votre vision du trading.",
+   "start": 35.96,
+   "end": 39.58
+  }
+ ],
+ "heard": "Les marchés ne dorment jamais, Tokyo ouvre, Londres prend le relais, New York fait trembler le monde. Chaque jour, des milliers de chiffres, une seule question, lesquelles comptent vraiment, Macro Arsenal réunit tout, en direct, en une seule vue, chaque matin, notre lecture des marchés, chaque soir, le verdict, sans rien cacher, et avant chaque trade, Doji vérifie tout, votre plan, les niveaux, le calendrier, votre risque, les meilleurs outils du marché, entre vos mains, Macro Arsenal, le terminal qui change votre vision du trading.",
+ "wer": 0.012,
+ "extra": 1,
+ "ok": true
+}

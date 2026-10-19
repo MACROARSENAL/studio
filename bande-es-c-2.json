@@ -1,0 +1,78 @@
+{
+ "voice": "bande-es-c",
+ "langue": "es",
+ "label": "ES, grave de cinéma (Espagne)",
+ "take": 2,
+ "acts": [
+  "bande"
+ ],
+ "engine": "Qwen3-TTS 1.7B VoiceDesign (Apache-2.0)",
+ "design": "A deep, powerful male movie trailer narrator from Spain in his fifties: a very low, resonant bass voice with authority, the voice of blockbuster trailers dubbed in Spain. Native Castilian Spanish accent from Madrid. Close-microphone professional voice-over studio sound, rich low end, natural breathing, human and alive, never robotic.",
+ "acting": "Read it like an epic, cinematic movie trailer voice-over for a world-class product: slow, deep and powerful, with long dramatic pauses between sentences. Short sentences land like hammer blows. Low, resonant chest voice, quiet intensity that builds steadily towards the end; the final line is grand, confident and unforgettable. Never shouting, never rushed, every word crystal clear.",
+ "sr": 24000,
+ "seconds": 51.12,
+ "compute": 413,
+ "text": "Los mercados nunca duermen. Tokio abre. Londres toma el relevo. Nueva York hace temblar al mundo. Cada día, miles de cifras. Una sola pregunta: ¿cuáles importan de verdad? Macro Arsenal lo reúne todo. En tiempo real. En una sola vista. Cada mañana, nuestra lectura de los mercados. Cada noche, el veredicto. Sin esconder nada. Y antes de cada operación, Doji lo verifica todo. Tu plan. Los niveles. El calendario. Tu riesgo. Las mejores herramientas del mercado. En tus manos. Macro Arsenal. El terminal que cambia tu forma de ver el trading.",
+ "lines": [
+  {
+   "id": "b1",
+   "text": "Los mercados nunca duermen.",
+   "tts": "Los mercados nunca duermen.",
+   "start": 0.0,
+   "end": 2.84
+  },
+  {
+   "id": "b2",
+   "text": "Tokio abre. Londres toma el relevo. Nueva York hace temblar al mundo.",
+   "tts": "Tokio abre. Londres toma el relevo. Nueva York hace temblar al mundo.",
+   "start": 3.5,
+   "end": 9.12
+  },
+  {
+   "id": "b3",
+   "text": "Cada día, miles de cifras. Una sola pregunta: ¿cuáles importan de verdad?",
+   "tts": "Cada día, miles de cifras. Una sola pregunta: ¿cuáles importan de verdad?",
+   "start": 9.76,
+   "end": 16.5
+  },
+  {
+   "id": "b4",
+   "text": "MACROARSENAL lo reúne todo. En tiempo real. En una sola vista.",
+   "tts": "Macro Arsenal lo reúne todo. En tiempo real. En una sola vista.",
+   "start": 17.42,
+   "end": 23.28
+  },
+  {
+   "id": "b5",
+   "text": "Cada mañana, nuestra lectura de los mercados. Cada noche, el veredicto. Sin esconder nada.",
+   "tts": "Cada mañana, nuestra lectura de los mercados. Cada noche, el veredicto. Sin esconder nada.",
+   "start": 23.89,
+   "end": 32.02
+  },
+  {
+   "id": "b6",
+   "text": "Y antes de cada operación, Doji lo verifica todo. Tu plan. Los niveles. El calendario. Tu riesgo.",
+   "tts": "Y antes de cada operación, Doji lo verifica todo. Tu plan. Los niveles. El calendario. Tu riesgo.",
+   "start": 32.74,
+   "end": 41.94
+  },
+  {
+   "id": "b7",
+   "text": "Las mejores herramientas del mercado. En tus manos.",
+   "tts": "Las mejores herramientas del mercado. En tus manos.",
+   "start": 42.4,
+   "end": 46.1
+  },
+  {
+   "id": "b8",
+   "text": "MACROARSENAL. El terminal que cambia tu forma de ver el trading.",
+   "tts": "Macro Arsenal. El terminal que cambia tu forma de ver el trading.",
+   "start": 46.84,
+   "end": 50.94
+  }
+ ],
+ "heard": "Los mercados nunca duermen, Tokyo abre, Londres toma el relevo, Nueva York hace temblar al mundo, cada día miles de cifras. Una sola pregunta, ¿cuáles importan de verdad? Macro Arsenal lo reúne todo, en tiempo real, en una sola vista. Cada mañana, nuestra lectura de los mercados, cada noche, el veredicto, sin esconder nada, y antes de cada operación, Dogey lo verifica todo. Tu plan, los niveles, el calendario, tu riesgo, las mejores herramientas del mercado, en tus manos, Macro Arsenal, el terminal que cambia tu forma de ver el trading.",
+ "wer": 0.022,
+ "extra": 2,
+ "ok": true
+}
