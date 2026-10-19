@@ -1,5 +1,5 @@
 {
- "_": "Film d'accueil : narration avec la voix C « pub premium » choisie par Kévin (19/10, 14 h 43 : « un peu moins dynamique »). Référence de ton : le début, plus posé (b1-b2).",
+ "_": "Film d'accueil : phrase 7 refaite (Kévin, 19/10, 14 h 55 : « terminal de pro » répété deux fois) : « Toute la puissance des pros. Sans leur prix. »",
  "texte": "bande",
  "casting_branche": "motivation-casting",
  "runs": [
@@ -7,7 +7,7 @@
    "langue": "fr",
    "voice": "motiv-fr-c",
    "casting_take": 1,
-   "lines": "b1-b8",
+   "lines": "b7-b7",
    "ref": "b1-b2"
   }
  ],
