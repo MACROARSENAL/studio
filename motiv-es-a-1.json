@@ -1,0 +1,78 @@
+{
+ "voice": "motiv-es-a",
+ "langue": "es",
+ "label": "ES, motivation brute et vraie",
+ "take": 1,
+ "acts": [
+  "bande"
+ ],
+ "engine": "Qwen3-TTS 1.7B VoiceDesign (Apache-2.0)",
+ "design": "A Latin American man in his late thirties with a deep, warm, slightly raspy voice, the narrator of viral motivational videos: real, raw and human, speaking from the heart with total conviction. Neutral Latin American Spanish accent. Recorded close to a high-end studio microphone, natural breathing, real human texture and small imperfections, never robotic, never synthetic.",
+ "acting": "Deliver it like the voice-over of a viral motivational video: natural, human and conversational, never theatrical, never announcer-like. Speak with real conviction and energy, a lively, dynamic rhythm with short punchy pauses, stress the key words, and let the intensity build up to a powerful, inspiring last line. Sounds like a real person talking from the heart, never shouting.",
+ "sr": 24000,
+ "seconds": 40.72,
+ "compute": 318,
+ "text": "Los mercados nunca duermen. Tokio abre. Londres toma el relevo. Nueva York hace temblar al mundo. Cada día, miles de cifras. Los demás terminales se las dan todas. Macro Arsenal le dice cuáles importan. En tiempo real. Cada mañana, nuestra lectura de los mercados. Cada noche, el veredicto, publicado. Incluso cuando nos equivocamos. Y antes de cada operación, Doji lo verifica todo. Su plan. Los niveles. El calendario. Su riesgo. La potencia de un terminal profesional. Sin el precio de un terminal profesional. Macro Arsenal. El terminal que cambia su visión del trading.",
+ "lines": [
+  {
+   "id": "b1",
+   "text": "Los mercados nunca duermen.",
+   "tts": "Los mercados nunca duermen.",
+   "start": 0.0,
+   "end": 2.44
+  },
+  {
+   "id": "b2",
+   "text": "Tokio abre. Londres toma el relevo. Nueva York hace temblar al mundo.",
+   "tts": "Tokio abre. Londres toma el relevo. Nueva York hace temblar al mundo.",
+   "start": 2.68,
+   "end": 7.4
+  },
+  {
+   "id": "b3",
+   "text": "Cada día, miles de cifras. Los demás terminales se las dan todas.",
+   "tts": "Cada día, miles de cifras. Los demás terminales se las dan todas.",
+   "start": 7.76,
+   "end": 11.76
+  },
+  {
+   "id": "b4",
+   "text": "MACROARSENAL le dice cuáles importan. En tiempo real.",
+   "tts": "Macro Arsenal le dice cuáles importan. En tiempo real.",
+   "start": 12.24,
+   "end": 15.74
+  },
+  {
+   "id": "b5",
+   "text": "Cada mañana, nuestra lectura de los mercados. Cada noche, el veredicto, publicado. Incluso cuando nos equivocamos.",
+   "tts": "Cada mañana, nuestra lectura de los mercados. Cada noche, el veredicto, publicado. Incluso cuando nos equivocamos.",
+   "start": 16.2,
+   "end": 23.56
+  },
+  {
+   "id": "b6",
+   "text": "Y antes de cada operación, Doji lo verifica todo. Su plan. Los niveles. El calendario. Su riesgo.",
+   "tts": "Y antes de cada operación, Doji lo verifica todo. Su plan. Los niveles. El calendario. Su riesgo.",
+   "start": 24.02,
+   "end": 31.14
+  },
+  {
+   "id": "b7",
+   "text": "La potencia de un terminal profesional. Sin el precio de un terminal profesional.",
+   "tts": "La potencia de un terminal profesional. Sin el precio de un terminal profesional.",
+   "start": 31.4,
+   "end": 36.18
+  },
+  {
+   "id": "b8",
+   "text": "MACROARSENAL. El terminal que cambia su visión del trading.",
+   "tts": "Macro Arsenal. El terminal que cambia su visión del trading.",
+   "start": 36.82,
+   "end": 40.3
+  }
+ ],
+ "heard": "Los mercados nunca duermen. Tokio abre. Londres toma el relevo. Nueva York hace temblar al mundo. Cada día miles de cifras. Los demás terminales se las dan todas. Macro Arsenal le dice cuáles importan. En tiempo real, cada mañana, nuestra lectura de los mercados. Cada noche, el veredicto publicado, incluso cuando nos equivocamos. Y antes de cada operación, Doge lo verifica todo. Su plan, los niveles, el calendario, su riesgo, la potencia de un terminal profesional. Sin el precio de un terminal profesional. Macro Arsenal, el terminal que cambia su visión del trading.",
+ "wer": 0.011,
+ "extra": 1,
+ "ok": true
+}

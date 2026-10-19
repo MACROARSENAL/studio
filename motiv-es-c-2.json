@@ -1,0 +1,78 @@
+{
+ "voice": "motiv-es-c",
+ "langue": "es",
+ "label": "ES, pub premium moderne",
+ "take": 2,
+ "acts": [
+  "bande"
+ ],
+ "engine": "Qwen3-TTS 1.7B VoiceDesign (Apache-2.0)",
+ "design": "A Latin American man in his early forties with a rich, grounded baritone, the voice of a premium sports brand advertisement: confident, punchy, modern and natural, with a hint of grit. Neutral Latin American Spanish accent. Recorded close to a high-end studio microphone, natural breathing, real human texture and small imperfections, never robotic, never synthetic.",
+ "acting": "Deliver it like the voice-over of a viral motivational video: natural, human and conversational, never theatrical, never announcer-like. Speak with real conviction and energy, a lively, dynamic rhythm with short punchy pauses, stress the key words, and let the intensity build up to a powerful, inspiring last line. Sounds like a real person talking from the heart, never shouting.",
+ "sr": 24000,
+ "seconds": 47.52,
+ "compute": 315,
+ "text": "Los mercados nunca duermen. Tokio abre. Londres toma el relevo. Nueva York hace temblar al mundo. Cada día, miles de cifras. Los demás terminales se las dan todas. Macro Arsenal le dice cuáles importan. En tiempo real. Cada mañana, nuestra lectura de los mercados. Cada noche, el veredicto, publicado. Incluso cuando nos equivocamos. Y antes de cada operación, Doji lo verifica todo. Su plan. Los niveles. El calendario. Su riesgo. La potencia de un terminal profesional. Sin el precio de un terminal profesional. Macro Arsenal. El terminal que cambia su visión del trading.",
+ "lines": [
+  {
+   "id": "b1",
+   "text": "Los mercados nunca duermen.",
+   "tts": "Los mercados nunca duermen.",
+   "start": 0.0,
+   "end": 2.32
+  },
+  {
+   "id": "b2",
+   "text": "Tokio abre. Londres toma el relevo. Nueva York hace temblar al mundo.",
+   "tts": "Tokio abre. Londres toma el relevo. Nueva York hace temblar al mundo.",
+   "start": 2.56,
+   "end": 7.48
+  },
+  {
+   "id": "b3",
+   "text": "Cada día, miles de cifras. Los demás terminales se las dan todas.",
+   "tts": "Cada día, miles de cifras. Los demás terminales se las dan todas.",
+   "start": 7.48,
+   "end": 12.42
+  },
+  {
+   "id": "b4",
+   "text": "MACROARSENAL le dice cuáles importan. En tiempo real.",
+   "tts": "Macro Arsenal le dice cuáles importan. En tiempo real.",
+   "start": 13.16,
+   "end": 17.3
+  },
+  {
+   "id": "b5",
+   "text": "Cada mañana, nuestra lectura de los mercados. Cada noche, el veredicto, publicado. Incluso cuando nos equivocamos.",
+   "tts": "Cada mañana, nuestra lectura de los mercados. Cada noche, el veredicto, publicado. Incluso cuando nos equivocamos.",
+   "start": 17.88,
+   "end": 26.64
+  },
+  {
+   "id": "b6",
+   "text": "Y antes de cada operación, Doji lo verifica todo. Su plan. Los niveles. El calendario. Su riesgo.",
+   "tts": "Y antes de cada operación, Doji lo verifica todo. Su plan. Los niveles. El calendario. Su riesgo.",
+   "start": 27.16,
+   "end": 36.5
+  },
+  {
+   "id": "b7",
+   "text": "La potencia de un terminal profesional. Sin el precio de un terminal profesional.",
+   "tts": "La potencia de un terminal profesional. Sin el precio de un terminal profesional.",
+   "start": 36.88,
+   "end": 42.4
+  },
+  {
+   "id": "b8",
+   "text": "MACROARSENAL. El terminal que cambia su visión del trading.",
+   "tts": "Macro Arsenal. El terminal que cambia su visión del trading.",
+   "start": 43.14,
+   "end": 47.34
+  }
+ ],
+ "heard": "Los mercados nunca duermen, Tokio abre, Londres toma el relevo, Nueva Yorka se temblara el mundo cada día, miles de cifras, los demás terminales se las dan todas, Macro Arsenal le dice cuáles importan, en tiempo real. Cada mañana, nuestra lectura de los mercados, cada noche, el veredicto, publicado, incluso cuando nos equivocamos, y antes de cada operación, Doji lo verifica todo, su plan, los niveles, el calendario, su riesgo, la potencia de un terminal profesional, sin el precio de un terminal profesional, Macro Arsenal, el terminal que cambia su visión del trading.",
+ "wer": 0.043,
+ "extra": 4,
+ "ok": false
+}
