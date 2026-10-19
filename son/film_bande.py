@@ -129,7 +129,7 @@ KEYS = {
            'verdict': ('b5', ['verdict']), 'publie': ('b5', ['published']), 'tort': ('b5', ['even']),
            'verifie': ('b6', ['checks']), 'plan': ('b6', ['plan']), 'niveaux': ('b6', ['levels']), 'calendrier': ('b6', ['calendar']), 'risque': ('b6', ['risk']),
            'sans': ('b7', ['without']), 'accroche': ('b8', ['the', 'terminal'])},
-    'es': {'ville0': ('b2', ['tokio']), 'ville1': ('b2', ['londres']), 'ville2': ('b2', ['nueva']),
+    'es': {'ville0': ('b2', ['toky']), 'ville1': ('b2', ['londres']), 'ville2': ('b2', ['nueva']),
            'autres': ('b3', ['los', 'demas']), 'donnent': ('b3', ['dan']), 'tous': ('b3', ['todas']),
            'lesquels': ('b4', ['cuales']), 'comptent': ('b4', ['importan']), 'direct': ('b4', ['en', 'tiempo']),
            'verdict': ('b5', ['veredicto']), 'publie': ('b5', ['publicado']), 'tort': ('b5', ['incluso']),
