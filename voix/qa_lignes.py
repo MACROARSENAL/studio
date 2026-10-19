@@ -60,6 +60,7 @@ for man in sorted(glob.glob(os.path.join(DIR, f'{MOTIF}-p[0-9]*.json'))):
         extra = max(0, len(got) - matched)
         l.update({'heard': heard, 'wer': round(wer, 3), 'extra': extra,
                   'speech': [round(words[0].start, 2), round(words[-1].end, 2)] if words else None,
+                  'words': [[w.word.strip(), round(w.start, 2), round(w.end, 2)] for w in words],
                   'ok': wer <= 0.08 and extra <= 1})
         flag = 'ok' if l['ok'] else 'À REVOIR'
         print(f"{flag} {os.path.basename(man)} {l['id']} écart {wer:.2f} +{extra} « {heard} »", flush=True)

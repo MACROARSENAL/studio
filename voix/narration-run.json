@@ -1,67 +1,11 @@
 {
- "_": "Film d'accueil 45 s : narration complète (texte final) avec les voix du casting de bande-annonce, 3 prises par phrase.",
+ "_": "Film d'accueil : narration avec la voix C « pub premium » choisie par Kévin (19/10, 14 h 43 : « un peu moins dynamique »). Référence de ton : le début, plus posé (b1-b2).",
  "texte": "bande",
- "casting_branche": "bande-casting",
+ "casting_branche": "motivation-casting",
  "runs": [
   {
    "langue": "fr",
-   "voice": "bande-fr-a",
-   "casting_take": 1,
-   "lines": "b1-b8",
-   "ref": "b1-b2"
-  },
-  {
-   "langue": "fr",
-   "voice": "bande-fr-b",
-   "casting_take": 1,
-   "lines": "b1-b8",
-   "ref": "b1-b2"
-  },
-  {
-   "langue": "fr",
-   "voice": "bande-fr-c",
-   "casting_take": 1,
-   "lines": "b1-b8",
-   "ref": "b1-b2"
-  },
-  {
-   "langue": "en",
-   "voice": "bande-en-a",
-   "casting_take": 1,
-   "lines": "b1-b8",
-   "ref": "b1-b2"
-  },
-  {
-   "langue": "en",
-   "voice": "bande-en-b",
-   "casting_take": 1,
-   "lines": "b1-b8",
-   "ref": "b1-b2"
-  },
-  {
-   "langue": "en",
-   "voice": "bande-en-c",
-   "casting_take": 2,
-   "lines": "b1-b8",
-   "ref": "b1-b2"
-  },
-  {
-   "langue": "es",
-   "voice": "bande-es-a",
-   "casting_take": 1,
-   "lines": "b1-b8",
-   "ref": "b1-b2"
-  },
-  {
-   "langue": "es",
-   "voice": "bande-es-b",
-   "casting_take": 1,
-   "lines": "b1-b8",
-   "ref": "b1-b2"
-  },
-  {
-   "langue": "es",
-   "voice": "bande-es-c",
+   "voice": "motiv-fr-c",
    "casting_take": 1,
    "lines": "b1-b8",
    "ref": "b1-b2"
@@ -70,6 +14,7 @@
  "takes": [
   1,
   2,
-  3
+  3,
+  4
  ]
 }
