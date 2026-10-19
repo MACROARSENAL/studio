@@ -1,21 +1,21 @@
 {
- "_": "Film d'accueil : narration anglaise et espagnole, voix C « pub premium » (même style que le français choisi par Kévin).",
+ "_": "Film d'accueil : Kévin (19/10, 16 h 20) veut en anglais et en espagnol les voix du film d'avant (conteur britannique, conteur latino), sans le ton du conte → référence de ton tirée du film court (présentation d'outil).",
  "texte": "bande",
- "casting_branche": "motivation-casting-intl",
+ "casting_branche": "reference-bande",
  "runs": [
   {
    "langue": "en",
-   "voice": "motiv-en-c",
-   "casting_take": 1,
+   "voice": "conteur-en",
+   "casting_take": "p",
    "lines": "b1-b8",
-   "ref": "b1-b2"
+   "ref": "r1-r2"
   },
   {
    "langue": "es",
-   "voice": "motiv-es-c",
-   "casting_take": 1,
+   "voice": "conteur-es-latam",
+   "casting_take": "p",
    "lines": "b1-b8",
-   "ref": "b1-b2"
+   "ref": "r1-r2"
   }
  ],
  "takes": [
