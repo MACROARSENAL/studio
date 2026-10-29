@@ -1,13 +1,13 @@
 {
- "_": "Film « 24 heures avec Doji » (29/10/2026). FR : voix C « pub premium » (choix de Kévin du 19/10 pour toutes les vidéos), référence de ton b1-b2 (plus posée). EN, ES : conteur britannique et conteur latino, référence « présentation » r1-r2. 6 prises par phrase pour garder la plus naturelle (Kévin : « la voix off ne doit pas trop faire IA »).",
- "texte": "24h",
+ "_": "Film d'accueil « À l'aveugle » (29/10/2026, nouveau texte sans horaires). FR : voix C « pub premium », référence b1-b2. EN, ES : conteurs britannique et latino, référence r1-r2. 6 prises par phrase (Kévin : « la voix off ne doit pas trop faire IA »).",
+ "texte": "aveugle",
  "runs": [
   {
    "langue": "fr",
    "voice": "motiv-fr-c",
    "casting_take": 1,
    "casting_branche": "motivation-casting",
-   "lines": "h1-h11",
+   "lines": "a1-a13",
    "ref": "b1-b2"
   },
   {
@@ -15,7 +15,7 @@
    "voice": "conteur-en",
    "casting_take": "p",
    "casting_branche": "reference-bande",
-   "lines": "h1-h11",
+   "lines": "a1-a13",
    "ref": "r1-r2"
   },
   {
@@ -23,7 +23,7 @@
    "voice": "conteur-es-latam",
    "casting_take": "p",
    "casting_branche": "reference-bande",
-   "lines": "h1-h11",
+   "lines": "a1-a13",
    "ref": "r1-r2"
   }
  ],

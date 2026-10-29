@@ -1,0 +1,65 @@
+{
+ "_": "Film d'accueil « À l'aveugle » (29/10/2026, 16 h 53). Kévin : « le texte est horrible », « je n'aime pas qu'il donne les horaires toutes les 2 s », « je veux un autre texte plus impactant, sans horaire spécifique ». Aucune heure dite à voix haute.",
+ "langue": "en",
+ "acts": [
+  {
+   "id": "aveugle",
+   "lines": [
+    {
+     "id": "a1",
+     "text": "Every day, thousands of traders walk into the markets… blind."
+    },
+    {
+     "id": "a2",
+     "text": "Too many numbers. Too much noise. Too many opinions."
+    },
+    {
+     "id": "a3",
+     "text": "It was time someone made sense of it all."
+    },
+    {
+     "id": "a4",
+     "text": "This is MACROARSENAL. Your terminal, built block by block. Your way.",
+     "tts": "This is Macro Arsenal. Your terminal, built block by block. Your way."
+    },
+    {
+     "id": "a5",
+     "text": "Forty markets, read every morning. A clear bias. And a reason behind every word."
+    },
+    {
+     "id": "a6",
+     "text": "When a number drops, you already know how the market reacted, every time before."
+    },
+    {
+     "id": "a7",
+     "text": "Hundreds of strategies, tested over twenty-five years. A handful survived. They're the only ones we bring you."
+    },
+    {
+     "id": "a8",
+     "text": "And before every trade, Doji checks everything. The calendar. The levels. Your risk."
+    },
+    {
+     "id": "a9",
+     "text": "Every evening, we publish our results. The wins… and the mistakes."
+    },
+    {
+     "id": "a10",
+     "text": "At night, crypto takes over. X-ray on the order book, live."
+    },
+    {
+     "id": "a11",
+     "text": "No promises. No miracle signals. Pro tools, in your hands."
+    },
+    {
+     "id": "a12",
+     "text": "MACROARSENAL. Never trade blind again.",
+     "tts": "Macro Arsenal. Never trade blind again."
+    },
+    {
+     "id": "a13",
+     "text": "Welcome."
+    }
+   ]
+  }
+ ]
+}

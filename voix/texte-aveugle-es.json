@@ -1,0 +1,65 @@
+{
+ "_": "Film d'accueil « À l'aveugle » (29/10/2026, 16 h 53). Kévin : « le texte est horrible », « je n'aime pas qu'il donne les horaires toutes les 2 s », « je veux un autre texte plus impactant, sans horaire spécifique ». Aucune heure dite à voix haute.",
+ "langue": "es",
+ "acts": [
+  {
+   "id": "aveugle",
+   "lines": [
+    {
+     "id": "a1",
+     "text": "Cada día, miles de traders entran en los mercados… a ciegas."
+    },
+    {
+     "id": "a2",
+     "text": "Demasiadas cifras. Demasiado ruido. Demasiadas opiniones."
+    },
+    {
+     "id": "a3",
+     "text": "Ya era hora de que alguien pusiera orden."
+    },
+    {
+     "id": "a4",
+     "text": "Esto es MACROARSENAL. Su terminal, construido bloque a bloque. A su medida.",
+     "tts": "Esto es Macro Arsenal. Su terminal, construido bloque a bloque. A su medida."
+    },
+    {
+     "id": "a5",
+     "text": "Cuarenta mercados analizados cada mañana. Un sesgo claro. Y una razón detrás de cada palabra."
+    },
+    {
+     "id": "a6",
+     "text": "Cuando sale un dato, usted ya sabe cómo reaccionó el mercado las veces anteriores."
+    },
+    {
+     "id": "a7",
+     "text": "Cientos de estrategias probadas durante veinticinco años. Solo un puñado sobrevivió. Son las únicas que le proponemos."
+    },
+    {
+     "id": "a8",
+     "text": "Y antes de cada operación, Doji lo revisa todo. El calendario. Los niveles. Su riesgo."
+    },
+    {
+     "id": "a9",
+     "text": "Cada noche publicamos nuestros resultados. Los aciertos… y los errores."
+    },
+    {
+     "id": "a10",
+     "text": "De madrugada, las criptos toman el relevo. Rayos X sobre el libro de órdenes, en directo."
+    },
+    {
+     "id": "a11",
+     "text": "Sin promesas. Sin señales milagrosas. Herramientas de profesional, en sus manos."
+    },
+    {
+     "id": "a12",
+     "text": "MACROARSENAL. Nunca más opere a ciegas.",
+     "tts": "Macro Arsenal. Nunca más opere a ciegas."
+    },
+    {
+     "id": "a13",
+     "text": "Bienvenido."
+    }
+   ]
+  }
+ ]
+}
