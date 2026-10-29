@@ -1,0 +1,1015 @@
+{
+ "voice": "conteur-en",
+ "langue": "en",
+ "casting_take": "p",
+ "take": 2,
+ "span": "h1-h11",
+ "engine": "Qwen3-TTS 1.7B Base, voix clonée depuis le casting (Apache-2.0)",
+ "reference": {
+  "from": "conteur-en-p",
+  "span": "r1-r2",
+  "start": 0.0,
+  "end": 11.62,
+  "text": "It knows the terminal by heart, and it keeps an eye on your markets, every day. Every morning, three things are waiting for you: My morning, the Daily Bias, and the quiz."
+ },
+ "lines": [
+  {
+   "id": "h1",
+   "text": "Six fifty-nine. The world is still asleep. Doji is already on watch.",
+   "tts": "Six fifty-nine. The world is still asleep. Doji is already on watch.",
+   "file": "conteur-en-cp-h1-p2.wav",
+   "seconds": 5.36,
+   "compute": 48,
+   "heard": "659. The world is still asleep. Doji is already on watch.",
+   "wer": 0.231,
+   "extra": 1,
+   "speech": [
+    0.74,
+    5.28
+   ],
+   "words": [
+    [
+     "659.",
+     0.74,
+     1.24
+    ],
+    [
+     "The",
+     1.72,
+     1.86
+    ],
+    [
+     "world",
+     1.86,
+     2.1
+    ],
+    [
+     "is",
+     2.1,
+     2.36
+    ],
+    [
+     "still",
+     2.36,
+     2.5
+    ],
+    [
+     "asleep.",
+     2.5,
+     3.08
+    ],
+    [
+     "Doji",
+     3.92,
+     4.16
+    ],
+    [
+     "is",
+     4.16,
+     4.38
+    ],
+    [
+     "already",
+     4.38,
+     4.74
+    ],
+    [
+     "on",
+     4.74,
+     5.04
+    ],
+    [
+     "watch.",
+     5.04,
+     5.28
+    ]
+   ],
+   "ok": false
+  },
+  {
+   "id": "h2",
+   "text": "Seven a.m. Your terminal builds itself, block by block. Exactly the way you want it.",
+   "tts": "Seven a.m. Your terminal builds itself, block by block. Exactly the way you want it.",
+   "file": "conteur-en-cp-h2-p2.wav",
+   "seconds": 6.08,
+   "compute": 53,
+   "heard": "7 a.m. Your terminal builds itself block by block, exactly the way you want it.",
+   "wer": 0.062,
+   "extra": 1,
+   "speech": [
+    0.0,
+    6.02
+   ],
+   "words": [
+    [
+     "7",
+     0.0,
+     0.54
+    ],
+    [
+     "a",
+     0.54,
+     0.74
+    ],
+    [
+     ".m.",
+     0.74,
+     1.08
+    ],
+    [
+     "Your",
+     1.36,
+     1.52
+    ],
+    [
+     "terminal",
+     1.52,
+     1.94
+    ],
+    [
+     "builds",
+     1.94,
+     2.32
+    ],
+    [
+     "itself",
+     2.32,
+     2.9
+    ],
+    [
+     "block",
+     2.9,
+     3.48
+    ],
+    [
+     "by",
+     3.48,
+     3.78
+    ],
+    [
+     "block,",
+     3.78,
+     4.2
+    ],
+    [
+     "exactly",
+     4.8,
+     5.1
+    ],
+    [
+     "the",
+     5.1,
+     5.34
+    ],
+    [
+     "way",
+     5.34,
+     5.42
+    ],
+    [
+     "you",
+     5.42,
+     5.6
+    ],
+    [
+     "want",
+     5.6,
+     5.82
+    ],
+    [
+     "it.",
+     5.82,
+     6.02
+    ]
+   ],
+   "ok": true
+  },
+  {
+   "id": "h3",
+   "text": "Eight thirty. Forty markets, screened for you. A clear bias, before your first coffee.",
+   "tts": "Eight thirty. Forty markets, screened for you. A clear bias, before your first coffee.",
+   "file": "conteur-en-cp-h3-p2.wav",
+   "seconds": 5.6,
+   "compute": 51,
+   "heard": "830. 40 markets screened for you. A clear bias before your first coffee.",
+   "wer": 0.214,
+   "extra": 2,
+   "speech": [
+    0.0,
+    5.32
+   ],
+   "words": [
+    [
+     "830.",
+     0.0,
+     0.98
+    ],
+    [
+     "40",
+     1.36,
+     1.64
+    ],
+    [
+     "markets",
+     1.64,
+     2.06
+    ],
+    [
+     "screened",
+     2.06,
+     2.56
+    ],
+    [
+     "for",
+     2.56,
+     2.76
+    ],
+    [
+     "you.",
+     2.76,
+     3.06
+    ],
+    [
+     "A",
+     3.32,
+     3.54
+    ],
+    [
+     "clear",
+     3.54,
+     3.7
+    ],
+    [
+     "bias",
+     3.7,
+     4.12
+    ],
+    [
+     "before",
+     4.12,
+     4.48
+    ],
+    [
+     "your",
+     4.48,
+     4.74
+    ],
+    [
+     "first",
+     4.74,
+     4.98
+    ],
+    [
+     "coffee.",
+     4.98,
+     5.32
+    ]
+   ],
+   "ok": false
+  },
+  {
+   "id": "h4",
+   "text": "Two thirty p.m. The US inflation number drops. And you already know how the market reacted, every single time.",
+   "tts": "Two thirty p.m. The US inflation number drops. And you already know how the market reacted, every single time.",
+   "file": "conteur-en-cp-h4-p2.wav",
+   "seconds": 6.72,
+   "compute": 60,
+   "heard": "2.30 p.m. The U.S. inflation number drops, and you already know how the market reacted every single time.",
+   "wer": 0.15,
+   "extra": 4,
+   "speech": [
+    0.0,
+    6.7
+   ],
+   "words": [
+    [
+     "2",
+     0.0,
+     0.3
+    ],
+    [
+     ".30",
+     0.3,
+     0.6
+    ],
+    [
+     "p",
+     0.6,
+     0.82
+    ],
+    [
+     ".m.",
+     0.82,
+     1.1
+    ],
+    [
+     "The",
+     1.44,
+     1.54
+    ],
+    [
+     "U",
+     1.54,
+     1.76
+    ],
+    [
+     ".S.",
+     1.76,
+     1.88
+    ],
+    [
+     "inflation",
+     2.28,
+     2.36
+    ],
+    [
+     "number",
+     2.36,
+     2.62
+    ],
+    [
+     "drops,",
+     2.62,
+     3.02
+    ],
+    [
+     "and",
+     3.46,
+     3.5
+    ],
+    [
+     "you",
+     3.5,
+     3.7
+    ],
+    [
+     "already",
+     3.7,
+     4.02
+    ],
+    [
+     "know",
+     4.02,
+     4.22
+    ],
+    [
+     "how",
+     4.22,
+     4.4
+    ],
+    [
+     "the",
+     4.4,
+     4.56
+    ],
+    [
+     "market",
+     4.56,
+     4.76
+    ],
+    [
+     "reacted",
+     4.76,
+     5.22
+    ],
+    [
+     "every",
+     5.22,
+     5.98
+    ],
+    [
+     "single",
+     5.98,
+     6.4
+    ],
+    [
+     "time.",
+     6.4,
+     6.7
+    ]
+   ],
+   "ok": false
+  },
+  {
+   "id": "h5",
+   "text": "Three p.m. Before you enter, thirty seconds. Doji checks the calendar, the levels, your risk. Green light? The decision is still yours.",
+   "tts": "Three p.m. Before you enter, thirty seconds. Doji checks the calendar, the levels, your risk. Green light? The decision is still yours.",
+   "file": "conteur-en-cp-h5-p2.wav",
+   "seconds": 9.12,
+   "compute": 78,
+   "heard": "3pm before you enter, 30 seconds. Doji checks the calendar, the levels, your risk. Green light, the decision is still yours.",
+   "wer": 0.174,
+   "extra": 2,
+   "speech": [
+    0.0,
+    8.98
+   ],
+   "words": [
+    [
+     "3pm",
+     0.0,
+     0.8
+    ],
+    [
+     "before",
+     0.8,
+     1.14
+    ],
+    [
+     "you",
+     1.14,
+     1.4
+    ],
+    [
+     "enter,",
+     1.4,
+     1.7
+    ],
+    [
+     "30",
+     2.08,
+     2.32
+    ],
+    [
+     "seconds.",
+     2.32,
+     2.98
+    ],
+    [
+     "Doji",
+     3.44,
+     3.66
+    ],
+    [
+     "checks",
+     3.66,
+     3.94
+    ],
+    [
+     "the",
+     3.94,
+     4.24
+    ],
+    [
+     "calendar,",
+     4.24,
+     4.5
+    ],
+    [
+     "the",
+     4.86,
+     5.02
+    ],
+    [
+     "levels,",
+     5.02,
+     5.3
+    ],
+    [
+     "your",
+     5.66,
+     5.8
+    ],
+    [
+     "risk.",
+     5.8,
+     6.16
+    ],
+    [
+     "Green",
+     6.8,
+     6.98
+    ],
+    [
+     "light,",
+     6.98,
+     7.2
+    ],
+    [
+     "the",
+     7.58,
+     7.72
+    ],
+    [
+     "decision",
+     7.72,
+     8.08
+    ],
+    [
+     "is",
+     8.08,
+     8.46
+    ],
+    [
+     "still",
+     8.46,
+     8.68
+    ],
+    [
+     "yours.",
+     8.68,
+     8.98
+    ]
+   ],
+   "ok": false
+  },
+  {
+   "id": "h6",
+   "text": "Five p.m. Hundreds of rules, tested. We keep the ones that hold. We throw out the rest.",
+   "tts": "Five p.m. Hundreds of rules, tested. We keep the ones that hold. We throw out the rest.",
+   "file": "conteur-en-cp-h6-p2.wav",
+   "seconds": 5.84,
+   "compute": 53,
+   "heard": "5pm, hundreds of rules tested. We keep the ones that hold, we throw out the rest.",
+   "wer": 0.167,
+   "extra": 1,
+   "speech": [
+    0.0,
+    5.68
+   ],
+   "words": [
+    [
+     "5pm,",
+     0.0,
+     0.92
+    ],
+    [
+     "hundreds",
+     1.38,
+     1.68
+    ],
+    [
+     "of",
+     1.68,
+     1.98
+    ],
+    [
+     "rules",
+     1.98,
+     2.22
+    ],
+    [
+     "tested.",
+     2.22,
+     2.7
+    ],
+    [
+     "We",
+     3.2,
+     3.32
+    ],
+    [
+     "keep",
+     3.32,
+     3.52
+    ],
+    [
+     "the",
+     3.52,
+     3.72
+    ],
+    [
+     "ones",
+     3.72,
+     3.86
+    ],
+    [
+     "that",
+     3.86,
+     4.16
+    ],
+    [
+     "hold,",
+     4.16,
+     4.36
+    ],
+    [
+     "we",
+     4.7,
+     4.82
+    ],
+    [
+     "throw",
+     4.82,
+     5.02
+    ],
+    [
+     "out",
+     5.02,
+     5.26
+    ],
+    [
+     "the",
+     5.26,
+     5.42
+    ],
+    [
+     "rest.",
+     5.42,
+     5.68
+    ]
+   ],
+   "ok": false
+  },
+  {
+   "id": "h7",
+   "text": "Ten p.m. Verdict time. Every idea, winner or loser, out in the open.",
+   "tts": "Ten p.m. Verdict time. Every idea, winner or loser, out in the open.",
+   "file": "conteur-en-cp-h7-p2.wav",
+   "seconds": 5.28,
+   "compute": 49,
+   "heard": "10pm, verdict time, every idea, winner or loser, out in the open.",
+   "wer": 0.214,
+   "extra": 1,
+   "speech": [
+    0.0,
+    5.12
+   ],
+   "words": [
+    [
+     "10pm,",
+     0.0,
+     0.82
+    ],
+    [
+     "verdict",
+     1.24,
+     1.44
+    ],
+    [
+     "time,",
+     1.44,
+     1.9
+    ],
+    [
+     "every",
+     2.32,
+     2.52
+    ],
+    [
+     "idea,",
+     2.52,
+     3.04
+    ],
+    [
+     "winner",
+     3.34,
+     3.48
+    ],
+    [
+     "or",
+     3.48,
+     3.82
+    ],
+    [
+     "loser,",
+     3.82,
+     4.22
+    ],
+    [
+     "out",
+     4.52,
+     4.6
+    ],
+    [
+     "in",
+     4.6,
+     4.76
+    ],
+    [
+     "the",
+     4.76,
+     4.94
+    ],
+    [
+     "open.",
+     4.94,
+     5.12
+    ]
+   ],
+   "ok": false
+  },
+  {
+   "id": "h8",
+   "text": "Three a.m. Crypto never stops. Neither does Doji. X-Ray on the order books, live.",
+   "tts": "Three a.m. Crypto never stops. Neither does Doji. X-Ray on the order books, live.",
+   "file": "conteur-en-cp-h8-p2.wav",
+   "seconds": 5.92,
+   "compute": 53,
+   "heard": "3 a.m. crypto never stops, neither does doji. x-ray on the order books, live.",
+   "wer": 0.0,
+   "extra": 0,
+   "speech": [
+    0.0,
+    5.74
+   ],
+   "words": [
+    [
+     "3",
+     0.0,
+     0.46
+    ],
+    [
+     "a",
+     0.46,
+     0.66
+    ],
+    [
+     ".m.",
+     0.66,
+     0.84
+    ],
+    [
+     "crypto",
+     1.08,
+     1.2
+    ],
+    [
+     "never",
+     1.2,
+     1.56
+    ],
+    [
+     "stops,",
+     1.56,
+     2.12
+    ],
+    [
+     "neither",
+     2.36,
+     2.64
+    ],
+    [
+     "does",
+     2.64,
+     2.94
+    ],
+    [
+     "doji.",
+     2.94,
+     3.58
+    ],
+    [
+     "x",
+     3.84,
+     4.06
+    ],
+    [
+     "-ray",
+     4.06,
+     4.18
+    ],
+    [
+     "on",
+     4.18,
+     4.36
+    ],
+    [
+     "the",
+     4.36,
+     4.56
+    ],
+    [
+     "order",
+     4.56,
+     4.74
+    ],
+    [
+     "books,",
+     4.74,
+     5.08
+    ],
+    [
+     "live.",
+     5.48,
+     5.74
+    ]
+   ],
+   "ok": true
+  },
+  {
+   "id": "h9",
+   "text": "Elsewhere, you drown in numbers. Here, every one of them has a reason to be there. To learn, to understand, to decide.",
+   "tts": "Elsewhere, you drown in numbers. Here, every one of them has a reason to be there. To learn, to understand, to decide.",
+   "file": "conteur-en-cp-h9-p2.wav",
+   "seconds": 8.24,
+   "compute": 72,
+   "heard": "Elsewhere, you drown in numbers, here, every one of them has a reason to be there. To learn, to understand, to decide.",
+   "wer": 0.0,
+   "extra": 0,
+   "speech": [
+    0.0,
+    8.06
+   ],
+   "words": [
+    [
+     "Elsewhere,",
+     0.0,
+     0.74
+    ],
+    [
+     "you",
+     1.0,
+     1.18
+    ],
+    [
+     "drown",
+     1.18,
+     1.46
+    ],
+    [
+     "in",
+     1.46,
+     1.72
+    ],
+    [
+     "numbers,",
+     1.72,
+     2.14
+    ],
+    [
+     "here,",
+     2.6,
+     2.86
+    ],
+    [
+     "every",
+     3.14,
+     3.44
+    ],
+    [
+     "one",
+     3.44,
+     3.6
+    ],
+    [
+     "of",
+     3.6,
+     3.74
+    ],
+    [
+     "them",
+     3.74,
+     3.84
+    ],
+    [
+     "has",
+     3.84,
+     4.08
+    ],
+    [
+     "a",
+     4.08,
+     4.22
+    ],
+    [
+     "reason",
+     4.22,
+     4.46
+    ],
+    [
+     "to",
+     4.46,
+     4.68
+    ],
+    [
+     "be",
+     4.68,
+     4.86
+    ],
+    [
+     "there.",
+     4.86,
+     5.14
+    ],
+    [
+     "To",
+     5.58,
+     5.74
+    ],
+    [
+     "learn,",
+     5.74,
+     6.12
+    ],
+    [
+     "to",
+     6.54,
+     6.62
+    ],
+    [
+     "understand,",
+     6.62,
+     7.18
+    ],
+    [
+     "to",
+     7.54,
+     7.64
+    ],
+    [
+     "decide.",
+     7.64,
+     8.06
+    ]
+   ],
+   "ok": true
+  },
+  {
+   "id": "h10",
+   "text": "MACROARSENAL. Every hour of your trading, mastered.",
+   "tts": "Macro Arsenal. Every hour of your trading, mastered.",
+   "file": "conteur-en-cp-h10-p2.wav",
+   "seconds": 3.92,
+   "compute": 36,
+   "heard": "Macro Arsenal, every hour of your trading, mastered.",
+   "wer": 0.0,
+   "extra": 0,
+   "speech": [
+    0.0,
+    3.72
+   ],
+   "words": [
+    [
+     "Macro",
+     0.0,
+     0.78
+    ],
+    [
+     "Arsenal,",
+     0.78,
+     1.2
+    ],
+    [
+     "every",
+     1.9,
+     2.06
+    ],
+    [
+     "hour",
+     2.06,
+     2.34
+    ],
+    [
+     "of",
+     2.34,
+     2.48
+    ],
+    [
+     "your",
+     2.48,
+     2.74
+    ],
+    [
+     "trading,",
+     2.74,
+     3.02
+    ],
+    [
+     "mastered.",
+     3.42,
+     3.72
+    ]
+   ],
+   "ok": true
+  },
+  {
+   "id": "h11",
+   "text": "Welcome. Shall we begin?",
+   "tts": "Welcome. Shall we begin?",
+   "file": "conteur-en-cp-h11-p2.wav",
+   "seconds": 1.76,
+   "compute": 21,
+   "heard": "Welcome. Shall we begin?",
+   "wer": 0.0,
+   "extra": 0,
+   "speech": [
+    0.0,
+    1.5
+   ],
+   "words": [
+    [
+     "Welcome.",
+     0.0,
+     0.6
+    ],
+    [
+     "Shall",
+     0.92,
+     1.08
+    ],
+    [
+     "we",
+     1.08,
+     1.26
+    ],
+    [
+     "begin?",
+     1.26,
+     1.5
+    ]
+   ],
+   "ok": true
+  }
+ ]
+}

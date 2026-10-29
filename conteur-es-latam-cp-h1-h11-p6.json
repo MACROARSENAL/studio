@@ -1,0 +1,1105 @@
+{
+ "voice": "conteur-es-latam",
+ "langue": "es",
+ "casting_take": "p",
+ "take": 6,
+ "span": "h1-h11",
+ "engine": "Qwen3-TTS 1.7B Base, voix clonée depuis le casting (Apache-2.0)",
+ "reference": {
+  "from": "conteur-es-latam-p",
+  "span": "r1-r2",
+  "start": 0.0,
+  "end": 11.75,
+  "text": "Conoce el terminal de memoria, y vigila sus mercados, cada día. Cada mañana, tres citas le esperan: Mi mañana, el Sesgo del día, y el quiz."
+ },
+ "lines": [
+  {
+   "id": "h1",
+   "text": "Seis y cincuenta y nueve. El mundo aún duerme. Doji ya está vigilando.",
+   "tts": "Seis y cincuenta y nueve. El mundo aún duerme. Doji ya está vigilando.",
+   "file": "conteur-es-latam-cp-h1-p6.wav",
+   "seconds": 6.24,
+   "compute": 66,
+   "heard": "6 y 59. El mundo aún duerme, Doge ya está vigilando.",
+   "wer": 0.385,
+   "extra": 3,
+   "speech": [
+    0.0,
+    6.14
+   ],
+   "words": [
+    [
+     "6",
+     0.0,
+     1.14
+    ],
+    [
+     "y",
+     1.14,
+     1.38
+    ],
+    [
+     "59.",
+     1.38,
+     2.08
+    ],
+    [
+     "El",
+     2.94,
+     3.38
+    ],
+    [
+     "mundo",
+     3.38,
+     3.6
+    ],
+    [
+     "aún",
+     3.6,
+     3.84
+    ],
+    [
+     "duerme,",
+     3.84,
+     4.58
+    ],
+    [
+     "Doge",
+     4.98,
+     5.16
+    ],
+    [
+     "ya",
+     5.16,
+     5.42
+    ],
+    [
+     "está",
+     5.42,
+     5.58
+    ],
+    [
+     "vigilando.",
+     5.58,
+     6.14
+    ]
+   ],
+   "ok": false
+  },
+  {
+   "id": "h2",
+   "text": "Siete en punto. Su terminal se construye, bloque a bloque. Exactamente como usted lo quiere.",
+   "tts": "Siete en punto. Su terminal se construye, bloque a bloque. Exactamente como usted lo quiere.",
+   "file": "conteur-es-latam-cp-h2-p6.wav",
+   "seconds": 7.52,
+   "compute": 75,
+   "heard": "Siete en punto. Su terminal se construye bloque a bloque, exactamente como usted lo quiere.",
+   "wer": 0.0,
+   "extra": 0,
+   "speech": [
+    0.0,
+    7.34
+   ],
+   "words": [
+    [
+     "Siete",
+     0.0,
+     0.94
+    ],
+    [
+     "en",
+     0.94,
+     1.18
+    ],
+    [
+     "punto.",
+     1.18,
+     1.58
+    ],
+    [
+     "Su",
+     2.42,
+     2.62
+    ],
+    [
+     "terminal",
+     2.62,
+     3.02
+    ],
+    [
+     "se",
+     3.02,
+     3.3
+    ],
+    [
+     "construye",
+     3.3,
+     4.04
+    ],
+    [
+     "bloque",
+     4.04,
+     4.42
+    ],
+    [
+     "a",
+     4.42,
+     4.64
+    ],
+    [
+     "bloque,",
+     4.64,
+     4.92
+    ],
+    [
+     "exactamente",
+     5.86,
+     6.24
+    ],
+    [
+     "como",
+     6.24,
+     6.64
+    ],
+    [
+     "usted",
+     6.64,
+     6.92
+    ],
+    [
+     "lo",
+     6.92,
+     7.18
+    ],
+    [
+     "quiere.",
+     7.18,
+     7.34
+    ]
+   ],
+   "ok": true
+  },
+  {
+   "id": "h3",
+   "text": "Ocho y media. Cuarenta mercados analizados a fondo. Un sesgo claro, antes incluso de su primer café.",
+   "tts": "Ocho y media. Cuarenta mercados analizados a fondo. Un sesgo claro, antes incluso de su primer café.",
+   "file": "conteur-es-latam-cp-h3-p6.wav",
+   "seconds": 6.88,
+   "compute": 70,
+   "heard": "Ocho y media, cuarenta mercados analizados a fondo, un sesgo claro antes incluso de su primer café.",
+   "wer": 0.0,
+   "extra": 0,
+   "speech": [
+    0.0,
+    6.76
+   ],
+   "words": [
+    [
+     "Ocho",
+     0.0,
+     0.4
+    ],
+    [
+     "y",
+     0.4,
+     0.58
+    ],
+    [
+     "media,",
+     0.58,
+     0.86
+    ],
+    [
+     "cuarenta",
+     1.44,
+     1.84
+    ],
+    [
+     "mercados",
+     1.84,
+     2.26
+    ],
+    [
+     "analizados",
+     2.26,
+     2.86
+    ],
+    [
+     "a",
+     2.86,
+     3.04
+    ],
+    [
+     "fondo,",
+     3.04,
+     3.32
+    ],
+    [
+     "un",
+     3.96,
+     4.14
+    ],
+    [
+     "sesgo",
+     4.14,
+     4.46
+    ],
+    [
+     "claro",
+     4.46,
+     4.84
+    ],
+    [
+     "antes",
+     4.84,
+     5.5
+    ],
+    [
+     "incluso",
+     5.5,
+     5.9
+    ],
+    [
+     "de",
+     5.9,
+     6.08
+    ],
+    [
+     "su",
+     6.08,
+     6.22
+    ],
+    [
+     "primer",
+     6.22,
+     6.5
+    ],
+    [
+     "café.",
+     6.5,
+     6.76
+    ]
+   ],
+   "ok": true
+  },
+  {
+   "id": "h4",
+   "text": "Dos y media de la tarde. Sale el dato de inflación de Estados Unidos. Y usted ya sabe cómo reaccionó el mercado, cada vez.",
+   "tts": "Dos y media de la tarde. Sale el dato de inflación de Estados Unidos. Y usted ya sabe cómo reaccionó el mercado, cada vez.",
+   "file": "conteur-es-latam-cp-h4-p6.wav",
+   "seconds": 8.56,
+   "compute": 84,
+   "heard": "Dos y media de la tarde, sale el dato de inflación de Estados Unidos y usted ya sabe cómo reaccionó el mercado cada vez.",
+   "wer": 0.0,
+   "extra": 0,
+   "speech": [
+    0.0,
+    8.44
+   ],
+   "words": [
+    [
+     "Dos",
+     0.0,
+     0.66
+    ],
+    [
+     "y",
+     0.66,
+     0.88
+    ],
+    [
+     "media",
+     0.88,
+     1.04
+    ],
+    [
+     "de",
+     1.04,
+     1.22
+    ],
+    [
+     "la",
+     1.22,
+     1.42
+    ],
+    [
+     "tarde,",
+     1.42,
+     1.96
+    ],
+    [
+     "sale",
+     2.58,
+     2.62
+    ],
+    [
+     "el",
+     2.62,
+     2.88
+    ],
+    [
+     "dato",
+     2.88,
+     3.1
+    ],
+    [
+     "de",
+     3.1,
+     3.34
+    ],
+    [
+     "inflación",
+     3.34,
+     3.74
+    ],
+    [
+     "de",
+     3.74,
+     4.0
+    ],
+    [
+     "Estados",
+     4.0,
+     4.26
+    ],
+    [
+     "Unidos",
+     4.26,
+     4.7
+    ],
+    [
+     "y",
+     4.7,
+     5.46
+    ],
+    [
+     "usted",
+     5.46,
+     5.74
+    ],
+    [
+     "ya",
+     5.74,
+     6.04
+    ],
+    [
+     "sabe",
+     6.04,
+     6.22
+    ],
+    [
+     "cómo",
+     6.22,
+     6.54
+    ],
+    [
+     "reaccionó",
+     6.54,
+     7.12
+    ],
+    [
+     "el",
+     7.12,
+     7.32
+    ],
+    [
+     "mercado",
+     7.32,
+     7.74
+    ],
+    [
+     "cada",
+     7.74,
+     8.2
+    ],
+    [
+     "vez.",
+     8.2,
+     8.44
+    ]
+   ],
+   "ok": true
+  },
+  {
+   "id": "h5",
+   "text": "Tres de la tarde. Antes de entrar, treinta segundos. Doji revisa la agenda, los niveles, su riesgo. ¿Luz verde? La decisión sigue siendo suya.",
+   "tts": "Tres de la tarde. Antes de entrar, treinta segundos. Doji revisa la agenda, los niveles, su riesgo. ¿Luz verde? La decisión sigue siendo suya.",
+   "file": "conteur-es-latam-cp-h5-p6.wav",
+   "seconds": 12.48,
+   "compute": 119,
+   "heard": "3 de la tarde antes de entrar, 30 segundos. Doji revisa la agenda, los niveles, su riesgo. ¿Luz verde? La decisión sigue siendo suya.",
+   "wer": 0.042,
+   "extra": 1,
+   "speech": [
+    0.0,
+    12.46
+   ],
+   "words": [
+    [
+     "3",
+     0.0,
+     0.68
+    ],
+    [
+     "de",
+     0.68,
+     0.84
+    ],
+    [
+     "la",
+     0.84,
+     1.0
+    ],
+    [
+     "tarde",
+     1.0,
+     1.54
+    ],
+    [
+     "antes",
+     1.54,
+     2.1
+    ],
+    [
+     "de",
+     2.1,
+     2.4
+    ],
+    [
+     "entrar,",
+     2.4,
+     2.8
+    ],
+    [
+     "30",
+     3.16,
+     3.38
+    ],
+    [
+     "segundos.",
+     3.38,
+     4.28
+    ],
+    [
+     "Doji",
+     5.28,
+     5.48
+    ],
+    [
+     "revisa",
+     5.48,
+     5.86
+    ],
+    [
+     "la",
+     5.86,
+     6.04
+    ],
+    [
+     "agenda,",
+     6.04,
+     6.38
+    ],
+    [
+     "los",
+     6.88,
+     7.04
+    ],
+    [
+     "niveles,",
+     7.04,
+     7.6
+    ],
+    [
+     "su",
+     7.86,
+     7.92
+    ],
+    [
+     "riesgo.",
+     7.92,
+     8.78
+    ],
+    [
+     "¿Luz",
+     9.1,
+     9.3
+    ],
+    [
+     "verde?",
+     9.3,
+     9.62
+    ],
+    [
+     "La",
+     10.8,
+     11.06
+    ],
+    [
+     "decisión",
+     11.06,
+     11.52
+    ],
+    [
+     "sigue",
+     11.52,
+     11.76
+    ],
+    [
+     "siendo",
+     11.76,
+     12.1
+    ],
+    [
+     "suya.",
+     12.1,
+     12.46
+    ]
+   ],
+   "ok": true
+  },
+  {
+   "id": "h6",
+   "text": "Cinco de la tarde. Cientos de reglas puestas a prueba. Nos quedamos con las que aguantan. Descartamos las demás.",
+   "tts": "Cinco de la tarde. Cientos de reglas puestas a prueba. Nos quedamos con las que aguantan. Descartamos las demás.",
+   "file": "conteur-es-latam-cp-h6-p6.wav",
+   "seconds": 7.84,
+   "compute": 76,
+   "heard": "Cinco de la tarde, cientos de reglas puestas a prueba. Nos quedamos con las que aguantan, descartamos las demás.",
+   "wer": 0.0,
+   "extra": 0,
+   "speech": [
+    0.0,
+    7.68
+   ],
+   "words": [
+    [
+     "Cinco",
+     0.0,
+     0.86
+    ],
+    [
+     "de",
+     0.86,
+     0.98
+    ],
+    [
+     "la",
+     0.98,
+     1.16
+    ],
+    [
+     "tarde,",
+     1.16,
+     1.58
+    ],
+    [
+     "cientos",
+     2.1,
+     2.3
+    ],
+    [
+     "de",
+     2.3,
+     2.5
+    ],
+    [
+     "reglas",
+     2.5,
+     2.8
+    ],
+    [
+     "puestas",
+     2.8,
+     3.32
+    ],
+    [
+     "a",
+     3.32,
+     3.42
+    ],
+    [
+     "prueba.",
+     3.42,
+     3.66
+    ],
+    [
+     "Nos",
+     4.58,
+     4.82
+    ],
+    [
+     "quedamos",
+     4.82,
+     5.24
+    ],
+    [
+     "con",
+     5.24,
+     5.38
+    ],
+    [
+     "las",
+     5.38,
+     5.54
+    ],
+    [
+     "que",
+     5.54,
+     5.66
+    ],
+    [
+     "aguantan,",
+     5.66,
+     6.36
+    ],
+    [
+     "descartamos",
+     6.76,
+     7.26
+    ],
+    [
+     "las",
+     7.26,
+     7.4
+    ],
+    [
+     "demás.",
+     7.4,
+     7.68
+    ]
+   ],
+   "ok": true
+  },
+  {
+   "id": "h7",
+   "text": "Diez de la noche. La hora del veredicto. Cada idea, ganadora o perdedora, a la vista de todos.",
+   "tts": "Diez de la noche. La hora del veredicto. Cada idea, ganadora o perdedora, a la vista de todos.",
+   "file": "conteur-es-latam-cp-h7-p6.wav",
+   "seconds": 7.68,
+   "compute": 77,
+   "heard": "10 de la noche. La hora del veredicto. Cada idea, ganadora o perdedora, a la vista de todos.",
+   "wer": 0.056,
+   "extra": 1,
+   "speech": [
+    0.0,
+    7.46
+   ],
+   "words": [
+    [
+     "10",
+     0.0,
+     0.84
+    ],
+    [
+     "de",
+     0.84,
+     1.06
+    ],
+    [
+     "la",
+     1.06,
+     1.24
+    ],
+    [
+     "noche.",
+     1.24,
+     1.9
+    ],
+    [
+     "La",
+     2.1,
+     2.32
+    ],
+    [
+     "hora",
+     2.32,
+     2.52
+    ],
+    [
+     "del",
+     2.52,
+     2.74
+    ],
+    [
+     "veredicto.",
+     2.74,
+     3.76
+    ],
+    [
+     "Cada",
+     4.0,
+     4.16
+    ],
+    [
+     "idea,",
+     4.16,
+     4.62
+    ],
+    [
+     "ganadora",
+     5.06,
+     5.4
+    ],
+    [
+     "o",
+     5.4,
+     5.62
+    ],
+    [
+     "perdedora,",
+     5.62,
+     6.18
+    ],
+    [
+     "a",
+     6.54,
+     6.62
+    ],
+    [
+     "la",
+     6.62,
+     6.74
+    ],
+    [
+     "vista",
+     6.74,
+     6.96
+    ],
+    [
+     "de",
+     6.96,
+     7.26
+    ],
+    [
+     "todos.",
+     7.26,
+     7.46
+    ]
+   ],
+   "ok": true
+  },
+  {
+   "id": "h8",
+   "text": "Tres de la madrugada. Las criptos nunca se detienen. Doji tampoco. Rayos X sobre los libros de órdenes, en directo.",
+   "tts": "Tres de la madrugada. Las criptos nunca se detienen. Doji tampoco. Rayos X sobre los libros de órdenes, en directo.",
+   "file": "conteur-es-latam-cp-h8-p6.wav",
+   "seconds": 9.76,
+   "compute": 96,
+   "heard": "3 de la madrugada. Las criptos nunca se detienen. Doji tampoco. Rayos X sobre los libros de órdenes, en directo.",
+   "wer": 0.0,
+   "extra": 0,
+   "speech": [
+    0.0,
+    9.74
+   ],
+   "words": [
+    [
+     "3",
+     0.0,
+     0.68
+    ],
+    [
+     "de",
+     0.68,
+     0.86
+    ],
+    [
+     "la",
+     0.86,
+     0.98
+    ],
+    [
+     "madrugada.",
+     0.98,
+     1.86
+    ],
+    [
+     "Las",
+     2.3,
+     2.54
+    ],
+    [
+     "criptos",
+     2.54,
+     3.02
+    ],
+    [
+     "nunca",
+     3.02,
+     3.28
+    ],
+    [
+     "se",
+     3.28,
+     3.52
+    ],
+    [
+     "detienen.",
+     3.52,
+     4.28
+    ],
+    [
+     "Doji",
+     4.82,
+     5.04
+    ],
+    [
+     "tampoco.",
+     5.04,
+     5.56
+    ],
+    [
+     "Rayos",
+     6.4,
+     6.8
+    ],
+    [
+     "X",
+     6.8,
+     7.24
+    ],
+    [
+     "sobre",
+     7.24,
+     7.6
+    ],
+    [
+     "los",
+     7.6,
+     7.88
+    ],
+    [
+     "libros",
+     7.88,
+     8.18
+    ],
+    [
+     "de",
+     8.18,
+     8.32
+    ],
+    [
+     "órdenes,",
+     8.32,
+     9.04
+    ],
+    [
+     "en",
+     9.2,
+     9.38
+    ],
+    [
+     "directo.",
+     9.38,
+     9.74
+    ]
+   ],
+   "ok": true
+  },
+  {
+   "id": "h9",
+   "text": "En otros sitios, le ahogan en cifras. Aquí, cada una tiene una razón de estar. Para aprender, comprender, decidir.",
+   "tts": "En otros sitios, le ahogan en cifras. Aquí, cada una tiene una razón de estar. Para aprender, comprender, decidir.",
+   "file": "conteur-es-latam-cp-h9-p6.wav",
+   "seconds": 9.2,
+   "compute": 90,
+   "heard": "En otros sitios, le ahogan en cifras. Aquí, cada una tiene una razón de estar, para aprender, comprender, decidir.",
+   "wer": 0.0,
+   "extra": 0,
+   "speech": [
+    0.0,
+    9.18
+   ],
+   "words": [
+    [
+     "En",
+     0.0,
+     0.7
+    ],
+    [
+     "otros",
+     0.7,
+     1.02
+    ],
+    [
+     "sitios,",
+     1.02,
+     1.58
+    ],
+    [
+     "le",
+     1.82,
+     1.96
+    ],
+    [
+     "ahogan",
+     1.96,
+     2.24
+    ],
+    [
+     "en",
+     2.24,
+     2.5
+    ],
+    [
+     "cifras.",
+     2.5,
+     3.06
+    ],
+    [
+     "Aquí,",
+     3.5,
+     3.82
+    ],
+    [
+     "cada",
+     4.24,
+     4.38
+    ],
+    [
+     "una",
+     4.38,
+     4.58
+    ],
+    [
+     "tiene",
+     4.58,
+     4.88
+    ],
+    [
+     "una",
+     4.88,
+     5.1
+    ],
+    [
+     "razón",
+     5.1,
+     5.42
+    ],
+    [
+     "de",
+     5.42,
+     5.74
+    ],
+    [
+     "estar,",
+     5.74,
+     5.94
+    ],
+    [
+     "para",
+     6.66,
+     6.78
+    ],
+    [
+     "aprender,",
+     6.78,
+     7.44
+    ],
+    [
+     "comprender,",
+     7.84,
+     8.4
+    ],
+    [
+     "decidir.",
+     8.78,
+     9.18
+    ]
+   ],
+   "ok": true
+  },
+  {
+   "id": "h10",
+   "text": "MACROARSENAL. Cada hora de su trading, bajo control.",
+   "tts": "Macro Arsenal. Cada hora de su trading, bajo control.",
+   "file": "conteur-es-latam-cp-h10-p6.wav",
+   "seconds": 4.64,
+   "compute": 52,
+   "heard": "Macro Arsenal, cada hora de su trading, bajo control.",
+   "wer": 0.0,
+   "extra": 0,
+   "speech": [
+    0.0,
+    4.32
+   ],
+   "words": [
+    [
+     "Macro",
+     0.0,
+     0.66
+    ],
+    [
+     "Arsenal,",
+     0.66,
+     1.3
+    ],
+    [
+     "cada",
+     2.22,
+     2.36
+    ],
+    [
+     "hora",
+     2.36,
+     2.56
+    ],
+    [
+     "de",
+     2.56,
+     2.74
+    ],
+    [
+     "su",
+     2.74,
+     2.9
+    ],
+    [
+     "trading,",
+     2.9,
+     3.28
+    ],
+    [
+     "bajo",
+     3.74,
+     3.88
+    ],
+    [
+     "control.",
+     3.88,
+     4.32
+    ]
+   ],
+   "ok": true
+  },
+  {
+   "id": "h11",
+   "text": "Bienvenido. ¿Empezamos?",
+   "tts": "Bienvenido. ¿Empezamos?",
+   "file": "conteur-es-latam-cp-h11-p6.wav",
+   "seconds": 2.4,
+   "compute": 33,
+   "heard": "Bienvenido. ¿Empezamos?",
+   "wer": 0.0,
+   "extra": 0,
+   "speech": [
+    0.0,
+    2.3
+   ],
+   "words": [
+    [
+     "Bienvenido.",
+     0.0,
+     1.46
+    ],
+    [
+     "¿Empezamos?",
+     1.68,
+     2.3
+    ]
+   ],
+   "ok": true
+  }
+ ]
+}

@@ -1,0 +1,1020 @@
+{
+ "voice": "motiv-fr-c",
+ "langue": "fr",
+ "casting_take": "1",
+ "take": 6,
+ "span": "h1-h11",
+ "engine": "Qwen3-TTS 1.7B Base, voix clonée depuis le casting (Apache-2.0)",
+ "reference": {
+  "from": "motiv-fr-c-1",
+  "span": "b1-b2",
+  "start": 0.0,
+  "end": 6.13,
+  "text": "Les marchés ne dorment jamais. Tokyo ouvre. Londres prend le relais. New York fait trembler le monde."
+ },
+ "lines": [
+  {
+   "id": "h1",
+   "text": "Six heures cinquante-neuf. Le monde dort encore. Doji, lui, veille déjà.",
+   "tts": "Six heures cinquante-neuf. Le monde dort encore. Doji, lui, veille déjà.",
+   "file": "motiv-fr-c-c1-h1-p6.wav",
+   "seconds": 4.96,
+   "compute": 48,
+   "heard": "6h59, le monde dort encore. Doji, lui, veille déjà.",
+   "wer": 0.333,
+   "extra": 1,
+   "speech": [
+    0.0,
+    4.8
+   ],
+   "words": [
+    [
+     "6h59,",
+     0.0,
+     1.08
+    ],
+    [
+     "le",
+     1.54,
+     1.66
+    ],
+    [
+     "monde",
+     1.66,
+     1.96
+    ],
+    [
+     "dort",
+     1.96,
+     2.24
+    ],
+    [
+     "encore.",
+     2.24,
+     2.76
+    ],
+    [
+     "Doji,",
+     3.12,
+     3.54
+    ],
+    [
+     "lui,",
+     3.74,
+     3.98
+    ],
+    [
+     "veille",
+     4.32,
+     4.46
+    ],
+    [
+     "déjà.",
+     4.46,
+     4.8
+    ]
+   ],
+   "ok": false
+  },
+  {
+   "id": "h2",
+   "text": "Sept heures. Votre terminal se construit, bloc par bloc. Exactement comme vous le voulez.",
+   "tts": "Sept heures. Votre terminal se construit, bloc par bloc. Exactement comme vous le voulez.",
+   "file": "motiv-fr-c-c1-h2-p6.wav",
+   "seconds": 5.28,
+   "compute": 51,
+   "heard": "7 heures. Votre terminal se construit bloc par bloc, exactement comme vous le voulez.",
+   "wer": 0.071,
+   "extra": 1,
+   "speech": [
+    0.0,
+    4.96
+   ],
+   "words": [
+    [
+     "7",
+     0.0,
+     0.36
+    ],
+    [
+     "heures.",
+     0.36,
+     0.82
+    ],
+    [
+     "Votre",
+     1.04,
+     1.38
+    ],
+    [
+     "terminal",
+     1.38,
+     1.66
+    ],
+    [
+     "se",
+     1.66,
+     1.96
+    ],
+    [
+     "construit",
+     1.96,
+     2.62
+    ],
+    [
+     "bloc",
+     2.62,
+     2.98
+    ],
+    [
+     "par",
+     2.98,
+     3.18
+    ],
+    [
+     "bloc,",
+     3.18,
+     3.66
+    ],
+    [
+     "exactement",
+     3.94,
+     4.24
+    ],
+    [
+     "comme",
+     4.24,
+     4.48
+    ],
+    [
+     "vous",
+     4.48,
+     4.66
+    ],
+    [
+     "le",
+     4.66,
+     4.82
+    ],
+    [
+     "voulez.",
+     4.82,
+     4.96
+    ]
+   ],
+   "ok": true
+  },
+  {
+   "id": "h3",
+   "text": "Huit heures trente. Quarante marchés passés au crible. Un biais clair, avant même votre premier café.",
+   "tts": "Huit heures trente. Quarante marchés passés au crible. Un biais clair, avant même votre premier café.",
+   "file": "motiv-fr-c-c1-h3-p6.wav",
+   "seconds": 6.48,
+   "compute": 63,
+   "heard": "8h30, 40 marchés passés au crible, un biais clair avant même votre premier café.",
+   "wer": 0.25,
+   "extra": 2,
+   "speech": [
+    0.76,
+    6.3
+   ],
+   "words": [
+    [
+     "8h30,",
+     0.76,
+     1.36
+    ],
+    [
+     "40",
+     1.78,
+     2.02
+    ],
+    [
+     "marchés",
+     2.02,
+     2.46
+    ],
+    [
+     "passés",
+     2.46,
+     2.8
+    ],
+    [
+     "au",
+     2.8,
+     2.98
+    ],
+    [
+     "crible,",
+     2.98,
+     3.44
+    ],
+    [
+     "un",
+     3.76,
+     3.9
+    ],
+    [
+     "biais",
+     3.9,
+     4.2
+    ],
+    [
+     "clair",
+     4.2,
+     4.52
+    ],
+    [
+     "avant",
+     4.52,
+     5.14
+    ],
+    [
+     "même",
+     5.14,
+     5.42
+    ],
+    [
+     "votre",
+     5.42,
+     5.72
+    ],
+    [
+     "premier",
+     5.72,
+     6.02
+    ],
+    [
+     "café.",
+     6.02,
+     6.3
+    ]
+   ],
+   "ok": false
+  },
+  {
+   "id": "h4",
+   "text": "Quatorze heures trente. Le chiffre de l'inflation américaine tombe. Et vous savez déjà comment le marché a réagi, chaque fois.",
+   "tts": "Quatorze heures trente. Le chiffre de l'inflation américaine tombe. Et vous savez déjà comment le marché a réagi, chaque fois.",
+   "file": "motiv-fr-c-c1-h4-p6.wav",
+   "seconds": 6.48,
+   "compute": 62,
+   "heard": "14h30, le chiffre de l'inflation américaine tombe et vous savez déjà comment le marché a réagi, chaque fois.",
+   "wer": 0.143,
+   "extra": 1,
+   "speech": [
+    0.62,
+    6.34
+   ],
+   "words": [
+    [
+     "14h30,",
+     0.62,
+     1.12
+    ],
+    [
+     "le",
+     1.54,
+     1.66
+    ],
+    [
+     "chiffre",
+     1.66,
+     1.96
+    ],
+    [
+     "de",
+     1.96,
+     2.02
+    ],
+    [
+     "l",
+     2.02,
+     2.12
+    ],
+    [
+     "'inflation",
+     2.12,
+     2.52
+    ],
+    [
+     "américaine",
+     2.52,
+     3.1
+    ],
+    [
+     "tombe",
+     3.1,
+     3.56
+    ],
+    [
+     "et",
+     3.56,
+     3.82
+    ],
+    [
+     "vous",
+     3.82,
+     3.94
+    ],
+    [
+     "savez",
+     3.94,
+     4.2
+    ],
+    [
+     "déjà",
+     4.2,
+     4.52
+    ],
+    [
+     "comment",
+     4.52,
+     4.72
+    ],
+    [
+     "le",
+     4.72,
+     4.9
+    ],
+    [
+     "marché",
+     4.9,
+     5.14
+    ],
+    [
+     "a",
+     5.14,
+     5.38
+    ],
+    [
+     "réagi,",
+     5.38,
+     5.76
+    ],
+    [
+     "chaque",
+     6.02,
+     6.18
+    ],
+    [
+     "fois.",
+     6.18,
+     6.34
+    ]
+   ],
+   "ok": false
+  },
+  {
+   "id": "h5",
+   "text": "Quinze heures. Avant d'entrer, trente secondes. Doji vérifie l'agenda, les niveaux, votre risque. Feu vert ? La décision reste la vôtre.",
+   "tts": "Quinze heures. Avant d'entrer, trente secondes. Doji vérifie l'agenda, les niveaux, votre risque. Feu vert ? La décision reste la vôtre.",
+   "file": "motiv-fr-c-c1-h5-p6.wav",
+   "seconds": 8.56,
+   "compute": 79,
+   "heard": "15 heures, avant d'entrer 30 secondes. Doji vérifie l'agenda, les niveaux, votre risque. Feu vert, la décision reste la vôtre.",
+   "wer": 0.045,
+   "extra": 1,
+   "speech": [
+    0.0,
+    8.48
+   ],
+   "words": [
+    [
+     "15",
+     0.0,
+     0.44
+    ],
+    [
+     "heures,",
+     0.44,
+     0.86
+    ],
+    [
+     "avant",
+     1.2,
+     1.3
+    ],
+    [
+     "d",
+     1.3,
+     1.32
+    ],
+    [
+     "'entrer",
+     1.32,
+     1.84
+    ],
+    [
+     "30",
+     1.84,
+     2.16
+    ],
+    [
+     "secondes.",
+     2.16,
+     2.88
+    ],
+    [
+     "Doji",
+     3.04,
+     3.34
+    ],
+    [
+     "vérifie",
+     3.34,
+     3.8
+    ],
+    [
+     "l",
+     3.8,
+     3.9
+    ],
+    [
+     "'agenda,",
+     3.9,
+     4.3
+    ],
+    [
+     "les",
+     4.52,
+     4.66
+    ],
+    [
+     "niveaux,",
+     4.66,
+     5.06
+    ],
+    [
+     "votre",
+     5.2,
+     5.36
+    ],
+    [
+     "risque.",
+     5.36,
+     5.74
+    ],
+    [
+     "Feu",
+     6.2,
+     6.48
+    ],
+    [
+     "vert,",
+     6.48,
+     6.78
+    ],
+    [
+     "la",
+     7.14,
+     7.26
+    ],
+    [
+     "décision",
+     7.26,
+     7.72
+    ],
+    [
+     "reste",
+     7.72,
+     8.04
+    ],
+    [
+     "la",
+     8.04,
+     8.26
+    ],
+    [
+     "vôtre.",
+     8.26,
+     8.48
+    ]
+   ],
+   "ok": true
+  },
+  {
+   "id": "h6",
+   "text": "Dix-sept heures. Des centaines de règles testées. On garde celles qui tiennent. On jette les autres.",
+   "tts": "Dix-sept heures. Des centaines de règles testées. On garde celles qui tiennent. On jette les autres.",
+   "file": "motiv-fr-c-c1-h6-p6.wav",
+   "seconds": 5.6,
+   "compute": 54,
+   "heard": "17 heures, des centaines de règles testées, on garde celles qui tiennent, on jette les autres.",
+   "wer": 0.118,
+   "extra": 1,
+   "speech": [
+    0.0,
+    5.22
+   ],
+   "words": [
+    [
+     "17",
+     0.0,
+     0.56
+    ],
+    [
+     "heures,",
+     0.56,
+     0.92
+    ],
+    [
+     "des",
+     1.18,
+     1.38
+    ],
+    [
+     "centaines",
+     1.38,
+     1.72
+    ],
+    [
+     "de",
+     1.72,
+     1.88
+    ],
+    [
+     "règles",
+     1.88,
+     2.2
+    ],
+    [
+     "testées,",
+     2.2,
+     2.68
+    ],
+    [
+     "on",
+     2.9,
+     2.98
+    ],
+    [
+     "garde",
+     2.98,
+     3.32
+    ],
+    [
+     "celles",
+     3.32,
+     3.62
+    ],
+    [
+     "qui",
+     3.62,
+     3.84
+    ],
+    [
+     "tiennent,",
+     3.84,
+     4.2
+    ],
+    [
+     "on",
+     4.42,
+     4.54
+    ],
+    [
+     "jette",
+     4.54,
+     4.76
+    ],
+    [
+     "les",
+     4.76,
+     5.02
+    ],
+    [
+     "autres.",
+     5.02,
+     5.22
+    ]
+   ],
+   "ok": false
+  },
+  {
+   "id": "h7",
+   "text": "Vingt-deux heures. L'heure du verdict. Chaque idée, gagnante ou perdante, affichée au grand jour.",
+   "tts": "Vingt-deux heures. L'heure du verdict. Chaque idée, gagnante ou perdante, affichée au grand jour.",
+   "file": "motiv-fr-c-c1-h7-p6.wav",
+   "seconds": 6.4,
+   "compute": 60,
+   "heard": "22 heures, l'heure du verdict. Chaque idée, gagnante ou perdante, affichée au grand jour.",
+   "wer": 0.125,
+   "extra": 1,
+   "speech": [
+    0.0,
+    5.92
+   ],
+   "words": [
+    [
+     "22",
+     0.0,
+     0.56
+    ],
+    [
+     "heures,",
+     0.56,
+     1.04
+    ],
+    [
+     "l",
+     1.3,
+     1.38
+    ],
+    [
+     "'heure",
+     1.38,
+     1.48
+    ],
+    [
+     "du",
+     1.48,
+     1.68
+    ],
+    [
+     "verdict.",
+     1.68,
+     2.08
+    ],
+    [
+     "Chaque",
+     2.6,
+     2.88
+    ],
+    [
+     "idée,",
+     2.88,
+     3.1
+    ],
+    [
+     "gagnante",
+     3.58,
+     3.86
+    ],
+    [
+     "ou",
+     3.86,
+     4.04
+    ],
+    [
+     "perdante,",
+     4.04,
+     4.6
+    ],
+    [
+     "affichée",
+     5.0,
+     5.24
+    ],
+    [
+     "au",
+     5.24,
+     5.44
+    ],
+    [
+     "grand",
+     5.44,
+     5.6
+    ],
+    [
+     "jour.",
+     5.6,
+     5.92
+    ]
+   ],
+   "ok": false
+  },
+  {
+   "id": "h8",
+   "text": "Trois heures du matin. La crypto ne s'arrête jamais. Doji non plus. Rayons X sur les carnets d'ordres, en direct.",
+   "tts": "Trois heures du matin. La crypto ne s'arrête jamais. Doji non plus. Rayons X sur les carnets d'ordres, en direct.",
+   "file": "motiv-fr-c-c1-h8-p6.wav",
+   "seconds": 7.12,
+   "compute": 67,
+   "heard": "3 heures du matin. La crypto ne s'arrête jamais. Doji non plus. Rayon X sur les carnets d'ordre en direct.",
+   "wer": 0.091,
+   "extra": 2,
+   "speech": [
+    0.0,
+    6.96
+   ],
+   "words": [
+    [
+     "3",
+     0.0,
+     0.34
+    ],
+    [
+     "heures",
+     0.34,
+     0.54
+    ],
+    [
+     "du",
+     0.54,
+     0.76
+    ],
+    [
+     "matin.",
+     0.76,
+     1.04
+    ],
+    [
+     "La",
+     1.42,
+     1.64
+    ],
+    [
+     "crypto",
+     1.64,
+     1.96
+    ],
+    [
+     "ne",
+     1.96,
+     2.14
+    ],
+    [
+     "s",
+     2.14,
+     2.32
+    ],
+    [
+     "'arrête",
+     2.32,
+     2.56
+    ],
+    [
+     "jamais.",
+     2.56,
+     2.98
+    ],
+    [
+     "Doji",
+     3.48,
+     3.8
+    ],
+    [
+     "non",
+     3.8,
+     4.08
+    ],
+    [
+     "plus.",
+     4.08,
+     4.42
+    ],
+    [
+     "Rayon",
+     4.64,
+     4.9
+    ],
+    [
+     "X",
+     4.9,
+     5.2
+    ],
+    [
+     "sur",
+     5.2,
+     5.4
+    ],
+    [
+     "les",
+     5.4,
+     5.62
+    ],
+    [
+     "carnets",
+     5.62,
+     5.9
+    ],
+    [
+     "d",
+     5.9,
+     6.04
+    ],
+    [
+     "'ordre",
+     6.04,
+     6.22
+    ],
+    [
+     "en",
+     6.22,
+     6.7
+    ],
+    [
+     "direct.",
+     6.7,
+     6.96
+    ]
+   ],
+   "ok": false
+  },
+  {
+   "id": "h9",
+   "text": "Ailleurs, on vous noie sous les chiffres. Ici, chacun a une raison d'être là. Pour apprendre, comprendre, décider.",
+   "tts": "Ailleurs, on vous noie sous les chiffres. Ici, chacun a une raison d'être là. Pour apprendre, comprendre, décider.",
+   "file": "motiv-fr-c-c1-h9-p6.wav",
+   "seconds": 6.72,
+   "compute": 63,
+   "heard": "Ailleurs, on vous noie sous les chiffres. Ici, chacun a une raison d'être là. Pour apprendre, comprendre, décider.",
+   "wer": 0.0,
+   "extra": 0,
+   "speech": [
+    0.0,
+    6.6
+   ],
+   "words": [
+    [
+     "Ailleurs,",
+     0.0,
+     0.48
+    ],
+    [
+     "on",
+     0.68,
+     0.74
+    ],
+    [
+     "vous",
+     0.74,
+     0.92
+    ],
+    [
+     "noie",
+     0.92,
+     1.18
+    ],
+    [
+     "sous",
+     1.18,
+     1.32
+    ],
+    [
+     "les",
+     1.32,
+     1.52
+    ],
+    [
+     "chiffres.",
+     1.52,
+     1.98
+    ],
+    [
+     "Ici,",
+     2.32,
+     2.5
+    ],
+    [
+     "chacun",
+     2.78,
+     2.94
+    ],
+    [
+     "a",
+     2.94,
+     3.12
+    ],
+    [
+     "une",
+     3.12,
+     3.26
+    ],
+    [
+     "raison",
+     3.26,
+     3.54
+    ],
+    [
+     "d",
+     3.54,
+     3.68
+    ],
+    [
+     "'être",
+     3.68,
+     3.88
+    ],
+    [
+     "là.",
+     3.88,
+     4.16
+    ],
+    [
+     "Pour",
+     4.46,
+     4.6
+    ],
+    [
+     "apprendre,",
+     4.6,
+     5.16
+    ],
+    [
+     "comprendre,",
+     5.58,
+     5.9
+    ],
+    [
+     "décider.",
+     6.26,
+     6.6
+    ]
+   ],
+   "ok": true
+  },
+  {
+   "id": "h10",
+   "text": "MACROARSENAL. Chaque heure de votre trading, maîtrisée.",
+   "tts": "Macro Arsenal. Chaque heure de votre trading, maîtrisée.",
+   "file": "motiv-fr-c-c1-h10-p6.wav",
+   "seconds": 3.76,
+   "compute": 38,
+   "heard": "Macro Arsenal, chaque heure de votre trading maîtrisée.",
+   "wer": 0.0,
+   "extra": 0,
+   "speech": [
+    0.0,
+    3.74
+   ],
+   "words": [
+    [
+     "Macro",
+     0.0,
+     0.66
+    ],
+    [
+     "Arsenal,",
+     0.66,
+     1.32
+    ],
+    [
+     "chaque",
+     1.76,
+     1.88
+    ],
+    [
+     "heure",
+     1.88,
+     2.04
+    ],
+    [
+     "de",
+     2.04,
+     2.2
+    ],
+    [
+     "votre",
+     2.2,
+     2.42
+    ],
+    [
+     "trading",
+     2.42,
+     2.88
+    ],
+    [
+     "maîtrisée.",
+     2.88,
+     3.74
+    ]
+   ],
+   "ok": true
+  },
+  {
+   "id": "h11",
+   "text": "Bienvenue. On commence ?",
+   "tts": "Bienvenue. On commence ?",
+   "file": "motiv-fr-c-c1-h11-p6.wav",
+   "seconds": 1.92,
+   "compute": 23,
+   "heard": "Bienvenue. On commence.",
+   "wer": 0.0,
+   "extra": 0,
+   "speech": [
+    0.0,
+    1.48
+   ],
+   "words": [
+    [
+     "Bienvenue.",
+     0.0,
+     0.66
+    ],
+    [
+     "On",
+     0.96,
+     1.12
+    ],
+    [
+     "commence.",
+     1.12,
+     1.48
+    ]
+   ],
+   "ok": true
+  }
+ ]
+}
