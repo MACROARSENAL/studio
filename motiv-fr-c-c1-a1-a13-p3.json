@@ -1,0 +1,1036 @@
+{
+ "voice": "motiv-fr-c",
+ "langue": "fr",
+ "casting_take": "1",
+ "take": 3,
+ "span": "a1-a13",
+ "engine": "Qwen3-TTS 1.7B Base, voix clonée depuis le casting (Apache-2.0)",
+ "reference": {
+  "from": "motiv-fr-c-1",
+  "span": "b1-b2",
+  "start": 0.0,
+  "end": 6.13,
+  "text": "Les marchés ne dorment jamais. Tokyo ouvre. Londres prend le relais. New York fait trembler le monde."
+ },
+ "lines": [
+  {
+   "id": "a1",
+   "text": "Chaque jour, des milliers de traders entrent sur les marchés… à l'aveugle.",
+   "tts": "Chaque jour, des milliers de traders entrent sur les marchés… à l'aveugle.",
+   "file": "motiv-fr-c-c1-a1-p3.wav",
+   "seconds": 4.64,
+   "compute": 45,
+   "heard": "Chaque jour, des milliers de traders entrent sur les marchés, à l'aveugle.",
+   "wer": 0.0,
+   "extra": 0,
+   "speech": [
+    0.0,
+    4.56
+   ],
+   "words": [
+    [
+     "Chaque",
+     0.0,
+     0.54
+    ],
+    [
+     "jour,",
+     0.54,
+     0.88
+    ],
+    [
+     "des",
+     1.18,
+     1.34
+    ],
+    [
+     "milliers",
+     1.34,
+     1.72
+    ],
+    [
+     "de",
+     1.72,
+     1.92
+    ],
+    [
+     "traders",
+     1.92,
+     2.26
+    ],
+    [
+     "entrent",
+     2.26,
+     2.74
+    ],
+    [
+     "sur",
+     2.74,
+     2.92
+    ],
+    [
+     "les",
+     2.92,
+     3.08
+    ],
+    [
+     "marchés,",
+     3.08,
+     3.72
+    ],
+    [
+     "à",
+     3.98,
+     4.08
+    ],
+    [
+     "l",
+     4.08,
+     4.2
+    ],
+    [
+     "'aveugle.",
+     4.2,
+     4.56
+    ]
+   ],
+   "ok": true
+  },
+  {
+   "id": "a2",
+   "text": "Trop de chiffres. Trop de bruit. Trop d'avis.",
+   "tts": "Trop de chiffres. Trop de bruit. Trop d'avis.",
+   "file": "motiv-fr-c-c1-a2-p3.wav",
+   "seconds": 2.56,
+   "compute": 27,
+   "heard": "Trop de chiffres, trop de bruit, trop d'avis.",
+   "wer": 0.0,
+   "extra": 0,
+   "speech": [
+    0.0,
+    2.54
+   ],
+   "words": [
+    [
+     "Trop",
+     0.0,
+     0.28
+    ],
+    [
+     "de",
+     0.28,
+     0.52
+    ],
+    [
+     "chiffres,",
+     0.52,
+     1.0
+    ],
+    [
+     "trop",
+     1.22,
+     1.32
+    ],
+    [
+     "de",
+     1.32,
+     1.58
+    ],
+    [
+     "bruit,",
+     1.58,
+     1.86
+    ],
+    [
+     "trop",
+     2.1,
+     2.2
+    ],
+    [
+     "d",
+     2.2,
+     2.32
+    ],
+    [
+     "'avis.",
+     2.32,
+     2.54
+    ]
+   ],
+   "ok": true
+  },
+  {
+   "id": "a3",
+   "text": "Il était temps que quelqu'un fasse le tri.",
+   "tts": "Il était temps que quelqu'un fasse le tri.",
+   "file": "motiv-fr-c-c1-a3-p3.wav",
+   "seconds": 1.92,
+   "compute": 22,
+   "heard": "Il était temps que quelqu'un fasse le tri.",
+   "wer": 0.0,
+   "extra": 0,
+   "speech": [
+    0.0,
+    1.82
+   ],
+   "words": [
+    [
+     "Il",
+     0.0,
+     0.2
+    ],
+    [
+     "était",
+     0.2,
+     0.42
+    ],
+    [
+     "temps",
+     0.42,
+     0.62
+    ],
+    [
+     "que",
+     0.62,
+     0.86
+    ],
+    [
+     "quelqu",
+     0.86,
+     1.06
+    ],
+    [
+     "'un",
+     1.06,
+     1.3
+    ],
+    [
+     "fasse",
+     1.3,
+     1.52
+    ],
+    [
+     "le",
+     1.52,
+     1.7
+    ],
+    [
+     "tri.",
+     1.7,
+     1.82
+    ]
+   ],
+   "ok": true
+  },
+  {
+   "id": "a4",
+   "text": "Voici MACROARSENAL. Votre terminal, construit bloc par bloc. À votre image.",
+   "tts": "Voici Macro Arsenal. Votre terminal, construit bloc par bloc. À votre image.",
+   "file": "motiv-fr-c-c1-a4-p3.wav",
+   "seconds": 5.28,
+   "compute": 50,
+   "heard": "Voici Macro Arsenal, votre terminal construit bloc par bloc, à votre image.",
+   "wer": 0.0,
+   "extra": 0,
+   "speech": [
+    0.0,
+    4.84
+   ],
+   "words": [
+    [
+     "Voici",
+     0.0,
+     0.46
+    ],
+    [
+     "Macro",
+     0.46,
+     0.92
+    ],
+    [
+     "Arsenal,",
+     0.92,
+     1.38
+    ],
+    [
+     "votre",
+     1.86,
+     2.04
+    ],
+    [
+     "terminal",
+     2.04,
+     2.52
+    ],
+    [
+     "construit",
+     2.52,
+     3.08
+    ],
+    [
+     "bloc",
+     3.08,
+     3.38
+    ],
+    [
+     "par",
+     3.38,
+     3.56
+    ],
+    [
+     "bloc,",
+     3.56,
+     4.02
+    ],
+    [
+     "à",
+     4.2,
+     4.34
+    ],
+    [
+     "votre",
+     4.34,
+     4.48
+    ],
+    [
+     "image.",
+     4.48,
+     4.84
+    ]
+   ],
+   "ok": true
+  },
+  {
+   "id": "a5",
+   "text": "Quarante marchés lus chaque matin. Un biais clair. Et une raison derrière chaque mot.",
+   "tts": "Quarante marchés lus chaque matin. Un biais clair. Et une raison derrière chaque mot.",
+   "file": "motiv-fr-c-c1-a5-p3.wav",
+   "seconds": 5.6,
+   "compute": 52,
+   "heard": "40 marchés lus chaque matin, un biais clair et une raison derrière chaque mot.",
+   "wer": 0.071,
+   "extra": 1,
+   "speech": [
+    0.0,
+    5.52
+   ],
+   "words": [
+    [
+     "40",
+     0.0,
+     0.64
+    ],
+    [
+     "marchés",
+     0.64,
+     1.16
+    ],
+    [
+     "lus",
+     1.16,
+     1.44
+    ],
+    [
+     "chaque",
+     1.44,
+     1.72
+    ],
+    [
+     "matin,",
+     1.72,
+     2.1
+    ],
+    [
+     "un",
+     2.5,
+     2.62
+    ],
+    [
+     "biais",
+     2.62,
+     2.9
+    ],
+    [
+     "clair",
+     2.9,
+     3.24
+    ],
+    [
+     "et",
+     3.24,
+     3.88
+    ],
+    [
+     "une",
+     3.88,
+     4.0
+    ],
+    [
+     "raison",
+     4.0,
+     4.26
+    ],
+    [
+     "derrière",
+     4.26,
+     4.88
+    ],
+    [
+     "chaque",
+     4.88,
+     5.32
+    ],
+    [
+     "mot.",
+     5.32,
+     5.52
+    ]
+   ],
+   "ok": true
+  },
+  {
+   "id": "a6",
+   "text": "Quand un chiffre tombe, vous savez déjà comment le marché a réagi, les fois d'avant.",
+   "tts": "Quand un chiffre tombe, vous savez déjà comment le marché a réagi, les fois d'avant.",
+   "file": "motiv-fr-c-c1-a6-p3.wav",
+   "seconds": 4.24,
+   "compute": 41,
+   "heard": "Quand un chiffre tombe, vous savez déjà comment le marché a réagi, les fois d'avant.",
+   "wer": 0.0,
+   "extra": 0,
+   "speech": [
+    0.0,
+    4.12
+   ],
+   "words": [
+    [
+     "Quand",
+     0.0,
+     0.24
+    ],
+    [
+     "un",
+     0.24,
+     0.46
+    ],
+    [
+     "chiffre",
+     0.46,
+     0.84
+    ],
+    [
+     "tombe,",
+     0.84,
+     1.22
+    ],
+    [
+     "vous",
+     1.4,
+     1.46
+    ],
+    [
+     "savez",
+     1.46,
+     1.68
+    ],
+    [
+     "déjà",
+     1.68,
+     1.98
+    ],
+    [
+     "comment",
+     1.98,
+     2.16
+    ],
+    [
+     "le",
+     2.16,
+     2.36
+    ],
+    [
+     "marché",
+     2.36,
+     2.64
+    ],
+    [
+     "a",
+     2.64,
+     2.92
+    ],
+    [
+     "réagi,",
+     2.92,
+     3.4
+    ],
+    [
+     "les",
+     3.58,
+     3.72
+    ],
+    [
+     "fois",
+     3.72,
+     3.82
+    ],
+    [
+     "d",
+     3.82,
+     4.02
+    ],
+    [
+     "'avant.",
+     4.02,
+     4.12
+    ]
+   ],
+   "ok": true
+  },
+  {
+   "id": "a7",
+   "text": "Des centaines de stratégies testées sur vingt-cinq ans. Une poignée a survécu. Ce sont les seules qu'on vous propose.",
+   "tts": "Des centaines de stratégies testées sur vingt-cinq ans. Une poignée a survécu. Ce sont les seules qu'on vous propose.",
+   "file": "motiv-fr-c-c1-a7-p3.wav",
+   "seconds": 6.08,
+   "compute": 56,
+   "heard": "Des centaines de stratégies testées sur 25 ans, une poignée a survécu. Ce sont les seules qu'on vous propose.",
+   "wer": 0.095,
+   "extra": 1,
+   "speech": [
+    0.0,
+    5.98
+   ],
+   "words": [
+    [
+     "Des",
+     0.0,
+     0.3
+    ],
+    [
+     "centaines",
+     0.3,
+     0.7
+    ],
+    [
+     "de",
+     0.7,
+     1.02
+    ],
+    [
+     "stratégies",
+     1.02,
+     1.44
+    ],
+    [
+     "testées",
+     1.44,
+     1.9
+    ],
+    [
+     "sur",
+     1.9,
+     2.1
+    ],
+    [
+     "25",
+     2.1,
+     2.46
+    ],
+    [
+     "ans,",
+     2.46,
+     2.8
+    ],
+    [
+     "une",
+     3.14,
+     3.28
+    ],
+    [
+     "poignée",
+     3.28,
+     3.64
+    ],
+    [
+     "a",
+     3.64,
+     3.78
+    ],
+    [
+     "survécu.",
+     3.78,
+     4.44
+    ],
+    [
+     "Ce",
+     4.66,
+     4.7
+    ],
+    [
+     "sont",
+     4.7,
+     4.88
+    ],
+    [
+     "les",
+     4.88,
+     5.1
+    ],
+    [
+     "seules",
+     5.1,
+     5.28
+    ],
+    [
+     "qu",
+     5.28,
+     5.38
+    ],
+    [
+     "'on",
+     5.38,
+     5.44
+    ],
+    [
+     "vous",
+     5.44,
+     5.7
+    ],
+    [
+     "propose.",
+     5.7,
+     5.98
+    ]
+   ],
+   "ok": false
+  },
+  {
+   "id": "a8",
+   "text": "Et avant chaque trade, Doji vérifie tout. Le calendrier. Les niveaux. Votre risque.",
+   "tts": "Et avant chaque trade, Doji vérifie tout. Le calendrier. Les niveaux. Votre risque.",
+   "file": "motiv-fr-c-c1-a8-p3.wav",
+   "seconds": 6.24,
+   "compute": 58,
+   "heard": "Et avant chaque trade, Dogey vérifie tout. Le calendrier. Les niveaux. Votre risque.",
+   "wer": 0.077,
+   "extra": 1,
+   "speech": [
+    0.0,
+    6.04
+   ],
+   "words": [
+    [
+     "Et",
+     0.0,
+     0.4
+    ],
+    [
+     "avant",
+     0.4,
+     0.64
+    ],
+    [
+     "chaque",
+     0.64,
+     0.96
+    ],
+    [
+     "trade,",
+     0.96,
+     1.42
+    ],
+    [
+     "Dogey",
+     1.84,
+     2.22
+    ],
+    [
+     "vérifie",
+     2.22,
+     2.6
+    ],
+    [
+     "tout.",
+     2.6,
+     2.86
+    ],
+    [
+     "Le",
+     3.22,
+     3.44
+    ],
+    [
+     "calendrier.",
+     3.44,
+     4.02
+    ],
+    [
+     "Les",
+     4.48,
+     4.68
+    ],
+    [
+     "niveaux.",
+     4.68,
+     5.2
+    ],
+    [
+     "Votre",
+     5.44,
+     5.72
+    ],
+    [
+     "risque.",
+     5.72,
+     6.04
+    ]
+   ],
+   "ok": true
+  },
+  {
+   "id": "a9",
+   "text": "Chaque soir, on publie nos résultats. Les victoires… et les erreurs.",
+   "tts": "Chaque soir, on publie nos résultats. Les victoires… et les erreurs.",
+   "file": "motiv-fr-c-c1-a9-p3.wav",
+   "seconds": 4.4,
+   "compute": 42,
+   "heard": "Chaque soir, on publie nos résultats, les victoires et les erreurs.",
+   "wer": 0.0,
+   "extra": 0,
+   "speech": [
+    0.0,
+    4.38
+   ],
+   "words": [
+    [
+     "Chaque",
+     0.0,
+     0.4
+    ],
+    [
+     "soir,",
+     0.4,
+     0.68
+    ],
+    [
+     "on",
+     1.04,
+     1.14
+    ],
+    [
+     "publie",
+     1.14,
+     1.46
+    ],
+    [
+     "nos",
+     1.46,
+     1.58
+    ],
+    [
+     "résultats,",
+     1.58,
+     2.38
+    ],
+    [
+     "les",
+     2.6,
+     2.74
+    ],
+    [
+     "victoires",
+     2.74,
+     3.36
+    ],
+    [
+     "et",
+     3.36,
+     3.74
+    ],
+    [
+     "les",
+     3.74,
+     3.98
+    ],
+    [
+     "erreurs.",
+     3.98,
+     4.38
+    ]
+   ],
+   "ok": true
+  },
+  {
+   "id": "a10",
+   "text": "La nuit, la crypto prend le relais. Rayons X sur le carnet d'ordres, en direct.",
+   "tts": "La nuit, la crypto prend le relais. Rayons X sur le carnet d'ordres, en direct.",
+   "file": "motiv-fr-c-c1-a10-p3.wav",
+   "seconds": 5.28,
+   "compute": 50,
+   "heard": "La nuit, la crypto prend le relais. Rayon X sur le carnet d'ordre, en direct.",
+   "wer": 0.125,
+   "extra": 2,
+   "speech": [
+    0.0,
+    4.98
+   ],
+   "words": [
+    [
+     "La",
+     0.0,
+     0.32
+    ],
+    [
+     "nuit,",
+     0.32,
+     0.6
+    ],
+    [
+     "la",
+     0.82,
+     0.96
+    ],
+    [
+     "crypto",
+     0.96,
+     1.32
+    ],
+    [
+     "prend",
+     1.32,
+     1.56
+    ],
+    [
+     "le",
+     1.56,
+     1.82
+    ],
+    [
+     "relais.",
+     1.82,
+     2.34
+    ],
+    [
+     "Rayon",
+     2.5,
+     2.82
+    ],
+    [
+     "X",
+     2.82,
+     3.2
+    ],
+    [
+     "sur",
+     3.2,
+     3.46
+    ],
+    [
+     "le",
+     3.46,
+     3.68
+    ],
+    [
+     "carnet",
+     3.68,
+     3.9
+    ],
+    [
+     "d",
+     3.9,
+     4.08
+    ],
+    [
+     "'ordre,",
+     4.08,
+     4.28
+    ],
+    [
+     "en",
+     4.56,
+     4.72
+    ],
+    [
+     "direct.",
+     4.72,
+     4.98
+    ]
+   ],
+   "ok": false
+  },
+  {
+   "id": "a11",
+   "text": "Pas de promesse. Pas de signal miracle. Des outils de pro, entre vos mains.",
+   "tts": "Pas de promesse. Pas de signal miracle. Des outils de pro, entre vos mains.",
+   "file": "motiv-fr-c-c1-a11-p3.wav",
+   "seconds": 4.88,
+   "compute": 47,
+   "heard": "Pas de promesses, pas de signal miracle, des outils de pro entre vos mains.",
+   "wer": 0.0,
+   "extra": 0,
+   "speech": [
+    0.0,
+    4.74
+   ],
+   "words": [
+    [
+     "Pas",
+     0.0,
+     0.22
+    ],
+    [
+     "de",
+     0.22,
+     0.48
+    ],
+    [
+     "promesses,",
+     0.48,
+     1.04
+    ],
+    [
+     "pas",
+     1.28,
+     1.42
+    ],
+    [
+     "de",
+     1.42,
+     1.66
+    ],
+    [
+     "signal",
+     1.66,
+     1.92
+    ],
+    [
+     "miracle,",
+     1.92,
+     2.44
+    ],
+    [
+     "des",
+     2.96,
+     3.1
+    ],
+    [
+     "outils",
+     3.1,
+     3.48
+    ],
+    [
+     "de",
+     3.48,
+     3.74
+    ],
+    [
+     "pro",
+     3.74,
+     3.96
+    ],
+    [
+     "entre",
+     3.96,
+     4.38
+    ],
+    [
+     "vos",
+     4.38,
+     4.58
+    ],
+    [
+     "mains.",
+     4.58,
+     4.74
+    ]
+   ],
+   "ok": true
+  },
+  {
+   "id": "a12",
+   "text": "MACROARSENAL. Ne tradez plus jamais à l'aveugle.",
+   "tts": "Macro Arsenal. Ne tradez plus jamais à l'aveugle.",
+   "file": "motiv-fr-c-c1-a12-p3.wav",
+   "seconds": 3.2,
+   "compute": 32,
+   "heard": "Macro Arsenal, ne traidez plus jamais à l'aveugle.",
+   "wer": 0.111,
+   "extra": 1,
+   "speech": [
+    0.0,
+    3.14
+   ],
+   "words": [
+    [
+     "Macro",
+     0.0,
+     0.68
+    ],
+    [
+     "Arsenal,",
+     0.68,
+     1.16
+    ],
+    [
+     "ne",
+     1.6,
+     1.72
+    ],
+    [
+     "traidez",
+     1.72,
+     1.98
+    ],
+    [
+     "plus",
+     1.98,
+     2.36
+    ],
+    [
+     "jamais",
+     2.36,
+     2.6
+    ],
+    [
+     "à",
+     2.6,
+     2.76
+    ],
+    [
+     "l",
+     2.76,
+     2.82
+    ],
+    [
+     "'aveugle.",
+     2.82,
+     3.14
+    ]
+   ],
+   "ok": false
+  },
+  {
+   "id": "a13",
+   "text": "Bienvenue.",
+   "tts": "Bienvenue.",
+   "file": "motiv-fr-c-c1-a13-p3.wav",
+   "seconds": 0.88,
+   "compute": 13,
+   "heard": "Bienvenue.",
+   "wer": 0.0,
+   "extra": 0,
+   "speech": [
+    0.0,
+    0.72
+   ],
+   "words": [
+    [
+     "Bienvenue.",
+     0.0,
+     0.72
+    ]
+   ],
+   "ok": true
+  }
+ ]
+}

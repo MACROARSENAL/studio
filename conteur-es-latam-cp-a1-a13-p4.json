@@ -1,0 +1,971 @@
+{
+ "voice": "conteur-es-latam",
+ "langue": "es",
+ "casting_take": "p",
+ "take": 4,
+ "span": "a1-a13",
+ "engine": "Qwen3-TTS 1.7B Base, voix clonée depuis le casting (Apache-2.0)",
+ "reference": {
+  "from": "conteur-es-latam-p",
+  "span": "r1-r2",
+  "start": 0.0,
+  "end": 11.75,
+  "text": "Conoce el terminal de memoria, y vigila sus mercados, cada día. Cada mañana, tres citas le esperan: Mi mañana, el Sesgo del día, y el quiz."
+ },
+ "lines": [
+  {
+   "id": "a1",
+   "text": "Cada día, miles de traders entran en los mercados… a ciegas.",
+   "tts": "Cada día, miles de traders entran en los mercados… a ciegas.",
+   "file": "conteur-es-latam-cp-a1-p4.wav",
+   "seconds": 5.04,
+   "compute": 40,
+   "heard": "Cada día, miles de traders entran en los mercados a ciegas.",
+   "wer": 0.0,
+   "extra": 0,
+   "speech": [
+    0.0,
+    4.86
+   ],
+   "words": [
+    [
+     "Cada",
+     0.0,
+     0.86
+    ],
+    [
+     "día,",
+     0.86,
+     1.46
+    ],
+    [
+     "miles",
+     1.84,
+     1.9
+    ],
+    [
+     "de",
+     1.9,
+     2.14
+    ],
+    [
+     "traders",
+     2.14,
+     2.48
+    ],
+    [
+     "entran",
+     2.48,
+     3.02
+    ],
+    [
+     "en",
+     3.02,
+     3.14
+    ],
+    [
+     "los",
+     3.14,
+     3.38
+    ],
+    [
+     "mercados",
+     3.38,
+     4.06
+    ],
+    [
+     "a",
+     4.06,
+     4.48
+    ],
+    [
+     "ciegas.",
+     4.48,
+     4.86
+    ]
+   ],
+   "ok": true
+  },
+  {
+   "id": "a2",
+   "text": "Demasiadas cifras. Demasiado ruido. Demasiadas opiniones.",
+   "tts": "Demasiadas cifras. Demasiado ruido. Demasiadas opiniones.",
+   "file": "conteur-es-latam-cp-a2-p4.wav",
+   "seconds": 4.56,
+   "compute": 37,
+   "heard": "Demasiadas cifras, demasiado ruido, demasiadas opiniones.",
+   "wer": 0.0,
+   "extra": 0,
+   "speech": [
+    0.0,
+    4.54
+   ],
+   "words": [
+    [
+     "Demasiadas",
+     0.0,
+     1.16
+    ],
+    [
+     "cifras,",
+     1.16,
+     1.9
+    ],
+    [
+     "demasiado",
+     2.32,
+     2.52
+    ],
+    [
+     "ruido,",
+     2.52,
+     3.14
+    ],
+    [
+     "demasiadas",
+     3.66,
+     3.94
+    ],
+    [
+     "opiniones.",
+     3.94,
+     4.54
+    ]
+   ],
+   "ok": true
+  },
+  {
+   "id": "a3",
+   "text": "Ya era hora de que alguien pusiera orden.",
+   "tts": "Ya era hora de que alguien pusiera orden.",
+   "file": "conteur-es-latam-cp-a3-p4.wav",
+   "seconds": 2.24,
+   "compute": 23,
+   "heard": "Ya era hora de que alguien pusiera orden.",
+   "wer": 0.0,
+   "extra": 0,
+   "speech": [
+    0.0,
+    2.08
+   ],
+   "words": [
+    [
+     "Ya",
+     0.0,
+     0.3
+    ],
+    [
+     "era",
+     0.3,
+     0.52
+    ],
+    [
+     "hora",
+     0.52,
+     0.7
+    ],
+    [
+     "de",
+     0.7,
+     0.92
+    ],
+    [
+     "que",
+     0.92,
+     1.04
+    ],
+    [
+     "alguien",
+     1.04,
+     1.28
+    ],
+    [
+     "pusiera",
+     1.28,
+     1.74
+    ],
+    [
+     "orden.",
+     1.74,
+     2.08
+    ]
+   ],
+   "ok": true
+  },
+  {
+   "id": "a4",
+   "text": "Esto es MACROARSENAL. Su terminal, construido bloque a bloque. A su medida.",
+   "tts": "Esto es Macro Arsenal. Su terminal, construido bloque a bloque. A su medida.",
+   "file": "conteur-es-latam-cp-a4-p4.wav",
+   "seconds": 5.84,
+   "compute": 45,
+   "heard": "Esto es Macro Arsenal, su terminal, construido bloque a bloque, a su medida.",
+   "wer": 0.0,
+   "extra": 0,
+   "speech": [
+    0.0,
+    5.68
+   ],
+   "words": [
+    [
+     "Esto",
+     0.0,
+     0.68
+    ],
+    [
+     "es",
+     0.68,
+     0.88
+    ],
+    [
+     "Macro",
+     0.88,
+     1.2
+    ],
+    [
+     "Arsenal,",
+     1.2,
+     1.68
+    ],
+    [
+     "su",
+     2.16,
+     2.26
+    ],
+    [
+     "terminal,",
+     2.26,
+     2.8
+    ],
+    [
+     "construido",
+     3.42,
+     3.74
+    ],
+    [
+     "bloque",
+     3.74,
+     4.0
+    ],
+    [
+     "a",
+     4.0,
+     4.22
+    ],
+    [
+     "bloque,",
+     4.22,
+     4.46
+    ],
+    [
+     "a",
+     5.12,
+     5.28
+    ],
+    [
+     "su",
+     5.28,
+     5.4
+    ],
+    [
+     "medida.",
+     5.4,
+     5.68
+    ]
+   ],
+   "ok": true
+  },
+  {
+   "id": "a5",
+   "text": "Cuarenta mercados analizados cada mañana. Un sesgo claro. Y una razón detrás de cada palabra.",
+   "tts": "Cuarenta mercados analizados cada mañana. Un sesgo claro. Y una razón detrás de cada palabra.",
+   "file": "conteur-es-latam-cp-a5-p4.wav",
+   "seconds": 7.36,
+   "compute": 54,
+   "heard": "40 mercados analizados cada mañana. Un sesgo claro y una razón detrás de cada palabra.",
+   "wer": 0.067,
+   "extra": 1,
+   "speech": [
+    0.0,
+    7.02
+   ],
+   "words": [
+    [
+     "40",
+     0.0,
+     1.1
+    ],
+    [
+     "mercados",
+     1.1,
+     1.66
+    ],
+    [
+     "analizados",
+     1.66,
+     2.3
+    ],
+    [
+     "cada",
+     2.3,
+     2.54
+    ],
+    [
+     "mañana.",
+     2.54,
+     3.06
+    ],
+    [
+     "Un",
+     3.7,
+     3.88
+    ],
+    [
+     "sesgo",
+     3.88,
+     4.24
+    ],
+    [
+     "claro",
+     4.24,
+     4.54
+    ],
+    [
+     "y",
+     4.54,
+     5.36
+    ],
+    [
+     "una",
+     5.36,
+     5.54
+    ],
+    [
+     "razón",
+     5.54,
+     5.84
+    ],
+    [
+     "detrás",
+     5.84,
+     6.24
+    ],
+    [
+     "de",
+     6.24,
+     6.48
+    ],
+    [
+     "cada",
+     6.48,
+     6.62
+    ],
+    [
+     "palabra.",
+     6.62,
+     7.02
+    ]
+   ],
+   "ok": true
+  },
+  {
+   "id": "a6",
+   "text": "Cuando sale un dato, usted ya sabe cómo reaccionó el mercado las veces anteriores.",
+   "tts": "Cuando sale un dato, usted ya sabe cómo reaccionó el mercado las veces anteriores.",
+   "file": "conteur-es-latam-cp-a6-p4.wav",
+   "seconds": 5.2,
+   "compute": 41,
+   "heard": "Cuando sale un dato, usted ya sabe cómo reaccionó el mercado las veces anteriores.",
+   "wer": 0.0,
+   "extra": 0,
+   "speech": [
+    0.0,
+    5.12
+   ],
+   "words": [
+    [
+     "Cuando",
+     0.0,
+     0.82
+    ],
+    [
+     "sale",
+     0.82,
+     1.08
+    ],
+    [
+     "un",
+     1.08,
+     1.3
+    ],
+    [
+     "dato,",
+     1.3,
+     1.56
+    ],
+    [
+     "usted",
+     2.22,
+     2.3
+    ],
+    [
+     "ya",
+     2.3,
+     2.58
+    ],
+    [
+     "sabe",
+     2.58,
+     2.74
+    ],
+    [
+     "cómo",
+     2.74,
+     3.02
+    ],
+    [
+     "reaccionó",
+     3.02,
+     3.54
+    ],
+    [
+     "el",
+     3.54,
+     3.64
+    ],
+    [
+     "mercado",
+     3.64,
+     3.94
+    ],
+    [
+     "las",
+     3.94,
+     4.18
+    ],
+    [
+     "veces",
+     4.18,
+     4.52
+    ],
+    [
+     "anteriores.",
+     4.52,
+     5.12
+    ]
+   ],
+   "ok": true
+  },
+  {
+   "id": "a7",
+   "text": "Cientos de estrategias probadas durante veinticinco años. Solo un puñado sobrevivió. Son las únicas que le proponemos.",
+   "tts": "Cientos de estrategias probadas durante veinticinco años. Solo un puñado sobrevivió. Son las únicas que le proponemos.",
+   "file": "conteur-es-latam-cp-a7-p4.wav",
+   "seconds": 9.04,
+   "compute": 64,
+   "heard": "Cientos de estrategias probadas durante 25 años. Solo un puñado sobrevivió. Son las únicas que le proponemos.",
+   "wer": 0.059,
+   "extra": 1,
+   "speech": [
+    0.0,
+    8.82
+   ],
+   "words": [
+    [
+     "Cientos",
+     0.0,
+     1.2
+    ],
+    [
+     "de",
+     1.2,
+     1.46
+    ],
+    [
+     "estrategias",
+     1.46,
+     2.02
+    ],
+    [
+     "probadas",
+     2.02,
+     2.48
+    ],
+    [
+     "durante",
+     2.48,
+     2.86
+    ],
+    [
+     "25",
+     2.86,
+     3.5
+    ],
+    [
+     "años.",
+     3.5,
+     4.08
+    ],
+    [
+     "Solo",
+     4.62,
+     4.86
+    ],
+    [
+     "un",
+     4.86,
+     5.08
+    ],
+    [
+     "puñado",
+     5.08,
+     5.46
+    ],
+    [
+     "sobrevivió.",
+     5.46,
+     6.38
+    ],
+    [
+     "Son",
+     7.26,
+     7.36
+    ],
+    [
+     "las",
+     7.36,
+     7.56
+    ],
+    [
+     "únicas",
+     7.56,
+     7.94
+    ],
+    [
+     "que",
+     7.94,
+     8.06
+    ],
+    [
+     "le",
+     8.06,
+     8.3
+    ],
+    [
+     "proponemos.",
+     8.3,
+     8.82
+    ]
+   ],
+   "ok": true
+  },
+  {
+   "id": "a8",
+   "text": "Y antes de cada operación, Doji lo revisa todo. El calendario. Los niveles. Su riesgo.",
+   "tts": "Y antes de cada operación, Doji lo revisa todo. El calendario. Los niveles. Su riesgo.",
+   "file": "conteur-es-latam-cp-a8-p4.wav",
+   "seconds": 6.96,
+   "compute": 51,
+   "heard": "Y antes de cada operación, DoGi lo revisa todo, el calendario, los niveles, su riesgo.",
+   "wer": 0.067,
+   "extra": 1,
+   "speech": [
+    0.0,
+    6.94
+   ],
+   "words": [
+    [
+     "Y",
+     0.0,
+     0.52
+    ],
+    [
+     "antes",
+     0.52,
+     0.88
+    ],
+    [
+     "de",
+     0.88,
+     1.12
+    ],
+    [
+     "cada",
+     1.12,
+     1.28
+    ],
+    [
+     "operación,",
+     1.28,
+     2.22
+    ],
+    [
+     "DoGi",
+     2.46,
+     2.66
+    ],
+    [
+     "lo",
+     2.66,
+     2.86
+    ],
+    [
+     "revisa",
+     2.86,
+     3.12
+    ],
+    [
+     "todo,",
+     3.12,
+     3.5
+    ],
+    [
+     "el",
+     4.04,
+     4.18
+    ],
+    [
+     "calendario,",
+     4.18,
+     4.86
+    ],
+    [
+     "los",
+     5.3,
+     5.5
+    ],
+    [
+     "niveles,",
+     5.5,
+     6.14
+    ],
+    [
+     "su",
+     6.46,
+     6.54
+    ],
+    [
+     "riesgo.",
+     6.54,
+     6.94
+    ]
+   ],
+   "ok": true
+  },
+  {
+   "id": "a9",
+   "text": "Cada noche publicamos nuestros resultados. Los aciertos… y los errores.",
+   "tts": "Cada noche publicamos nuestros resultados. Los aciertos… y los errores.",
+   "file": "conteur-es-latam-cp-a9-p4.wav",
+   "seconds": 5.68,
+   "compute": 43,
+   "heard": "Cada noche publicamos nuestros resultados, los aciertos y los errores.",
+   "wer": 0.0,
+   "extra": 0,
+   "speech": [
+    0.0,
+    5.6
+   ],
+   "words": [
+    [
+     "Cada",
+     0.0,
+     1.02
+    ],
+    [
+     "noche",
+     1.02,
+     1.34
+    ],
+    [
+     "publicamos",
+     1.34,
+     2.06
+    ],
+    [
+     "nuestros",
+     2.06,
+     2.44
+    ],
+    [
+     "resultados,",
+     2.44,
+     3.18
+    ],
+    [
+     "los",
+     3.7,
+     3.84
+    ],
+    [
+     "aciertos",
+     3.84,
+     4.4
+    ],
+    [
+     "y",
+     4.4,
+     4.92
+    ],
+    [
+     "los",
+     4.92,
+     5.22
+    ],
+    [
+     "errores.",
+     5.22,
+     5.6
+    ]
+   ],
+   "ok": true
+  },
+  {
+   "id": "a10",
+   "text": "De madrugada, las criptos toman el relevo. Rayos X sobre el libro de órdenes, en directo.",
+   "tts": "De madrugada, las criptos toman el relevo. Rayos X sobre el libro de órdenes, en directo.",
+   "file": "conteur-es-latam-cp-a10-p4.wav",
+   "seconds": 7.04,
+   "compute": 52,
+   "heard": "De madrugada, las criptos toman el relevo, rayos X sobre el libro de órdenes, en directo.",
+   "wer": 0.0,
+   "extra": 0,
+   "speech": [
+    0.0,
+    7.02
+   ],
+   "words": [
+    [
+     "De",
+     0.0,
+     1.0
+    ],
+    [
+     "madrugada,",
+     1.0,
+     1.76
+    ],
+    [
+     "las",
+     2.04,
+     2.2
+    ],
+    [
+     "criptos",
+     2.2,
+     2.66
+    ],
+    [
+     "toman",
+     2.66,
+     2.96
+    ],
+    [
+     "el",
+     2.96,
+     3.16
+    ],
+    [
+     "relevo,",
+     3.16,
+     3.8
+    ],
+    [
+     "rayos",
+     4.1,
+     4.46
+    ],
+    [
+     "X",
+     4.46,
+     4.68
+    ],
+    [
+     "sobre",
+     4.68,
+     4.96
+    ],
+    [
+     "el",
+     4.96,
+     5.2
+    ],
+    [
+     "libro",
+     5.2,
+     5.36
+    ],
+    [
+     "de",
+     5.36,
+     5.6
+    ],
+    [
+     "órdenes,",
+     5.6,
+     6.34
+    ],
+    [
+     "en",
+     6.48,
+     6.68
+    ],
+    [
+     "directo.",
+     6.68,
+     7.02
+    ]
+   ],
+   "ok": true
+  },
+  {
+   "id": "a11",
+   "text": "Sin promesas. Sin señales milagrosas. Herramientas de profesional, en sus manos.",
+   "tts": "Sin promesas. Sin señales milagrosas. Herramientas de profesional, en sus manos.",
+   "file": "conteur-es-latam-cp-a11-p4.wav",
+   "seconds": 7.04,
+   "compute": 52,
+   "heard": "Sin promesas, sin señales milagrosas, herramientas de profesional en sus manos.",
+   "wer": 0.0,
+   "extra": 0,
+   "speech": [
+    0.0,
+    6.66
+   ],
+   "words": [
+    [
+     "Sin",
+     0.0,
+     0.74
+    ],
+    [
+     "promesas,",
+     0.74,
+     1.7
+    ],
+    [
+     "sin",
+     2.0,
+     2.22
+    ],
+    [
+     "señales",
+     2.22,
+     2.72
+    ],
+    [
+     "milagrosas,",
+     2.72,
+     3.9
+    ],
+    [
+     "herramientas",
+     4.3,
+     4.74
+    ],
+    [
+     "de",
+     4.74,
+     4.98
+    ],
+    [
+     "profesional",
+     4.98,
+     5.48
+    ],
+    [
+     "en",
+     5.48,
+     6.12
+    ],
+    [
+     "sus",
+     6.12,
+     6.32
+    ],
+    [
+     "manos.",
+     6.32,
+     6.66
+    ]
+   ],
+   "ok": true
+  },
+  {
+   "id": "a12",
+   "text": "MACROARSENAL. Nunca más opere a ciegas.",
+   "tts": "Macro Arsenal. Nunca más opere a ciegas.",
+   "file": "conteur-es-latam-cp-a12-p4.wav",
+   "seconds": 4.16,
+   "compute": 34,
+   "heard": "Macro Arsenal, nunca más opere a ciegas.",
+   "wer": 0.0,
+   "extra": 0,
+   "speech": [
+    0.78,
+    3.94
+   ],
+   "words": [
+    [
+     "Macro",
+     0.78,
+     1.46
+    ],
+    [
+     "Arsenal,",
+     1.46,
+     1.94
+    ],
+    [
+     "nunca",
+     2.6,
+     2.8
+    ],
+    [
+     "más",
+     2.8,
+     3.06
+    ],
+    [
+     "opere",
+     3.06,
+     3.42
+    ],
+    [
+     "a",
+     3.42,
+     3.6
+    ],
+    [
+     "ciegas.",
+     3.6,
+     3.94
+    ]
+   ],
+   "ok": true
+  },
+  {
+   "id": "a13",
+   "text": "Bienvenido.",
+   "tts": "Bienvenido.",
+   "file": "conteur-es-latam-cp-a13-p4.wav",
+   "seconds": 0.8,
+   "compute": 14,
+   "heard": "Bienvenido.",
+   "wer": 0.0,
+   "extra": 0,
+   "speech": [
+    0.0,
+    0.72
+   ],
+   "words": [
+    [
+     "Bienvenido.",
+     0.0,
+     0.72
+    ]
+   ],
+   "ok": true
+  }
+ ]
+}

@@ -1,0 +1,941 @@
+{
+ "voice": "conteur-en",
+ "langue": "en",
+ "casting_take": "p",
+ "take": 2,
+ "span": "a1-a13",
+ "engine": "Qwen3-TTS 1.7B Base, voix clonée depuis le casting (Apache-2.0)",
+ "reference": {
+  "from": "conteur-en-p",
+  "span": "r1-r2",
+  "start": 0.0,
+  "end": 11.62,
+  "text": "It knows the terminal by heart, and it keeps an eye on your markets, every day. Every morning, three things are waiting for you: My morning, the Daily Bias, and the quiz."
+ },
+ "lines": [
+  {
+   "id": "a1",
+   "text": "Every day, thousands of traders walk into the markets… blind.",
+   "tts": "Every day, thousands of traders walk into the markets… blind.",
+   "file": "conteur-en-cp-a1-p2.wav",
+   "seconds": 3.76,
+   "compute": 51,
+   "heard": "Every day thousands of traders walk into the markets blind.",
+   "wer": 0.0,
+   "extra": 0,
+   "speech": [
+    0.0,
+    3.56
+   ],
+   "words": [
+    [
+     "Every",
+     0.0,
+     0.62
+    ],
+    [
+     "day",
+     0.62,
+     0.94
+    ],
+    [
+     "thousands",
+     0.94,
+     1.4
+    ],
+    [
+     "of",
+     1.4,
+     1.7
+    ],
+    [
+     "traders",
+     1.7,
+     1.94
+    ],
+    [
+     "walk",
+     1.94,
+     2.34
+    ],
+    [
+     "into",
+     2.34,
+     2.6
+    ],
+    [
+     "the",
+     2.6,
+     2.78
+    ],
+    [
+     "markets",
+     2.78,
+     3.04
+    ],
+    [
+     "blind.",
+     3.04,
+     3.56
+    ]
+   ],
+   "ok": true
+  },
+  {
+   "id": "a2",
+   "text": "Too many numbers. Too much noise. Too many opinions.",
+   "tts": "Too many numbers. Too much noise. Too many opinions.",
+   "file": "conteur-en-cp-a2-p2.wav",
+   "seconds": 3.76,
+   "compute": 50,
+   "heard": "Too many numbers, too much noise, too many opinions.",
+   "wer": 0.0,
+   "extra": 0,
+   "speech": [
+    0.0,
+    3.58
+   ],
+   "words": [
+    [
+     "Too",
+     0.0,
+     0.24
+    ],
+    [
+     "many",
+     0.24,
+     0.48
+    ],
+    [
+     "numbers,",
+     0.48,
+     0.98
+    ],
+    [
+     "too",
+     1.58,
+     1.7
+    ],
+    [
+     "much",
+     1.7,
+     1.92
+    ],
+    [
+     "noise,",
+     1.92,
+     2.38
+    ],
+    [
+     "too",
+     2.8,
+     2.92
+    ],
+    [
+     "many",
+     2.92,
+     3.14
+    ],
+    [
+     "opinions.",
+     3.14,
+     3.58
+    ]
+   ],
+   "ok": true
+  },
+  {
+   "id": "a3",
+   "text": "It was time someone made sense of it all.",
+   "tts": "It was time someone made sense of it all.",
+   "file": "conteur-en-cp-a3-p2.wav",
+   "seconds": 2.32,
+   "compute": 36,
+   "heard": "It was time someone made sense of it all.",
+   "wer": 0.0,
+   "extra": 0,
+   "speech": [
+    0.0,
+    2.26
+   ],
+   "words": [
+    [
+     "It",
+     0.0,
+     0.34
+    ],
+    [
+     "was",
+     0.34,
+     0.58
+    ],
+    [
+     "time",
+     0.58,
+     0.9
+    ],
+    [
+     "someone",
+     0.9,
+     1.22
+    ],
+    [
+     "made",
+     1.22,
+     1.5
+    ],
+    [
+     "sense",
+     1.5,
+     1.8
+    ],
+    [
+     "of",
+     1.8,
+     1.96
+    ],
+    [
+     "it",
+     1.96,
+     2.12
+    ],
+    [
+     "all.",
+     2.12,
+     2.26
+    ]
+   ],
+   "ok": true
+  },
+  {
+   "id": "a4",
+   "text": "This is MACROARSENAL. Your terminal, built block by block. Your way.",
+   "tts": "This is Macro Arsenal. Your terminal, built block by block. Your way.",
+   "file": "conteur-en-cp-a4-p2.wav",
+   "seconds": 5.12,
+   "compute": 65,
+   "heard": "This is Macro Arsenal, your terminal, built block by block, your way.",
+   "wer": 0.0,
+   "extra": 0,
+   "speech": [
+    0.0,
+    4.94
+   ],
+   "words": [
+    [
+     "This",
+     0.0,
+     0.32
+    ],
+    [
+     "is",
+     0.32,
+     0.6
+    ],
+    [
+     "Macro",
+     0.6,
+     1.04
+    ],
+    [
+     "Arsenal,",
+     1.04,
+     1.38
+    ],
+    [
+     "your",
+     1.98,
+     2.18
+    ],
+    [
+     "terminal,",
+     2.18,
+     2.62
+    ],
+    [
+     "built",
+     2.98,
+     3.26
+    ],
+    [
+     "block",
+     3.26,
+     3.56
+    ],
+    [
+     "by",
+     3.56,
+     3.86
+    ],
+    [
+     "block,",
+     3.86,
+     4.2
+    ],
+    [
+     "your",
+     4.58,
+     4.76
+    ],
+    [
+     "way.",
+     4.76,
+     4.94
+    ]
+   ],
+   "ok": true
+  },
+  {
+   "id": "a5",
+   "text": "Forty markets, read every morning. A clear bias. And a reason behind every word.",
+   "tts": "Forty markets, read every morning. A clear bias. And a reason behind every word.",
+   "file": "conteur-en-cp-a5-p2.wav",
+   "seconds": 5.36,
+   "compute": 67,
+   "heard": "40 markets read every morning, a clear bias and a reason behind every word.",
+   "wer": 0.071,
+   "extra": 1,
+   "speech": [
+    0.0,
+    5.24
+   ],
+   "words": [
+    [
+     "40",
+     0.0,
+     0.54
+    ],
+    [
+     "markets",
+     0.54,
+     1.0
+    ],
+    [
+     "read",
+     1.0,
+     1.42
+    ],
+    [
+     "every",
+     1.42,
+     1.82
+    ],
+    [
+     "morning,",
+     1.82,
+     2.18
+    ],
+    [
+     "a",
+     2.48,
+     2.66
+    ],
+    [
+     "clear",
+     2.66,
+     2.86
+    ],
+    [
+     "bias",
+     2.86,
+     3.28
+    ],
+    [
+     "and",
+     3.28,
+     3.84
+    ],
+    [
+     "a",
+     3.84,
+     4.06
+    ],
+    [
+     "reason",
+     4.06,
+     4.28
+    ],
+    [
+     "behind",
+     4.28,
+     4.68
+    ],
+    [
+     "every",
+     4.68,
+     5.0
+    ],
+    [
+     "word.",
+     5.0,
+     5.24
+    ]
+   ],
+   "ok": true
+  },
+  {
+   "id": "a6",
+   "text": "When a number drops, you already know how the market reacted, every time before.",
+   "tts": "When a number drops, you already know how the market reacted, every time before.",
+   "file": "conteur-en-cp-a6-p2.wav",
+   "seconds": 5.04,
+   "compute": 63,
+   "heard": "When a number drops, you already know how the market reacted every time before.",
+   "wer": 0.0,
+   "extra": 0,
+   "speech": [
+    0.0,
+    4.8
+   ],
+   "words": [
+    [
+     "When",
+     0.0,
+     0.44
+    ],
+    [
+     "a",
+     0.44,
+     0.62
+    ],
+    [
+     "number",
+     0.62,
+     0.8
+    ],
+    [
+     "drops,",
+     0.8,
+     1.22
+    ],
+    [
+     "you",
+     1.68,
+     1.74
+    ],
+    [
+     "already",
+     1.74,
+     2.2
+    ],
+    [
+     "know",
+     2.2,
+     2.46
+    ],
+    [
+     "how",
+     2.46,
+     2.7
+    ],
+    [
+     "the",
+     2.7,
+     2.88
+    ],
+    [
+     "market",
+     2.88,
+     3.08
+    ],
+    [
+     "reacted",
+     3.08,
+     3.68
+    ],
+    [
+     "every",
+     3.68,
+     4.22
+    ],
+    [
+     "time",
+     4.22,
+     4.42
+    ],
+    [
+     "before.",
+     4.42,
+     4.8
+    ]
+   ],
+   "ok": true
+  },
+  {
+   "id": "a7",
+   "text": "Hundreds of strategies, tested over twenty-five years. A handful survived. They're the only ones we bring you.",
+   "tts": "Hundreds of strategies, tested over twenty-five years. A handful survived. They're the only ones we bring you.",
+   "file": "conteur-en-cp-a7-p2.wav",
+   "seconds": 6.24,
+   "compute": 75,
+   "heard": "Hundreds of strategies tested over 25 years. A handful survived. They're the only ones we bring you.",
+   "wer": 0.105,
+   "extra": 1,
+   "speech": [
+    0.0,
+    6.22
+   ],
+   "words": [
+    [
+     "Hundreds",
+     0.0,
+     0.5
+    ],
+    [
+     "of",
+     0.5,
+     0.86
+    ],
+    [
+     "strategies",
+     0.86,
+     1.18
+    ],
+    [
+     "tested",
+     1.18,
+     1.62
+    ],
+    [
+     "over",
+     1.62,
+     1.94
+    ],
+    [
+     "25",
+     1.94,
+     2.48
+    ],
+    [
+     "years.",
+     2.48,
+     2.9
+    ],
+    [
+     "A",
+     3.32,
+     3.44
+    ],
+    [
+     "handful",
+     3.44,
+     3.76
+    ],
+    [
+     "survived.",
+     3.76,
+     4.3
+    ],
+    [
+     "They're",
+     4.72,
+     4.86
+    ],
+    [
+     "the",
+     4.86,
+     5.04
+    ],
+    [
+     "only",
+     5.04,
+     5.28
+    ],
+    [
+     "ones",
+     5.28,
+     5.52
+    ],
+    [
+     "we",
+     5.52,
+     5.84
+    ],
+    [
+     "bring",
+     5.84,
+     5.98
+    ],
+    [
+     "you.",
+     5.98,
+     6.22
+    ]
+   ],
+   "ok": false
+  },
+  {
+   "id": "a8",
+   "text": "And before every trade, Doji checks everything. The calendar. The levels. Your risk.",
+   "tts": "And before every trade, Doji checks everything. The calendar. The levels. Your risk.",
+   "file": "conteur-en-cp-a8-p2.wav",
+   "seconds": 5.92,
+   "compute": 72,
+   "heard": "And before every trade, Dogey checks everything, the calendar, the levels, your risk.",
+   "wer": 0.077,
+   "extra": 1,
+   "speech": [
+    0.0,
+    5.78
+   ],
+   "words": [
+    [
+     "And",
+     0.0,
+     0.3
+    ],
+    [
+     "before",
+     0.3,
+     0.6
+    ],
+    [
+     "every",
+     0.6,
+     0.98
+    ],
+    [
+     "trade,",
+     0.98,
+     1.42
+    ],
+    [
+     "Dogey",
+     1.96,
+     2.32
+    ],
+    [
+     "checks",
+     2.32,
+     2.54
+    ],
+    [
+     "everything,",
+     2.54,
+     3.2
+    ],
+    [
+     "the",
+     3.6,
+     3.78
+    ],
+    [
+     "calendar,",
+     3.78,
+     4.08
+    ],
+    [
+     "the",
+     4.44,
+     4.62
+    ],
+    [
+     "levels,",
+     4.62,
+     4.92
+    ],
+    [
+     "your",
+     5.3,
+     5.44
+    ],
+    [
+     "risk.",
+     5.44,
+     5.78
+    ]
+   ],
+   "ok": true
+  },
+  {
+   "id": "a9",
+   "text": "Every evening, we publish our results. The wins… and the mistakes.",
+   "tts": "Every evening, we publish our results. The wins… and the mistakes.",
+   "file": "conteur-en-cp-a9-p2.wav",
+   "seconds": 4.48,
+   "compute": 58,
+   "heard": "Every evening, we publish our results, the wins and the mistakes.",
+   "wer": 0.0,
+   "extra": 0,
+   "speech": [
+    0.0,
+    4.24
+   ],
+   "words": [
+    [
+     "Every",
+     0.0,
+     0.42
+    ],
+    [
+     "evening,",
+     0.42,
+     0.82
+    ],
+    [
+     "we",
+     1.18,
+     1.28
+    ],
+    [
+     "publish",
+     1.28,
+     1.64
+    ],
+    [
+     "our",
+     1.64,
+     1.92
+    ],
+    [
+     "results,",
+     1.92,
+     2.34
+    ],
+    [
+     "the",
+     2.94,
+     3.06
+    ],
+    [
+     "wins",
+     3.06,
+     3.38
+    ],
+    [
+     "and",
+     3.38,
+     3.7
+    ],
+    [
+     "the",
+     3.7,
+     3.9
+    ],
+    [
+     "mistakes.",
+     3.9,
+     4.24
+    ]
+   ],
+   "ok": true
+  },
+  {
+   "id": "a10",
+   "text": "At night, crypto takes over. X-ray on the order book, live.",
+   "tts": "At night, crypto takes over. X-ray on the order book, live.",
+   "file": "conteur-en-cp-a10-p2.wav",
+   "seconds": 4.16,
+   "compute": 54,
+   "heard": "At night, crypto takes over. X-ray on the order book. Live.",
+   "wer": 0.0,
+   "extra": 0,
+   "speech": [
+    0.0,
+    4.02
+   ],
+   "words": [
+    [
+     "At",
+     0.0,
+     0.3
+    ],
+    [
+     "night,",
+     0.3,
+     0.56
+    ],
+    [
+     "crypto",
+     0.8,
+     0.98
+    ],
+    [
+     "takes",
+     0.98,
+     1.34
+    ],
+    [
+     "over.",
+     1.34,
+     1.82
+    ],
+    [
+     "X",
+     2.18,
+     2.36
+    ],
+    [
+     "-ray",
+     2.36,
+     2.5
+    ],
+    [
+     "on",
+     2.5,
+     2.7
+    ],
+    [
+     "the",
+     2.7,
+     2.92
+    ],
+    [
+     "order",
+     2.92,
+     3.1
+    ],
+    [
+     "book.",
+     3.1,
+     3.38
+    ],
+    [
+     "Live.",
+     3.76,
+     4.02
+    ]
+   ],
+   "ok": true
+  },
+  {
+   "id": "a11",
+   "text": "No promises. No miracle signals. Pro tools, in your hands.",
+   "tts": "No promises. No miracle signals. Pro tools, in your hands.",
+   "file": "conteur-en-cp-a11-p2.wav",
+   "seconds": 4.48,
+   "compute": 57,
+   "heard": "No promises, no miracle signals, Pro Tools in your hands.",
+   "wer": 0.0,
+   "extra": 0,
+   "speech": [
+    0.0,
+    4.36
+   ],
+   "words": [
+    [
+     "No",
+     0.0,
+     0.46
+    ],
+    [
+     "promises,",
+     0.46,
+     0.96
+    ],
+    [
+     "no",
+     1.5,
+     1.66
+    ],
+    [
+     "miracle",
+     1.66,
+     2.06
+    ],
+    [
+     "signals,",
+     2.06,
+     2.56
+    ],
+    [
+     "Pro",
+     3.02,
+     3.2
+    ],
+    [
+     "Tools",
+     3.2,
+     3.56
+    ],
+    [
+     "in",
+     3.56,
+     3.82
+    ],
+    [
+     "your",
+     3.82,
+     4.06
+    ],
+    [
+     "hands.",
+     4.06,
+     4.36
+    ]
+   ],
+   "ok": true
+  },
+  {
+   "id": "a12",
+   "text": "MACROARSENAL. Never trade blind again.",
+   "tts": "Macro Arsenal. Never trade blind again.",
+   "file": "conteur-en-cp-a12-p2.wav",
+   "seconds": 3.28,
+   "compute": 46,
+   "heard": "Macro Arsenal, never trade blind again.",
+   "wer": 0.0,
+   "extra": 0,
+   "speech": [
+    0.0,
+    3.18
+   ],
+   "words": [
+    [
+     "Macro",
+     0.0,
+     0.92
+    ],
+    [
+     "Arsenal,",
+     0.92,
+     1.38
+    ],
+    [
+     "never",
+     1.94,
+     2.12
+    ],
+    [
+     "trade",
+     2.12,
+     2.46
+    ],
+    [
+     "blind",
+     2.46,
+     2.82
+    ],
+    [
+     "again.",
+     2.82,
+     3.18
+    ]
+   ],
+   "ok": true
+  },
+  {
+   "id": "a13",
+   "text": "Welcome.",
+   "tts": "Welcome.",
+   "file": "conteur-en-cp-a13-p2.wav",
+   "seconds": 0.8,
+   "compute": 21,
+   "heard": "Welcome.",
+   "wer": 0.0,
+   "extra": 0,
+   "speech": [
+    0.0,
+    0.5
+   ],
+   "words": [
+    [
+     "Welcome.",
+     0.0,
+     0.5
+    ]
+   ],
+   "ok": true
+  }
+ ]
+}
