@@ -25,7 +25,7 @@ jobs:
           R = json.load(open('voix/narration-run.json'))
           if 'runs' in R:  # plusieurs langues d'un coup (film court)
               inc = [{'voix': r['voice'], 'casting': str(r['casting_take']), 'lignes': r['lines'], 'ref': r['ref'], 'prise': p, 'langue': r['langue'], 'texte': R.get('texte', ''),
-                      'cbranche': R.get('casting_branche', '')} for r in R['runs'] for p in R['takes']]
+                      'cbranche': r.get('casting_branche', R.get('casting_branche', ''))} for r in R['runs'] for p in R['takes']]
           else:
               inc = [{'voix': v['voice'], 'casting': str(v['casting_take']), 'lignes': s['lines'], 'ref': s['ref'], 'prise': p, 'langue': R.get('langue', 'fr'), 'texte': R.get('texte', '')}
                      for v in R['voices'] for s in R['spans'] for p in R['takes']]

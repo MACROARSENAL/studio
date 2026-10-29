@@ -1,0 +1,56 @@
+{
+ "_": "Film d'accueil « 24 heures avec Doji ». Kévin a validé le concept le 29/10/2026 à 16 h 23 (« go on attaque ») ; « la voix off ne doit pas trop faire IA ».",
+ "langue": "en",
+ "acts": [
+  {
+   "id": "24h",
+   "lines": [
+    {
+     "id": "h1",
+     "text": "Six fifty-nine. The world is still asleep. Doji is already on watch."
+    },
+    {
+     "id": "h2",
+     "text": "Seven a.m. Your terminal builds itself, block by block. Exactly the way you want it."
+    },
+    {
+     "id": "h3",
+     "text": "Eight thirty. Forty markets, screened for you. A clear bias, before your first coffee."
+    },
+    {
+     "id": "h4",
+     "text": "Two thirty p.m. The US inflation number drops. And you already know how the market reacted, every single time."
+    },
+    {
+     "id": "h5",
+     "text": "Three p.m. Before you enter, thirty seconds. Doji checks the calendar, the levels, your risk. Green light? The decision is still yours."
+    },
+    {
+     "id": "h6",
+     "text": "Five p.m. Hundreds of rules, tested. We keep the ones that hold. We throw out the rest."
+    },
+    {
+     "id": "h7",
+     "text": "Ten p.m. Verdict time. Every idea, winner or loser, out in the open."
+    },
+    {
+     "id": "h8",
+     "text": "Three a.m. Crypto never stops. Neither does Doji. X-Ray on the order books, live."
+    },
+    {
+     "id": "h9",
+     "text": "Elsewhere, you drown in numbers. Here, every one of them has a reason to be there. To learn, to understand, to decide."
+    },
+    {
+     "id": "h10",
+     "text": "MACROARSENAL. Every hour of your trading, mastered.",
+     "tts": "Macro Arsenal. Every hour of your trading, mastered."
+    },
+    {
+     "id": "h11",
+     "text": "Welcome. Shall we begin?"
+    }
+   ]
+  }
+ ]
+}

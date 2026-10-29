@@ -1,20 +1,29 @@
 {
- "_": "Film d'accueil : Kévin (19/10, 16 h 20) veut en anglais et en espagnol les voix du film d'avant (conteur britannique, conteur latino), sans le ton du conte → référence de ton tirée du film court (présentation d'outil).",
- "texte": "bande",
- "casting_branche": "reference-bande",
+ "_": "Film « 24 heures avec Doji » (29/10/2026). FR : voix C « pub premium » (choix de Kévin du 19/10 pour toutes les vidéos), référence de ton b1-b2 (plus posée). EN, ES : conteur britannique et conteur latino, référence « présentation » r1-r2. 6 prises par phrase pour garder la plus naturelle (Kévin : « la voix off ne doit pas trop faire IA »).",
+ "texte": "24h",
  "runs": [
+  {
+   "langue": "fr",
+   "voice": "motiv-fr-c",
+   "casting_take": 1,
+   "casting_branche": "motivation-casting",
+   "lines": "h1-h11",
+   "ref": "b1-b2"
+  },
   {
    "langue": "en",
    "voice": "conteur-en",
    "casting_take": "p",
-   "lines": "b1-b8",
+   "casting_branche": "reference-bande",
+   "lines": "h1-h11",
    "ref": "r1-r2"
   },
   {
    "langue": "es",
    "voice": "conteur-es-latam",
    "casting_take": "p",
-   "lines": "b1-b8",
+   "casting_branche": "reference-bande",
+   "lines": "h1-h11",
    "ref": "r1-r2"
   }
  ],
@@ -22,6 +31,8 @@
   1,
   2,
   3,
-  4
+  4,
+  5,
+  6
  ]
 }

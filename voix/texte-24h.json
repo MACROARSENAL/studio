@@ -1,0 +1,56 @@
+{
+ "_": "Film d'accueil « 24 heures avec Doji ». Kévin a validé le concept le 29/10/2026 à 16 h 23 (« go on attaque ») ; « la voix off ne doit pas trop faire IA ».",
+ "langue": "fr",
+ "acts": [
+  {
+   "id": "24h",
+   "lines": [
+    {
+     "id": "h1",
+     "text": "Six heures cinquante-neuf. Le monde dort encore. Doji, lui, veille déjà."
+    },
+    {
+     "id": "h2",
+     "text": "Sept heures. Votre terminal se construit, bloc par bloc. Exactement comme vous le voulez."
+    },
+    {
+     "id": "h3",
+     "text": "Huit heures trente. Quarante marchés passés au crible. Un biais clair, avant même votre premier café."
+    },
+    {
+     "id": "h4",
+     "text": "Quatorze heures trente. Le chiffre de l'inflation américaine tombe. Et vous savez déjà comment le marché a réagi, chaque fois."
+    },
+    {
+     "id": "h5",
+     "text": "Quinze heures. Avant d'entrer, trente secondes. Doji vérifie l'agenda, les niveaux, votre risque. Feu vert ? La décision reste la vôtre."
+    },
+    {
+     "id": "h6",
+     "text": "Dix-sept heures. Des centaines de règles testées. On garde celles qui tiennent. On jette les autres."
+    },
+    {
+     "id": "h7",
+     "text": "Vingt-deux heures. L'heure du verdict. Chaque idée, gagnante ou perdante, affichée au grand jour."
+    },
+    {
+     "id": "h8",
+     "text": "Trois heures du matin. La crypto ne s'arrête jamais. Doji non plus. Rayons X sur les carnets d'ordres, en direct."
+    },
+    {
+     "id": "h9",
+     "text": "Ailleurs, on vous noie sous les chiffres. Ici, chacun a une raison d'être là. Pour apprendre, comprendre, décider."
+    },
+    {
+     "id": "h10",
+     "text": "MACROARSENAL. Chaque heure de votre trading, maîtrisée.",
+     "tts": "Macro Arsenal. Chaque heure de votre trading, maîtrisée."
+    },
+    {
+     "id": "h11",
+     "text": "Bienvenue. On commence ?"
+    }
+   ]
+  }
+ ]
+}
