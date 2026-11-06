@@ -1,5 +1,5 @@
 {
- "_": "Teaser « Doji contre le Bruit » (06/11/2026) : Kévin trouve que la voix B prononce mal « 462 ». On relit seulement n6 avec la même voix (clonée depuis la prise 1 du casting), 4 prises.",
+ "_": "Teaser « Doji contre le Bruit » (06/11/2026, 20:30). Kévin : « la voix de la fin je la veux partout, du début à la fin ». Toutes les phrases n1-n8 relues avec la voix B, clonée sur la dernière phrase de la prise 1 (n9 : « Macro Arsenal. Le onze janvier, le bruit s'arrête. »), 4 prises ; n9 reste celle du casting.",
  "texte": "bruit",
  "runs": [
   {
@@ -7,8 +7,8 @@
    "voice": "bruit-fr-b",
    "casting_take": 1,
    "casting_branche": "bruit-casting",
-   "lines": "n6-n6",
-   "ref": "n4-n5"
+   "lines": "n1-n8",
+   "ref": "n9-n9"
   }
  ],
  "takes": [
