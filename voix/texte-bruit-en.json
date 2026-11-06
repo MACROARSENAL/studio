@@ -1,0 +1,67 @@
+{
+ "_": "Teaser « Doji contre le Bruit », grosse voix EN (06/11/2026).",
+ "langue": "en",
+ "acts": [
+  {
+   "id": "bruit",
+   "lines": [
+    {
+     "id": "n1",
+     "text": "It's everywhere."
+    },
+    {
+     "id": "n2",
+     "text": "It shouts louder than the facts."
+    },
+    {
+     "id": "n3",
+     "text": "But this time… someone answers back."
+    },
+    {
+     "id": "n4",
+     "text": "Forty markets, read every morning."
+    },
+    {
+     "id": "n5",
+     "text": "Every announcement, seen before it lands."
+    },
+    {
+     "id": "n6",
+     "text": "462 ideas tested. 6 survived.",
+     "tts": "Four hundred and sixty-two ideas tested. Six survived."
+    },
+    {
+     "id": "n7",
+     "text": "And before every trade… the green light."
+    },
+    {
+     "id": "n8",
+     "text": "All the way into crypto."
+    },
+    {
+     "id": "n9",
+     "text": "MACROARSENAL. On January 11, the noise stops.",
+     "tts": "Macro Arsenal. On January eleventh, the noise stops."
+    }
+   ]
+  }
+ ],
+ "voices": [
+  {
+   "id": "bruit-en-a",
+   "label": "EN, deep and warm (animated film)",
+   "design": "A deep, warm British male narrator in his fifties, rich velvety bass voice like the trailers of big family animated movies: resonant but friendly, a hint of a smile and a sense of wonder. Real human voice recorded close to a professional studio microphone, natural breathing and tiny imperfections, never robotic, never synthetic."
+  },
+  {
+   "id": "bruit-en-b",
+   "label": "EN, very deep and epic",
+   "design": "A very deep, booming American male movie trailer narrator in his forties, huge chest resonance and slow gravitas, the voice of epic blockbuster teasers, with a slight natural grain. Real human voice recorded close to a professional studio microphone, natural breathing, organic, never robotic, never synthetic."
+  },
+  {
+   "id": "bruit-en-c",
+   "label": "EN, deep, playful and modern",
+   "design": "A deep, modern British male voice-over artist in his thirties with a low, smooth and slightly playful tone, confident and cool, like the narrator of a bold tech product launch with humour. Real human voice recorded close to a professional studio microphone, relaxed and conversational, never robotic, never synthetic."
+  }
+ ],
+ "acting": "Read it like the voice-over of a punchy animated movie teaser: deep, calm and confident, short sentences that land on the beat, real pauses between sentences. Slightly mysterious at the start, a knowing smile on « someone answers back », energy rising through the list, and a big, warm, unforgettable final line. Never shouting, never rushed, never theatrical; sounds like a real actor in a real studio."
+}

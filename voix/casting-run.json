@@ -1,47 +1,89 @@
 {
- "_": "Casting de la grosse voix du teaser « Doji contre le Bruit » (FR), 3 voix × 2 prises.",
- "branche": "bruit-casting",
+ "_": "Casting de la grosse voix du teaser « Doji contre le Bruit » (EN et ES), 3 voix × 2 prises par langue.",
+ "branche": "bruit-casting-intl",
  "jobs": [
   {
-   "langue": "fr",
-   "voix": "bruit-fr-a",
+   "langue": "en",
+   "voix": "bruit-en-a",
    "prise": 1,
-   "texte": "voix/texte-bruit.json",
+   "texte": "voix/texte-bruit-en.json",
    "actes": "bruit"
   },
   {
-   "langue": "fr",
-   "voix": "bruit-fr-a",
+   "langue": "en",
+   "voix": "bruit-en-a",
    "prise": 2,
-   "texte": "voix/texte-bruit.json",
+   "texte": "voix/texte-bruit-en.json",
    "actes": "bruit"
   },
   {
-   "langue": "fr",
-   "voix": "bruit-fr-b",
+   "langue": "en",
+   "voix": "bruit-en-b",
    "prise": 1,
-   "texte": "voix/texte-bruit.json",
+   "texte": "voix/texte-bruit-en.json",
    "actes": "bruit"
   },
   {
-   "langue": "fr",
-   "voix": "bruit-fr-b",
+   "langue": "en",
+   "voix": "bruit-en-b",
    "prise": 2,
-   "texte": "voix/texte-bruit.json",
+   "texte": "voix/texte-bruit-en.json",
    "actes": "bruit"
   },
   {
-   "langue": "fr",
-   "voix": "bruit-fr-c",
+   "langue": "en",
+   "voix": "bruit-en-c",
    "prise": 1,
-   "texte": "voix/texte-bruit.json",
+   "texte": "voix/texte-bruit-en.json",
    "actes": "bruit"
   },
   {
-   "langue": "fr",
-   "voix": "bruit-fr-c",
+   "langue": "en",
+   "voix": "bruit-en-c",
    "prise": 2,
-   "texte": "voix/texte-bruit.json",
+   "texte": "voix/texte-bruit-en.json",
+   "actes": "bruit"
+  },
+  {
+   "langue": "es",
+   "voix": "bruit-es-a",
+   "prise": 1,
+   "texte": "voix/texte-bruit-es.json",
+   "actes": "bruit"
+  },
+  {
+   "langue": "es",
+   "voix": "bruit-es-a",
+   "prise": 2,
+   "texte": "voix/texte-bruit-es.json",
+   "actes": "bruit"
+  },
+  {
+   "langue": "es",
+   "voix": "bruit-es-b",
+   "prise": 1,
+   "texte": "voix/texte-bruit-es.json",
+   "actes": "bruit"
+  },
+  {
+   "langue": "es",
+   "voix": "bruit-es-b",
+   "prise": 2,
+   "texte": "voix/texte-bruit-es.json",
+   "actes": "bruit"
+  },
+  {
+   "langue": "es",
+   "voix": "bruit-es-c",
+   "prise": 1,
+   "texte": "voix/texte-bruit-es.json",
+   "actes": "bruit"
+  },
+  {
+   "langue": "es",
+   "voix": "bruit-es-c",
+   "prise": 2,
+   "texte": "voix/texte-bruit-es.json",
    "actes": "bruit"
   }
  ]

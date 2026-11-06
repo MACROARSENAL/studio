@@ -1,0 +1,67 @@
+{
+ "_": "Teaser « Doji contre le Bruit », voz grave ES (06/11/2026), « usted » comme le site.",
+ "langue": "es",
+ "acts": [
+  {
+   "id": "bruit",
+   "lines": [
+    {
+     "id": "n1",
+     "text": "Está en todas partes."
+    },
+    {
+     "id": "n2",
+     "text": "Grita más fuerte que los hechos."
+    },
+    {
+     "id": "n3",
+     "text": "Pero esta vez… alguien le responde."
+    },
+    {
+     "id": "n4",
+     "text": "Cuarenta mercados, leídos cada mañana."
+    },
+    {
+     "id": "n5",
+     "text": "Cada anuncio, visto antes de que llegue."
+    },
+    {
+     "id": "n6",
+     "text": "462 ideas probadas. 6 sobrevivieron.",
+     "tts": "Cuatrocientas sesenta y dos ideas probadas. Seis sobrevivieron."
+    },
+    {
+     "id": "n7",
+     "text": "Y antes de cada operación… la luz verde."
+    },
+    {
+     "id": "n8",
+     "text": "Hasta en las criptomonedas."
+    },
+    {
+     "id": "n9",
+     "text": "MACROARSENAL. El 11 de enero, el ruido se acaba.",
+     "tts": "Macro Arsenal. El once de enero, el ruido se acaba."
+    }
+   ]
+  }
+ ],
+ "voices": [
+  {
+   "id": "bruit-es-a",
+   "label": "ES, grave y cálido (cine de animación)",
+   "design": "A deep, warm Latin American Spanish male narrator in his fifties, rich velvety bass voice like the Spanish-language trailers of big family animated movies: resonant but friendly, with a hint of a smile. Neutral Latin American accent. Real human voice recorded close to a professional studio microphone, natural breathing, never robotic, never synthetic."
+  },
+  {
+   "id": "bruit-es-b",
+   "label": "ES, muy grave y épico",
+   "design": "A very deep, booming Spanish male movie trailer narrator in his forties from Spain, huge chest resonance and slow gravitas, the voice of epic blockbuster teasers dubbed in Castilian Spanish, with a slight natural grain. Real human voice recorded close to a professional studio microphone, organic, never robotic, never synthetic."
+  },
+  {
+   "id": "bruit-es-c",
+   "label": "ES, grave, pícaro y moderno",
+   "design": "A deep, modern Latin American Spanish male voice-over artist in his thirties with a low, smooth and slightly playful tone, confident and cool, like the narrator of a bold tech product launch with humour. Neutral Latin American accent. Real human voice recorded close to a professional studio microphone, relaxed, never robotic, never synthetic."
+  }
+ ],
+ "acting": "Read it like the voice-over of a punchy animated movie teaser: deep, calm and confident, short sentences that land on the beat, real pauses between sentences. Slightly mysterious at the start, a knowing smile on « alguien le responde », energy rising through the list, and a big, warm, unforgettable final line. Never shouting, never rushed, never theatrical; sounds like a real actor in a real studio."
+}
