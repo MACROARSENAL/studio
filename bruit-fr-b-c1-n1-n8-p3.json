@@ -1,0 +1,391 @@
+{
+ "voice": "bruit-fr-b",
+ "langue": "fr",
+ "casting_take": "1",
+ "take": 3,
+ "span": "n1-n8",
+ "engine": "Qwen3-TTS 1.7B Base, voix clonée depuis le casting (Apache-2.0)",
+ "reference": {
+  "from": "bruit-fr-b-1",
+  "span": "n9-n9",
+  "start": 20.9,
+  "end": 25.28,
+  "text": "Macro Arsenal. Le onze janvier, le bruit s'arrête."
+ },
+ "lines": [
+  {
+   "id": "n1",
+   "text": "Il est partout.",
+   "tts": "Il est partout.",
+   "file": "bruit-fr-b-c1-n1-p3.wav",
+   "seconds": 0.96,
+   "compute": 12,
+   "heard": "Il est partout.",
+   "wer": 0.0,
+   "extra": 0,
+   "speech": [
+    0.0,
+    0.78
+   ],
+   "words": [
+    [
+     "Il",
+     0.0,
+     0.32
+    ],
+    [
+     "est",
+     0.32,
+     0.5
+    ],
+    [
+     "partout.",
+     0.5,
+     0.78
+    ]
+   ],
+   "ok": true
+  },
+  {
+   "id": "n2",
+   "text": "Il crie plus fort que les faits.",
+   "tts": "Il crie plus fort que les faits.",
+   "file": "bruit-fr-b-c1-n2-p3.wav",
+   "seconds": 1.76,
+   "compute": 18,
+   "heard": "Il crie plus fort que l'effet.",
+   "wer": 0.286,
+   "extra": 2,
+   "speech": [
+    0.0,
+    1.66
+   ],
+   "words": [
+    [
+     "Il",
+     0.0,
+     0.5
+    ],
+    [
+     "crie",
+     0.5,
+     0.72
+    ],
+    [
+     "plus",
+     0.72,
+     0.96
+    ],
+    [
+     "fort",
+     0.96,
+     1.16
+    ],
+    [
+     "que",
+     1.16,
+     1.34
+    ],
+    [
+     "l",
+     1.34,
+     1.4
+    ],
+    [
+     "'effet.",
+     1.4,
+     1.66
+    ]
+   ],
+   "ok": false
+  },
+  {
+   "id": "n3",
+   "text": "Mais cette fois… quelqu'un lui répond.",
+   "tts": "Mais cette fois… quelqu'un lui répond.",
+   "file": "bruit-fr-b-c1-n3-p3.wav",
+   "seconds": 2.64,
+   "compute": 25,
+   "heard": "Mais cette fois, quelqu'un lui répond.",
+   "wer": 0.0,
+   "extra": 0,
+   "speech": [
+    0.0,
+    2.44
+   ],
+   "words": [
+    [
+     "Mais",
+     0.0,
+     0.5
+    ],
+    [
+     "cette",
+     0.5,
+     0.72
+    ],
+    [
+     "fois,",
+     0.72,
+     1.3
+    ],
+    [
+     "quelqu",
+     1.8,
+     1.88
+    ],
+    [
+     "'un",
+     1.88,
+     2.0
+    ],
+    [
+     "lui",
+     2.0,
+     2.12
+    ],
+    [
+     "répond.",
+     2.12,
+     2.44
+    ]
+   ],
+   "ok": true
+  },
+  {
+   "id": "n4",
+   "text": "Quarante marchés, lus chaque matin.",
+   "tts": "Quarante marchés, lus chaque matin.",
+   "file": "bruit-fr-b-c1-n4-p3.wav",
+   "seconds": 2.24,
+   "compute": 22,
+   "heard": "40 marchés, lus chaque matin.",
+   "wer": 0.2,
+   "extra": 1,
+   "speech": [
+    0.0,
+    2.0
+   ],
+   "words": [
+    [
+     "40",
+     0.0,
+     0.5
+    ],
+    [
+     "marchés,",
+     0.5,
+     1.18
+    ],
+    [
+     "lus",
+     1.34,
+     1.46
+    ],
+    [
+     "chaque",
+     1.46,
+     1.72
+    ],
+    [
+     "matin.",
+     1.72,
+     2.0
+    ]
+   ],
+   "ok": false
+  },
+  {
+   "id": "n5",
+   "text": "Chaque annonce, vue avant qu'elle tombe.",
+   "tts": "Chaque annonce, vue avant qu'elle tombe.",
+   "file": "bruit-fr-b-c1-n5-p3.wav",
+   "seconds": 2.72,
+   "compute": 26,
+   "heard": "Chaque annonce, vue avant qu'elle tombe.",
+   "wer": 0.0,
+   "extra": 0,
+   "speech": [
+    0.0,
+    2.66
+   ],
+   "words": [
+    [
+     "Chaque",
+     0.0,
+     0.88
+    ],
+    [
+     "annonce,",
+     0.88,
+     1.38
+    ],
+    [
+     "vue",
+     1.68,
+     1.8
+    ],
+    [
+     "avant",
+     1.8,
+     2.1
+    ],
+    [
+     "qu",
+     2.1,
+     2.14
+    ],
+    [
+     "'elle",
+     2.14,
+     2.34
+    ],
+    [
+     "tombe.",
+     2.34,
+     2.66
+    ]
+   ],
+   "ok": true
+  },
+  {
+   "id": "n6",
+   "text": "462 idées testées. 6 ont survécu.",
+   "tts": "Quatre-cent-soixante-deux idées testées. Six ont survécu.",
+   "file": "bruit-fr-b-c1-n6-p3.wav",
+   "seconds": 4.08,
+   "compute": 37,
+   "heard": "462 idées testées, 6 ont survécu.",
+   "wer": 0.556,
+   "extra": 2,
+   "speech": [
+    0.0,
+    4.06
+   ],
+   "words": [
+    [
+     "462",
+     0.0,
+     1.4
+    ],
+    [
+     "idées",
+     1.4,
+     1.9
+    ],
+    [
+     "testées,",
+     1.9,
+     2.6
+    ],
+    [
+     "6",
+     3.06,
+     3.26
+    ],
+    [
+     "ont",
+     3.26,
+     3.52
+    ],
+    [
+     "survécu.",
+     3.52,
+     4.06
+    ]
+   ],
+   "ok": false
+  },
+  {
+   "id": "n7",
+   "text": "Et avant chaque trade… le feu vert.",
+   "tts": "Et avant chaque trade… le feu vert.",
+   "file": "bruit-fr-b-c1-n7-p3.wav",
+   "seconds": 2.32,
+   "compute": 24,
+   "heard": "Et avant chaque trade, le feu vert.",
+   "wer": 0.0,
+   "extra": 0,
+   "speech": [
+    0.0,
+    2.24
+   ],
+   "words": [
+    [
+     "Et",
+     0.0,
+     0.42
+    ],
+    [
+     "avant",
+     0.42,
+     0.62
+    ],
+    [
+     "chaque",
+     0.62,
+     0.92
+    ],
+    [
+     "trade,",
+     0.92,
+     1.26
+    ],
+    [
+     "le",
+     1.78,
+     1.88
+    ],
+    [
+     "feu",
+     1.88,
+     2.02
+    ],
+    [
+     "vert.",
+     2.02,
+     2.24
+    ]
+   ],
+   "ok": true
+  },
+  {
+   "id": "n8",
+   "text": "Jusque dans la crypto.",
+   "tts": "Jusque dans la crypto.",
+   "file": "bruit-fr-b-c1-n8-p3.wav",
+   "seconds": 1.2,
+   "compute": 15,
+   "heard": "Jusque dans la crypto.",
+   "wer": 0.0,
+   "extra": 0,
+   "speech": [
+    0.0,
+    1.1
+   ],
+   "words": [
+    [
+     "Jusque",
+     0.0,
+     0.54
+    ],
+    [
+     "dans",
+     0.54,
+     0.7
+    ],
+    [
+     "la",
+     0.7,
+     0.84
+    ],
+    [
+     "crypto.",
+     0.84,
+     1.1
+    ]
+   ],
+   "ok": true
+  }
+ ]
+}
