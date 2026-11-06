@@ -1,38 +1,20 @@
 {
- "_": "Film d'accueil « À l'aveugle » (29/10/2026, nouveau texte sans horaires). FR : voix C « pub premium », référence b1-b2. EN, ES : conteurs britannique et latino, référence r1-r2. 6 prises par phrase (Kévin : « la voix off ne doit pas trop faire IA »).",
- "texte": "aveugle",
+ "_": "Teaser « Doji contre le Bruit » (06/11/2026) : Kévin trouve que la voix B prononce mal « 462 ». On relit seulement n6 avec la même voix (clonée depuis la prise 1 du casting), 4 prises.",
+ "texte": "bruit",
  "runs": [
   {
    "langue": "fr",
-   "voice": "motiv-fr-c",
+   "voice": "bruit-fr-b",
    "casting_take": 1,
-   "casting_branche": "motivation-casting",
-   "lines": "a1-a13",
-   "ref": "b1-b2"
-  },
-  {
-   "langue": "en",
-   "voice": "conteur-en",
-   "casting_take": "p",
-   "casting_branche": "reference-bande",
-   "lines": "a1-a13",
-   "ref": "r1-r2"
-  },
-  {
-   "langue": "es",
-   "voice": "conteur-es-latam",
-   "casting_take": "p",
-   "casting_branche": "reference-bande",
-   "lines": "a1-a13",
-   "ref": "r1-r2"
+   "casting_branche": "bruit-casting",
+   "lines": "n6-n6",
+   "ref": "n4-n5"
   }
  ],
  "takes": [
   1,
   2,
   3,
-  4,
-  5,
-  6
+  4
  ]
 }
