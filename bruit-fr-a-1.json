@@ -1,0 +1,85 @@
+{
+ "voice": "bruit-fr-a",
+ "langue": "fr",
+ "label": "FR, grave et chaleureux (film d'animation)",
+ "take": 1,
+ "acts": [
+  "bruit"
+ ],
+ "engine": "Qwen3-TTS 1.7B VoiceDesign (Apache-2.0)",
+ "design": "A deep, warm French male narrator in his fifties, the kind of rich velvety bass voice heard in trailers for big family animated movies: deep and resonant but friendly, with a hint of a smile and a sense of wonder. Perfect native Parisian French diction. Real human voice recorded close to a professional studio microphone, natural breathing and tiny imperfections, relaxed, never robotic, never synthetic.",
+ "acting": "Read it like the voice-over of a punchy animated movie teaser: deep, calm and confident, short sentences that land on the beat, real pauses between sentences. Slightly mysterious at the start, a knowing smile on « quelqu'un lui répond », energy rising through the list, and a big, warm, unforgettable final line. Never shouting, never rushed, never theatrical; sounds like a real actor in a real studio.",
+ "sr": 24000,
+ "seconds": 21.04,
+ "compute": 169,
+ "text": "Il est partout. Il crie plus fort que les faits. Mais cette fois… quelqu'un lui répond. Quarante marchés, lus chaque matin. Chaque annonce, vue avant qu'elle tombe. Quatre cent soixante-deux idées testées. Six ont survécu. Et avant chaque trade… le feu vert. Jusque dans la crypto. Macro Arsenal. Le onze janvier, le bruit s'arrête.",
+ "lines": [
+  {
+   "id": "n1",
+   "text": "Il est partout.",
+   "tts": "Il est partout.",
+   "start": 0.0,
+   "end": 0.8
+  },
+  {
+   "id": "n2",
+   "text": "Il crie plus fort que les faits.",
+   "tts": "Il crie plus fort que les faits.",
+   "start": 1.42,
+   "end": 2.32
+  },
+  {
+   "id": "n3",
+   "text": "Mais cette fois… quelqu'un lui répond.",
+   "tts": "Mais cette fois… quelqu'un lui répond.",
+   "start": 2.94,
+   "end": 4.88
+  },
+  {
+   "id": "n4",
+   "text": "Quarante marchés, lus chaque matin.",
+   "tts": "Quarante marchés, lus chaque matin.",
+   "start": 5.64,
+   "end": 7.16
+  },
+  {
+   "id": "n5",
+   "text": "Chaque annonce, vue avant qu'elle tombe.",
+   "tts": "Chaque annonce, vue avant qu'elle tombe.",
+   "start": 7.6,
+   "end": 9.54
+  },
+  {
+   "id": "n6",
+   "text": "462 idées testées. 6 ont survécu.",
+   "tts": "Quatre cent soixante-deux idées testées. Six ont survécu.",
+   "start": 11.0,
+   "end": 13.1
+  },
+  {
+   "id": "n7",
+   "text": "Et avant chaque trade… le feu vert.",
+   "tts": "Et avant chaque trade… le feu vert.",
+   "start": 13.34,
+   "end": 15.6
+  },
+  {
+   "id": "n8",
+   "text": "Jusque dans la crypto.",
+   "tts": "Jusque dans la crypto.",
+   "start": 16.02,
+   "end": 16.96
+  },
+  {
+   "id": "n9",
+   "text": "MACROARSENAL. Le 11 janvier, le bruit s'arrête.",
+   "tts": "Macro Arsenal. Le onze janvier, le bruit s'arrête.",
+   "start": 17.58,
+   "end": 20.86
+  }
+ ],
+ "heard": "Il est partout, il grie plus fort que l'effet, mais cette fois, quelqu'un lui répond. 40 marchés, lus chaque matin, chaque annonce, vue avant qu'elle tombe. 462 idées testées, 6 ont survécu, et avant chaque trade, le feu vert, jusque dans la crypto, macro arsenal, le 11 janvier, le bruit s'arrête.",
+ "wer": 0.224,
+ "extra": 14,
+ "ok": false
+}
