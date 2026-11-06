@@ -1,90 +1,48 @@
 {
- "_": "Casting n° 2 de la voix off du film d'accueil, anglais et espagnol (mêmes trois styles « motivation » que le français).",
- "branche": "motivation-casting-intl",
+ "_": "Casting de la grosse voix du teaser « Doji contre le Bruit » (FR), 3 voix × 2 prises.",
+ "branche": "bruit-casting",
  "jobs": [
   {
-   "langue": "en",
-   "voix": "motiv-en-a",
+   "langue": "fr",
+   "voix": "bruit-fr-a",
    "prise": 1,
-   "texte": "voix/texte-bande-en.json",
-   "actes": "bande"
+   "texte": "voix/texte-bruit.json",
+   "actes": "bruit"
   },
   {
-   "langue": "en",
-   "voix": "motiv-en-a",
+   "langue": "fr",
+   "voix": "bruit-fr-a",
    "prise": 2,
-   "texte": "voix/texte-bande-en.json",
-   "actes": "bande"
+   "texte": "voix/texte-bruit.json",
+   "actes": "bruit"
   },
   {
-   "langue": "en",
-   "voix": "motiv-en-b",
+   "langue": "fr",
+   "voix": "bruit-fr-b",
    "prise": 1,
-   "texte": "voix/texte-bande-en.json",
-   "actes": "bande"
+   "texte": "voix/texte-bruit.json",
+   "actes": "bruit"
   },
   {
-   "langue": "en",
-   "voix": "motiv-en-b",
+   "langue": "fr",
+   "voix": "bruit-fr-b",
    "prise": 2,
-   "texte": "voix/texte-bande-en.json",
-   "actes": "bande"
+   "texte": "voix/texte-bruit.json",
+   "actes": "bruit"
   },
   {
-   "langue": "en",
-   "voix": "motiv-en-c",
+   "langue": "fr",
+   "voix": "bruit-fr-c",
    "prise": 1,
-   "texte": "voix/texte-bande-en.json",
-   "actes": "bande"
+   "texte": "voix/texte-bruit.json",
+   "actes": "bruit"
   },
   {
-   "langue": "en",
-   "voix": "motiv-en-c",
+   "langue": "fr",
+   "voix": "bruit-fr-c",
    "prise": 2,
-   "texte": "voix/texte-bande-en.json",
-   "actes": "bande"
-  },
-  {
-   "langue": "es",
-   "voix": "motiv-es-a",
-   "prise": 1,
-   "texte": "voix/texte-bande-es.json",
-   "actes": "bande"
-  },
-  {
-   "langue": "es",
-   "voix": "motiv-es-a",
-   "prise": 2,
-   "texte": "voix/texte-bande-es.json",
-   "actes": "bande"
-  },
-  {
-   "langue": "es",
-   "voix": "motiv-es-b",
-   "prise": 1,
-   "texte": "voix/texte-bande-es.json",
-   "actes": "bande"
-  },
-  {
-   "langue": "es",
-   "voix": "motiv-es-b",
-   "prise": 2,
-   "texte": "voix/texte-bande-es.json",
-   "actes": "bande"
-  },
-  {
-   "langue": "es",
-   "voix": "motiv-es-c",
-   "prise": 1,
-   "texte": "voix/texte-bande-es.json",
-   "actes": "bande"
-  },
-  {
-   "langue": "es",
-   "voix": "motiv-es-c",
-   "prise": 2,
-   "texte": "voix/texte-bande-es.json",
-   "actes": "bande"
+   "texte": "voix/texte-bruit.json",
+   "actes": "bruit"
   }
  ]
 }

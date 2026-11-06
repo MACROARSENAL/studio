@@ -1,0 +1,67 @@
+{
+ "_": "Teaser « Doji contre le Bruit » (ouverture du 11/01/2027), casting de la grosse voix FR (06/11/2026). Voix originales créées par Qwen3-TTS VoiceDesign : personne n'est imité.",
+ "langue": "fr",
+ "acts": [
+  {
+   "id": "bruit",
+   "lines": [
+    {
+     "id": "n1",
+     "text": "Il est partout."
+    },
+    {
+     "id": "n2",
+     "text": "Il crie plus fort que les faits."
+    },
+    {
+     "id": "n3",
+     "text": "Mais cette fois… quelqu'un lui répond."
+    },
+    {
+     "id": "n4",
+     "text": "Quarante marchés, lus chaque matin."
+    },
+    {
+     "id": "n5",
+     "text": "Chaque annonce, vue avant qu'elle tombe."
+    },
+    {
+     "id": "n6",
+     "text": "462 idées testées. 6 ont survécu.",
+     "tts": "Quatre cent soixante-deux idées testées. Six ont survécu."
+    },
+    {
+     "id": "n7",
+     "text": "Et avant chaque trade… le feu vert."
+    },
+    {
+     "id": "n8",
+     "text": "Jusque dans la crypto."
+    },
+    {
+     "id": "n9",
+     "text": "MACROARSENAL. Le 11 janvier, le bruit s'arrête.",
+     "tts": "Macro Arsenal. Le onze janvier, le bruit s'arrête."
+    }
+   ]
+  }
+ ],
+ "voices": [
+  {
+   "id": "bruit-fr-a",
+   "label": "FR, grave et chaleureux (film d'animation)",
+   "design": "A deep, warm French male narrator in his fifties, the kind of rich velvety bass voice heard in trailers for big family animated movies: deep and resonant but friendly, with a hint of a smile and a sense of wonder. Perfect native Parisian French diction. Real human voice recorded close to a professional studio microphone, natural breathing and tiny imperfections, relaxed, never robotic, never synthetic."
+  },
+  {
+   "id": "bruit-fr-b",
+   "label": "FR, très grave et épique",
+   "design": "A very deep, booming French male trailer narrator in his forties, huge chest resonance and slow gravitas, the voice of epic blockbuster teasers, with a slight natural grain. Perfect native French diction. Real human voice recorded close to a professional studio microphone, natural breathing, lived-in and organic, never robotic, never synthetic."
+  },
+  {
+   "id": "bruit-fr-c",
+   "label": "FR, grave, malicieux et moderne",
+   "design": "A deep, modern French male voice-over artist in his thirties with a low, smooth and slightly playful tone, confident and cool, like the narrator of a bold tech product launch with humour. Perfect native Parisian French diction. Real human voice recorded close to a professional studio microphone, natural breathing, relaxed and conversational, never robotic, never synthetic."
+  }
+ ],
+ "acting": "Read it like the voice-over of a punchy animated movie teaser: deep, calm and confident, short sentences that land on the beat, real pauses between sentences. Slightly mysterious at the start, a knowing smile on « quelqu'un lui répond », energy rising through the list, and a big, warm, unforgettable final line. Never shouting, never rushed, never theatrical; sounds like a real actor in a real studio."
+}
