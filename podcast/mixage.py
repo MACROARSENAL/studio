@@ -107,6 +107,8 @@ def hab(n):
 REP = json.load(open(os.path.join(HAB, 'reperes.json'), encoding='utf-8'))
 H = {n: hab(n) for n in REP['fichiers']}
 TRANS = [n for n in REP['fichiers'] if n.startswith('transition')]
+# Niveau de chaque habillage dans le mix (dB) : générique et fin à peine sous la voix, transitions au niveau de la voix
+GAIN = {'generique': -7.0, 'fin': -7.0, **{n: -3.0 for n in TRANS}}
 
 # --- Voix -----------------------------------------------------------------------------------------------------------------
 PAN = {'victor-fr': -0.14, 'clara-fr': 0.14}
@@ -166,12 +168,12 @@ for b, bloc in enumerate(BLOCS):
     tg = None
     if son == 'generique':
         tg = last_end + 0.45
-        place(stings, H['generique'], tg)
+        place(stings, H['generique'], tg, db(GAIN['generique']))
         start = tg + REP['generique_voix']
     elif son == 'transition':
         name = TRANS[ntrans % len(TRANS)]; ntrans += 1
         tg = last_end + 0.55
-        place(stings, H[name], tg)
+        place(stings, H[name], tg, db(GAIN[name]))
         start = tg + REP[f'{name}_voix']
     elif son == 'fin-debut':
         fin_debut = start
@@ -201,7 +203,7 @@ for b, bloc in enumerate(BLOCS):
 # Générique de fin : son « drop » tombe juste après le dernier mot ; son début doux passe sous les dernières répliques.
 if not EXTRAIT:
     tf = last_end + 0.55 - REP['fin_drop']
-    place(stings, H['fin'], tf)
+    place(stings, H['fin'], tf, db(GAIN['fin']))
     end = tf + REP['fin_duree'] + 0.3
 else:
     end = last_end + 1.8                      # l'extrait finit sur une réplique entière
@@ -240,7 +242,7 @@ for i, v in enumerate(a_):
     e = att * e + (1 - att) * v if v > e else rel * e + (1 - rel) * v
     g[i] = e
 gi = np.interp(np.arange(len(voice)), np.arange(len(g)) * step, g).astype(np.float32)
-mix = voice + music * db(-4.0 + (-12.0) * gi)[:, None] + stings * db(-3.0 + (-14.0) * gi)[:, None]
+mix = voice + music * db(-4.0 + (-12.0) * gi)[:, None] + stings * db(-14.0 * gi)[:, None]
 
 # Souffle de pièce très bas sous tout le programme (jamais de silence numérique)
 rng = np.random.default_rng(7)
