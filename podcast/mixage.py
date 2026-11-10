@@ -11,7 +11,7 @@ des pauses courtes entre les phrases d'une même réplique, le générique (la v
 par chapitre, les fonds sous l'accroche, le souvenir et la fin, le générique de fin dont le « drop » tombe juste après
 le dernier mot. Voix : chaîne « studio réaliste » de la radio, réglée pour chaque voix, Victor un peu à gauche et Clara
 un peu à droite (deux micros autour d'une table). La musique s'efface sous la voix. Mastering −16 LUFS, crête −1 dBTP.
-Sorties : <id>.wav (48 kHz, travail), <id>.mp3 (44,1 kHz, 256 kbit/s, chapitres), <id>-minutage.json, <id>-choix.json.
+Sorties : <id>.wav (48 kHz, travail), <id>.mp3 (44,1 kHz, 192 kbit/s, chapitres), <id>-minutage.json, <id>-choix.json.
 """
 import glob, json, os, re, subprocess, sys
 
@@ -128,9 +128,18 @@ def niveau_parole(x):
 
 
 def passage(p):
+    """La prise, coupée au ras (avec sa respiration), au niveau commun, et les instants où la parole commence et finit :
+    les silences du texte se comptent de la fin d'une parole au début de la suivante (un « gap » négatif est donc un vrai
+    chevauchement de voix)."""
     x = load(p['prise']['path'])
     x, _ = trim_silence(x, thresh_db=-50, pre=0.07, post=0.16)
-    return x * db(-20 - niveau_parole(x))
+    x = x * db(-20 - niveau_parole(x))
+    m = x.mean(1)
+    w = int(0.01 * SR)
+    e = 20 * np.log10(np.sqrt(np.convolve(m ** 2, np.ones(w) / w, mode='same')) + 1e-9)
+    act = np.where(e > -45)[0]
+    s0, s1 = (act[0] / SR, act[-1] / SR) if len(act) else (0.0, len(x) / SR)
+    return x, s0, s1
 
 
 def chaine(x, voix):
@@ -145,7 +154,7 @@ def chaine(x, voix):
 
 def pause_apres(text):
     t = text.rstrip()
-    return 0.34 if t.endswith(('?', '!')) else 0.30 if t.endswith(('.', '…')) else 0.18
+    return 0.42 if t.endswith(('?', '!')) else 0.38 if t.endswith(('.', '…')) else 0.22
 
 
 total = 60.0 + sum(len(b['texte']) for b in BLOCS) / 11.0
@@ -161,18 +170,18 @@ last_end = t
 fin_debut = None
 for b, bloc in enumerate(BLOCS):
     son = bloc.get('son')
-    gap = bloc.get('gap', 0.32)
+    gap = bloc.get('gap', 0.36)
     if b == 0:
         gap = 0.0
     start = last_end + gap
     tg = None
     if son == 'generique':
-        tg = last_end + 0.45
+        tg = last_end + 0.6
         place(stings, H['generique'], tg, db(GAIN['generique']))
         start = tg + REP['generique_voix']
     elif son == 'transition':
         name = TRANS[ntrans % len(TRANS)]; ntrans += 1
-        tg = last_end + 0.55
+        tg = last_end + 0.7
         place(stings, H[name], tg, db(GAIN[name]))
         start = tg + REP[f'{name}_voix']
     elif son == 'fin-debut':
@@ -181,13 +190,13 @@ for b, bloc in enumerate(BLOCS):
         bed_on = (bloc['fond'], start - 1.2)
     if bloc.get('chap'):
         chapitres.append({'titre': bloc['chap'], 'debut': round(max(0.0, tg - 0.1 if tg is not None else start - 0.3), 2)})
-    t = start
+    t = start                                   # t : instant où la parole commence (puis finit)
     seg = [p for p in PLAN if p['bloc'] == b]
     for i, p in enumerate(seg):
-        x = passage(p)
-        place(vb[p['voix']], x, t)
+        x, s0, s1 = passage(p)
+        place(vb[p['voix']], x, t - s0)
         p['debut'] = round(t, 2)
-        t += len(x) / SR
+        t = t - s0 + s1
         p['fin'] = round(t, 2)
         if i < len(seg) - 1:
             t += pause_apres(p['text'])
@@ -202,7 +211,7 @@ for b, bloc in enumerate(BLOCS):
 
 # Générique de fin : son « drop » tombe juste après le dernier mot ; son début doux passe sous les dernières répliques.
 if not EXTRAIT:
-    tf = last_end + 0.55 - REP['fin_drop']
+    tf = last_end + 0.7 - REP['fin_drop']
     place(stings, H['fin'], tf, db(GAIN['fin']))
     end = tf + REP['fin_duree'] + 0.3
 else:
@@ -265,10 +274,10 @@ for k, c in enumerate(chapitres):
     meta += ['[CHAPTER]', 'TIMEBASE=1/1000', f'START={a}', f'END={z}', f"title={c['titre']}"]
 open(base + '.ffmeta', 'w', encoding='utf-8').write('\n'.join(meta) + '\n')
 r = subprocess.run(['ffmpeg', '-loglevel', 'error', '-y', '-i', base + '.wav', '-i', base + '.ffmeta', '-map_metadata', '1', '-map_chapters', '1',
-                    '-ar', '44100', '-c:a', 'libmp3lame', '-b:a', '256k', '-id3v2_version', '3', base + '.mp3'], capture_output=True, text=True)
+                    '-ar', '44100', '-c:a', 'libmp3lame', '-b:a', '192k', '-id3v2_version', '3', base + '.mp3'], capture_output=True, text=True)
 if r.returncode:
     print('::warning title=Chapitres::' + r.stderr[-300:].replace('\n', ' '))
-    subprocess.run(['ffmpeg', '-loglevel', 'error', '-y', '-i', base + '.wav', '-ar', '44100', '-c:a', 'libmp3lame', '-b:a', '256k', base + '.mp3'], check=True)
+    subprocess.run(['ffmpeg', '-loglevel', 'error', '-y', '-i', base + '.wav', '-ar', '44100', '-c:a', 'libmp3lame', '-b:a', '192k', base + '.mp3'], check=True)
 os.remove(base + '.ffmeta')
 json.dump({'id': E['id'], 'secondes': round(len(mix) / SR, 2), 'lufs': round(i, 1), 'crete_dbtp': round(tp, 1), 'lra': round(lra, 1),
            'ecart_voix_lu': round(lv['victor-fr'] - lv['clara-fr'], 2), 'chapitres': chapitres, 'blocs': minutage,
