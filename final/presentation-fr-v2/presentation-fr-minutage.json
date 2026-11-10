@@ -1,0 +1,1713 @@
+{
+ "id": "presentation-fr",
+ "secondes": 479.11,
+ "lufs": -16.0,
+ "crete_dbtp": -1.0,
+ "lra": 4.4,
+ "ecart_voix_lu": -0.06,
+ "chapitres": [
+  {
+   "titre": "Accroche",
+   "debut": 0.18
+  },
+  {
+   "titre": "Ouverture",
+   "debut": 26.73
+  },
+  {
+   "titre": "Chapitre 1 · À l'aveugle",
+   "debut": 68.33
+  },
+  {
+   "titre": "Chapitre 2 · L'arsenal",
+   "debut": 138.95
+  },
+  {
+   "titre": "Chapitre 3 · Une journée dans le terminal",
+   "debut": 206.39
+  },
+  {
+   "titre": "Chapitre 4 · Tout montrer",
+   "debut": 321.08
+  },
+  {
+   "titre": "Chapitre 5 · Le rendez-vous",
+   "debut": 377.26
+  }
+ ],
+ "blocs": [
+  {
+   "bloc": 0,
+   "voix": "victor-fr",
+   "chap": "Accroche",
+   "enchaine": null,
+   "debut": 0.48,
+   "fin": 6.85,
+   "texte": "Imaginez. Vous êtes chez vous. Trois écrans allumés, dix ong"
+  },
+  {
+   "bloc": 1,
+   "voix": "clara-fr",
+   "chap": null,
+   "enchaine": null,
+   "debut": 7.15,
+   "fin": 8.68,
+   "texte": "Et là… un chiffre tombe."
+  },
+  {
+   "bloc": 2,
+   "voix": "victor-fr",
+   "chap": null,
+   "enchaine": null,
+   "debut": 9.03,
+   "fin": 13.88,
+   "texte": "Le prix part dans tous les sens. Votre position avec. Et vou"
+  },
+  {
+   "bloc": 3,
+   "voix": "clara-fr",
+   "chap": null,
+   "enchaine": null,
+   "debut": 14.33,
+   "fin": 18.33,
+   "texte": "Ça, c'est trader à l'aveugle. Et chaque jour, des milliers d"
+  },
+  {
+   "bloc": 4,
+   "voix": "victor-fr",
+   "chap": null,
+   "enchaine": null,
+   "debut": 18.51,
+   "fin": 23.21,
+   "texte": "Aujourd'hui, on vous présente le terminal qu'on a construit "
+  },
+  {
+   "bloc": 5,
+   "voix": "clara-fr",
+   "chap": null,
+   "enchaine": null,
+   "debut": 23.51,
+   "fin": 25.65,
+   "texte": "Et je vous préviens, je vais pas lui faire de cadeau."
+  },
+  {
+   "bloc": 6,
+   "voix": "victor-fr",
+   "chap": null,
+   "enchaine": "reaction",
+   "debut": 25.55,
+   "fin": 26.23,
+   "texte": "Ah ça… elle m'en fait jamais."
+  },
+  {
+   "bloc": 7,
+   "voix": "victor-fr",
+   "chap": "Ouverture",
+   "enchaine": null,
+   "debut": 38.15,
+   "fin": 45.51,
+   "texte": "Bonjour à toutes et à tous, et bienvenue dans le podcast de "
+  },
+  {
+   "bloc": 8,
+   "voix": "clara-fr",
+   "chap": null,
+   "enchaine": null,
+   "debut": 45.69,
+   "fin": 50.58,
+   "texte": "Et moi, c'est Clara ! Je pose les questions que vous vous po"
+  },
+  {
+   "bloc": 9,
+   "voix": "clara-fr",
+   "chap": null,
+   "enchaine": null,
+   "debut": 50.98,
+   "fin": 60.72,
+   "texte": "Et on va être honnêtes avec vous tout de suite : Victor et m"
+  },
+  {
+   "bloc": 10,
+   "voix": "victor-fr",
+   "chap": null,
+   "enchaine": null,
+   "debut": 61.02,
+   "fin": 67.73,
+   "texte": "C'est la règle de la maison, en fait : on vous demande pas d"
+  },
+  {
+   "bloc": 11,
+   "voix": "clara-fr",
+   "chap": "Chapitre 1 · À l'aveugle",
+   "enchaine": null,
+   "debut": 71.71,
+   "fin": 79.66,
+   "texte": "Chapitre un : à l'aveugle. Victor, toi, t'as passé dix-huit "
+  },
+  {
+   "bloc": 12,
+   "voix": "victor-fr",
+   "chap": null,
+   "enchaine": null,
+   "debut": 79.96,
+   "fin": 95.01,
+   "texte": "Une chose, surtout : en salle, personne ne trade seul. Y a q"
+  },
+  {
+   "bloc": 13,
+   "voix": "clara-fr",
+   "chap": null,
+   "enchaine": "reaction",
+   "debut": 94.89,
+   "fin": 95.37,
+   "texte": "Presque, hein ?"
+  },
+  {
+   "bloc": 14,
+   "voix": "victor-fr",
+   "chap": null,
+   "enchaine": null,
+   "debut": 95.57,
+   "fin": 101.91,
+   "texte": "On en reparlera. Mais chez soi, on est tout seul, face à des"
+  },
+  {
+   "bloc": 15,
+   "voix": "clara-fr",
+   "chap": null,
+   "enchaine": null,
+   "debut": 102.09,
+   "fin": 107.0,
+   "texte": "D'accord. Mais soyons francs : encore un outil de trading ? "
+  },
+  {
+   "bloc": 16,
+   "voix": "victor-fr",
+   "chap": null,
+   "enchaine": null,
+   "debut": 107.18,
+   "fin": 121.12,
+   "texte": "Justement ! Un site pour les graphiques, un autre pour l'act"
+  },
+  {
+   "bloc": 17,
+   "voix": "clara-fr",
+   "chap": null,
+   "enchaine": null,
+   "debut": 121.32,
+   "fin": 123.0,
+   "texte": "Et MACROARSENAL, en une phrase ?"
+  },
+  {
+   "bloc": 18,
+   "voix": "victor-fr",
+   "chap": null,
+   "enchaine": null,
+   "debut": 123.3,
+   "fin": 133.92,
+   "texte": "Un terminal macro qui vous explique pourquoi les marchés bou"
+  },
+  {
+   "bloc": 19,
+   "voix": "clara-fr",
+   "chap": null,
+   "enchaine": null,
+   "debut": 134.22,
+   "fin": 136.63,
+   "texte": "Joli. Tu l'as répétée devant le miroir, celle-là ?"
+  },
+  {
+   "bloc": 20,
+   "voix": "victor-fr",
+   "chap": null,
+   "enchaine": null,
+   "debut": 136.73,
+   "fin": 138.35,
+   "texte": "Tous les matins. Avec mon café."
+  },
+  {
+   "bloc": 21,
+   "voix": "victor-fr",
+   "chap": "Chapitre 2 · L'arsenal",
+   "enchaine": null,
+   "debut": 142.34,
+   "fin": 155.15,
+   "texte": "Chapitre deux : l'arsenal. Et là, je vais vite. Quarante mar"
+  },
+  {
+   "bloc": 22,
+   "voix": "clara-fr",
+   "chap": null,
+   "enchaine": "reaction",
+   "debut": 155.03,
+   "fin": 156.36,
+   "texte": "Pfff… Ça, c'est la base."
+  },
+  {
+   "bloc": 23,
+   "voix": "victor-fr",
+   "chap": null,
+   "enchaine": null,
+   "debut": 156.44,
+   "fin": 172.54,
+   "texte": "Attends, attends ! Le Labo des edges : on a testé des centai"
+  },
+  {
+   "bloc": 24,
+   "voix": "clara-fr",
+   "chap": null,
+   "enchaine": "reaction",
+   "debut": 172.42,
+   "fin": 174.25,
+   "texte": "Une poignée ? Sur des centaines ?"
+  },
+  {
+   "bloc": 25,
+   "voix": "victor-fr",
+   "chap": null,
+   "enchaine": null,
+   "debut": 174.43,
+   "fin": 185.81,
+   "texte": "Une poignée. Et c'est pas fini ! La Crypto zone, une vraie é"
+  },
+  {
+   "bloc": 26,
+   "voix": "clara-fr",
+   "chap": null,
+   "enchaine": "coupe",
+   "debut": 185.67,
+   "fin": 186.56,
+   "texte": "Respire, Victor !"
+  },
+  {
+   "bloc": 27,
+   "voix": "victor-fr",
+   "chap": null,
+   "enchaine": null,
+   "debut": 186.66,
+   "fin": 189.78,
+   "texte": "Et tout ça… en français, en anglais et en espagnol !"
+  },
+  {
+   "bloc": 28,
+   "voix": "clara-fr",
+   "chap": null,
+   "enchaine": null,
+   "debut": 189.96,
+   "fin": 193.4,
+   "texte": "Bon, là, tu me donnes le vertige. Trop d'infos tue l'info !"
+  },
+  {
+   "bloc": 29,
+   "voix": "victor-fr",
+   "chap": null,
+   "enchaine": null,
+   "debut": 193.58,
+   "fin": 205.79,
+   "texte": "Sauf qu'en fait, vous voyez pas tout. Vous voyez ce qui vous"
+  },
+  {
+   "bloc": 30,
+   "voix": "clara-fr",
+   "chap": "Chapitre 3 · Une journée dans le terminal",
+   "enchaine": null,
+   "debut": 209.77,
+   "fin": 215.92,
+   "texte": "Chapitre trois : une journée dans le terminal. Bon, c'est le"
+  },
+  {
+   "bloc": 31,
+   "voix": "victor-fr",
+   "chap": null,
+   "enchaine": null,
+   "debut": 216.22,
+   "fin": 221.88,
+   "texte": "Le Biais du jour : pour chacun des quarante marchés, le sens"
+  },
+  {
+   "bloc": 32,
+   "voix": "clara-fr",
+   "chap": null,
+   "enchaine": "reaction",
+   "debut": 221.78,
+   "fin": 223.75,
+   "texte": "Oh ! Sans avis ? Vous avez le droit ?"
+  },
+  {
+   "bloc": 33,
+   "voix": "victor-fr",
+   "chap": null,
+   "enchaine": null,
+   "debut": 223.93,
+   "fin": 229.42,
+   "texte": "Ben oui ! Quand les signaux se contredisent, on force pas. U"
+  },
+  {
+   "bloc": 34,
+   "voix": "clara-fr",
+   "chap": null,
+   "enchaine": "coupe",
+   "debut": 229.32,
+   "fin": 233.22,
+   "texte": "Attends. Votre Biais, c'est un signal déguisé ? Vous me dite"
+  },
+  {
+   "bloc": 35,
+   "voix": "victor-fr",
+   "chap": null,
+   "enchaine": null,
+   "debut": 233.37,
+   "fin": 242.1,
+   "texte": "Non. Non, non. C'est une lecture : le sens de fond, et pourq"
+  },
+  {
+   "bloc": 36,
+   "voix": "victor-fr",
+   "chap": null,
+   "enchaine": null,
+   "debut": 242.55,
+   "fin": 254.52,
+   "texte": "Et quand un marché offre une vraie opportunité, là, on va pl"
+  },
+  {
+   "bloc": 37,
+   "voix": "clara-fr",
+   "chap": null,
+   "enchaine": null,
+   "debut": 254.6,
+   "fin": 255.02,
+   "texte": "Aucune ?"
+  },
+  {
+   "bloc": 38,
+   "voix": "victor-fr",
+   "chap": null,
+   "enchaine": null,
+   "debut": 255.32,
+   "fin": 258.25,
+   "texte": "Aucune. Chez nous, ne rien faire, c'est aussi une décision."
+  },
+  {
+   "bloc": 39,
+   "voix": "clara-fr",
+   "chap": null,
+   "enchaine": null,
+   "debut": 258.55,
+   "fin": 260.13,
+   "texte": "Et quand un chiffre important tombe ?"
+  },
+  {
+   "bloc": 40,
+   "voix": "victor-fr",
+   "chap": null,
+   "enchaine": null,
+   "debut": 260.31,
+   "fin": 269.45,
+   "texte": "Le calendrier vous prévient, avec un compte à rebours. Et su"
+  },
+  {
+   "bloc": 41,
+   "voix": "clara-fr",
+   "chap": null,
+   "enchaine": null,
+   "debut": 269.75,
+   "fin": 272.09,
+   "texte": "Bon ! J'ai une idée de trade. Je clique."
+  },
+  {
+   "bloc": 42,
+   "voix": "victor-fr",
+   "chap": null,
+   "enchaine": "coupe",
+   "debut": 271.91,
+   "fin": 273.85,
+   "texte": "Stop ! Avant d'entrer : trente secondes."
+  },
+  {
+   "bloc": 43,
+   "voix": "clara-fr",
+   "chap": null,
+   "enchaine": "reaction",
+   "debut": 273.7,
+   "fin": 274.86,
+   "texte": "Oh là là, ça commence…"
+  },
+  {
+   "bloc": 44,
+   "voix": "victor-fr",
+   "chap": null,
+   "enchaine": null,
+   "debut": 275.04,
+   "fin": 292.06,
+   "texte": "Avant d'entrer, c'est une petite checklist : l'annonce qui a"
+  },
+  {
+   "bloc": 45,
+   "voix": "clara-fr",
+   "chap": null,
+   "enchaine": null,
+   "debut": 292.76,
+   "fin": 296.31,
+   "texte": "Tu insistes beaucoup sur ce moment-là. C'est ça, ton « presq"
+  },
+  {
+   "bloc": 46,
+   "voix": "victor-fr",
+   "chap": null,
+   "enchaine": null,
+   "debut": 297.11,
+   "fin": 305.66,
+   "texte": "C'est ça. Quinze janvier deux mille quinze. La Banque nation"
+  },
+  {
+   "bloc": 47,
+   "voix": "victor-fr",
+   "chap": null,
+   "enchaine": null,
+   "debut": 306.16,
+   "fin": 311.39,
+   "texte": "Et dans la salle, y avait un jeune trader… Il avait pas mis "
+  },
+  {
+   "bloc": 48,
+   "voix": "clara-fr",
+   "chap": null,
+   "enchaine": null,
+   "debut": 311.99,
+   "fin": 312.17,
+   "texte": "Tout ?"
+  },
+  {
+   "bloc": 49,
+   "voix": "victor-fr",
+   "chap": null,
+   "enchaine": null,
+   "debut": 312.67,
+   "fin": 317.41,
+   "texte": "Tout. Ce soir-là, je me suis fait une promesse : plus person"
+  },
+  {
+   "bloc": 50,
+   "voix": "clara-fr",
+   "chap": null,
+   "enchaine": null,
+   "debut": 318.21,
+   "fin": 319.15,
+   "texte": "Et c'est pour ça que t'es là."
+  },
+  {
+   "bloc": 51,
+   "voix": "victor-fr",
+   "chap": null,
+   "enchaine": null,
+   "debut": 319.45,
+   "fin": 320.48,
+   "texte": "C'est pour ça que je suis là."
+  },
+  {
+   "bloc": 52,
+   "voix": "clara-fr",
+   "chap": "Chapitre 4 · Tout montrer",
+   "enchaine": null,
+   "debut": 324.46,
+   "fin": 328.05,
+   "texte": "Chapitre quatre : la question qui fâche. Et si vous vous tro"
+  },
+  {
+   "bloc": 53,
+   "voix": "victor-fr",
+   "chap": null,
+   "enchaine": null,
+   "debut": 328.23,
+   "fin": 331.57,
+   "texte": "On se trompera. Forcément. Personne n'a raison à chaque fois"
+  },
+  {
+   "bloc": 54,
+   "voix": "clara-fr",
+   "chap": null,
+   "enchaine": "reaction",
+   "debut": 331.47,
+   "fin": 333.46,
+   "texte": "Ah ben… ça a le mérite d'être clair !"
+  },
+  {
+   "bloc": 55,
+   "voix": "victor-fr",
+   "chap": null,
+   "enchaine": null,
+   "debut": 333.76,
+   "fin": 342.83,
+   "texte": "Alors chez nous, la règle tient en trois phrases. On publie "
+  },
+  {
+   "bloc": 56,
+   "voix": "clara-fr",
+   "chap": null,
+   "enchaine": null,
+   "debut": 343.13,
+   "fin": 347.27,
+   "texte": "Sauf que… vous avez pas encore de résultats. Alors pourquoi "
+  },
+  {
+   "bloc": 57,
+   "voix": "victor-fr",
+   "chap": null,
+   "enchaine": null,
+   "debut": 347.87,
+   "fin": 350.71,
+   "texte": "T'as raison. Pas encore. Et on va pas faire semblant."
+  },
+  {
+   "bloc": 58,
+   "voix": "victor-fr",
+   "chap": null,
+   "enchaine": null,
+   "debut": 351.06,
+   "fin": 363.7,
+   "texte": "Les publications reprennent le onze décembre. Et à partir de"
+  },
+  {
+   "bloc": 59,
+   "voix": "clara-fr",
+   "chap": null,
+   "enchaine": null,
+   "debut": 364.1,
+   "fin": 368.03,
+   "texte": "D'habitude, on vous montre les gains. Ici, on vous promet de"
+  },
+  {
+   "bloc": 60,
+   "voix": "victor-fr",
+   "chap": null,
+   "enchaine": null,
+   "debut": 368.33,
+   "fin": 376.66,
+   "texte": "C'est la seule façon de mériter votre confiance. Et MACROARS"
+  },
+  {
+   "bloc": 61,
+   "voix": "clara-fr",
+   "chap": "Chapitre 5 · Le rendez-vous",
+   "enchaine": null,
+   "debut": 380.64,
+   "fin": 387.59,
+   "texte": "Chapitre cinq : le rendez-vous. Et là, je joue la débutante "
+  },
+  {
+   "bloc": 62,
+   "voix": "victor-fr",
+   "chap": null,
+   "enchaine": null,
+   "debut": 387.89,
+   "fin": 403.68,
+   "texte": "Alors t'es au bon endroit. Vous donnez votre niveau, et le q"
+  },
+  {
+   "bloc": 63,
+   "voix": "clara-fr",
+   "chap": null,
+   "enchaine": null,
+   "debut": 403.88,
+   "fin": 404.65,
+   "texte": "Et ça coûte combien ?"
+  },
+  {
+   "bloc": 64,
+   "voix": "victor-fr",
+   "chap": null,
+   "enchaine": null,
+   "debut": 404.83,
+   "fin": 415.38,
+   "texte": "Découverte, c'est gratuit, sans limite de durée. Fondateur, "
+  },
+  {
+   "bloc": 65,
+   "voix": "clara-fr",
+   "chap": null,
+   "enchaine": null,
+   "debut": 415.63,
+   "fin": 416.53,
+   "texte": "Et on peut entrer quand ?"
+  },
+  {
+   "bloc": 66,
+   "voix": "victor-fr",
+   "chap": null,
+   "enchaine": null,
+   "debut": 416.68,
+   "fin": 423.66,
+   "texte": "Le lundi onze janvier deux mille vingt-sept. Laissez votre a"
+  },
+  {
+   "bloc": 67,
+   "voix": "clara-fr",
+   "chap": null,
+   "enchaine": null,
+   "debut": 424.26,
+   "fin": 427.78,
+   "texte": "Victor… un dernier mot, pour quelqu'un qui hésite ?"
+  },
+  {
+   "bloc": 68,
+   "voix": "victor-fr",
+   "chap": null,
+   "enchaine": null,
+   "debut": 428.48,
+   "fin": 438.61,
+   "texte": "Pendant dix-huit ans, j'ai vu des traders gagner, perdre… re"
+  },
+  {
+   "bloc": 69,
+   "voix": "clara-fr",
+   "chap": null,
+   "enchaine": null,
+   "debut": 439.21,
+   "fin": 440.84,
+   "texte": "En salle, personne ne trade seul."
+  },
+  {
+   "bloc": 70,
+   "voix": "victor-fr",
+   "chap": null,
+   "enchaine": null,
+   "debut": 441.14,
+   "fin": 441.72,
+   "texte": "Ici non plus."
+  },
+  {
+   "bloc": 71,
+   "voix": "clara-fr",
+   "chap": null,
+   "enchaine": null,
+   "debut": 442.32,
+   "fin": 446.62,
+   "texte": "MACROARSENAL. Le terminal qui change votre vision du trading"
+  },
+  {
+   "bloc": 72,
+   "voix": "victor-fr",
+   "chap": null,
+   "enchaine": null,
+   "debut": 447.12,
+   "fin": 448.84,
+   "texte": "Ne tradez plus jamais à l'aveugle."
+  },
+  {
+   "bloc": 73,
+   "voix": "clara-fr",
+   "chap": null,
+   "enchaine": null,
+   "debut": 449.74,
+   "fin": 458.06,
+   "texte": "MACROARSENAL est un outil d'information et d'éducation, pas "
+  },
+  {
+   "bloc": 74,
+   "voix": "victor-fr",
+   "chap": null,
+   "enchaine": null,
+   "debut": 458.36,
+   "fin": 462.94,
+   "texte": "Le marché sera encore là demain. Votre capital aussi, si vou"
+  }
+ ],
+ "souffles_poses": [],
+ "coupes": [
+  "26",
+  "34",
+  "42"
+ ],
+ "passages": [
+  {
+   "bloc": 0,
+   "k": 0,
+   "voix": "victor-fr",
+   "ton": "pose",
+   "text": "Imaginez. Vous êtes chez vous. Trois écrans allumés, dix onglets ouverts, un fil d'infos qui défile en anglais.",
+   "debut": 0.48,
+   "fin": 6.85,
+   "tempo": 0.94,
+   "inspiration": 0.0
+  },
+  {
+   "bloc": 1,
+   "k": 0,
+   "voix": "clara-fr",
+   "ton": "posee-calme",
+   "text": "Et là… un chiffre tombe.",
+   "debut": 7.15,
+   "fin": 8.68,
+   "tempo": 0.965,
+   "inspiration": 0.0
+  },
+  {
+   "bloc": 2,
+   "k": 0,
+   "voix": "victor-fr",
+   "ton": "pose",
+   "text": "Le prix part dans tous les sens. Votre position avec. Et vous ne savez même pas pourquoi.",
+   "debut": 9.03,
+   "fin": 13.88,
+   "tempo": 0.94,
+   "inspiration": 0.0
+  },
+  {
+   "bloc": 3,
+   "k": 0,
+   "voix": "clara-fr",
+   "ton": "posee-calme",
+   "text": "Ça, c'est trader à l'aveugle. Et chaque jour, des milliers de traders le vivent.",
+   "debut": 14.33,
+   "fin": 18.33,
+   "tempo": 0.965,
+   "inspiration": 0.16
+  },
+  {
+   "bloc": 4,
+   "k": 0,
+   "voix": "victor-fr",
+   "ton": "net",
+   "text": "Aujourd'hui, on vous présente le terminal qu'on a construit justement pour que ça n'arrive plus.",
+   "debut": 18.51,
+   "fin": 23.21,
+   "tempo": 0.94,
+   "inspiration": 0.0
+  },
+  {
+   "bloc": 5,
+   "k": 0,
+   "voix": "clara-fr",
+   "ton": "sceptique-calme",
+   "text": "Et je vous préviens, je vais pas lui faire de cadeau.",
+   "debut": 23.51,
+   "fin": 25.65,
+   "tempo": 0.965,
+   "inspiration": 0.0
+  },
+  {
+   "bloc": 6,
+   "k": 0,
+   "voix": "victor-fr",
+   "ton": "complice",
+   "text": "Ah ça… elle m'en fait jamais.",
+   "debut": 25.55,
+   "fin": 26.23,
+   "tempo": 1.043,
+   "inspiration": 0.0
+  },
+  {
+   "bloc": 7,
+   "k": 0,
+   "voix": "victor-fr",
+   "ton": "energique",
+   "text": "Bonjour à toutes et à tous, et bienvenue dans le podcast de MACROARSENAL ! Je suis Victor Castel, la voix de MACROARSENAL Radio.",
+   "debut": 38.15,
+   "fin": 45.51,
+   "tempo": 1.05,
+   "inspiration": 0.0
+  },
+  {
+   "bloc": 8,
+   "k": 0,
+   "voix": "clara-fr",
+   "ton": "vive-calme",
+   "text": "Et moi, c'est Clara ! Je pose les questions que vous vous posez. Même celles qui fâchent.",
+   "debut": 45.69,
+   "fin": 50.58,
+   "tempo": 0.965,
+   "inspiration": 0.0
+  },
+  {
+   "bloc": 9,
+   "k": 0,
+   "voix": "clara-fr",
+   "ton": "posee-calme",
+   "text": "Et on va être honnêtes avec vous tout de suite : Victor et moi, on est des personnages de MACROARSENAL, avec des voix de synthèse. Par contre, tout ce qu'on va vous dire, vous pouvez le vérifier.",
+   "debut": 50.98,
+   "fin": 60.72,
+   "tempo": 0.965,
+   "inspiration": 0.0
+  },
+  {
+   "bloc": 10,
+   "k": 0,
+   "voix": "victor-fr",
+   "ton": "chaleureux",
+   "text": "C'est la règle de la maison, en fait : on vous demande pas de nous croire, on vous montre. Allez… café serré, écrans allumés, on y va !",
+   "debut": 61.02,
+   "fin": 67.73,
+   "tempo": 0.94,
+   "inspiration": 0.0
+  },
+  {
+   "bloc": 11,
+   "k": 0,
+   "voix": "clara-fr",
+   "ton": "curieuse-calme",
+   "text": "Chapitre un : à l'aveugle. Victor, toi, t'as passé dix-huit ans dans une salle de marchés, à Londres. Qu'est-ce que vous aviez là-bas, que les gens ont pas chez eux ?",
+   "debut": 71.71,
+   "fin": 79.66,
+   "tempo": 0.965,
+   "inspiration": 0.0
+  },
+  {
+   "bloc": 12,
+   "k": 0,
+   "voix": "victor-fr",
+   "ton": "pose",
+   "text": "Une chose, surtout : en salle, personne ne trade seul. Y a quelqu'un qui lit les nouvelles, quelqu'un qui explique le chiffre, quelqu'un qui vous arrête avant la bêtise. Moi, j'étais la voix. Dix-huit ans au micro, sans trembler…",
+   "debut": 79.96,
+   "fin": 93.48,
+   "tempo": 0.954,
+   "inspiration": 0.0
+  },
+  {
+   "bloc": 12,
+   "k": 1,
+   "voix": "victor-fr",
+   "ton": "pose",
+   "text": "enfin, presque jamais.",
+   "debut": 93.85,
+   "fin": 95.01,
+   "tempo": 1.044,
+   "inspiration": 0.0
+  },
+  {
+   "bloc": 13,
+   "k": 0,
+   "voix": "clara-fr",
+   "ton": "complice-calme",
+   "text": "Presque, hein ?",
+   "debut": 94.89,
+   "fin": 95.37,
+   "tempo": 0.965,
+   "inspiration": 0.0
+  },
+  {
+   "bloc": 14,
+   "k": 0,
+   "voix": "victor-fr",
+   "ton": "pose",
+   "text": "On en reparlera. Mais chez soi, on est tout seul, face à des milliers de chiffres. Trop de bruit, trop d'avis.",
+   "debut": 95.57,
+   "fin": 101.91,
+   "tempo": 0.94,
+   "inspiration": 0.0
+  },
+  {
+   "bloc": 15,
+   "k": 0,
+   "voix": "clara-fr",
+   "ton": "sceptique-calme",
+   "text": "D'accord. Mais soyons francs : encore un outil de trading ? Y en a un nouveau tous les matins !",
+   "debut": 102.09,
+   "fin": 107.0,
+   "tempo": 0.965,
+   "inspiration": 0.0
+  },
+  {
+   "bloc": 16,
+   "k": 0,
+   "voix": "victor-fr",
+   "ton": "complice",
+   "text": "Justement ! Un site pour les graphiques, un autre pour l'actu, un troisième pour le calendrier… Résultat, dix onglets, et toujours pas de réponse à la…",
+   "debut": 107.18,
+   "fin": 116.1,
+   "tempo": 1.05,
+   "inspiration": 0.0
+  },
+  {
+   "bloc": 16,
+   "k": 1,
+   "voix": "victor-fr",
+   "ton": "complice",
+   "text": "à la seule question qui compte : pourquoi ça bouge, et qu'est-ce que j'en fais, moi, ce matin ?",
+   "debut": 116.46,
+   "fin": 121.12,
+   "tempo": 1.05,
+   "inspiration": 0.33
+  },
+  {
+   "bloc": 17,
+   "k": 0,
+   "voix": "clara-fr",
+   "ton": "curieuse-calme",
+   "text": "Et MACROARSENAL, en une phrase ?",
+   "debut": 121.32,
+   "fin": 123.0,
+   "tempo": 0.965,
+   "inspiration": 0.0
+  },
+  {
+   "bloc": 18,
+   "k": 0,
+   "voix": "victor-fr",
+   "ton": "chaleureux",
+   "text": "Un terminal macro qui vous explique pourquoi les marchés bougent. En gros, des outils de pro, entre les mains de tous les traders, tous les jours. Toute la puissance des pros…",
+   "debut": 123.3,
+   "fin": 132.94,
+   "tempo": 0.94,
+   "inspiration": 0.0
+  },
+  {
+   "bloc": 18,
+   "k": 1,
+   "voix": "victor-fr",
+   "ton": "chaleureux",
+   "text": "sans leur prix.",
+   "debut": 133.28,
+   "fin": 133.92,
+   "tempo": 0.94,
+   "inspiration": 0.0
+  },
+  {
+   "bloc": 19,
+   "k": 0,
+   "voix": "clara-fr",
+   "ton": "complice-calme",
+   "text": "Joli. Tu l'as répétée devant le miroir, celle-là ?",
+   "debut": 134.22,
+   "fin": 136.63,
+   "tempo": 0.965,
+   "inspiration": 0.0
+  },
+  {
+   "bloc": 20,
+   "k": 0,
+   "voix": "victor-fr",
+   "ton": "complice",
+   "text": "Tous les matins. Avec mon café.",
+   "debut": 136.73,
+   "fin": 138.35,
+   "tempo": 1.0,
+   "inspiration": 0.0
+  },
+  {
+   "bloc": 21,
+   "k": 0,
+   "voix": "victor-fr",
+   "ton": "energique",
+   "text": "Chapitre deux : l'arsenal. Et là, je vais vite. Quarante marchés, les plus tradés au monde, lus chaque matin.",
+   "debut": 142.34,
+   "fin": 149.34,
+   "tempo": 1.05,
+   "inspiration": 0.0
+  },
+  {
+   "bloc": 21,
+   "k": 1,
+   "voix": "victor-fr",
+   "ton": "energique",
+   "text": "Un fil d'actu mondial, avec que des sources officielles. Un calendrier économique en direct.",
+   "debut": 149.69,
+   "fin": 155.15,
+   "tempo": 1.05,
+   "inspiration": 0.0
+  },
+  {
+   "bloc": 22,
+   "k": 0,
+   "voix": "clara-fr",
+   "ton": "sceptique-calme",
+   "text": "Pfff… Ça, c'est la base.",
+   "debut": 155.03,
+   "fin": 156.36,
+   "tempo": 0.965,
+   "inspiration": 0.0
+  },
+  {
+   "bloc": 23,
+   "k": 0,
+   "voix": "victor-fr",
+   "ton": "energique",
+   "text": "Attends, attends ! Le Labo des edges : on a testé des centaines de recettes de trading sur vingt-cinq ans, frais compris. Pour passer, une recette doit gagner avant deux mille dix-huit…",
+   "debut": 156.44,
+   "fin": 166.0,
+   "tempo": 1.05,
+   "inspiration": 0.0
+  },
+  {
+   "bloc": 23,
+   "k": 1,
+   "voix": "victor-fr",
+   "ton": "energique",
+   "text": "et continuer sur des années qu'elle a jamais vues. Y en a qu'une poignée qui tiennent. Et c'est les seules qu'on vous propose.",
+   "debut": 166.29,
+   "fin": 172.54,
+   "tempo": 0.948,
+   "inspiration": 0.0
+  },
+  {
+   "bloc": 24,
+   "k": 0,
+   "voix": "clara-fr",
+   "ton": "curieuse-calme",
+   "text": "Une poignée ? Sur des centaines ?",
+   "debut": 172.42,
+   "fin": 174.25,
+   "tempo": 0.965,
+   "inspiration": 0.0
+  },
+  {
+   "bloc": 25,
+   "k": 0,
+   "voix": "victor-fr",
+   "ton": "energique",
+   "text": "Une poignée. Et c'est pas fini ! La Crypto zone, une vraie école de trading, l'Academy, un simulateur, la radio…",
+   "debut": 174.43,
+   "fin": 182.6,
+   "tempo": 1.05,
+   "inspiration": 0.0
+  },
+  {
+   "bloc": 25,
+   "k": 1,
+   "voix": "victor-fr",
+   "ton": "energique",
+   "text": "et Doji, notre assistant, qui connaît tout ça par cœur.",
+   "debut": 182.9,
+   "fin": 185.81,
+   "tempo": 1.05,
+   "inspiration": 0.0
+  },
+  {
+   "bloc": 26,
+   "k": 0,
+   "voix": "clara-fr",
+   "ton": "complice-calme",
+   "text": "Respire, Victor !",
+   "debut": 185.67,
+   "fin": 186.56,
+   "tempo": 0.965,
+   "inspiration": 0.0
+  },
+  {
+   "bloc": 27,
+   "k": 0,
+   "voix": "victor-fr",
+   "ton": "complice",
+   "text": "Et tout ça… en français, en anglais et en espagnol !",
+   "debut": 186.66,
+   "fin": 189.78,
+   "tempo": 1.05,
+   "inspiration": 0.0
+  },
+  {
+   "bloc": 28,
+   "k": 0,
+   "voix": "clara-fr",
+   "ton": "sceptique-calme",
+   "text": "Bon, là, tu me donnes le vertige. Trop d'infos tue l'info !",
+   "debut": 189.96,
+   "fin": 193.4,
+   "tempo": 0.965,
+   "inspiration": 0.0
+  },
+  {
+   "bloc": 29,
+   "k": 0,
+   "voix": "victor-fr",
+   "ton": "net",
+   "text": "Sauf qu'en fait, vous voyez pas tout. Vous voyez ce qui vous concerne : votre niveau, vos marchés, votre page. Et Doji fait le tri. Il vous emmène à la bonne page, il vous explique n'importe quel chiffre…",
+   "debut": 193.58,
+   "fin": 204.9,
+   "tempo": 1.05,
+   "inspiration": 0.0
+  },
+  {
+   "bloc": 29,
+   "k": 1,
+   "voix": "victor-fr",
+   "ton": "net",
+   "text": "en un clic.",
+   "debut": 205.21,
+   "fin": 205.79,
+   "tempo": 1.0,
+   "inspiration": 0.0
+  },
+  {
+   "bloc": 30,
+   "k": 0,
+   "voix": "clara-fr",
+   "ton": "vive-calme",
+   "text": "Chapitre trois : une journée dans le terminal. Bon, c'est le matin. Vous ouvrez le terminal…",
+   "debut": 209.77,
+   "fin": 214.56,
+   "tempo": 0.965,
+   "inspiration": 0.24
+  },
+  {
+   "bloc": 30,
+   "k": 1,
+   "voix": "clara-fr",
+   "ton": "vive-calme",
+   "text": "Qu'est-ce qui vous attend ?",
+   "debut": 214.91,
+   "fin": 215.92,
+   "tempo": 0.965,
+   "inspiration": 0.0
+  },
+  {
+   "bloc": 31,
+   "k": 0,
+   "voix": "victor-fr",
+   "ton": "pose",
+   "text": "Le Biais du jour : pour chacun des quarante marchés, le sens de fond. Haussier, baissier… ou sans avis.",
+   "debut": 216.22,
+   "fin": 221.88,
+   "tempo": 1.0,
+   "inspiration": 0.0
+  },
+  {
+   "bloc": 32,
+   "k": 0,
+   "voix": "clara-fr",
+   "ton": "curieuse-calme",
+   "text": "Oh ! Sans avis ? Vous avez le droit ?",
+   "debut": 221.78,
+   "fin": 223.75,
+   "tempo": 0.965,
+   "inspiration": 0.0
+  },
+  {
+   "bloc": 33,
+   "k": 0,
+   "voix": "victor-fr",
+   "ton": "complice",
+   "text": "Ben oui ! Quand les signaux se contredisent, on force pas. Un avis forcé, c'est pire que pas d'avis du tout.",
+   "debut": 223.93,
+   "fin": 229.42,
+   "tempo": 1.0,
+   "inspiration": 0.0
+  },
+  {
+   "bloc": 34,
+   "k": 0,
+   "voix": "clara-fr",
+   "ton": "sceptique-calme",
+   "text": "Attends. Votre Biais, c'est un signal déguisé ? Vous me dites quoi acheter ?",
+   "debut": 229.32,
+   "fin": 233.22,
+   "tempo": 0.965,
+   "inspiration": 0.0
+  },
+  {
+   "bloc": 35,
+   "k": 0,
+   "voix": "victor-fr",
+   "ton": "net",
+   "text": "Non. Non, non. C'est une lecture : le sens de fond, et pourquoi.",
+   "debut": 233.37,
+   "fin": 237.1,
+   "tempo": 1.05,
+   "inspiration": 0.0
+  },
+  {
+   "bloc": 35,
+   "k": 1,
+   "voix": "victor-fr",
+   "ton": "net",
+   "text": "Un point de départ pour réfléchir, jamais un ordre. C'est vous qui décidez. Toujours.",
+   "debut": 237.38,
+   "fin": 242.1,
+   "tempo": 1.05,
+   "inspiration": 0.0
+  },
+  {
+   "bloc": 36,
+   "k": 0,
+   "voix": "victor-fr",
+   "ton": "net",
+   "text": "Et quand un marché offre une vraie opportunité, là, on va plus loin : c'est nos Convictions. Le sens, l'entrée, le stop, les objectifs, tout est donné à l'avance. Y en a une, trois… ou aucune.",
+   "debut": 242.55,
+   "fin": 254.52,
+   "tempo": 1.05,
+   "inspiration": 0.0
+  },
+  {
+   "bloc": 37,
+   "k": 0,
+   "voix": "clara-fr",
+   "ton": "curieuse-calme",
+   "text": "Aucune ?",
+   "debut": 254.6,
+   "fin": 255.02,
+   "tempo": 0.965,
+   "inspiration": 0.0
+  },
+  {
+   "bloc": 38,
+   "k": 0,
+   "voix": "victor-fr",
+   "ton": "pose",
+   "text": "Aucune. Chez nous, ne rien faire, c'est aussi une décision.",
+   "debut": 255.32,
+   "fin": 258.25,
+   "tempo": 0.94,
+   "inspiration": 0.0
+  },
+  {
+   "bloc": 39,
+   "k": 0,
+   "voix": "clara-fr",
+   "ton": "curieuse-calme",
+   "text": "Et quand un chiffre important tombe ?",
+   "debut": 258.55,
+   "fin": 260.13,
+   "tempo": 0.965,
+   "inspiration": 0.0
+  },
+  {
+   "bloc": 40,
+   "k": 0,
+   "voix": "victor-fr",
+   "ton": "net",
+   "text": "Le calendrier vous prévient, avec un compte à rebours. Et surtout, il se souvient : quand un chiffre tombe, vous savez déjà comment le marché a réagi, les fois d'avant.",
+   "debut": 260.31,
+   "fin": 269.45,
+   "tempo": 1.0,
+   "inspiration": 0.0
+  },
+  {
+   "bloc": 41,
+   "k": 0,
+   "voix": "clara-fr",
+   "ton": "vive-calme",
+   "text": "Bon ! J'ai une idée de trade. Je clique.",
+   "debut": 269.75,
+   "fin": 272.09,
+   "tempo": 0.965,
+   "inspiration": 0.0
+  },
+  {
+   "bloc": 42,
+   "k": 0,
+   "voix": "victor-fr",
+   "ton": "net",
+   "text": "Stop ! Avant d'entrer : trente secondes.",
+   "debut": 271.91,
+   "fin": 273.85,
+   "tempo": 1.033,
+   "inspiration": 0.0
+  },
+  {
+   "bloc": 43,
+   "k": 0,
+   "voix": "clara-fr",
+   "ton": "complice-calme",
+   "text": "Oh là là, ça commence…",
+   "debut": 273.7,
+   "fin": 274.86,
+   "tempo": 0.965,
+   "inspiration": 0.0
+  },
+  {
+   "bloc": 44,
+   "k": 0,
+   "voix": "victor-fr",
+   "ton": "net",
+   "text": "Avant d'entrer, c'est une petite checklist : l'annonce qui arrive, le Biais, les niveaux clés, la taille de position. Et puis y a le regard de Doji : il vérifie le calendrier, les niveaux, votre risque.",
+   "debut": 275.04,
+   "fin": 286.36,
+   "tempo": 1.05,
+   "inspiration": 0.0
+  },
+  {
+   "bloc": 44,
+   "k": 1,
+   "voix": "victor-fr",
+   "ton": "net",
+   "text": "Avec Fondateur et Arsenal, Doji voit vert, orange… ou rouge. Mais c'est vous qui décidez.",
+   "debut": 286.68,
+   "fin": 292.06,
+   "tempo": 1.05,
+   "inspiration": 0.0
+  },
+  {
+   "bloc": 45,
+   "k": 0,
+   "voix": "clara-fr",
+   "ton": "posee-calme",
+   "text": "Tu insistes beaucoup sur ce moment-là. C'est ça, ton « presque jamais » ?",
+   "debut": 292.76,
+   "fin": 296.31,
+   "tempo": 0.965,
+   "inspiration": 0.0
+  },
+  {
+   "bloc": 46,
+   "k": 0,
+   "voix": "victor-fr",
+   "ton": "pose",
+   "text": "C'est ça. Quinze janvier deux mille quinze. La Banque nationale suisse abandonne son cours plancher.",
+   "debut": 297.11,
+   "fin": 301.74,
+   "tempo": 0.94,
+   "inspiration": 0.0
+  },
+  {
+   "bloc": 46,
+   "k": 1,
+   "voix": "victor-fr",
+   "ton": "pose",
+   "text": "En quelques minutes, le franc bondit de près de trente pour cent face à l'euro.",
+   "debut": 302.1,
+   "fin": 305.66,
+   "tempo": 0.94,
+   "inspiration": 0.0
+  },
+  {
+   "bloc": 47,
+   "k": 0,
+   "voix": "victor-fr",
+   "ton": "pose",
+   "text": "Et dans la salle, y avait un jeune trader… Il avait pas mis de stop. Il a perdu tout son compte.",
+   "debut": 306.16,
+   "fin": 311.39,
+   "tempo": 0.949,
+   "inspiration": 0.0
+  },
+  {
+   "bloc": 48,
+   "k": 0,
+   "voix": "clara-fr",
+   "ton": "posee-calme",
+   "text": "Tout ?",
+   "debut": 311.99,
+   "fin": 312.17,
+   "tempo": 0.965,
+   "inspiration": 0.0
+  },
+  {
+   "bloc": 49,
+   "k": 0,
+   "voix": "victor-fr",
+   "ton": "pose",
+   "text": "Tout. Ce soir-là, je me suis fait une promesse : plus personne ne devrait apprendre ça seul.",
+   "debut": 312.67,
+   "fin": 317.41,
+   "tempo": 0.94,
+   "inspiration": 0.0
+  },
+  {
+   "bloc": 50,
+   "k": 0,
+   "voix": "clara-fr",
+   "ton": "posee-calme",
+   "text": "Et c'est pour ça que t'es là.",
+   "debut": 318.21,
+   "fin": 319.15,
+   "tempo": 0.965,
+   "inspiration": 0.0
+  },
+  {
+   "bloc": 51,
+   "k": 0,
+   "voix": "victor-fr",
+   "ton": "chaleureux",
+   "text": "C'est pour ça que je suis là.",
+   "debut": 319.45,
+   "fin": 320.48,
+   "tempo": 0.94,
+   "inspiration": 0.0
+  },
+  {
+   "bloc": 52,
+   "k": 0,
+   "voix": "clara-fr",
+   "ton": "sceptique-calme",
+   "text": "Chapitre quatre : la question qui fâche. Et si vous vous trompez ?",
+   "debut": 324.46,
+   "fin": 328.05,
+   "tempo": 0.965,
+   "inspiration": 0.17
+  },
+  {
+   "bloc": 53,
+   "k": 0,
+   "voix": "victor-fr",
+   "ton": "net",
+   "text": "On se trompera. Forcément. Personne n'a raison à chaque fois.",
+   "debut": 328.23,
+   "fin": 331.57,
+   "tempo": 1.0,
+   "inspiration": 0.0
+  },
+  {
+   "bloc": 54,
+   "k": 0,
+   "voix": "clara-fr",
+   "ton": "complice-calme",
+   "text": "Ah ben… ça a le mérite d'être clair !",
+   "debut": 331.47,
+   "fin": 333.46,
+   "tempo": 0.965,
+   "inspiration": 0.0
+  },
+  {
+   "bloc": 55,
+   "k": 0,
+   "voix": "victor-fr",
+   "ton": "pose",
+   "text": "Alors chez nous, la règle tient en trois phrases. On publie avant. On compte tout.",
+   "debut": 333.76,
+   "fin": 338.19,
+   "tempo": 0.94,
+   "inspiration": 0.0
+  },
+  {
+   "bloc": 55,
+   "k": 1,
+   "voix": "victor-fr",
+   "ton": "pose",
+   "text": "Même les pertes. Tout est dans Nos résultats, ouvert à tous. Rien n'est trié.",
+   "debut": 338.55,
+   "fin": 342.83,
+   "tempo": 1.0,
+   "inspiration": 0.0
+  },
+  {
+   "bloc": 56,
+   "k": 0,
+   "voix": "clara-fr",
+   "ton": "sceptique-calme",
+   "text": "Sauf que… vous avez pas encore de résultats. Alors pourquoi on vous croirait ?",
+   "debut": 343.13,
+   "fin": 347.27,
+   "tempo": 0.965,
+   "inspiration": 0.0
+  },
+  {
+   "bloc": 57,
+   "k": 0,
+   "voix": "victor-fr",
+   "ton": "pose",
+   "text": "T'as raison. Pas encore. Et on va pas faire semblant.",
+   "debut": 347.87,
+   "fin": 350.71,
+   "tempo": 0.94,
+   "inspiration": 0.0
+  },
+  {
+   "bloc": 58,
+   "k": 0,
+   "voix": "victor-fr",
+   "ton": "net",
+   "text": "Les publications reprennent le onze décembre. Et à partir de là, tout sera daté, public, vérifiable. Même le compte réel de MACROARSENAL publiera ses chiffres.",
+   "debut": 351.06,
+   "fin": 360.52,
+   "tempo": 1.05,
+   "inspiration": 0.0
+  },
+  {
+   "bloc": 58,
+   "k": 1,
+   "voix": "victor-fr",
+   "ton": "net",
+   "text": "Alors ne nous croyez pas sur parole : regardez, et jugez.",
+   "debut": 360.8,
+   "fin": 363.7,
+   "tempo": 1.05,
+   "inspiration": 0.0
+  },
+  {
+   "bloc": 59,
+   "k": 0,
+   "voix": "clara-fr",
+   "ton": "posee-calme",
+   "text": "D'habitude, on vous montre les gains. Ici, on vous promet de vous montrer les pertes.",
+   "debut": 364.1,
+   "fin": 368.03,
+   "tempo": 0.965,
+   "inspiration": 0.0
+  },
+  {
+   "bloc": 60,
+   "k": 0,
+   "voix": "victor-fr",
+   "ton": "pose",
+   "text": "C'est la seule façon de mériter votre confiance. Et MACROARSENAL ne touche aucune rémunération d'un courtier, d'une plateforme ou d'un émetteur. Aucune.",
+   "debut": 368.33,
+   "fin": 376.66,
+   "tempo": 0.94,
+   "inspiration": 0.17
+  },
+  {
+   "bloc": 61,
+   "k": 0,
+   "voix": "clara-fr",
+   "ton": "sceptique-calme",
+   "text": "Chapitre cinq : le rendez-vous. Et là, je joue la débutante : franchement, tout ça, c'est pour les pros. Moi, je débute !",
+   "debut": 380.64,
+   "fin": 387.59,
+   "tempo": 0.965,
+   "inspiration": 0.0
+  },
+  {
+   "bloc": 62,
+   "k": 0,
+   "voix": "victor-fr",
+   "ton": "chaleureux",
+   "text": "Alors t'es au bon endroit. Vous donnez votre niveau, et le quiz et la leçon du jour s'adaptent. Deux minutes par jour, euh…",
+   "debut": 387.89,
+   "fin": 394.75,
+   "tempo": 0.946,
+   "inspiration": 0.0
+  },
+  {
+   "bloc": 62,
+   "k": 1,
+   "voix": "victor-fr",
+   "ton": "chaleureux",
+   "text": "pas plus. L'Academy commence par un module gratuit pour maîtriser le terminal. Et le simulateur, c'est de l'argent fictif : c'est le seul endroit où les erreurs sont gratuites.",
+   "debut": 395.12,
+   "fin": 403.68,
+   "tempo": 0.94,
+   "inspiration": 0.0
+  },
+  {
+   "bloc": 63,
+   "k": 0,
+   "voix": "clara-fr",
+   "ton": "curieuse-calme",
+   "text": "Et ça coûte combien ?",
+   "debut": 403.88,
+   "fin": 404.65,
+   "tempo": 0.965,
+   "inspiration": 0.0
+  },
+  {
+   "bloc": 64,
+   "k": 0,
+   "voix": "victor-fr",
+   "ton": "net",
+   "text": "Découverte, c'est gratuit, sans limite de durée. Fondateur, ça revient à moins d'un euro par jour en moyenne. Et vous avez sept jours d'essai gratuit sur tout Arsenal, sans carte bancaire.",
+   "debut": 404.83,
+   "fin": 415.38,
+   "tempo": 1.028,
+   "inspiration": 0.0
+  },
+  {
+   "bloc": 65,
+   "k": 0,
+   "voix": "clara-fr",
+   "ton": "vive-calme",
+   "text": "Et on peut entrer quand ?",
+   "debut": 415.63,
+   "fin": 416.53,
+   "tempo": 0.965,
+   "inspiration": 0.0
+  },
+  {
+   "bloc": 66,
+   "k": 0,
+   "voix": "victor-fr",
+   "ton": "energique",
+   "text": "Le lundi onze janvier deux mille vingt-sept. Laissez votre adresse sur macroarsenal.com : vous serez prévenu le jour de l'ouverture.",
+   "debut": 416.68,
+   "fin": 423.66,
+   "tempo": 1.05,
+   "inspiration": 0.0
+  },
+  {
+   "bloc": 67,
+   "k": 0,
+   "voix": "clara-fr",
+   "ton": "posee-calme",
+   "text": "Victor… un dernier mot, pour quelqu'un qui hésite ?",
+   "debut": 424.26,
+   "fin": 427.78,
+   "tempo": 0.965,
+   "inspiration": 0.0
+  },
+  {
+   "bloc": 68,
+   "k": 0,
+   "voix": "victor-fr",
+   "ton": "pose",
+   "text": "Pendant dix-huit ans, j'ai vu des traders gagner, perdre… recommencer. Et ceux qui ont tenu, ils avaient un plan. Et quelqu'un à côté d'eux.",
+   "debut": 428.48,
+   "fin": 436.69,
+   "tempo": 0.954,
+   "inspiration": 0.0
+  },
+  {
+   "bloc": 68,
+   "k": 1,
+   "voix": "victor-fr",
+   "ton": "pose",
+   "text": "MACROARSENAL, c'est ce quelqu'un.",
+   "debut": 437.02,
+   "fin": 438.61,
+   "tempo": 0.94,
+   "inspiration": 0.26
+  },
+  {
+   "bloc": 69,
+   "k": 0,
+   "voix": "clara-fr",
+   "ton": "posee-calme",
+   "text": "En salle, personne ne trade seul.",
+   "debut": 439.21,
+   "fin": 440.84,
+   "tempo": 0.965,
+   "inspiration": 0.0
+  },
+  {
+   "bloc": 70,
+   "k": 0,
+   "voix": "victor-fr",
+   "ton": "chaleureux",
+   "text": "Ici non plus.",
+   "debut": 441.14,
+   "fin": 441.72,
+   "tempo": 0.961,
+   "inspiration": 0.0
+  },
+  {
+   "bloc": 71,
+   "k": 0,
+   "voix": "clara-fr",
+   "ton": "vive-calme",
+   "text": "MACROARSENAL. Le terminal qui change votre vision du trading.",
+   "debut": 442.32,
+   "fin": 446.62,
+   "tempo": 0.965,
+   "inspiration": 0.0
+  },
+  {
+   "bloc": 72,
+   "k": 0,
+   "voix": "victor-fr",
+   "ton": "pose",
+   "text": "Ne tradez plus jamais à l'aveugle.",
+   "debut": 447.12,
+   "fin": 448.84,
+   "tempo": 0.94,
+   "inspiration": 0.0
+  },
+  {
+   "bloc": 73,
+   "k": 0,
+   "voix": "clara-fr",
+   "ton": "posee-calme",
+   "text": "MACROARSENAL est un outil d'information et d'éducation, pas un conseil en investissement personnalisé. Le trading comporte un risque de perte en capital.",
+   "debut": 449.74,
+   "fin": 458.06,
+   "tempo": 0.965,
+   "inspiration": 0.0
+  },
+  {
+   "bloc": 74,
+   "k": 0,
+   "voix": "victor-fr",
+   "ton": "chaleureux",
+   "text": "Le marché sera encore là demain. Votre capital aussi, si vous le protégez. À très vite !",
+   "debut": 458.36,
+   "fin": 462.94,
+   "tempo": 0.94,
+   "inspiration": 0.0
+  }
+ ]
+}
