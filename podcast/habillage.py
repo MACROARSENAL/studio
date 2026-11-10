@@ -453,7 +453,111 @@ def fin():
     return master(x, 'fin', lufs=-15.0, fin=0.3, fout=2.5)
 
 
+# --- Variante B : future garage / électro douce (même harmonie, même motif) ------------------------------------------------
+def tempo(bpm, swing_ratio):
+    """Change le tempo de toute la partition (les fonctions lisent ces valeurs au moment de jouer)."""
+    global BPM, BEAT, S16, BAR, SWING
+    BPM = bpm; BEAT = 60 / bpm; S16 = BEAT / 4; BAR = 4 * BEAT; SWING = swing_ratio * S16
+
+
+def pad(name, dur, vel=0.3, seed=0):
+    """Nappe chaude : dents de scie légèrement désaccordées, filtrées bas, attaque lente (l'air du future garage)."""
+    _, notes = CH[name]
+    t = tl(dur + 0.8)
+    out = np.zeros((len(t), 2))
+    r = np.random.default_rng(seed)
+    for i, m in enumerate(notes):
+        for v, c in enumerate((-9.0, 0.0, 9.0)):
+            f = hz(m) * 2 ** (c / 1200)
+            ph = r.uniform(0, 6.28)
+            s = sum(np.sin(k * (2 * np.pi * f * t + ph)) / k for k in range(1, 9))
+            a = (v / 2) * np.pi / 2
+            out[:, 0] += s * np.cos(a); out[:, 1] += s * np.sin(a)
+    env = np.minimum(1, t / 0.6) * np.minimum(1, np.maximum(0, (dur + 0.8 - t) / 0.8))
+    x = (out * env[:, None] * vel / (3 * len(notes))).astype(np.float32)
+    return eq(x, ('lp', 1400), ('lp', 2200), ('hp', 180))
+
+
+def pluck(midi, vel=0.5, seed=0):
+    """Pluck de synthèse : une note brève et ronde dont le filtre se referme vite (le motif en version électro)."""
+    f = hz(midi)
+    t = tl(0.9)
+    ph = np.random.default_rng(seed + midi).uniform(0, 6.28)
+    s = sum(np.exp(-t * 9.0 * (k - 1)) * np.sin(k * (2 * np.pi * f * t + ph)) / k for k in range(1, 12))
+    env = np.minimum(1, t / 0.002) * np.exp(-t / 0.32)
+    return stereo(eq((s * env * vel).astype(np.float32), ('lp', 6500), ('hp', 200)))
+
+
+def echo(x, d, fb=0.35, n=4, lp=3500):
+    """Écho ping-pong (gauche, droite) qui s'assombrit à chaque répétition."""
+    x = stereo(x)
+    out = pad_to(x.copy(), len(x) + int(d * SR * (n + 1)))
+    y = x
+    for k in range(1, n + 1):
+        y = eq(y, ('lp', lp), ('hp', 300)) * fb
+        place(out, y[:, ::-1] if k % 2 else y, k * d)
+    return out
+
+
+def generique_b():
+    """Variante B du générique (≈ 13 s) : 2-step future garage à 130, en demi-temps sous le motif. Nappe, basse sub qui
+    roule, claquement et caisse claire sur 2 et 4, charleston très balancé, le motif Mi-La au pluck avec un écho."""
+    tempo(130, 0.30)
+    t0 = 0.25
+    bars = 6
+    d = t0 + bars * BAR + 3.4
+    P = Piste(d)
+    prog = [('Fmaj9', 2.0), ('E7sus', 1.0), ('E7', 1.0), ('Dm9', 1.0), ('E7sus', 0.5), ('E7', 0.5)]   # en mesures à 130
+    t = t0
+    for k, (c, nb) in enumerate(prog):
+        dur = nb * BAR
+        put(P.keys, pad(c, dur, 0.55, seed=k), t)
+        put(P.keys, tremolo(chord_rhodes(c, min(dur, BAR) * 0.9, 0.32, seed=k), t0=t), t, 0.8)
+        put(P.bass, sub(CH[c][0], dur - 0.05, 0.55), t)
+        t += dur
+    for k in range(bars):
+        tb = t0 + k * BAR
+        for s, v in ((0, 1.0), (7, 0.55), (10, 0.85)):            # 2-step : la grosse caisse saute le troisième temps
+            put(P.drums, kick(0.9 * v), tb + swing(s)); P.kicks.append(tb + swing(s))
+        for s in (4, 12):
+            put(P.drums, snare(0.40, rr=k * 2 + s), tb + swing(s) + 0.006, p=0.04)
+            put(P.drums, hat(0.08, decay=0.06, seed=k + s), tb + swing(s) + 0.012, p=-0.1)
+        for s in range(16):
+            if s % 2 == 1 or s in (2, 14):
+                put(P.drums, hat(0.12 * (1.0 if s in (2, 6, 10, 14) else 0.6), seed=k * 16 + s), tb + swing(s), p=0.25)
+        if k == 0:
+            for s in (2, 6, 10, 14):
+                put(P.drums, shaker(0.10, k * 16 + s), tb + swing(s), p=-0.3)
+    # le motif au pluck, en demi-temps (une note du motif = deux fois plus longue), avec son écho
+    lead = bus(d)
+    for bar0, notes in ((0, MOTIF), (2, REPONSE), (4, CADENCE)):
+        for b, du, m in notes:
+            tt = t0 + bar0 * BAR + b * 2 * BEAT        # demi-temps : un temps du motif = deux temps à 130
+            place(lead, pan(pluck(m, 0.55, seed=bar0), 0.08), tt)
+            place(lead, pan(stereo(piano(m, du * 2 * BEAT, 0.42)), -0.08), tt, 0.5)
+    P.lead += pad_to(echo(lead, 3 * S16), len(P.lead))[: len(P.lead)] * 0.9
+    tf = t0 + bars * BAR
+    P.accord('A5add9', tf, 3.0, vel=0.45, seed=9, bvel=0.6)
+    put(P.keys, pad('A5add9', 3.0, 0.5, seed=9), tf)
+    put(P.drums, kick(0.95), tf); P.kicks.append(tf)
+    put(P.lead, piano(69, 2.5, 0.5), tf, p=0.1)
+    put(P.lead, glock(93, 0.15), tf, p=0.3)
+    x = P.mix(d, seed=5, vinyl_db=-36.0)
+    lpv = eq(x, ('lp', 700), ('lp', 700))
+    n1 = int((t0 + BAR) * SR)
+    w = np.clip(np.arange(len(x)) / n1, 0, 1)[:, None] ** 1.5
+    x = lpv * (1 - w) + x * w
+    REP['generique-b_voix'] = round(tf + 0.35, 3)
+    REP['generique-b_duree'] = round(d, 3)
+    out = master(x, 'generique-b', lufs=-15.0, fin=0.15, fout=1.6)
+    tempo(90, 0.18)
+    return out
+
+
 if __name__ == '__main__':
+    if '--variante-b' in sys.argv:
+        generique_b()
+        sys.exit(0)
     generique()
     for k, (n, c) in enumerate((('transition-a', 'Fmaj9'), ('transition-b', 'Dm9'), ('transition-c', 'Am9'))):
         transition(n, c, k)

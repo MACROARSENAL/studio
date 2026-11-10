@@ -1,8 +1,11 @@
 {
- "_": "Podcast de présentation (FR), fabrication complète : Victor (victor-fr, réglage d'origine) et Clara (clara-fr, voix B prise 2 choisie par Kévin), 2 prises par passage puis reprises 3-4 et 5-6 pour les passages non conformes.",
+ "_": "Podcast de présentation (FR), version de 8 minutes demandée par Kévin : Victor (victor-fr, réglage d'origine) et Clara (clara-fr, voix B prise 2), 2 prises par passage puis reprises 3-4 et 5-6 pour les passages non conformes.",
  "podcast": "podcast/presentation-fr.json",
  "langue": "fr",
  "parties": 20,
  "prises": "1,2",
- "reprises": ["3,4", "5,6"]
+ "reprises": [
+  "3,4",
+  "5,6"
+ ]
 }
