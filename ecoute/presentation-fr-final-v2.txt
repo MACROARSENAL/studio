@@ -1,0 +1,72 @@
+::notice title=Fenêtre 23.6-26.8 s::réaction « Ah ça… » sur la fin de « cadeau » → « Si je vous préviens, je vais pas lui faire de cadeau. Elle m 'en fait jamais. »
+::notice title=Fenêtre 70.7-75.7 s::entrée après la transition : « Chapitre un » → « Petre 1 à l 'aveugle Victor toi t 'as passé 18 ans dans une salle »
+::notice title=Fenêtre 93.0-96.0 s::réaction « Presque, hein ? » → « tremblez enfin presque jamais on n 'en repart »
+::notice title=Fenêtre 153.2-157.0 s::réaction « Pfff… Ça, c'est la base » → « un calendrier économique en direct ça c 'est la base attend »
+::notice title=Fenêtre 183.8-187.2 s::interruption « Respire, Victor ! » → « C 'est notre assistant qui connaît tout ça par cœur. Respire Victor ! Et tout ça... »
+::notice title=Fenêtre 200.8-206.3 s::« Il vous emmène à la bonne page » → « fait le tri. Il vous emmène à la bonne page, il vous explique n 'importe quel chiffre en un clic. »
+::notice title=Fenêtre 227.4-233.8 s::interruption « Attends. Votre Biais… » → « d 'avis forcé, c 'est pire que pas d 'avis du tout. Attends, votre biais c 'est un signal déguisé ? Vous me dites quoi acheter ? Non ! »
+::notice title=Fenêtre 270.1-275.5 s::interruption « Stop ! » et réaction « Oh là là » → « J 'ai une idée de trade, je clique. Top ! Avant d 'entrer, 30 secondes. Oh là là, ça commence. »
+::notice title=Fenêtre 309.5-317.7 s::« Tout ? » / « Tout. » → « de stop il a perdu tout son compte tout tout ce soir là je me suis fait une promesse plus personne ne devrait apprendre ça seul »
+::notice title=Fenêtre 329.6-334.1 s::réaction « Ah ben… » → « Personne n 'a raison à chaque fois. Ah ben, ça a le mérite d 'être clair ? Alors je... »
+::notice title=Fenêtre 449.2-463.7 s::phrase de risque et dernière réplique → « Macro Arsenal est un outil d 'information et d 'éducation, pas un conseil en investissement personnalisé. Le trading comporte un risque de perte en capital. Le marché sera encore là demain. Votre capital aussi, si vous le protégez. A très vite. »
+::notice title=Écoute::1277/1416 mots du texte retrouvés (90.2%), 129 écarts, heures dites : aucune, passages doublés : 2
+   5.56 s  replace  attendu « d' » entendu « d ' »
+  14.84 s  replace  attendu « c' » entendu « c ' »
+  15.44 s  replace  attendu « l' » entendu « l ' »
+  18.54 s  replace  attendu « aujourd' » entendu « aujourd ' »
+  20.80 s  replace  attendu « qu' » entendu « qu ' »
+  22.68 s  replace  attendu « n' » entendu « n ' »
+  25.62 s  delete   attendu « ha ca » entendu «  »
+  25.76 s  replace  attendu « m' » entendu « m ' »
+  46.14 s  replace  attendu « c' » entendu « c ' »
+  58.94 s  replace  attendu « qu' » entendu « qu ' »
+  61.06 s  replace  attendu « c' » entendu « c ' »
+  62.94 s  insert   attendu «  » entendu « ne »
+  71.74 s  replace  attendu « chapitre » entendu « pitre »
+  72.64 s  replace  attendu « l' » entendu « l ' »
+  74.30 s  replace  attendu « t' » entendu « t ' »
+  74.70 s  replace  attendu « dix huit » entendu « 18 »
+  77.42 s  replace  attendu « qu' » entendu « qu ' »
+  79.10 s  insert   attendu «  » entendu « n ' »
+  82.72 s  replace  attendu « trade » entendu « traite »
+  83.72 s  insert   attendu «  » entendu « il »
+  83.94 s  replace  attendu « quelqu' » entendu « quelqu ' »
+  85.48 s  replace  attendu « quelqu' » entendu « quelqu ' »
+  87.04 s  replace  attendu « quelqu' » entendu « quelqu ' »
+  90.48 s  replace  attendu « j' » entendu « j ' »
+  91.84 s  replace  attendu « dix huit » entendu « 18 »
+ 101.66 s  replace  attendu « d' » entendu « d ' »
+ 102.10 s  replace  attendu « d' » entendu « d ' »
+ 105.94 s  insert   attendu «  » entendu « ' »
+ 110.14 s  replace  attendu « l' » entendu « l ' »
+ 119.24 s  replace  attendu « qu' » entendu « qu ' »
+ 119.56 s  replace  attendu « j' » entendu « j ' »
+ 135.16 s  replace  attendu « l' » entendu « l ' »
+ 135.36 s  replace  attendu « repetee » entendu « repete »
+ 143.62 s  replace  attendu « l' » entendu « l ' »
+ 146.40 s  replace  attendu « quarante » entendu « 40 »
+ 150.16 s  replace  attendu « d' » entendu « d ' »
+ 155.14 s  delete   attendu « pfff » entendu «  »
+ 155.78 s  replace  attendu « c' » entendu « c ' »
+ 158.36 s  replace  attendu « edge » entendu « edger »
+ 161.30 s  replace  attendu « vingt cinq » entendu « 25 »
+ 165.24 s  replace  attendu « deu mille dix huit » entendu « 2018 »
+ 166.60 s  replace  attendu « continuer » entendu « continuez »
+ 167.56 s  replace  attendu « qu' » entendu « qu ' »
+ 167.74 s  insert   attendu «  » entendu « n ' »
+ 168.90 s  insert   attendu «  » entendu « il n ' »
+ 169.24 s  replace  attendu « qu' » entendu « qu ' »
+ 170.16 s  replace  attendu « tiennent » entendu « tienne »
+ 171.04 s  replace  attendu « c' » entendu « c ' »
+ 171.54 s  replace  attendu « seule qu' » entendu « seul qu ' »
+ 175.96 s  replace  attendu « c' » entendu « c ' »
+ 177.60 s  replace  attendu « crypto zone » entendu « cryptozone »
+ 180.02 s  replace  attendu « l' academy » entendu « l ' academie »
+ 183.20 s  replace  attendu « doji » entendu « dodgy »
+ 192.42 s  replace  attendu « d' » entendu « d ' »
+ 192.82 s  replace  attendu « tue l' » entendu « tu l ' »
+ 193.84 s  replace  attendu « qu' » entendu « qu ' »
+ 203.98 s  replace  attendu « n' » entendu « n ' »
+ 212.70 s  replace  attendu « c' » entendu « c ' »
+ 214.94 s  replace  attendu « qu' » entendu « qu ' »
+ 217.98 s  replace  attendu « quarante » entendu « 40 »
