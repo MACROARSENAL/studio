@@ -1,0 +1,133 @@
+{
+ "duree_s": 477.61,
+ "duree_min": 7.96,
+ "lufs": -16.0,
+ "crete_dbtp": -1.0,
+ "lra": 4.0,
+ "silences_entre_repliques": {
+  "n": 68,
+  "mediane_s": 0.3,
+  "moins_de_0_25_s": 32,
+  "de_0_4_a_0_75_s": 14,
+  "plus_de_0_9_s": []
+ },
+ "chevauchements": [
+  {
+   "a": " vais pas lui faire de cadeau.",
+   "b": "Ah ça… elle m'en fait jamais.",
+   "chevauchement_s": 0.1,
+   "type": "reaction"
+  },
+  {
+   "a": "enfin, presque jamais.",
+   "b": "Presque, hein ?",
+   "chevauchement_s": 0.12,
+   "type": "reaction"
+  },
+  {
+   "a": "lendrier économique en direct.",
+   "b": "Pfff… Ça, c'est la base.",
+   "chevauchement_s": 0.12,
+   "type": "reaction"
+  },
+  {
+   "a": "les seules qu'on vous propose.",
+   "b": "Une poignée ? Sur des centaine",
+   "chevauchement_s": 0.12,
+   "type": "reaction"
+  },
+  {
+   "a": " qui connaît tout ça par cœur.",
+   "b": "Respire, Victor !",
+   "chevauchement_s": 0.14,
+   "type": "coupe"
+  },
+  {
+   "a": "ssier, baissier… ou sans avis.",
+   "b": "Oh ! Sans avis ? Vous avez le ",
+   "chevauchement_s": 0.1,
+   "type": "reaction"
+  },
+  {
+   "a": "t pire que pas d'avis du tout.",
+   "b": "Attends. Votre Biais, c'est un",
+   "chevauchement_s": 0.1,
+   "type": "coupe"
+  },
+  {
+   "a": " une idée de trade. Je clique.",
+   "b": "Stop ! Avant d'entrer : trente",
+   "chevauchement_s": 0.18,
+   "type": "coupe"
+  },
+  {
+   "a": "nt d'entrer : trente secondes.",
+   "b": "Oh là là, ça commence…",
+   "chevauchement_s": 0.15,
+   "type": "reaction"
+  },
+  {
+   "a": "onne n'a raison à chaque fois.",
+   "b": "Ah ben… ça a le mérite d'être ",
+   "chevauchement_s": 0.1,
+   "type": "reaction"
+  }
+ ],
+ "fins": {
+  "descend": 45,
+  "monte": 21,
+  "plat": 21,
+  "null": 3
+ },
+ "trois_fins_pareilles_de_suite": [
+  "Attends, attends ! Le Labo des edges : o",
+  "Et quand un marché offre une vraie oppor"
+ ],
+ "debit_par_ton": {
+  "clara- complice-calme": 19.7,
+  "clara- curieuse-calme": 19.0,
+  "clara- posee-calme": 20.0,
+  "clara- sceptique-calme": 18.6,
+  "clara- vive-calme": 17.6,
+  "victor chaleureux": 19.2,
+  "victor complice": 19.1,
+  "victor energique": 18.1,
+  "victor net": 18.0,
+  "victor pose": 18.4
+ },
+ "etirements": [
+  0.94,
+  0.946,
+  0.948,
+  0.949,
+  0.954,
+  0.961,
+  0.965,
+  1.0,
+  1.028,
+  1.033,
+  1.043,
+  1.044,
+  1.05
+ ],
+ "inspirations_gardees": 6,
+ "inspirations_posees": [
+  "21-00",
+  "36-00",
+  "46-00",
+  "55-00",
+  "58-00",
+  "62-00",
+  "68-00"
+ ],
+ "mouvement_median": {
+  "victor-fr": 3.54,
+  "clara-fr": 3.33
+ },
+ "sonie_parole": {
+  "mediane": -16.8,
+  "p5": -18.3,
+  "p95": -15.7
+ },
+ "clics": []
+}
