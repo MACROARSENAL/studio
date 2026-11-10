@@ -1,0 +1,1100 @@
+{
+ "langue": "fr",
+ "part": 1,
+ "voix": "victor-fr",
+ "phrases": [
+  {
+   "id": "00-00",
+   "bloc": 0,
+   "ton": "pose",
+   "text": "Imaginez. Vous êtes chez vous. Trois écrans allumés, dix onglets ouverts, un fil d'infos qui défile en anglais.",
+   "tts": "Imaginez. Vous êtes chez vous. Trois écrans allumés, dix onglets ouverts, un fil d'infos qui défile en anglais.",
+   "gen": {},
+   "voix": "victor-fr",
+   "prises": [
+    {
+     "prise": 1,
+     "file": "fr-00-00-p1.wav",
+     "seconds": 6.56,
+     "compute": 50,
+     "heard": "Imaginez, vous êtes chez vous, 3 écrans allumés, 10 onglets ouverts, un fil d'infos qui défile en anglais.",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.76,
+      6.48
+     ],
+     "rate": 19.4,
+     "mots": [
+      [
+       "Imaginez,",
+       0.76,
+       1.16,
+       0.92
+      ],
+      [
+       "vous",
+       1.2,
+       1.32,
+       0.99
+      ],
+      [
+       "êtes",
+       1.32,
+       1.52,
+       1.0
+      ],
+      [
+       "chez",
+       1.52,
+       1.66,
+       1.0
+      ],
+      [
+       "vous,",
+       1.66,
+       2.12,
+       0.99
+      ],
+      [
+       "3",
+       2.6,
+       2.74,
+       0.28
+      ],
+      [
+       "écrans",
+       2.74,
+       3.08,
+       0.99
+      ],
+      [
+       "allumés,",
+       3.08,
+       3.66,
+       0.99
+      ],
+      [
+       "10",
+       3.86,
+       4.02,
+       0.97
+      ],
+      [
+       "onglets",
+       4.02,
+       4.28,
+       0.92
+      ],
+      [
+       "ouverts,",
+       4.28,
+       4.7,
+       0.98
+      ],
+      [
+       "un",
+       5.12,
+       5.24,
+       0.73
+      ],
+      [
+       "fil",
+       5.24,
+       5.34,
+       0.97
+      ],
+      [
+       "d",
+       5.34,
+       5.5,
+       1.0
+      ],
+      [
+       "'infos",
+       5.5,
+       5.74,
+       0.85
+      ],
+      [
+       "qui",
+       5.74,
+       5.9,
+       1.0
+      ],
+      [
+       "défile",
+       5.9,
+       6.14,
+       0.95
+      ],
+      [
+       "en",
+       6.14,
+       6.36,
+       1.0
+      ],
+      [
+       "anglais.",
+       6.36,
+       6.48,
+       0.96
+      ]
+     ],
+     "clarte": 0.28,
+     "ok": true
+    },
+    {
+     "prise": 2,
+     "file": "fr-00-00-p2.wav",
+     "seconds": 6.48,
+     "compute": 47,
+     "heard": "Imaginez, vous êtes chez vous, trois écrans allumés, dix onglets ouverts, un fil d'info qui défile en anglais.",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      6.1
+     ],
+     "rate": 18.2,
+     "mots": [
+      [
+       "Imaginez,",
+       0.0,
+       0.94,
+       0.96
+      ],
+      [
+       "vous",
+       0.96,
+       1.08,
+       0.99
+      ],
+      [
+       "êtes",
+       1.08,
+       1.26,
+       1.0
+      ],
+      [
+       "chez",
+       1.26,
+       1.4,
+       1.0
+      ],
+      [
+       "vous,",
+       1.4,
+       1.78,
+       1.0
+      ],
+      [
+       "trois",
+       2.06,
+       2.22,
+       0.75
+      ],
+      [
+       "écrans",
+       2.22,
+       2.52,
+       0.98
+      ],
+      [
+       "allumés,",
+       2.52,
+       3.08,
+       0.99
+      ],
+      [
+       "dix",
+       3.32,
+       3.48,
+       0.89
+      ],
+      [
+       "onglets",
+       3.48,
+       3.76,
+       0.95
+      ],
+      [
+       "ouverts,",
+       3.76,
+       4.18,
+       0.99
+      ],
+      [
+       "un",
+       4.6,
+       4.7,
+       0.99
+      ],
+      [
+       "fil",
+       4.7,
+       4.82,
+       0.97
+      ],
+      [
+       "d",
+       4.82,
+       4.96,
+       1.0
+      ],
+      [
+       "'info",
+       4.96,
+       5.24,
+       0.82
+      ],
+      [
+       "qui",
+       5.24,
+       5.44,
+       1.0
+      ],
+      [
+       "défile",
+       5.44,
+       5.7,
+       0.98
+      ],
+      [
+       "en",
+       5.7,
+       5.94,
+       1.0
+      ],
+      [
+       "anglais.",
+       5.94,
+       6.1,
+       0.97
+      ]
+     ],
+     "clarte": 0.75,
+     "ok": true
+    }
+   ]
+  },
+  {
+   "id": "01-00",
+   "bloc": 1,
+   "ton": "posee",
+   "text": "Et là… un chiffre tombe.",
+   "tts": "Et là… un chiffre tombe.",
+   "gen": {},
+   "voix": "clara-fr",
+   "prises": [
+    {
+     "prise": 1,
+     "file": "fr-01-00-p1.wav",
+     "seconds": 1.92,
+     "compute": 17,
+     "heard": "Et là, un chiffre tombe !",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      1.9
+     ],
+     "rate": 12.6,
+     "mots": [
+      [
+       "Et",
+       0.0,
+       0.46,
+       0.84
+      ],
+      [
+       "là,",
+       0.46,
+       0.86,
+       0.97
+      ],
+      [
+       "un",
+       1.24,
+       1.34,
+       0.99
+      ],
+      [
+       "chiffre",
+       1.34,
+       1.64,
+       1.0
+      ],
+      [
+       "tombe",
+       1.64,
+       1.9,
+       1.0
+      ],
+      [
+       "!",
+       1.9,
+       1.9,
+       0.39
+      ]
+     ],
+     "clarte": 0.39,
+     "ok": true
+    },
+    {
+     "prise": 2,
+     "file": "fr-01-00-p2.wav",
+     "seconds": 2.0,
+     "compute": 17,
+     "heard": "Et là, un chiffre tombe.",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      1.98
+     ],
+     "rate": 12.1,
+     "mots": [
+      [
+       "Et",
+       0.0,
+       0.4,
+       0.82
+      ],
+      [
+       "là,",
+       0.4,
+       0.76,
+       0.98
+      ],
+      [
+       "un",
+       1.26,
+       1.38,
+       0.99
+      ],
+      [
+       "chiffre",
+       1.38,
+       1.7,
+       1.0
+      ],
+      [
+       "tombe.",
+       1.7,
+       1.98,
+       1.0
+      ]
+     ],
+     "clarte": 0.82,
+     "ok": true
+    }
+   ]
+  },
+  {
+   "id": "02-00",
+   "bloc": 2,
+   "ton": "pose",
+   "text": "Le prix part dans tous les sens. Votre position avec. Et vous ne savez même pas pourquoi.",
+   "tts": "Le prix part dans tous les sens. Votre position avec. Et vous ne savez même pas pourquoi.",
+   "gen": {},
+   "voix": "victor-fr",
+   "prises": [
+    {
+     "prise": 1,
+     "file": "fr-02-00-p1.wav",
+     "seconds": 4.32,
+     "compute": 34,
+     "heard": "Le prix part dans tous les sens, votre position avec, et vous ne savez même pas pourquoi.",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      4.22
+     ],
+     "rate": 21.1,
+     "mots": [
+      [
+       "Le",
+       0.0,
+       0.34,
+       0.74
+      ],
+      [
+       "prix",
+       0.34,
+       0.5,
+       0.99
+      ],
+      [
+       "part",
+       0.5,
+       0.68,
+       0.99
+      ],
+      [
+       "dans",
+       0.68,
+       0.86,
+       0.99
+      ],
+      [
+       "tous",
+       0.86,
+       0.96,
+       0.99
+      ],
+      [
+       "les",
+       0.96,
+       1.14,
+       1.0
+      ],
+      [
+       "sens,",
+       1.14,
+       1.46,
+       1.0
+      ],
+      [
+       "votre",
+       1.76,
+       1.88,
+       0.98
+      ],
+      [
+       "position",
+       1.88,
+       2.32,
+       1.0
+      ],
+      [
+       "avec,",
+       2.32,
+       2.62,
+       0.99
+      ],
+      [
+       "et",
+       3.06,
+       3.22,
+       0.98
+      ],
+      [
+       "vous",
+       3.22,
+       3.3,
+       1.0
+      ],
+      [
+       "ne",
+       3.3,
+       3.42,
+       1.0
+      ],
+      [
+       "savez",
+       3.42,
+       3.58,
+       1.0
+      ],
+      [
+       "même",
+       3.58,
+       3.82,
+       0.98
+      ],
+      [
+       "pas",
+       3.82,
+       3.98,
+       1.0
+      ],
+      [
+       "pourquoi.",
+       3.98,
+       4.22,
+       0.99
+      ]
+     ],
+     "clarte": 0.74,
+     "ok": true
+    },
+    {
+     "prise": 2,
+     "file": "fr-02-00-p2.wav",
+     "seconds": 5.2,
+     "compute": 39,
+     "heard": "Le prix part dans tous les sens. Votre position avec et vous ne savez même pas pourquoi.",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      5.1
+     ],
+     "rate": 17.5,
+     "mots": [
+      [
+       "Le",
+       0.0,
+       0.54,
+       0.61
+      ],
+      [
+       "prix",
+       0.54,
+       0.68,
+       1.0
+      ],
+      [
+       "part",
+       0.68,
+       0.9,
+       0.99
+      ],
+      [
+       "dans",
+       0.9,
+       1.06,
+       1.0
+      ],
+      [
+       "tous",
+       1.06,
+       1.2,
+       0.99
+      ],
+      [
+       "les",
+       1.2,
+       1.38,
+       1.0
+      ],
+      [
+       "sens.",
+       1.38,
+       1.72,
+       1.0
+      ],
+      [
+       "Votre",
+       2.48,
+       2.66,
+       1.0
+      ],
+      [
+       "position",
+       2.66,
+       3.1,
+       1.0
+      ],
+      [
+       "avec",
+       3.1,
+       3.46,
+       0.98
+      ],
+      [
+       "et",
+       3.46,
+       4.06,
+       0.27
+      ],
+      [
+       "vous",
+       4.06,
+       4.16,
+       0.99
+      ],
+      [
+       "ne",
+       4.16,
+       4.34,
+       1.0
+      ],
+      [
+       "savez",
+       4.34,
+       4.48,
+       1.0
+      ],
+      [
+       "même",
+       4.48,
+       4.68,
+       0.98
+      ],
+      [
+       "pas",
+       4.68,
+       4.84,
+       1.0
+      ],
+      [
+       "pourquoi.",
+       4.84,
+       5.1,
+       0.99
+      ]
+     ],
+     "clarte": 0.27,
+     "ok": true
+    }
+   ]
+  },
+  {
+   "id": "03-00",
+   "bloc": 3,
+   "ton": "posee",
+   "text": "Ça, c'est trader à l'aveugle. Et chaque jour, des milliers de traders le vivent.",
+   "tts": "Ça, c'est trader à l'aveugle. Et chaque jour, des milliers de traders le vivent.",
+   "gen": {},
+   "voix": "clara-fr",
+   "prises": [
+    {
+     "prise": 1,
+     "file": "fr-03-00-p1.wav",
+     "seconds": 4.08,
+     "compute": 32,
+     "heard": "Ça, c'est trader à l'aveugle. Et chaque jour, des milliers de traders le vivent.",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      4.06
+     ],
+     "rate": 19.7,
+     "mots": [
+      [
+       "Ça,",
+       0.0,
+       0.66,
+       0.79
+      ],
+      [
+       "c",
+       0.86,
+       0.88,
+       1.0
+      ],
+      [
+       "'est",
+       0.88,
+       1.04,
+       1.0
+      ],
+      [
+       "trader",
+       1.04,
+       1.2,
+       0.93
+      ],
+      [
+       "à",
+       1.2,
+       1.36,
+       1.0
+      ],
+      [
+       "l",
+       1.36,
+       1.46,
+       0.99
+      ],
+      [
+       "'aveugle.",
+       1.46,
+       1.88,
+       1.0
+      ],
+      [
+       "Et",
+       2.12,
+       2.22,
+       0.98
+      ],
+      [
+       "chaque",
+       2.22,
+       2.38,
+       0.98
+      ],
+      [
+       "jour,",
+       2.38,
+       2.66,
+       1.0
+      ],
+      [
+       "des",
+       2.82,
+       2.92,
+       1.0
+      ],
+      [
+       "milliers",
+       2.92,
+       3.22,
+       1.0
+      ],
+      [
+       "de",
+       3.22,
+       3.4,
+       1.0
+      ],
+      [
+       "traders",
+       3.4,
+       3.58,
+       0.94
+      ],
+      [
+       "le",
+       3.58,
+       3.82,
+       1.0
+      ],
+      [
+       "vivent.",
+       3.82,
+       4.06,
+       0.99
+      ]
+     ],
+     "clarte": 0.79,
+     "ok": true
+    },
+    {
+     "prise": 2,
+     "file": "fr-03-00-p2.wav",
+     "seconds": 4.24,
+     "compute": 35,
+     "heard": "Ça, c'est trader à l'aveugle. Et chaque jour, des milliers de traders le vivent.",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.36,
+      4.22
+     ],
+     "rate": 20.7,
+     "mots": [
+      [
+       "Ça,",
+       0.36,
+       0.68,
+       0.81
+      ],
+      [
+       "c",
+       0.92,
+       0.94,
+       1.0
+      ],
+      [
+       "'est",
+       0.94,
+       1.08,
+       1.0
+      ],
+      [
+       "trader",
+       1.08,
+       1.22,
+       0.93
+      ],
+      [
+       "à",
+       1.22,
+       1.38,
+       1.0
+      ],
+      [
+       "l",
+       1.38,
+       1.46,
+       1.0
+      ],
+      [
+       "'aveugle.",
+       1.46,
+       1.9,
+       1.0
+      ],
+      [
+       "Et",
+       2.14,
+       2.26,
+       0.97
+      ],
+      [
+       "chaque",
+       2.26,
+       2.4,
+       0.97
+      ],
+      [
+       "jour,",
+       2.4,
+       2.8,
+       1.0
+      ],
+      [
+       "des",
+       2.96,
+       3.1,
+       1.0
+      ],
+      [
+       "milliers",
+       3.1,
+       3.4,
+       1.0
+      ],
+      [
+       "de",
+       3.4,
+       3.6,
+       1.0
+      ],
+      [
+       "traders",
+       3.6,
+       3.76,
+       0.91
+      ],
+      [
+       "le",
+       3.76,
+       4.04,
+       1.0
+      ],
+      [
+       "vivent.",
+       4.04,
+       4.22,
+       0.99
+      ]
+     ],
+     "clarte": 0.81,
+     "ok": true
+    }
+   ]
+  },
+  {
+   "id": "04-00",
+   "bloc": 4,
+   "ton": "net",
+   "text": "Aujourd'hui, on vous présente le terminal construit pour que ça n'arrive plus.",
+   "tts": "Aujourd'hui, on vous présente le terminal construit pour que ça n'arrive plus.",
+   "gen": {},
+   "voix": "victor-fr",
+   "prises": [
+    {
+     "prise": 1,
+     "file": "fr-04-00-p1.wav",
+     "seconds": 3.52,
+     "compute": 28,
+     "heard": "Aujourd'hui, on vous présente le terminal construit pour que ça n'arrive plus.",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      3.42
+     ],
+     "rate": 22.8,
+     "mots": [
+      [
+       "Aujourd",
+       0.0,
+       0.36,
+       0.98
+      ],
+      [
+       "'hui,",
+       0.36,
+       0.66,
+       1.0
+      ],
+      [
+       "on",
+       0.76,
+       0.84,
+       1.0
+      ],
+      [
+       "vous",
+       0.84,
+       1.04,
+       1.0
+      ],
+      [
+       "présente",
+       1.04,
+       1.34,
+       1.0
+      ],
+      [
+       "le",
+       1.34,
+       1.62,
+       1.0
+      ],
+      [
+       "terminal",
+       1.62,
+       1.92,
+       0.98
+      ],
+      [
+       "construit",
+       1.92,
+       2.5,
+       0.93
+      ],
+      [
+       "pour",
+       2.5,
+       2.68,
+       0.95
+      ],
+      [
+       "que",
+       2.68,
+       2.82,
+       1.0
+      ],
+      [
+       "ça",
+       2.82,
+       2.92,
+       0.96
+      ],
+      [
+       "n",
+       2.92,
+       2.98,
+       1.0
+      ],
+      [
+       "'arrive",
+       2.98,
+       3.18,
+       1.0
+      ],
+      [
+       "plus.",
+       3.18,
+       3.42,
+       1.0
+      ]
+     ],
+     "clarte": 0.93,
+     "ok": true
+    },
+    {
+     "prise": 2,
+     "file": "fr-04-00-p2.wav",
+     "seconds": 3.76,
+     "compute": 30,
+     "heard": "Aujourd'hui, on vous présente le terminal construit pour que ça n'arrive plus.",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      3.66
+     ],
+     "rate": 21.3,
+     "mots": [
+      [
+       "Aujourd",
+       0.0,
+       0.5,
+       0.97
+      ],
+      [
+       "'hui,",
+       0.5,
+       0.84,
+       1.0
+      ],
+      [
+       "on",
+       1.14,
+       1.2,
+       1.0
+      ],
+      [
+       "vous",
+       1.2,
+       1.4,
+       1.0
+      ],
+      [
+       "présente",
+       1.4,
+       1.72,
+       1.0
+      ],
+      [
+       "le",
+       1.72,
+       1.96,
+       1.0
+      ],
+      [
+       "terminal",
+       1.96,
+       2.28,
+       0.98
+      ],
+      [
+       "construit",
+       2.28,
+       2.8,
+       0.97
+      ],
+      [
+       "pour",
+       2.8,
+       2.94,
+       0.96
+      ],
+      [
+       "que",
+       2.94,
+       3.08,
+       1.0
+      ],
+      [
+       "ça",
+       3.08,
+       3.18,
+       0.95
+      ],
+      [
+       "n",
+       3.18,
+       3.26,
+       1.0
+      ],
+      [
+       "'arrive",
+       3.26,
+       3.44,
+       1.0
+      ],
+      [
+       "plus.",
+       3.44,
+       3.66,
+       1.0
+      ]
+     ],
+     "clarte": 0.95,
+     "ok": true
+    }
+   ]
+  }
+ ]
+}

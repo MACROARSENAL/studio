@@ -1,0 +1,1423 @@
+{
+ "langue": "fr",
+ "part": 11,
+ "voix": "victor-fr",
+ "phrases": [
+  {
+   "id": "35-01",
+   "bloc": 35,
+   "ton": "net",
+   "text": "C'est vous qui décidez. Toujours.",
+   "tts": "C'est vous qui décidez. Toujours.",
+   "gen": {},
+   "voix": "victor-fr",
+   "prises": [
+    {
+     "prise": 1,
+     "file": "fr-35-01-p1.wav",
+     "seconds": 2.0,
+     "compute": 31,
+     "heard": "C'est vous qui décidez. Toujours.",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      1.98
+     ],
+     "rate": 16.7,
+     "mots": [
+      [
+       "C",
+       0.0,
+       0.24,
+       0.85
+      ],
+      [
+       "'est",
+       0.24,
+       0.46,
+       1.0
+      ],
+      [
+       "vous",
+       0.46,
+       0.6,
+       0.99
+      ],
+      [
+       "qui",
+       0.6,
+       0.82,
+       1.0
+      ],
+      [
+       "décidez.",
+       0.82,
+       1.3,
+       0.99
+      ],
+      [
+       "Toujours.",
+       1.54,
+       1.98,
+       0.99
+      ]
+     ],
+     "clarte": 0.85,
+     "ok": true
+    },
+    {
+     "prise": 2,
+     "file": "fr-35-01-p2.wav",
+     "seconds": 1.92,
+     "compute": 30,
+     "heard": "C'est vous qui décidez. Toujours.",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      1.8
+     ],
+     "rate": 18.3,
+     "mots": [
+      [
+       "C",
+       0.0,
+       0.18,
+       0.84
+      ],
+      [
+       "'est",
+       0.18,
+       0.3,
+       1.0
+      ],
+      [
+       "vous",
+       0.3,
+       0.42,
+       1.0
+      ],
+      [
+       "qui",
+       0.42,
+       0.64,
+       1.0
+      ],
+      [
+       "décidez.",
+       0.64,
+       1.16,
+       0.99
+      ],
+      [
+       "Toujours.",
+       1.44,
+       1.8,
+       0.99
+      ]
+     ],
+     "clarte": 0.84,
+     "ok": true
+    }
+   ]
+  },
+  {
+   "id": "36-00",
+   "bloc": 36,
+   "ton": "net",
+   "text": "Et quand un marché offre une vraie opportunité, on va plus loin : ce sont nos Convictions, avec le sens, l'entrée, le stop et les objectifs donnés à l'avance. Il peut y en avoir une, trois… ou aucune.",
+   "tts": "Et quand un marché offre une vraie opportunité, on va plus loin : ce sont nos Convictions, avec le sens, l'entrée, le stop et les objectifs donnés à l'avance. Il peut y en avoir une, trois… ou aucune.",
+   "gen": {},
+   "voix": "victor-fr",
+   "prises": [
+    {
+     "prise": 1,
+     "file": "fr-36-00-p1.wav",
+     "seconds": 12.48,
+     "compute": 145,
+     "heard": "Et quand un marché offre une vraie opportunité, on va plus loin, ce sont nos convictions, avec le sens, l'entrée, le stop et les objectifs donnés à l'avance. Il peut y en avoir une, trois ou aucune.",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      12.26
+     ],
+     "rate": 16.3,
+     "mots": [
+      [
+       "Et",
+       0.0,
+       0.2,
+       0.8
+      ],
+      [
+       "quand",
+       0.2,
+       0.44,
+       0.98
+      ],
+      [
+       "un",
+       0.44,
+       0.64,
+       1.0
+      ],
+      [
+       "marché",
+       0.64,
+       0.9,
+       1.0
+      ],
+      [
+       "offre",
+       0.9,
+       1.24,
+       1.0
+      ],
+      [
+       "une",
+       1.24,
+       1.48,
+       1.0
+      ],
+      [
+       "vraie",
+       1.48,
+       1.7,
+       0.99
+      ],
+      [
+       "opportunité,",
+       1.7,
+       2.44,
+       1.0
+      ],
+      [
+       "on",
+       2.7,
+       2.74,
+       0.98
+      ],
+      [
+       "va",
+       2.74,
+       2.86,
+       1.0
+      ],
+      [
+       "plus",
+       2.86,
+       3.1,
+       1.0
+      ],
+      [
+       "loin,",
+       3.1,
+       3.36,
+       1.0
+      ],
+      [
+       "ce",
+       3.86,
+       3.96,
+       0.99
+      ],
+      [
+       "sont",
+       3.96,
+       4.16,
+       1.0
+      ],
+      [
+       "nos",
+       4.16,
+       4.32,
+       1.0
+      ],
+      [
+       "convictions,",
+       4.32,
+       4.8,
+       0.99
+      ],
+      [
+       "avec",
+       5.12,
+       5.24,
+       1.0
+      ],
+      [
+       "le",
+       5.24,
+       5.48,
+       1.0
+      ],
+      [
+       "sens,",
+       5.48,
+       5.84,
+       1.0
+      ],
+      [
+       "l",
+       6.12,
+       6.32,
+       1.0
+      ],
+      [
+       "'entrée,",
+       6.32,
+       6.58,
+       1.0
+      ],
+      [
+       "le",
+       6.86,
+       7.04,
+       1.0
+      ],
+      [
+       "stop",
+       7.04,
+       7.28,
+       0.98
+      ],
+      [
+       "et",
+       7.28,
+       7.5,
+       0.86
+      ],
+      [
+       "les",
+       7.5,
+       7.72,
+       1.0
+      ],
+      [
+       "objectifs",
+       7.72,
+       8.16,
+       1.0
+      ],
+      [
+       "donnés",
+       8.16,
+       8.42,
+       0.98
+      ],
+      [
+       "à",
+       8.42,
+       8.56,
+       1.0
+      ],
+      [
+       "l",
+       8.56,
+       8.64,
+       1.0
+      ],
+      [
+       "'avance.",
+       8.64,
+       9.02,
+       1.0
+      ],
+      [
+       "Il",
+       9.6,
+       9.7,
+       0.98
+      ],
+      [
+       "peut",
+       9.7,
+       9.86,
+       1.0
+      ],
+      [
+       "y",
+       9.86,
+       9.9,
+       0.99
+      ],
+      [
+       "en",
+       9.9,
+       10.04,
+       0.99
+      ],
+      [
+       "avoir",
+       10.04,
+       10.24,
+       1.0
+      ],
+      [
+       "une,",
+       10.24,
+       10.74,
+       0.98
+      ],
+      [
+       "trois",
+       11.06,
+       11.42,
+       0.97
+      ],
+      [
+       "ou",
+       11.42,
+       11.98,
+       0.76
+      ],
+      [
+       "aucune.",
+       11.98,
+       12.26,
+       1.0
+      ]
+     ],
+     "clarte": 0.76,
+     "ok": true
+    },
+    {
+     "prise": 2,
+     "file": "fr-36-00-p2.wav",
+     "seconds": 11.28,
+     "compute": 130,
+     "heard": "Et quand un marché offre une vraie opportunité, on va plus loin. Ce sont nos convictions, avec le sens, l'entrée, le stop et les objectifs donnés à l'avance. Il peut y en avoir une, trois ou aucune.",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      11.16
+     ],
+     "rate": 17.9,
+     "mots": [
+      [
+       "Et",
+       0.0,
+       0.32,
+       0.83
+      ],
+      [
+       "quand",
+       0.32,
+       0.56,
+       0.98
+      ],
+      [
+       "un",
+       0.56,
+       0.74,
+       1.0
+      ],
+      [
+       "marché",
+       0.74,
+       0.96,
+       1.0
+      ],
+      [
+       "offre",
+       0.96,
+       1.2,
+       1.0
+      ],
+      [
+       "une",
+       1.2,
+       1.42,
+       1.0
+      ],
+      [
+       "vraie",
+       1.42,
+       1.64,
+       0.99
+      ],
+      [
+       "opportunité,",
+       1.64,
+       2.28,
+       1.0
+      ],
+      [
+       "on",
+       2.68,
+       2.7,
+       0.99
+      ],
+      [
+       "va",
+       2.7,
+       2.86,
+       0.99
+      ],
+      [
+       "plus",
+       2.86,
+       3.06,
+       1.0
+      ],
+      [
+       "loin.",
+       3.06,
+       3.36,
+       1.0
+      ],
+      [
+       "Ce",
+       3.76,
+       3.8,
+       0.99
+      ],
+      [
+       "sont",
+       3.8,
+       3.98,
+       1.0
+      ],
+      [
+       "nos",
+       3.98,
+       4.12,
+       1.0
+      ],
+      [
+       "convictions,",
+       4.12,
+       4.66,
+       0.98
+      ],
+      [
+       "avec",
+       5.02,
+       5.16,
+       1.0
+      ],
+      [
+       "le",
+       5.16,
+       5.4,
+       1.0
+      ],
+      [
+       "sens,",
+       5.4,
+       5.74,
+       1.0
+      ],
+      [
+       "l",
+       6.02,
+       6.26,
+       1.0
+      ],
+      [
+       "'entrée,",
+       6.26,
+       6.48,
+       1.0
+      ],
+      [
+       "le",
+       6.74,
+       6.92,
+       1.0
+      ],
+      [
+       "stop",
+       6.92,
+       7.14,
+       0.98
+      ],
+      [
+       "et",
+       7.14,
+       7.34,
+       0.91
+      ],
+      [
+       "les",
+       7.34,
+       7.58,
+       1.0
+      ],
+      [
+       "objectifs",
+       7.58,
+       7.98,
+       1.0
+      ],
+      [
+       "donnés",
+       7.98,
+       8.16,
+       0.99
+      ],
+      [
+       "à",
+       8.16,
+       8.28,
+       1.0
+      ],
+      [
+       "l",
+       8.28,
+       8.38,
+       1.0
+      ],
+      [
+       "'avance.",
+       8.38,
+       8.74,
+       1.0
+      ],
+      [
+       "Il",
+       9.16,
+       9.28,
+       0.98
+      ],
+      [
+       "peut",
+       9.28,
+       9.46,
+       0.99
+      ],
+      [
+       "y",
+       9.46,
+       9.5,
+       0.96
+      ],
+      [
+       "en",
+       9.5,
+       9.64,
+       0.98
+      ],
+      [
+       "avoir",
+       9.64,
+       9.84,
+       1.0
+      ],
+      [
+       "une,",
+       9.84,
+       10.1,
+       0.99
+      ],
+      [
+       "trois",
+       10.36,
+       10.5,
+       0.96
+      ],
+      [
+       "ou",
+       10.5,
+       10.84,
+       0.6
+      ],
+      [
+       "aucune.",
+       10.84,
+       11.16,
+       1.0
+      ]
+     ],
+     "clarte": 0.6,
+     "ok": true
+    }
+   ]
+  },
+  {
+   "id": "37-00",
+   "bloc": 37,
+   "ton": "curieuse",
+   "text": "Aucune ?",
+   "tts": "Aucune ?",
+   "gen": {},
+   "voix": "clara-fr",
+   "prises": [
+    {
+     "prise": 1,
+     "file": "fr-37-00-p1.wav",
+     "seconds": 0.56,
+     "compute": 14,
+     "heard": "Aucune ?",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      0.54
+     ],
+     "rate": 14.8,
+     "mots": [
+      [
+       "Aucune",
+       0.0,
+       0.46,
+       0.86
+      ],
+      [
+       "?",
+       0.46,
+       0.54,
+       0.45
+      ]
+     ],
+     "clarte": 0.45,
+     "ok": true
+    },
+    {
+     "prise": 2,
+     "file": "fr-37-00-p2.wav",
+     "seconds": 0.88,
+     "compute": 17,
+     "heard": "Aucune ?",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      0.86
+     ],
+     "rate": 9.3,
+     "mots": [
+      [
+       "Aucune",
+       0.0,
+       0.64,
+       0.83
+      ],
+      [
+       "?",
+       0.64,
+       0.86,
+       0.65
+      ]
+     ],
+     "clarte": 0.65,
+     "ok": true
+    }
+   ]
+  },
+  {
+   "id": "38-00",
+   "bloc": 38,
+   "ton": "pose",
+   "text": "Aucune. Chez nous, ne rien faire, c'est aussi une décision.",
+   "tts": "Aucune. Chez nous, ne rien faire, c'est aussi une décision.",
+   "gen": {},
+   "voix": "victor-fr",
+   "prises": [
+    {
+     "prise": 1,
+     "file": "fr-38-00-p1.wav",
+     "seconds": 3.12,
+     "compute": 41,
+     "heard": "Aucune. Chez nous, ne rien faire. C'est aussi une décision.",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.46,
+      3.1
+     ],
+     "rate": 22.3,
+     "mots": [
+      [
+       "Aucune.",
+       0.46,
+       0.84,
+       0.86
+      ],
+      [
+       "Chez",
+       1.06,
+       1.26,
+       0.98
+      ],
+      [
+       "nous,",
+       1.26,
+       1.4,
+       0.99
+      ],
+      [
+       "ne",
+       1.58,
+       1.62,
+       0.99
+      ],
+      [
+       "rien",
+       1.62,
+       1.84,
+       1.0
+      ],
+      [
+       "faire.",
+       1.84,
+       2.08,
+       1.0
+      ],
+      [
+       "C",
+       2.28,
+       2.36,
+       0.99
+      ],
+      [
+       "'est",
+       2.36,
+       2.46,
+       1.0
+      ],
+      [
+       "aussi",
+       2.46,
+       2.58,
+       1.0
+      ],
+      [
+       "une",
+       2.58,
+       2.72,
+       1.0
+      ],
+      [
+       "décision.",
+       2.72,
+       3.1,
+       1.0
+      ]
+     ],
+     "clarte": 0.86,
+     "ok": true
+    },
+    {
+     "prise": 2,
+     "file": "fr-38-00-p2.wav",
+     "seconds": 3.44,
+     "compute": 44,
+     "heard": "Aucune. Chez nous, ne rien faire, c'est aussi une décision.",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      3.42
+     ],
+     "rate": 17.3,
+     "mots": [
+      [
+       "Aucune.",
+       0.0,
+       0.7,
+       0.82
+      ],
+      [
+       "Chez",
+       1.08,
+       1.26,
+       0.99
+      ],
+      [
+       "nous,",
+       1.26,
+       1.42,
+       1.0
+      ],
+      [
+       "ne",
+       1.62,
+       1.66,
+       1.0
+      ],
+      [
+       "rien",
+       1.66,
+       1.88,
+       1.0
+      ],
+      [
+       "faire,",
+       1.88,
+       2.16,
+       1.0
+      ],
+      [
+       "c",
+       2.6,
+       2.62,
+       1.0
+      ],
+      [
+       "'est",
+       2.62,
+       2.76,
+       1.0
+      ],
+      [
+       "aussi",
+       2.76,
+       2.9,
+       1.0
+      ],
+      [
+       "une",
+       2.9,
+       3.04,
+       1.0
+      ],
+      [
+       "décision.",
+       3.04,
+       3.42,
+       1.0
+      ]
+     ],
+     "clarte": 0.82,
+     "ok": true
+    }
+   ]
+  },
+  {
+   "id": "39-00",
+   "bloc": 39,
+   "ton": "curieuse",
+   "text": "Et quand un chiffre important tombe ?",
+   "tts": "Et quand un chiffre important tombe ?",
+   "gen": {},
+   "voix": "clara-fr",
+   "prises": [
+    {
+     "prise": 1,
+     "file": "fr-39-00-p1.wav",
+     "seconds": 2.4,
+     "compute": 34,
+     "heard": "Et quand un chiffre important tombe...",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      2.38
+     ],
+     "rate": 15.5,
+     "mots": [
+      [
+       "Et",
+       0.0,
+       0.7,
+       0.76
+      ],
+      [
+       "quand",
+       0.7,
+       1.0,
+       0.98
+      ],
+      [
+       "un",
+       1.0,
+       1.18,
+       0.99
+      ],
+      [
+       "chiffre",
+       1.18,
+       1.5,
+       1.0
+      ],
+      [
+       "important",
+       1.5,
+       1.8,
+       0.99
+      ],
+      [
+       "tombe...",
+       1.8,
+       2.38,
+       0.77
+      ]
+     ],
+     "clarte": 0.76,
+     "ok": true
+    },
+    {
+     "prise": 2,
+     "file": "fr-39-00-p2.wav",
+     "seconds": 1.6,
+     "compute": 25,
+     "heard": "Et quand un chiffre important tombe ?",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      1.58
+     ],
+     "rate": 23.4,
+     "mots": [
+      [
+       "Et",
+       0.0,
+       0.26,
+       0.72
+      ],
+      [
+       "quand",
+       0.26,
+       0.44,
+       0.99
+      ],
+      [
+       "un",
+       0.44,
+       0.58,
+       1.0
+      ],
+      [
+       "chiffre",
+       0.58,
+       0.86,
+       1.0
+      ],
+      [
+       "important",
+       0.86,
+       1.16,
+       1.0
+      ],
+      [
+       "tombe",
+       1.16,
+       1.48,
+       1.0
+      ],
+      [
+       "?",
+       1.48,
+       1.58,
+       0.31
+      ]
+     ],
+     "clarte": 0.31,
+     "ok": true
+    }
+   ]
+  },
+  {
+   "id": "40-00",
+   "bloc": 40,
+   "ton": "net",
+   "text": "Le calendrier vous prévient, avec un compte à rebours. Et surtout, il se souvient : quand un chiffre tombe, vous savez déjà comment le marché a réagi, les fois d'avant.",
+   "tts": "Le calendrier vous prévient, avec un compte à rebours. Et surtout, il se souvient : quand un chiffre tombe, vous savez déjà comment le marché a réagi, les fois d'avant.",
+   "gen": {},
+   "voix": "victor-fr",
+   "prises": [
+    {
+     "prise": 1,
+     "file": "fr-40-00-p1.wav",
+     "seconds": 9.28,
+     "compute": 109,
+     "heard": "Le calendrier vous prévient avec un compte à rebours. Et surtout, il se souvient, quand un chiffre tombe, vous savez déjà comment le marché a réagi, les fois d'avant.",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      9.18
+     ],
+     "rate": 18.3,
+     "mots": [
+      [
+       "Le",
+       0.0,
+       0.3,
+       0.77
+      ],
+      [
+       "calendrier",
+       0.3,
+       0.78,
+       1.0
+      ],
+      [
+       "vous",
+       0.78,
+       1.02,
+       0.99
+      ],
+      [
+       "prévient",
+       1.02,
+       1.5,
+       0.96
+      ],
+      [
+       "avec",
+       1.5,
+       2.02,
+       0.9
+      ],
+      [
+       "un",
+       2.02,
+       2.24,
+       1.0
+      ],
+      [
+       "compte",
+       2.24,
+       2.42,
+       0.99
+      ],
+      [
+       "à",
+       2.42,
+       2.6,
+       1.0
+      ],
+      [
+       "rebours.",
+       2.6,
+       2.94,
+       0.98
+      ],
+      [
+       "Et",
+       3.48,
+       3.62,
+       0.97
+      ],
+      [
+       "surtout,",
+       3.62,
+       4.06,
+       0.98
+      ],
+      [
+       "il",
+       4.28,
+       4.32,
+       0.99
+      ],
+      [
+       "se",
+       4.32,
+       4.6,
+       1.0
+      ],
+      [
+       "souvient,",
+       4.6,
+       4.92,
+       1.0
+      ],
+      [
+       "quand",
+       5.42,
+       5.6,
+       0.98
+      ],
+      [
+       "un",
+       5.6,
+       5.84,
+       1.0
+      ],
+      [
+       "chiffre",
+       5.84,
+       6.18,
+       1.0
+      ],
+      [
+       "tombe,",
+       6.18,
+       6.5,
+       1.0
+      ],
+      [
+       "vous",
+       6.64,
+       6.7,
+       0.99
+      ],
+      [
+       "savez",
+       6.7,
+       6.94,
+       1.0
+      ],
+      [
+       "déjà",
+       6.94,
+       7.24,
+       0.99
+      ],
+      [
+       "comment",
+       7.24,
+       7.46,
+       1.0
+      ],
+      [
+       "le",
+       7.46,
+       7.68,
+       1.0
+      ],
+      [
+       "marché",
+       7.68,
+       7.9,
+       1.0
+      ],
+      [
+       "a",
+       7.9,
+       8.12,
+       0.97
+      ],
+      [
+       "réagi,",
+       8.12,
+       8.5,
+       0.99
+      ],
+      [
+       "les",
+       8.66,
+       8.8,
+       0.99
+      ],
+      [
+       "fois",
+       8.8,
+       8.88,
+       1.0
+      ],
+      [
+       "d",
+       8.88,
+       9.06,
+       0.99
+      ],
+      [
+       "'avant.",
+       9.06,
+       9.18,
+       1.0
+      ]
+     ],
+     "clarte": 0.77,
+     "ok": true
+    },
+    {
+     "prise": 2,
+     "file": "fr-40-00-p2.wav",
+     "seconds": 9.36,
+     "compute": 112,
+     "heard": "Le calendrier vous prévient avec un compte à rebours, et surtout, il se souvient, quand un chiffre tombe, vous savez déjà comment le marché a réagi les fois d'avant.",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      9.28
+     ],
+     "rate": 18.1,
+     "mots": [
+      [
+       "Le",
+       0.0,
+       0.26,
+       0.91
+      ],
+      [
+       "calendrier",
+       0.26,
+       0.74,
+       1.0
+      ],
+      [
+       "vous",
+       0.74,
+       0.96,
+       0.99
+      ],
+      [
+       "prévient",
+       0.96,
+       1.52,
+       0.98
+      ],
+      [
+       "avec",
+       1.52,
+       1.92,
+       0.63
+      ],
+      [
+       "un",
+       1.92,
+       2.16,
+       1.0
+      ],
+      [
+       "compte",
+       2.16,
+       2.34,
+       0.99
+      ],
+      [
+       "à",
+       2.34,
+       2.52,
+       1.0
+      ],
+      [
+       "rebours,",
+       2.52,
+       2.92,
+       0.98
+      ],
+      [
+       "et",
+       3.36,
+       3.52,
+       0.99
+      ],
+      [
+       "surtout,",
+       3.52,
+       3.84,
+       0.99
+      ],
+      [
+       "il",
+       3.98,
+       4.04,
+       0.98
+      ],
+      [
+       "se",
+       4.04,
+       4.36,
+       1.0
+      ],
+      [
+       "souvient,",
+       4.36,
+       4.66,
+       1.0
+      ],
+      [
+       "quand",
+       5.04,
+       5.22,
+       0.97
+      ],
+      [
+       "un",
+       5.22,
+       5.48,
+       1.0
+      ],
+      [
+       "chiffre",
+       5.48,
+       5.82,
+       1.0
+      ],
+      [
+       "tombe,",
+       5.82,
+       6.28,
+       1.0
+      ],
+      [
+       "vous",
+       6.48,
+       6.54,
+       0.99
+      ],
+      [
+       "savez",
+       6.54,
+       6.78,
+       1.0
+      ],
+      [
+       "déjà",
+       6.78,
+       7.1,
+       0.99
+      ],
+      [
+       "comment",
+       7.1,
+       7.34,
+       1.0
+      ],
+      [
+       "le",
+       7.34,
+       7.56,
+       1.0
+      ],
+      [
+       "marché",
+       7.56,
+       7.8,
+       1.0
+      ],
+      [
+       "a",
+       7.8,
+       8.04,
+       0.98
+      ],
+      [
+       "réagi",
+       8.04,
+       8.54,
+       0.99
+      ],
+      [
+       "les",
+       8.54,
+       8.88,
+       0.67
+      ],
+      [
+       "fois",
+       8.88,
+       8.98,
+       1.0
+      ],
+      [
+       "d",
+       8.98,
+       9.18,
+       1.0
+      ],
+      [
+       "'avant.",
+       9.18,
+       9.28,
+       1.0
+      ]
+     ],
+     "clarte": 0.63,
+     "ok": true
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,861 @@
+{
+ "langue": "fr",
+ "part": 7,
+ "voix": "victor-fr",
+ "phrases": [
+  {
+   "id": "21-01",
+   "bloc": 21,
+   "ton": "energique",
+   "text": "Un calendrier économique en direct.",
+   "tts": "Un calendrier économique en direct.",
+   "gen": {},
+   "voix": "victor-fr",
+   "prises": [
+    {
+     "prise": 1,
+     "file": "fr-21-01-p1.wav",
+     "seconds": 1.84,
+     "compute": 24,
+     "heard": "Un calendrier économique en direct.",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      1.72
+     ],
+     "rate": 20.3,
+     "mots": [
+      [
+       "Un",
+       0.0,
+       0.28,
+       0.63
+      ],
+      [
+       "calendrier",
+       0.28,
+       0.84,
+       1.0
+      ],
+      [
+       "économique",
+       0.84,
+       1.26,
+       1.0
+      ],
+      [
+       "en",
+       1.26,
+       1.56,
+       1.0
+      ],
+      [
+       "direct.",
+       1.56,
+       1.72,
+       1.0
+      ]
+     ],
+     "clarte": 0.63,
+     "ok": true
+    },
+    {
+     "prise": 2,
+     "file": "fr-21-01-p2.wav",
+     "seconds": 2.0,
+     "compute": 26,
+     "heard": "Un calendrier économique en direct.",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      1.86
+     ],
+     "rate": 18.8,
+     "mots": [
+      [
+       "Un",
+       0.0,
+       0.34,
+       0.58
+      ],
+      [
+       "calendrier",
+       0.34,
+       0.88,
+       1.0
+      ],
+      [
+       "économique",
+       0.88,
+       1.34,
+       0.99
+      ],
+      [
+       "en",
+       1.34,
+       1.66,
+       1.0
+      ],
+      [
+       "direct.",
+       1.66,
+       1.86,
+       0.99
+      ]
+     ],
+     "clarte": 0.58,
+     "ok": true
+    }
+   ]
+  },
+  {
+   "id": "22-00",
+   "bloc": 22,
+   "ton": "sceptique",
+   "text": "Pfff… Ça, c'est la base.",
+   "tts": "Pfff… Ça, c'est la base.",
+   "gen": {},
+   "voix": "clara-fr",
+   "prises": [
+    {
+     "prise": 1,
+     "file": "fr-22-00-p1.wav",
+     "seconds": 1.92,
+     "compute": 21,
+     "heard": "Ça c'est la base.",
+     "wer": 0.167,
+     "extra": 0,
+     "speech": [
+      0.98,
+      1.82
+     ],
+     "rate": 28.6,
+     "mots": [
+      [
+       "Ça",
+       0.98,
+       1.26,
+       0.52
+      ],
+      [
+       "c",
+       1.26,
+       1.42,
+       0.88
+      ],
+      [
+       "'est",
+       1.42,
+       1.5,
+       1.0
+      ],
+      [
+       "la",
+       1.5,
+       1.62,
+       1.0
+      ],
+      [
+       "base.",
+       1.62,
+       1.82,
+       1.0
+      ]
+     ],
+     "clarte": 0.52,
+     "ok": false
+    },
+    {
+     "prise": 2,
+     "file": "fr-22-00-p2.wav",
+     "seconds": 2.24,
+     "compute": 24,
+     "heard": "Ça, c'est la base.",
+     "wer": 0.167,
+     "extra": 0,
+     "speech": [
+      0.7,
+      2.04
+     ],
+     "rate": 17.9,
+     "mots": [
+      [
+       "Ça,",
+       0.7,
+       1.06,
+       0.56
+      ],
+      [
+       "c",
+       1.48,
+       1.54,
+       1.0
+      ],
+      [
+       "'est",
+       1.54,
+       1.66,
+       1.0
+      ],
+      [
+       "la",
+       1.66,
+       1.82,
+       1.0
+      ],
+      [
+       "base.",
+       1.82,
+       2.04,
+       1.0
+      ]
+     ],
+     "clarte": 0.56,
+     "ok": false
+    }
+   ]
+  },
+  {
+   "id": "23-00",
+   "bloc": 23,
+   "ton": "energique",
+   "text": "Attends ! Le Labo des edges : des centaines de recettes de trading testées sur vingt-cinq ans, frais compris. Une recette doit gagner avant deux mille dix-huit, puis sur des années qu'elle n'a jamais vues.",
+   "tts": "Attends ! Le Labo des èdjes : des centaines de recettes de trading testées sur vingt-cinq ans, frais compris. Une recette doit gagner avant deux mille dix-huit, puis sur des années qu'elle n'a jamais vues.",
+   "gen": {},
+   "voix": "victor-fr",
+   "prises": [
+    {
+     "prise": 1,
+     "file": "fr-23-00-p1.wav",
+     "seconds": 9.84,
+     "compute": 93,
+     "heard": "Attends ! Le Labo des edges, des centaines de recettes de trading testées sur 25 ans, frais compris. Une recette doit gagner avant 2018, puis sur des années qu'elle n'a jamais vues.",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      9.82
+     ],
+     "rate": 20.9,
+     "mots": [
+      [
+       "Attends",
+       0.0,
+       0.64,
+       0.78
+      ],
+      [
+       "!",
+       0.64,
+       0.88,
+       0.59
+      ],
+      [
+       "Le",
+       0.88,
+       1.04,
+       0.96
+      ],
+      [
+       "Labo",
+       1.04,
+       1.34,
+       0.63
+      ],
+      [
+       "des",
+       1.34,
+       1.5,
+       0.95
+      ],
+      [
+       "edges,",
+       1.5,
+       1.84,
+       0.02
+      ],
+      [
+       "des",
+       2.26,
+       2.4,
+       0.99
+      ],
+      [
+       "centaines",
+       2.4,
+       2.8,
+       1.0
+      ],
+      [
+       "de",
+       2.8,
+       3.02,
+       1.0
+      ],
+      [
+       "recettes",
+       3.02,
+       3.2,
+       0.99
+      ],
+      [
+       "de",
+       3.2,
+       3.38,
+       1.0
+      ],
+      [
+       "trading",
+       3.38,
+       3.64,
+       0.96
+      ],
+      [
+       "testées",
+       3.64,
+       4.04,
+       0.95
+      ],
+      [
+       "sur",
+       4.04,
+       4.22,
+       1.0
+      ],
+      [
+       "25",
+       4.22,
+       4.56,
+       0.97
+      ],
+      [
+       "ans,",
+       4.56,
+       4.92,
+       1.0
+      ],
+      [
+       "frais",
+       5.16,
+       5.28,
+       1.0
+      ],
+      [
+       "compris.",
+       5.28,
+       5.58,
+       0.99
+      ],
+      [
+       "Une",
+       5.96,
+       6.14,
+       0.99
+      ],
+      [
+       "recette",
+       6.14,
+       6.42,
+       1.0
+      ],
+      [
+       "doit",
+       6.42,
+       6.54,
+       1.0
+      ],
+      [
+       "gagner",
+       6.54,
+       6.9,
+       1.0
+      ],
+      [
+       "avant",
+       6.9,
+       7.22,
+       1.0
+      ],
+      [
+       "2018,",
+       7.22,
+       7.94,
+       1.0
+      ],
+      [
+       "puis",
+       8.3,
+       8.4,
+       1.0
+      ],
+      [
+       "sur",
+       8.4,
+       8.62,
+       1.0
+      ],
+      [
+       "des",
+       8.62,
+       8.82,
+       1.0
+      ],
+      [
+       "années",
+       8.82,
+       9.0,
+       1.0
+      ],
+      [
+       "qu",
+       9.0,
+       9.14,
+       0.99
+      ],
+      [
+       "'elle",
+       9.14,
+       9.22,
+       0.99
+      ],
+      [
+       "n",
+       9.22,
+       9.3,
+       1.0
+      ],
+      [
+       "'a",
+       9.3,
+       9.38,
+       1.0
+      ],
+      [
+       "jamais",
+       9.38,
+       9.6,
+       1.0
+      ],
+      [
+       "vues.",
+       9.6,
+       9.82,
+       0.82
+      ]
+     ],
+     "clarte": 0.02,
+     "ok": true
+    },
+    {
+     "prise": 2,
+     "file": "fr-23-00-p2.wav",
+     "seconds": 10.32,
+     "compute": 96,
+     "heard": "Attends, le Labo des edges, des centaines de recettes de trading testées sur 25 ans, frais compris. Une recette doit gagner avant 2018, puis sur des années qu'elle n'a jamais vues.",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      10.24
+     ],
+     "rate": 20.0,
+     "mots": [
+      [
+       "Attends,",
+       0.0,
+       0.66,
+       0.78
+      ],
+      [
+       "le",
+       0.96,
+       1.1,
+       0.98
+      ],
+      [
+       "Labo",
+       1.1,
+       1.44,
+       0.58
+      ],
+      [
+       "des",
+       1.44,
+       1.6,
+       0.96
+      ],
+      [
+       "edges,",
+       1.6,
+       1.98,
+       0.01
+      ],
+      [
+       "des",
+       2.42,
+       2.6,
+       0.98
+      ],
+      [
+       "centaines",
+       2.6,
+       3.0,
+       1.0
+      ],
+      [
+       "de",
+       3.0,
+       3.24,
+       1.0
+      ],
+      [
+       "recettes",
+       3.24,
+       3.46,
+       0.99
+      ],
+      [
+       "de",
+       3.46,
+       3.58,
+       1.0
+      ],
+      [
+       "trading",
+       3.58,
+       3.9,
+       0.96
+      ],
+      [
+       "testées",
+       3.9,
+       4.36,
+       0.93
+      ],
+      [
+       "sur",
+       4.36,
+       4.52,
+       1.0
+      ],
+      [
+       "25",
+       4.52,
+       4.86,
+       0.97
+      ],
+      [
+       "ans,",
+       4.86,
+       5.26,
+       1.0
+      ],
+      [
+       "frais",
+       5.42,
+       5.56,
+       0.99
+      ],
+      [
+       "compris.",
+       5.56,
+       5.88,
+       1.0
+      ],
+      [
+       "Une",
+       6.28,
+       6.44,
+       0.99
+      ],
+      [
+       "recette",
+       6.44,
+       6.72,
+       1.0
+      ],
+      [
+       "doit",
+       6.72,
+       6.84,
+       1.0
+      ],
+      [
+       "gagner",
+       6.84,
+       7.12,
+       1.0
+      ],
+      [
+       "avant",
+       7.12,
+       7.4,
+       1.0
+      ],
+      [
+       "2018,",
+       7.4,
+       8.2,
+       1.0
+      ],
+      [
+       "puis",
+       8.54,
+       8.64,
+       1.0
+      ],
+      [
+       "sur",
+       8.64,
+       8.86,
+       0.99
+      ],
+      [
+       "des",
+       8.86,
+       9.1,
+       1.0
+      ],
+      [
+       "années",
+       9.1,
+       9.28,
+       1.0
+      ],
+      [
+       "qu",
+       9.28,
+       9.4,
+       1.0
+      ],
+      [
+       "'elle",
+       9.4,
+       9.54,
+       0.98
+      ],
+      [
+       "n",
+       9.54,
+       9.6,
+       1.0
+      ],
+      [
+       "'a",
+       9.6,
+       9.72,
+       1.0
+      ],
+      [
+       "jamais",
+       9.72,
+       10.02,
+       1.0
+      ],
+      [
+       "vues.",
+       10.02,
+       10.24,
+       0.74
+      ]
+     ],
+     "clarte": 0.01,
+     "ok": true
+    }
+   ]
+  },
+  {
+   "id": "23-01",
+   "bloc": 23,
+   "ton": "energique",
+   "text": "Une poignée a tenu. Ce sont les seules qu'on vous propose.",
+   "tts": "Une poignée a tenu. Ce sont les seules qu'on vous propose.",
+   "gen": {},
+   "voix": "victor-fr",
+   "prises": [
+    {
+     "prise": 1,
+     "file": "fr-23-01-p1.wav",
+     "seconds": 3.84,
+     "compute": 40,
+     "heard": "Une poignée à tenue, ce sont les seuls qu'on vous propose.",
+     "wer": 0.167,
+     "extra": 2,
+     "speech": [
+      0.0,
+      3.64
+     ],
+     "rate": 15.9,
+     "mots": [
+      [
+       "Une",
+       0.0,
+       0.4,
+       0.84
+      ],
+      [
+       "poignée",
+       0.4,
+       0.88,
+       0.99
+      ],
+      [
+       "à",
+       0.88,
+       1.16,
+       0.86
+      ],
+      [
+       "tenue,",
+       1.16,
+       1.62,
+       0.79
+      ],
+      [
+       "ce",
+       2.1,
+       2.14,
+       0.99
+      ],
+      [
+       "sont",
+       2.14,
+       2.32,
+       1.0
+      ],
+      [
+       "les",
+       2.32,
+       2.6,
+       1.0
+      ],
+      [
+       "seuls",
+       2.6,
+       2.82,
+       0.86
+      ],
+      [
+       "qu",
+       2.82,
+       2.94,
+       0.99
+      ],
+      [
+       "'on",
+       2.94,
+       3.04,
+       1.0
+      ],
+      [
+       "vous",
+       3.04,
+       3.32,
+       1.0
+      ],
+      [
+       "propose.",
+       3.32,
+       3.64,
+       1.0
+      ]
+     ],
+     "clarte": 0.79,
+     "ok": false
+    },
+    {
+     "prise": 2,
+     "file": "fr-23-01-p2.wav",
+     "seconds": 3.2,
+     "compute": 35,
+     "heard": "Une poignée à tenue, ce sont les seuls qu'on vous propose.",
+     "wer": 0.167,
+     "extra": 2,
+     "speech": [
+      0.0,
+      3.08
+     ],
+     "rate": 18.8,
+     "mots": [
+      [
+       "Une",
+       0.0,
+       0.44,
+       0.86
+      ],
+      [
+       "poignée",
+       0.44,
+       0.8,
+       0.99
+      ],
+      [
+       "à",
+       0.8,
+       0.96,
+       0.97
+      ],
+      [
+       "tenue,",
+       0.96,
+       1.48,
+       0.81
+      ],
+      [
+       "ce",
+       1.82,
+       1.84,
+       0.99
+      ],
+      [
+       "sont",
+       1.84,
+       2.02,
+       1.0
+      ],
+      [
+       "les",
+       2.02,
+       2.24,
+       1.0
+      ],
+      [
+       "seuls",
+       2.24,
+       2.38,
+       0.9
+      ],
+      [
+       "qu",
+       2.38,
+       2.48,
+       0.98
+      ],
+      [
+       "'on",
+       2.48,
+       2.58,
+       1.0
+      ],
+      [
+       "vous",
+       2.58,
+       2.78,
+       1.0
+      ],
+      [
+       "propose.",
+       2.78,
+       3.08,
+       1.0
+      ]
+     ],
+     "clarte": 0.81,
+     "ok": false
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,807 @@
+{
+ "langue": "fr",
+ "part": 13,
+ "voix": "victor-fr",
+ "phrases": [
+  {
+   "id": "44-01",
+   "bloc": 44,
+   "ton": "net",
+   "text": "ou rouge. Mais la décision reste la vôtre.",
+   "tts": "ou rouge. Mais la décision reste la vôtre.",
+   "gen": {},
+   "voix": "victor-fr",
+   "prises": [
+    {
+     "prise": 1,
+     "file": "fr-44-01-p1.wav",
+     "seconds": 2.8,
+     "compute": 29,
+     "heard": "Ou rouge, mais la décision reste la vôtre.",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      2.7
+     ],
+     "rate": 15.6,
+     "mots": [
+      [
+       "Ou",
+       0.0,
+       0.44,
+       0.09
+      ],
+      [
+       "rouge,",
+       0.44,
+       0.84,
+       0.77
+      ],
+      [
+       "mais",
+       1.32,
+       1.42,
+       0.99
+      ],
+      [
+       "la",
+       1.42,
+       1.64,
+       1.0
+      ],
+      [
+       "décision",
+       1.64,
+       2.04,
+       1.0
+      ],
+      [
+       "reste",
+       2.04,
+       2.36,
+       1.0
+      ],
+      [
+       "la",
+       2.36,
+       2.52,
+       0.98
+      ],
+      [
+       "vôtre.",
+       2.52,
+       2.7,
+       0.97
+      ]
+     ],
+     "clarte": 0.09,
+     "ok": true
+    },
+    {
+     "prise": 2,
+     "file": "fr-44-01-p2.wav",
+     "seconds": 2.72,
+     "compute": 29,
+     "heard": "Ou rouge, mais la décision reste la vôtre.",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      2.6
+     ],
+     "rate": 16.2,
+     "mots": [
+      [
+       "Ou",
+       0.0,
+       0.34,
+       0.02
+      ],
+      [
+       "rouge,",
+       0.34,
+       0.66,
+       0.83
+      ],
+      [
+       "mais",
+       1.28,
+       1.44,
+       0.97
+      ],
+      [
+       "la",
+       1.44,
+       1.6,
+       1.0
+      ],
+      [
+       "décision",
+       1.6,
+       1.94,
+       1.0
+      ],
+      [
+       "reste",
+       1.94,
+       2.22,
+       0.99
+      ],
+      [
+       "la",
+       2.22,
+       2.38,
+       0.99
+      ],
+      [
+       "vôtre.",
+       2.38,
+       2.6,
+       0.97
+      ]
+     ],
+     "clarte": 0.02,
+     "ok": true
+    }
+   ]
+  },
+  {
+   "id": "45-00",
+   "bloc": 45,
+   "ton": "posee",
+   "text": "Tu insistes beaucoup sur ce moment-là. C'est ça, ton « presque jamais » ?",
+   "tts": "Tu insistes beaucoup sur ce moment-là. C'est ça, ton « presque jamais » ?",
+   "gen": {},
+   "voix": "clara-fr",
+   "prises": [
+    {
+     "prise": 1,
+     "file": "fr-45-00-p1.wav",
+     "seconds": 3.84,
+     "compute": 39,
+     "heard": "Tu insistes beaucoup sur ce moment-là. C'est ça ton presque jamais ?",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      3.78
+     ],
+     "rate": 19.3,
+     "mots": [
+      [
+       "Tu",
+       0.0,
+       0.5,
+       0.87
+      ],
+      [
+       "insistes",
+       0.5,
+       0.88,
+       0.78
+      ],
+      [
+       "beaucoup",
+       0.88,
+       1.16,
+       1.0
+      ],
+      [
+       "sur",
+       1.16,
+       1.38,
+       0.99
+      ],
+      [
+       "ce",
+       1.38,
+       1.48,
+       1.0
+      ],
+      [
+       "moment",
+       1.48,
+       1.7,
+       1.0
+      ],
+      [
+       "-là.",
+       1.7,
+       2.08,
+       0.85
+      ],
+      [
+       "C",
+       2.4,
+       2.48,
+       0.98
+      ],
+      [
+       "'est",
+       2.48,
+       2.6,
+       1.0
+      ],
+      [
+       "ça",
+       2.6,
+       2.7,
+       0.98
+      ],
+      [
+       "ton",
+       2.7,
+       2.9,
+       0.89
+      ],
+      [
+       "presque",
+       2.9,
+       3.34,
+       0.39
+      ],
+      [
+       "jamais",
+       3.34,
+       3.56,
+       0.91
+      ],
+      [
+       "?",
+       3.56,
+       3.78,
+       0.71
+      ]
+     ],
+     "clarte": 0.39,
+     "ok": true
+    },
+    {
+     "prise": 2,
+     "file": "fr-45-00-p2.wav",
+     "seconds": 3.68,
+     "compute": 36,
+     "heard": "Tu insistes beaucoup sur ce moment-là, c'est ça, ton presque jamais ?",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      3.66
+     ],
+     "rate": 19.9,
+     "mots": [
+      [
+       "Tu",
+       0.0,
+       0.2,
+       0.82
+      ],
+      [
+       "insistes",
+       0.2,
+       0.56,
+       0.88
+      ],
+      [
+       "beaucoup",
+       0.56,
+       0.8,
+       1.0
+      ],
+      [
+       "sur",
+       0.8,
+       1.0,
+       0.99
+      ],
+      [
+       "ce",
+       1.0,
+       1.1,
+       0.99
+      ],
+      [
+       "moment",
+       1.1,
+       1.32,
+       1.0
+      ],
+      [
+       "-là,",
+       1.32,
+       1.66,
+       0.88
+      ],
+      [
+       "c",
+       2.02,
+       2.08,
+       0.97
+      ],
+      [
+       "'est",
+       2.08,
+       2.26,
+       1.0
+      ],
+      [
+       "ça,",
+       2.26,
+       2.54,
+       0.98
+      ],
+      [
+       "ton",
+       2.68,
+       2.88,
+       1.0
+      ],
+      [
+       "presque",
+       2.88,
+       3.36,
+       0.44
+      ],
+      [
+       "jamais",
+       3.36,
+       3.6,
+       0.93
+      ],
+      [
+       "?",
+       3.6,
+       3.66,
+       0.65
+      ]
+     ],
+     "clarte": 0.44,
+     "ok": true
+    }
+   ]
+  },
+  {
+   "id": "46-00",
+   "bloc": 46,
+   "ton": "pose",
+   "text": "C'est ça. Quinze janvier deux mille quinze. La Banque nationale suisse abandonne son cours plancher.",
+   "tts": "C'est ça. Quinze janvier deux mille quinze. La Banque nationale suisse abandonne son cours plancher.",
+   "gen": {},
+   "voix": "victor-fr",
+   "prises": [
+    {
+     "prise": 1,
+     "file": "fr-46-00-p1.wav",
+     "seconds": 5.04,
+     "compute": 46,
+     "heard": "C'est ça. 15 janvier 2015, la Banque nationale suisse abandonne son cours plancher.",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      4.96
+     ],
+     "rate": 20.2,
+     "mots": [
+      [
+       "C",
+       0.0,
+       0.14,
+       0.78
+      ],
+      [
+       "'est",
+       0.14,
+       0.34,
+       1.0
+      ],
+      [
+       "ça.",
+       0.34,
+       0.9,
+       0.99
+      ],
+      [
+       "15",
+       1.08,
+       1.26,
+       0.97
+      ],
+      [
+       "janvier",
+       1.26,
+       1.62,
+       0.99
+      ],
+      [
+       "2015,",
+       1.62,
+       2.22,
+       0.99
+      ],
+      [
+       "la",
+       2.82,
+       2.92,
+       0.95
+      ],
+      [
+       "Banque",
+       2.92,
+       3.2,
+       0.94
+      ],
+      [
+       "nationale",
+       3.2,
+       3.56,
+       0.91
+      ],
+      [
+       "suisse",
+       3.56,
+       3.96,
+       0.84
+      ],
+      [
+       "abandonne",
+       3.96,
+       4.34,
+       0.95
+      ],
+      [
+       "son",
+       4.34,
+       4.5,
+       1.0
+      ],
+      [
+       "cours",
+       4.5,
+       4.66,
+       0.75
+      ],
+      [
+       "plancher.",
+       4.66,
+       4.96,
+       0.94
+      ]
+     ],
+     "clarte": 0.75,
+     "ok": true
+    },
+    {
+     "prise": 2,
+     "file": "fr-46-00-p2.wav",
+     "seconds": 5.52,
+     "compute": 49,
+     "heard": "C'est ça, 15 janvier 2015, la Banque nationale suisse abandonne son cours plancher.",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      5.5
+     ],
+     "rate": 18.2,
+     "mots": [
+      [
+       "C",
+       0.0,
+       0.32,
+       0.85
+      ],
+      [
+       "'est",
+       0.32,
+       0.52,
+       1.0
+      ],
+      [
+       "ça,",
+       0.52,
+       0.9,
+       0.99
+      ],
+      [
+       "15",
+       1.2,
+       1.32,
+       0.99
+      ],
+      [
+       "janvier",
+       1.32,
+       1.7,
+       0.99
+      ],
+      [
+       "2015,",
+       1.7,
+       2.34,
+       0.99
+      ],
+      [
+       "la",
+       3.18,
+       3.24,
+       0.92
+      ],
+      [
+       "Banque",
+       3.24,
+       3.58,
+       0.93
+      ],
+      [
+       "nationale",
+       3.58,
+       3.9,
+       0.84
+      ],
+      [
+       "suisse",
+       3.9,
+       4.38,
+       0.81
+      ],
+      [
+       "abandonne",
+       4.38,
+       4.8,
+       0.94
+      ],
+      [
+       "son",
+       4.8,
+       4.98,
+       1.0
+      ],
+      [
+       "cours",
+       4.98,
+       5.16,
+       0.72
+      ],
+      [
+       "plancher.",
+       5.16,
+       5.5,
+       0.9
+      ]
+     ],
+     "clarte": 0.72,
+     "ok": true
+    }
+   ]
+  },
+  {
+   "id": "46-01",
+   "bloc": 46,
+   "ton": "pose",
+   "text": "En quelques minutes, le franc bondit de près de trente pour cent face à l'euro.",
+   "tts": "En quelques minutes, le franc bondit de près de trente pour cent face à l'euro.",
+   "gen": {},
+   "voix": "victor-fr",
+   "prises": [
+    {
+     "prise": 1,
+     "file": "fr-46-01-p1.wav",
+     "seconds": 3.44,
+     "compute": 32,
+     "heard": "En quelques minutes, le franc bondit de près de 30% face à l'euro.",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      3.42
+     ],
+     "rate": 23.1,
+     "mots": [
+      [
+       "En",
+       0.0,
+       0.46,
+       0.93
+      ],
+      [
+       "quelques",
+       0.46,
+       0.7,
+       1.0
+      ],
+      [
+       "minutes,",
+       0.7,
+       1.04,
+       0.99
+      ],
+      [
+       "le",
+       1.36,
+       1.48,
+       1.0
+      ],
+      [
+       "franc",
+       1.48,
+       1.6,
+       0.99
+      ],
+      [
+       "bondit",
+       1.6,
+       1.96,
+       0.98
+      ],
+      [
+       "de",
+       1.96,
+       2.12,
+       0.99
+      ],
+      [
+       "près",
+       2.12,
+       2.22,
+       0.99
+      ],
+      [
+       "de",
+       2.22,
+       2.46,
+       0.99
+      ],
+      [
+       "30",
+       2.46,
+       2.6,
+       0.99
+      ],
+      [
+       "%",
+       2.6,
+       2.94,
+       0.67
+      ],
+      [
+       "face",
+       2.94,
+       3.16,
+       0.94
+      ],
+      [
+       "à",
+       3.16,
+       3.26,
+       1.0
+      ],
+      [
+       "l",
+       3.26,
+       3.28,
+       1.0
+      ],
+      [
+       "'euro.",
+       3.28,
+       3.42,
+       0.94
+      ]
+     ],
+     "clarte": 0.67,
+     "ok": true
+    },
+    {
+     "prise": 2,
+     "file": "fr-46-01-p2.wav",
+     "seconds": 3.76,
+     "compute": 35,
+     "heard": "En quelques minutes, le franc bondit de près de 30% face à l'euro.",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      3.66
+     ],
+     "rate": 21.6,
+     "mots": [
+      [
+       "En",
+       0.0,
+       0.48,
+       0.94
+      ],
+      [
+       "quelques",
+       0.48,
+       0.7,
+       1.0
+      ],
+      [
+       "minutes,",
+       0.7,
+       1.02,
+       0.99
+      ],
+      [
+       "le",
+       1.4,
+       1.54,
+       1.0
+      ],
+      [
+       "franc",
+       1.54,
+       1.68,
+       0.99
+      ],
+      [
+       "bondit",
+       1.68,
+       2.08,
+       0.98
+      ],
+      [
+       "de",
+       2.08,
+       2.26,
+       1.0
+      ],
+      [
+       "près",
+       2.26,
+       2.34,
+       0.99
+      ],
+      [
+       "de",
+       2.34,
+       2.62,
+       0.99
+      ],
+      [
+       "30",
+       2.62,
+       2.8,
+       0.98
+      ],
+      [
+       "%",
+       2.8,
+       3.18,
+       0.59
+      ],
+      [
+       "face",
+       3.18,
+       3.4,
+       1.0
+      ],
+      [
+       "à",
+       3.4,
+       3.5,
+       0.99
+      ],
+      [
+       "l",
+       3.5,
+       3.54,
+       1.0
+      ],
+      [
+       "'euro.",
+       3.54,
+       3.66,
+       0.95
+      ]
+     ],
+     "clarte": 0.59,
+     "ok": true
+    }
+   ]
+  }
+ ]
+}

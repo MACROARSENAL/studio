@@ -1,0 +1,1177 @@
+{
+ "langue": "fr",
+ "part": 15,
+ "voix": "victor-fr",
+ "phrases": [
+  {
+   "id": "53-00",
+   "bloc": 53,
+   "ton": "net",
+   "text": "On se trompera. Forcément. Personne n'a raison à chaque fois.",
+   "tts": "On se trompera. Forcément. Personne n'a raison à chaque fois.",
+   "gen": {},
+   "voix": "victor-fr",
+   "prises": [
+    {
+     "prise": 1,
+     "file": "fr-53-00-p1.wav",
+     "seconds": 3.12,
+     "compute": 28,
+     "heard": "On se trompera, forcément. Personne n'a raison à chaque fois.",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      3.04
+     ],
+     "rate": 20.1,
+     "mots": [
+      [
+       "On",
+       0.0,
+       0.16,
+       0.43
+      ],
+      [
+       "se",
+       0.16,
+       0.4,
+       1.0
+      ],
+      [
+       "trompera,",
+       0.4,
+       0.94,
+       0.99
+      ],
+      [
+       "forcément.",
+       1.12,
+       1.44,
+       0.96
+      ],
+      [
+       "Personne",
+       2.08,
+       2.26,
+       0.99
+      ],
+      [
+       "n",
+       2.26,
+       2.3,
+       1.0
+      ],
+      [
+       "'a",
+       2.3,
+       2.42,
+       1.0
+      ],
+      [
+       "raison",
+       2.42,
+       2.62,
+       1.0
+      ],
+      [
+       "à",
+       2.62,
+       2.8,
+       0.87
+      ],
+      [
+       "chaque",
+       2.8,
+       2.94,
+       1.0
+      ],
+      [
+       "fois.",
+       2.94,
+       3.04,
+       1.0
+      ]
+     ],
+     "clarte": 0.43,
+     "ok": true
+    },
+    {
+     "prise": 2,
+     "file": "fr-53-00-p2.wav",
+     "seconds": 3.44,
+     "compute": 31,
+     "heard": "On se trompera. Forcément. Personne n'a raison à chaque fois.",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      3.36
+     ],
+     "rate": 18.2,
+     "mots": [
+      [
+       "On",
+       0.0,
+       0.16,
+       0.13
+      ],
+      [
+       "se",
+       0.16,
+       0.38,
+       0.99
+      ],
+      [
+       "trompera.",
+       0.38,
+       0.94,
+       0.99
+      ],
+      [
+       "Forcément.",
+       1.26,
+       1.64,
+       0.96
+      ],
+      [
+       "Personne",
+       2.2,
+       2.46,
+       0.98
+      ],
+      [
+       "n",
+       2.46,
+       2.52,
+       1.0
+      ],
+      [
+       "'a",
+       2.52,
+       2.66,
+       1.0
+      ],
+      [
+       "raison",
+       2.66,
+       2.86,
+       1.0
+      ],
+      [
+       "à",
+       2.86,
+       3.06,
+       0.94
+      ],
+      [
+       "chaque",
+       3.06,
+       3.24,
+       1.0
+      ],
+      [
+       "fois.",
+       3.24,
+       3.36,
+       1.0
+      ]
+     ],
+     "clarte": 0.13,
+     "ok": true
+    }
+   ]
+  },
+  {
+   "id": "54-00",
+   "bloc": 54,
+   "ton": "complice",
+   "text": "Ha ! Ça a le mérite d'être clair.",
+   "tts": "Ha ! Ça a le mérite d'être clair.",
+   "gen": {},
+   "voix": "clara-fr",
+   "prises": [
+    {
+     "prise": 1,
+     "file": "fr-54-00-p1.wav",
+     "seconds": 1.92,
+     "compute": 17,
+     "heard": "Ha ! Ça a le mérite d'être clair !",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      1.9
+     ],
+     "rate": 17.4,
+     "mots": [
+      [
+       "Ha",
+       0.0,
+       0.28,
+       0.45
+      ],
+      [
+       "!",
+       0.28,
+       0.54,
+       0.51
+      ],
+      [
+       "Ça",
+       0.54,
+       0.72,
+       0.76
+      ],
+      [
+       "a",
+       0.72,
+       0.8,
+       0.98
+      ],
+      [
+       "le",
+       0.8,
+       0.94,
+       1.0
+      ],
+      [
+       "mérite",
+       0.94,
+       1.14,
+       1.0
+      ],
+      [
+       "d",
+       1.14,
+       1.26,
+       1.0
+      ],
+      [
+       "'être",
+       1.26,
+       1.44,
+       1.0
+      ],
+      [
+       "clair",
+       1.44,
+       1.74,
+       0.99
+      ],
+      [
+       "!",
+       1.74,
+       1.9,
+       0.58
+      ]
+     ],
+     "clarte": 0.45,
+     "ok": true
+    },
+    {
+     "prise": 2,
+     "file": "fr-54-00-p2.wav",
+     "seconds": 2.0,
+     "compute": 18,
+     "heard": "Ha ! Ça a le mérite d'être clair !",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      1.96
+     ],
+     "rate": 16.8,
+     "mots": [
+      [
+       "Ha",
+       0.0,
+       0.36,
+       0.59
+      ],
+      [
+       "!",
+       0.36,
+       0.7,
+       0.58
+      ],
+      [
+       "Ça",
+       0.7,
+       0.88,
+       0.77
+      ],
+      [
+       "a",
+       0.88,
+       0.96,
+       0.97
+      ],
+      [
+       "le",
+       0.96,
+       1.1,
+       1.0
+      ],
+      [
+       "mérite",
+       1.1,
+       1.28,
+       1.0
+      ],
+      [
+       "d",
+       1.28,
+       1.36,
+       1.0
+      ],
+      [
+       "'être",
+       1.36,
+       1.54,
+       1.0
+      ],
+      [
+       "clair",
+       1.54,
+       1.78,
+       0.99
+      ],
+      [
+       "!",
+       1.78,
+       1.96,
+       0.53
+      ]
+     ],
+     "clarte": 0.53,
+     "ok": true
+    }
+   ]
+  },
+  {
+   "id": "55-00",
+   "bloc": 55,
+   "ton": "pose",
+   "text": "Alors notre règle tient en trois phrases. On publie avant. On compte tout.",
+   "tts": "Alors notre règle tient en trois phrases. On publie avant. On compte tout.",
+   "gen": {},
+   "voix": "victor-fr",
+   "prises": [
+    {
+     "prise": 1,
+     "file": "fr-55-00-p1.wav",
+     "seconds": 4.08,
+     "compute": 34,
+     "heard": "Alors notre règle tient en trois phrases. On publie avant, on compte tout.",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      4.0
+     ],
+     "rate": 18.5,
+     "mots": [
+      [
+       "Alors",
+       0.0,
+       0.48,
+       0.88
+      ],
+      [
+       "notre",
+       0.48,
+       0.76,
+       0.83
+      ],
+      [
+       "règle",
+       0.76,
+       1.16,
+       1.0
+      ],
+      [
+       "tient",
+       1.16,
+       1.32,
+       1.0
+      ],
+      [
+       "en",
+       1.32,
+       1.52,
+       1.0
+      ],
+      [
+       "trois",
+       1.52,
+       1.68,
+       0.84
+      ],
+      [
+       "phrases.",
+       1.68,
+       2.04,
+       0.99
+      ],
+      [
+       "On",
+       2.48,
+       2.6,
+       0.89
+      ],
+      [
+       "publie",
+       2.6,
+       2.92,
+       1.0
+      ],
+      [
+       "avant,",
+       2.92,
+       3.18,
+       0.99
+      ],
+      [
+       "on",
+       3.5,
+       3.6,
+       0.99
+      ],
+      [
+       "compte",
+       3.6,
+       3.8,
+       0.99
+      ],
+      [
+       "tout.",
+       3.8,
+       4.0,
+       0.95
+      ]
+     ],
+     "clarte": 0.83,
+     "ok": true
+    },
+    {
+     "prise": 2,
+     "file": "fr-55-00-p2.wav",
+     "seconds": 3.84,
+     "compute": 35,
+     "heard": "Alors notre règle tient en trois phrases, on publie avant, on compte tout.",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      3.76
+     ],
+     "rate": 19.7,
+     "mots": [
+      [
+       "Alors",
+       0.0,
+       0.48,
+       0.92
+      ],
+      [
+       "notre",
+       0.48,
+       0.76,
+       0.83
+      ],
+      [
+       "règle",
+       0.76,
+       1.12,
+       1.0
+      ],
+      [
+       "tient",
+       1.12,
+       1.32,
+       1.0
+      ],
+      [
+       "en",
+       1.32,
+       1.44,
+       1.0
+      ],
+      [
+       "trois",
+       1.44,
+       1.6,
+       0.79
+      ],
+      [
+       "phrases,",
+       1.6,
+       1.84,
+       0.99
+      ],
+      [
+       "on",
+       2.1,
+       2.24,
+       0.94
+      ],
+      [
+       "publie",
+       2.24,
+       2.54,
+       0.99
+      ],
+      [
+       "avant,",
+       2.54,
+       2.78,
+       0.99
+      ],
+      [
+       "on",
+       3.26,
+       3.38,
+       0.99
+      ],
+      [
+       "compte",
+       3.38,
+       3.6,
+       0.99
+      ],
+      [
+       "tout.",
+       3.6,
+       3.76,
+       0.97
+      ]
+     ],
+     "clarte": 0.79,
+     "ok": true
+    }
+   ]
+  },
+  {
+   "id": "55-01",
+   "bloc": 55,
+   "ton": "pose",
+   "text": "Même les pertes. Tout est dans Nos résultats, ouvert à tous. Rien n'est trié.",
+   "tts": "Même les pertes. Tout est dans Nos résultats, ouvert à tous. Rien n'est trié.",
+   "gen": {},
+   "voix": "victor-fr",
+   "prises": [
+    {
+     "prise": 1,
+     "file": "fr-55-01-p1.wav",
+     "seconds": 4.32,
+     "compute": 37,
+     "heard": "Même les pertes, tout est dans nos résultats, ouvert à tous. Rien n'est trié.",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      4.3
+     ],
+     "rate": 17.9,
+     "mots": [
+      [
+       "Même",
+       0.0,
+       0.46,
+       0.86
+      ],
+      [
+       "les",
+       0.46,
+       0.66,
+       1.0
+      ],
+      [
+       "pertes,",
+       0.66,
+       1.14,
+       0.99
+      ],
+      [
+       "tout",
+       1.4,
+       1.48,
+       0.97
+      ],
+      [
+       "est",
+       1.48,
+       1.66,
+       1.0
+      ],
+      [
+       "dans",
+       1.66,
+       1.74,
+       0.99
+      ],
+      [
+       "nos",
+       1.74,
+       1.88,
+       1.0
+      ],
+      [
+       "résultats,",
+       1.88,
+       2.64,
+       1.0
+      ],
+      [
+       "ouvert",
+       2.76,
+       2.88,
+       0.89
+      ],
+      [
+       "à",
+       2.88,
+       3.08,
+       1.0
+      ],
+      [
+       "tous.",
+       3.08,
+       3.3,
+       1.0
+      ],
+      [
+       "Rien",
+       3.72,
+       3.86,
+       0.98
+      ],
+      [
+       "n",
+       3.86,
+       3.9,
+       0.93
+      ],
+      [
+       "'est",
+       3.9,
+       4.1,
+       0.92
+      ],
+      [
+       "trié.",
+       4.1,
+       4.3,
+       0.98
+      ]
+     ],
+     "clarte": 0.86,
+     "ok": true
+    },
+    {
+     "prise": 2,
+     "file": "fr-55-01-p2.wav",
+     "seconds": 4.08,
+     "compute": 35,
+     "heard": "Même les pertes. Tout est dans nos résultats, ouvert à tous. Rien n'est trié.",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      4.06
+     ],
+     "rate": 19.0,
+     "mots": [
+      [
+       "Même",
+       0.0,
+       0.48,
+       0.77
+      ],
+      [
+       "les",
+       0.48,
+       0.7,
+       1.0
+      ],
+      [
+       "pertes.",
+       0.7,
+       1.24,
+       0.99
+      ],
+      [
+       "Tout",
+       1.42,
+       1.54,
+       0.99
+      ],
+      [
+       "est",
+       1.54,
+       1.7,
+       1.0
+      ],
+      [
+       "dans",
+       1.7,
+       1.78,
+       0.96
+      ],
+      [
+       "nos",
+       1.78,
+       1.92,
+       1.0
+      ],
+      [
+       "résultats,",
+       1.92,
+       2.52,
+       1.0
+      ],
+      [
+       "ouvert",
+       2.62,
+       2.76,
+       0.94
+      ],
+      [
+       "à",
+       2.76,
+       2.98,
+       1.0
+      ],
+      [
+       "tous.",
+       2.98,
+       3.18,
+       1.0
+      ],
+      [
+       "Rien",
+       3.48,
+       3.64,
+       0.99
+      ],
+      [
+       "n",
+       3.64,
+       3.72,
+       0.8
+      ],
+      [
+       "'est",
+       3.72,
+       3.88,
+       0.82
+      ],
+      [
+       "trié.",
+       3.88,
+       4.06,
+       0.97
+      ]
+     ],
+     "clarte": 0.77,
+     "ok": true
+    }
+   ]
+  },
+  {
+   "id": "56-00",
+   "bloc": 56,
+   "ton": "sceptique",
+   "text": "Sauf que vous n'avez pas encore de résultats. Pourquoi vous croire ?",
+   "tts": "Sauf que vous n'avez pas encore de résultats. Pourquoi vous croire ?",
+   "gen": {},
+   "voix": "clara-fr",
+   "prises": [
+    {
+     "prise": 1,
+     "file": "fr-56-00-p1.wav",
+     "seconds": 3.12,
+     "compute": 27,
+     "heard": "Sauf que vous n'avez pas encore de résultat. Pourquoi vous croire ?",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      3.08
+     ],
+     "rate": 22.1,
+     "mots": [
+      [
+       "Sauf",
+       0.0,
+       0.56,
+       0.87
+      ],
+      [
+       "que",
+       0.56,
+       0.68,
+       1.0
+      ],
+      [
+       "vous",
+       0.68,
+       0.78,
+       0.99
+      ],
+      [
+       "n",
+       0.78,
+       1.02,
+       1.0
+      ],
+      [
+       "'avez",
+       1.02,
+       1.02,
+       1.0
+      ],
+      [
+       "pas",
+       1.02,
+       1.18,
+       1.0
+      ],
+      [
+       "encore",
+       1.18,
+       1.36,
+       0.99
+      ],
+      [
+       "de",
+       1.36,
+       1.56,
+       0.99
+      ],
+      [
+       "résultat.",
+       1.56,
+       2.12,
+       0.7
+      ],
+      [
+       "Pourquoi",
+       2.32,
+       2.48,
+       0.99
+      ],
+      [
+       "vous",
+       2.48,
+       2.66,
+       1.0
+      ],
+      [
+       "croire",
+       2.66,
+       2.9,
+       1.0
+      ],
+      [
+       "?",
+       2.9,
+       3.08,
+       0.85
+      ]
+     ],
+     "clarte": 0.7,
+     "ok": true
+    },
+    {
+     "prise": 2,
+     "file": "fr-56-00-p2.wav",
+     "seconds": 3.44,
+     "compute": 30,
+     "heard": "Sauf que vous n'avez pas encore de résultats. Pourquoi vous croire ?",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      3.42
+     ],
+     "rate": 19.9,
+     "mots": [
+      [
+       "Sauf",
+       0.0,
+       0.54,
+       0.92
+      ],
+      [
+       "que",
+       0.54,
+       0.66,
+       1.0
+      ],
+      [
+       "vous",
+       0.66,
+       0.76,
+       0.99
+      ],
+      [
+       "n",
+       0.76,
+       1.04,
+       1.0
+      ],
+      [
+       "'avez",
+       1.04,
+       1.04,
+       1.0
+      ],
+      [
+       "pas",
+       1.04,
+       1.22,
+       1.0
+      ],
+      [
+       "encore",
+       1.22,
+       1.4,
+       0.99
+      ],
+      [
+       "de",
+       1.4,
+       1.62,
+       0.99
+      ],
+      [
+       "résultats.",
+       1.62,
+       2.4,
+       0.74
+      ],
+      [
+       "Pourquoi",
+       2.64,
+       2.86,
+       0.98
+      ],
+      [
+       "vous",
+       2.86,
+       3.08,
+       1.0
+      ],
+      [
+       "croire",
+       3.08,
+       3.36,
+       0.99
+      ],
+      [
+       "?",
+       3.36,
+       3.42,
+       0.8
+      ]
+     ],
+     "clarte": 0.74,
+     "ok": true
+    }
+   ]
+  },
+  {
+   "id": "57-00",
+   "bloc": 57,
+   "ton": "pose",
+   "text": "Tu as raison : pas encore. Et on ne va pas faire semblant.",
+   "tts": "Tu as raison : pas encore. Et on ne va pas faire semblant.",
+   "gen": {},
+   "voix": "victor-fr",
+   "prises": [
+    {
+     "prise": 1,
+     "file": "fr-57-00-p1.wav",
+     "seconds": 2.88,
+     "compute": 25,
+     "heard": "Tu as raison, pas encore. Et on ne va pas faire semblant.",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      2.78
+     ],
+     "rate": 20.9,
+     "mots": [
+      [
+       "Tu",
+       0.0,
+       0.12,
+       0.81
+      ],
+      [
+       "as",
+       0.12,
+       0.26,
+       1.0
+      ],
+      [
+       "raison,",
+       0.26,
+       0.6,
+       1.0
+      ],
+      [
+       "pas",
+       0.84,
+       0.92,
+       1.0
+      ],
+      [
+       "encore.",
+       0.92,
+       1.34,
+       1.0
+      ],
+      [
+       "Et",
+       1.82,
+       1.92,
+       0.98
+      ],
+      [
+       "on",
+       1.92,
+       2.02,
+       0.99
+      ],
+      [
+       "ne",
+       2.02,
+       2.12,
+       0.97
+      ],
+      [
+       "va",
+       2.12,
+       2.2,
+       1.0
+      ],
+      [
+       "pas",
+       2.2,
+       2.36,
+       1.0
+      ],
+      [
+       "faire",
+       2.36,
+       2.52,
+       1.0
+      ],
+      [
+       "semblant.",
+       2.52,
+       2.78,
+       0.99
+      ]
+     ],
+     "clarte": 0.81,
+     "ok": true
+    },
+    {
+     "prise": 2,
+     "file": "fr-57-00-p2.wav",
+     "seconds": 2.72,
+     "compute": 25,
+     "heard": "Tu as raison, pas encore, et on ne va pas faire semblant.",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      2.7
+     ],
+     "rate": 21.5,
+     "mots": [
+      [
+       "Tu",
+       0.0,
+       0.14,
+       0.75
+      ],
+      [
+       "as",
+       0.14,
+       0.26,
+       1.0
+      ],
+      [
+       "raison,",
+       0.26,
+       0.62,
+       1.0
+      ],
+      [
+       "pas",
+       0.88,
+       0.96,
+       1.0
+      ],
+      [
+       "encore,",
+       0.96,
+       1.38,
+       1.0
+      ],
+      [
+       "et",
+       1.74,
+       1.86,
+       0.98
+      ],
+      [
+       "on",
+       1.86,
+       1.94,
+       1.0
+      ],
+      [
+       "ne",
+       1.94,
+       2.06,
+       0.99
+      ],
+      [
+       "va",
+       2.06,
+       2.12,
+       1.0
+      ],
+      [
+       "pas",
+       2.12,
+       2.28,
+       1.0
+      ],
+      [
+       "faire",
+       2.28,
+       2.44,
+       1.0
+      ],
+      [
+       "semblant.",
+       2.44,
+       2.7,
+       1.0
+      ]
+     ],
+     "clarte": 0.75,
+     "ok": true
+    }
+   ]
+  }
+ ]
+}

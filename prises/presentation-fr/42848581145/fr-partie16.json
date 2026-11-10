@@ -1,0 +1,1107 @@
+{
+ "langue": "fr",
+ "part": 16,
+ "voix": "victor-fr",
+ "phrases": [
+  {
+   "id": "58-00",
+   "bloc": 58,
+   "ton": "net",
+   "text": "Les publications reprennent le onze décembre. À partir de là, tout sera daté, public, vérifiable. Et le compte réel de MACROARSENAL publiera, lui aussi, ses chiffres.",
+   "tts": "Les publications reprennent le onze décembre. À partir de là, tout sera daté, public, vérifiable. Et le compte réel de Macro Arsenal publiera, lui aussi, ses chiffres.",
+   "gen": {},
+   "voix": "victor-fr",
+   "prises": [
+    {
+     "prise": 1,
+     "file": "fr-58-00-p1.wav",
+     "seconds": 8.48,
+     "compute": 77,
+     "heard": "Les publications reprennent le 11 décembre. À partir de là, tout sera daté, public, vérifiable. Et le compte réel de MACROARSENAL publiera lui aussi ces chiffres.",
+     "wer": 0.037,
+     "extra": 1,
+     "speech": [
+      0.0,
+      8.46
+     ],
+     "rate": 19.7,
+     "mots": [
+      [
+       "Les",
+       0.0,
+       0.34,
+       0.88
+      ],
+      [
+       "publications",
+       0.34,
+       0.88,
+       0.99
+      ],
+      [
+       "reprennent",
+       0.88,
+       1.32,
+       1.0
+      ],
+      [
+       "le",
+       1.32,
+       1.5,
+       1.0
+      ],
+      [
+       "11",
+       1.5,
+       1.74,
+       1.0
+      ],
+      [
+       "décembre.",
+       1.74,
+       2.2,
+       0.98
+      ],
+      [
+       "À",
+       2.36,
+       2.46,
+       0.66
+      ],
+      [
+       "partir",
+       2.46,
+       2.68,
+       1.0
+      ],
+      [
+       "de",
+       2.68,
+       2.88,
+       1.0
+      ],
+      [
+       "là,",
+       2.88,
+       3.02,
+       0.99
+      ],
+      [
+       "tout",
+       3.1,
+       3.18,
+       1.0
+      ],
+      [
+       "sera",
+       3.18,
+       3.42,
+       1.0
+      ],
+      [
+       "daté,",
+       3.42,
+       4.0,
+       0.99
+      ],
+      [
+       "public,",
+       4.22,
+       4.44,
+       0.96
+      ],
+      [
+       "vérifiable.",
+       4.76,
+       5.18,
+       0.98
+      ],
+      [
+       "Et",
+       5.42,
+       5.52,
+       0.98
+      ],
+      [
+       "le",
+       5.52,
+       5.82,
+       0.99
+      ],
+      [
+       "compte",
+       5.82,
+       5.82,
+       0.97
+      ],
+      [
+       "réel",
+       5.82,
+       6.1,
+       0.99
+      ],
+      [
+       "de",
+       6.1,
+       6.3,
+       0.99
+      ],
+      [
+       "MACROARSENAL",
+       6.3,
+       6.98,
+       0.6
+      ],
+      [
+       "publiera",
+       6.98,
+       7.58,
+       0.76
+      ],
+      [
+       "lui",
+       7.58,
+       7.78,
+       0.89
+      ],
+      [
+       "aussi",
+       7.78,
+       8.04,
+       0.97
+      ],
+      [
+       "ces",
+       8.04,
+       8.22,
+       0.56
+      ],
+      [
+       "chiffres.",
+       8.22,
+       8.46,
+       1.0
+      ]
+     ],
+     "clarte": 0.56,
+     "ok": true
+    },
+    {
+     "prise": 2,
+     "file": "fr-58-00-p2.wav",
+     "seconds": 9.68,
+     "compute": 87,
+     "heard": "Les publications reprennent le 11 décembre. À partir de là, tout sera daté, public, vérifiable. Et le compte réel de MACROARSENAL publiera lui aussi ces chiffres.",
+     "wer": 0.037,
+     "extra": 1,
+     "speech": [
+      0.0,
+      9.52
+     ],
+     "rate": 17.5,
+     "mots": [
+      [
+       "Les",
+       0.0,
+       0.3,
+       0.87
+      ],
+      [
+       "publications",
+       0.3,
+       0.84,
+       0.99
+      ],
+      [
+       "reprennent",
+       0.84,
+       1.32,
+       1.0
+      ],
+      [
+       "le",
+       1.32,
+       1.5,
+       1.0
+      ],
+      [
+       "11",
+       1.5,
+       1.74,
+       1.0
+      ],
+      [
+       "décembre.",
+       1.74,
+       2.3,
+       0.98
+      ],
+      [
+       "À",
+       2.52,
+       2.64,
+       0.6
+      ],
+      [
+       "partir",
+       2.64,
+       2.84,
+       1.0
+      ],
+      [
+       "de",
+       2.84,
+       3.04,
+       1.0
+      ],
+      [
+       "là,",
+       3.04,
+       3.44,
+       0.99
+      ],
+      [
+       "tout",
+       3.64,
+       3.74,
+       0.99
+      ],
+      [
+       "sera",
+       3.74,
+       3.98,
+       1.0
+      ],
+      [
+       "daté,",
+       3.98,
+       4.66,
+       0.99
+      ],
+      [
+       "public,",
+       4.9,
+       5.12,
+       0.94
+      ],
+      [
+       "vérifiable.",
+       5.54,
+       6.0,
+       0.98
+      ],
+      [
+       "Et",
+       6.44,
+       6.56,
+       0.96
+      ],
+      [
+       "le",
+       6.56,
+       6.86,
+       0.99
+      ],
+      [
+       "compte",
+       6.86,
+       6.86,
+       0.99
+      ],
+      [
+       "réel",
+       6.86,
+       7.14,
+       0.99
+      ],
+      [
+       "de",
+       7.14,
+       7.34,
+       1.0
+      ],
+      [
+       "MACROARSENAL",
+       7.34,
+       8.06,
+       0.6
+      ],
+      [
+       "publiera",
+       8.06,
+       8.56,
+       0.77
+      ],
+      [
+       "lui",
+       8.56,
+       8.68,
+       0.98
+      ],
+      [
+       "aussi",
+       8.68,
+       9.0,
+       0.97
+      ],
+      [
+       "ces",
+       9.0,
+       9.2,
+       0.69
+      ],
+      [
+       "chiffres.",
+       9.2,
+       9.52,
+       1.0
+      ]
+     ],
+     "clarte": 0.6,
+     "ok": true
+    }
+   ]
+  },
+  {
+   "id": "58-01",
+   "bloc": 58,
+   "ton": "net",
+   "text": "Ne nous croyez pas sur parole : regardez, et jugez.",
+   "tts": "Ne nous croyez pas sur parole : regardez, et jugez.",
+   "gen": {},
+   "voix": "victor-fr",
+   "prises": [
+    {
+     "prise": 1,
+     "file": "fr-58-01-p1.wav",
+     "seconds": 3.04,
+     "compute": 30,
+     "heard": "Ne nous croyez pas sur parole, regardez et jugez.",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      2.8
+     ],
+     "rate": 18.2,
+     "mots": [
+      [
+       "Ne",
+       0.0,
+       0.24,
+       0.79
+      ],
+      [
+       "nous",
+       0.24,
+       0.48,
+       0.99
+      ],
+      [
+       "croyez",
+       0.48,
+       0.7,
+       0.97
+      ],
+      [
+       "pas",
+       0.7,
+       0.84,
+       1.0
+      ],
+      [
+       "sur",
+       0.84,
+       1.02,
+       1.0
+      ],
+      [
+       "parole,",
+       1.02,
+       1.3,
+       0.99
+      ],
+      [
+       "regardez",
+       1.74,
+       1.98,
+       1.0
+      ],
+      [
+       "et",
+       1.98,
+       2.38,
+       0.99
+      ],
+      [
+       "jugez.",
+       2.38,
+       2.8,
+       0.93
+      ]
+     ],
+     "clarte": 0.79,
+     "ok": true
+    },
+    {
+     "prise": 2,
+     "file": "fr-58-01-p2.wav",
+     "seconds": 3.2,
+     "compute": 31,
+     "heard": "Ne nous croyez pas sur parole, regardez et jugez.",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      3.1
+     ],
+     "rate": 16.5,
+     "mots": [
+      [
+       "Ne",
+       0.0,
+       0.18,
+       0.73
+      ],
+      [
+       "nous",
+       0.18,
+       0.4,
+       0.98
+      ],
+      [
+       "croyez",
+       0.4,
+       0.62,
+       0.96
+      ],
+      [
+       "pas",
+       0.62,
+       0.82,
+       1.0
+      ],
+      [
+       "sur",
+       0.82,
+       1.02,
+       1.0
+      ],
+      [
+       "parole,",
+       1.02,
+       1.4,
+       0.99
+      ],
+      [
+       "regardez",
+       1.84,
+       2.2,
+       0.99
+      ],
+      [
+       "et",
+       2.2,
+       2.76,
+       0.98
+      ],
+      [
+       "jugez.",
+       2.76,
+       3.1,
+       0.92
+      ]
+     ],
+     "clarte": 0.73,
+     "ok": true
+    }
+   ]
+  },
+  {
+   "id": "59-00",
+   "bloc": 59,
+   "ton": "posee",
+   "text": "D'habitude, on vous montre les gains. Ici, on vous promet de vous montrer les pertes.",
+   "tts": "D'habitude, on vous montre les gains. Ici, on vous promet de vous montrer les pertes.",
+   "gen": {},
+   "voix": "clara-fr",
+   "prises": [
+    {
+     "prise": 1,
+     "file": "fr-59-00-p1.wav",
+     "seconds": 4.08,
+     "compute": 39,
+     "heard": "D'habitude, on vous montre les gains. Ici, on vous promet de vous montrer les pertes.",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      3.98
+     ],
+     "rate": 21.4,
+     "mots": [
+      [
+       "D",
+       0.0,
+       0.42,
+       0.92
+      ],
+      [
+       "'habitude,",
+       0.42,
+       0.74,
+       1.0
+      ],
+      [
+       "on",
+       0.92,
+       0.96,
+       1.0
+      ],
+      [
+       "vous",
+       0.96,
+       1.16,
+       1.0
+      ],
+      [
+       "montre",
+       1.16,
+       1.42,
+       0.99
+      ],
+      [
+       "les",
+       1.42,
+       1.6,
+       1.0
+      ],
+      [
+       "gains.",
+       1.6,
+       1.76,
+       0.99
+      ],
+      [
+       "Ici,",
+       2.22,
+       2.44,
+       0.99
+      ],
+      [
+       "on",
+       2.68,
+       2.68,
+       1.0
+      ],
+      [
+       "vous",
+       2.68,
+       2.88,
+       0.99
+      ],
+      [
+       "promet",
+       2.88,
+       3.0,
+       0.98
+      ],
+      [
+       "de",
+       3.0,
+       3.16,
+       1.0
+      ],
+      [
+       "vous",
+       3.16,
+       3.34,
+       0.98
+      ],
+      [
+       "montrer",
+       3.34,
+       3.52,
+       1.0
+      ],
+      [
+       "les",
+       3.52,
+       3.72,
+       1.0
+      ],
+      [
+       "pertes.",
+       3.72,
+       3.98,
+       0.99
+      ]
+     ],
+     "clarte": 0.92,
+     "ok": true
+    },
+    {
+     "prise": 2,
+     "file": "fr-59-00-p2.wav",
+     "seconds": 4.48,
+     "compute": 43,
+     "heard": "D'habitude, on vous montre les gains, ici on vous promet de vous montrer les pertes.",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      4.14
+     ],
+     "rate": 20.5,
+     "mots": [
+      [
+       "D",
+       0.0,
+       0.38,
+       0.91
+      ],
+      [
+       "'habitude,",
+       0.38,
+       0.7,
+       1.0
+      ],
+      [
+       "on",
+       0.94,
+       0.98,
+       1.0
+      ],
+      [
+       "vous",
+       0.98,
+       1.16,
+       1.0
+      ],
+      [
+       "montre",
+       1.16,
+       1.38,
+       0.99
+      ],
+      [
+       "les",
+       1.38,
+       1.54,
+       1.0
+      ],
+      [
+       "gains,",
+       1.54,
+       1.7,
+       0.99
+      ],
+      [
+       "ici",
+       2.26,
+       2.48,
+       0.96
+      ],
+      [
+       "on",
+       2.48,
+       2.72,
+       0.68
+      ],
+      [
+       "vous",
+       2.72,
+       2.94,
+       0.99
+      ],
+      [
+       "promet",
+       2.94,
+       3.06,
+       0.98
+      ],
+      [
+       "de",
+       3.06,
+       3.22,
+       1.0
+      ],
+      [
+       "vous",
+       3.22,
+       3.42,
+       0.98
+      ],
+      [
+       "montrer",
+       3.42,
+       3.64,
+       1.0
+      ],
+      [
+       "les",
+       3.64,
+       3.84,
+       1.0
+      ],
+      [
+       "pertes.",
+       3.84,
+       4.14,
+       0.99
+      ]
+     ],
+     "clarte": 0.68,
+     "ok": true
+    }
+   ]
+  },
+  {
+   "id": "60-00",
+   "bloc": 60,
+   "ton": "pose",
+   "text": "C'est la seule façon de mériter votre confiance. Et MACROARSENAL ne reçoit aucune rémunération d'un courtier, d'une plateforme ou d'un émetteur.",
+   "tts": "C'est la seule façon de mériter votre confiance. Et Macro Arsenal ne reçoit aucune rémunération d'un courtier, d'une plateforme ou d'un émetteur.",
+   "gen": {},
+   "voix": "victor-fr",
+   "prises": [
+    {
+     "prise": 1,
+     "file": "fr-60-00-p1.wav",
+     "seconds": 7.68,
+     "compute": 68,
+     "heard": "C'est la seule façon de mériter votre confiance, et MACROARSENAL ne reçoit aucune rémunération d'un courtier, d'une plateforme ou d'un émetteur.",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      7.4
+     ],
+     "rate": 19.6,
+     "mots": [
+      [
+       "C",
+       0.0,
+       0.36,
+       0.83
+      ],
+      [
+       "'est",
+       0.36,
+       0.52,
+       1.0
+      ],
+      [
+       "la",
+       0.52,
+       0.64,
+       1.0
+      ],
+      [
+       "seule",
+       0.64,
+       0.8,
+       1.0
+      ],
+      [
+       "façon",
+       0.8,
+       1.08,
+       1.0
+      ],
+      [
+       "de",
+       1.08,
+       1.26,
+       1.0
+      ],
+      [
+       "mériter",
+       1.26,
+       1.56,
+       0.95
+      ],
+      [
+       "votre",
+       1.56,
+       1.82,
+       1.0
+      ],
+      [
+       "confiance,",
+       1.82,
+       2.26,
+       1.0
+      ],
+      [
+       "et",
+       2.74,
+       2.88,
+       0.99
+      ],
+      [
+       "MACROARSENAL",
+       2.88,
+       3.64,
+       0.6
+      ],
+      [
+       "ne",
+       3.64,
+       3.86,
+       0.97
+      ],
+      [
+       "reçoit",
+       3.86,
+       4.18,
+       1.0
+      ],
+      [
+       "aucune",
+       4.18,
+       4.5,
+       1.0
+      ],
+      [
+       "rémunération",
+       4.5,
+       5.1,
+       1.0
+      ],
+      [
+       "d",
+       5.1,
+       5.18,
+       1.0
+      ],
+      [
+       "'un",
+       5.18,
+       5.32,
+       1.0
+      ],
+      [
+       "courtier,",
+       5.32,
+       5.72,
+       0.99
+      ],
+      [
+       "d",
+       6.04,
+       6.04,
+       1.0
+      ],
+      [
+       "'une",
+       6.04,
+       6.18,
+       1.0
+      ],
+      [
+       "plateforme",
+       6.18,
+       6.66,
+       0.98
+      ],
+      [
+       "ou",
+       6.66,
+       6.82,
+       0.97
+      ],
+      [
+       "d",
+       6.82,
+       6.86,
+       1.0
+      ],
+      [
+       "'un",
+       6.86,
+       7.02,
+       1.0
+      ],
+      [
+       "émetteur.",
+       7.02,
+       7.4,
+       0.99
+      ]
+     ],
+     "clarte": 0.6,
+     "ok": true
+    },
+    {
+     "prise": 2,
+     "file": "fr-60-00-p2.wav",
+     "seconds": 6.88,
+     "compute": 61,
+     "heard": "C'est la seule façon de mériter votre confiance et MACROARSENAL ne reçoit aucune rémunération d'un courtier, d'une plateforme ou d'un émetteur.",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      6.86
+     ],
+     "rate": 21.1,
+     "mots": [
+      [
+       "C",
+       0.0,
+       0.12,
+       0.71
+      ],
+      [
+       "'est",
+       0.12,
+       0.3,
+       1.0
+      ],
+      [
+       "la",
+       0.3,
+       0.4,
+       1.0
+      ],
+      [
+       "seule",
+       0.4,
+       0.56,
+       1.0
+      ],
+      [
+       "façon",
+       0.56,
+       0.82,
+       1.0
+      ],
+      [
+       "de",
+       0.82,
+       0.98,
+       1.0
+      ],
+      [
+       "mériter",
+       0.98,
+       1.3,
+       0.95
+      ],
+      [
+       "votre",
+       1.3,
+       1.5,
+       1.0
+      ],
+      [
+       "confiance",
+       1.5,
+       1.94,
+       1.0
+      ],
+      [
+       "et",
+       1.94,
+       2.64,
+       0.19
+      ],
+      [
+       "MACROARSENAL",
+       2.64,
+       3.36,
+       0.58
+      ],
+      [
+       "ne",
+       3.36,
+       3.6,
+       0.97
+      ],
+      [
+       "reçoit",
+       3.6,
+       3.84,
+       1.0
+      ],
+      [
+       "aucune",
+       3.84,
+       4.14,
+       1.0
+      ],
+      [
+       "rémunération",
+       4.14,
+       4.68,
+       1.0
+      ],
+      [
+       "d",
+       4.68,
+       4.76,
+       1.0
+      ],
+      [
+       "'un",
+       4.76,
+       4.9,
+       1.0
+      ],
+      [
+       "courtier,",
+       4.9,
+       5.28,
+       1.0
+      ],
+      [
+       "d",
+       5.54,
+       5.54,
+       1.0
+      ],
+      [
+       "'une",
+       5.54,
+       5.7,
+       1.0
+      ],
+      [
+       "plateforme",
+       5.7,
+       6.2,
+       0.97
+      ],
+      [
+       "ou",
+       6.2,
+       6.4,
+       0.95
+      ],
+      [
+       "d",
+       6.4,
+       6.42,
+       1.0
+      ],
+      [
+       "'un",
+       6.42,
+       6.58,
+       1.0
+      ],
+      [
+       "émetteur.",
+       6.58,
+       6.86,
+       0.99
+      ]
+     ],
+     "clarte": 0.19,
+     "ok": true
+    }
+   ]
+  }
+ ]
+}

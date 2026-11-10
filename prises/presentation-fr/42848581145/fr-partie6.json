@@ -1,0 +1,1255 @@
+{
+ "langue": "fr",
+ "part": 6,
+ "voix": "victor-fr",
+ "phrases": [
+  {
+   "id": "17-00",
+   "bloc": 17,
+   "ton": "curieuse",
+   "text": "Et MACROARSENAL, en une phrase ?",
+   "tts": "Et Macro Arsenal, en une phrase ?",
+   "gen": {},
+   "voix": "clara-fr",
+   "prises": [
+    {
+     "prise": 1,
+     "file": "fr-17-00-p1.wav",
+     "seconds": 2.4,
+     "compute": 27,
+     "heard": "Et MACROARSENAL, en une phrase ?",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      2.38
+     ],
+     "rate": 13.9,
+     "mots": [
+      [
+       "Et",
+       0.0,
+       0.6,
+       0.39
+      ],
+      [
+       "MACROARSENAL,",
+       0.6,
+       1.44,
+       0.59
+      ],
+      [
+       "en",
+       1.8,
+       1.88,
+       0.95
+      ],
+      [
+       "une",
+       1.88,
+       2.1,
+       0.96
+      ],
+      [
+       "phrase",
+       2.1,
+       2.3,
+       0.99
+      ],
+      [
+       "?",
+       2.3,
+       2.38,
+       0.63
+      ]
+     ],
+     "clarte": 0.39,
+     "ok": true
+    },
+    {
+     "prise": 2,
+     "file": "fr-17-00-p2.wav",
+     "seconds": 2.48,
+     "compute": 28,
+     "heard": "Et MACROARSENAL en une phrase ?",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      2.44
+     ],
+     "rate": 13.5,
+     "mots": [
+      [
+       "Et",
+       0.0,
+       0.62,
+       0.74
+      ],
+      [
+       "MACROARSENAL",
+       0.62,
+       1.36,
+       0.6
+      ],
+      [
+       "en",
+       1.36,
+       1.64,
+       0.49
+      ],
+      [
+       "une",
+       1.64,
+       1.86,
+       0.94
+      ],
+      [
+       "phrase",
+       1.86,
+       2.1,
+       0.99
+      ],
+      [
+       "?",
+       2.1,
+       2.44,
+       0.75
+      ]
+     ],
+     "clarte": 0.49,
+     "ok": true
+    }
+   ]
+  },
+  {
+   "id": "18-00",
+   "bloc": 18,
+   "ton": "chaleureux",
+   "text": "Le terminal macro qui explique pourquoi les marchés bougent. Des outils de pro entre les mains de tous les traders, chaque jour. Toute la puissance des pros…",
+   "tts": "Le terminal macro qui explique pourquoi les marchés bougent. Des outils de pro entre les mains de tous les traders, chaque jour. Toute la puissance des pros…",
+   "gen": {},
+   "voix": "victor-fr",
+   "prises": [
+    {
+     "prise": 1,
+     "file": "fr-18-00-p1.wav",
+     "seconds": 7.6,
+     "compute": 75,
+     "heard": "Le terminal MACRO qui explique pourquoi les marchés bougent. Des outils de pros entre les mains de tous les traders, chaque jour. Toute la puissance des pros.",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      7.42
+     ],
+     "rate": 21.2,
+     "mots": [
+      [
+       "Le",
+       0.0,
+       0.32,
+       0.6
+      ],
+      [
+       "terminal",
+       0.32,
+       0.64,
+       0.91
+      ],
+      [
+       "MACRO",
+       0.64,
+       1.02,
+       0.5
+      ],
+      [
+       "qui",
+       1.02,
+       1.28,
+       0.95
+      ],
+      [
+       "explique",
+       1.28,
+       1.52,
+       1.0
+      ],
+      [
+       "pourquoi",
+       1.52,
+       1.82,
+       0.99
+      ],
+      [
+       "les",
+       1.82,
+       2.02,
+       1.0
+      ],
+      [
+       "marchés",
+       2.02,
+       2.26,
+       0.99
+      ],
+      [
+       "bougent.",
+       2.26,
+       3.0,
+       0.99
+      ],
+      [
+       "Des",
+       3.14,
+       3.26,
+       0.99
+      ],
+      [
+       "outils",
+       3.26,
+       3.5,
+       1.0
+      ],
+      [
+       "de",
+       3.5,
+       3.72,
+       1.0
+      ],
+      [
+       "pros",
+       3.72,
+       3.82,
+       0.24
+      ],
+      [
+       "entre",
+       3.82,
+       4.1,
+       0.99
+      ],
+      [
+       "les",
+       4.1,
+       4.24,
+       1.0
+      ],
+      [
+       "mains",
+       4.24,
+       4.36,
+       1.0
+      ],
+      [
+       "de",
+       4.36,
+       4.6,
+       1.0
+      ],
+      [
+       "tous",
+       4.6,
+       4.66,
+       0.99
+      ],
+      [
+       "les",
+       4.66,
+       4.86,
+       1.0
+      ],
+      [
+       "traders,",
+       4.86,
+       5.18,
+       0.83
+      ],
+      [
+       "chaque",
+       5.58,
+       5.72,
+       0.99
+      ],
+      [
+       "jour.",
+       5.72,
+       6.04,
+       1.0
+      ],
+      [
+       "Toute",
+       6.5,
+       6.6,
+       0.96
+      ],
+      [
+       "la",
+       6.6,
+       6.76,
+       1.0
+      ],
+      [
+       "puissance",
+       6.76,
+       7.06,
+       1.0
+      ],
+      [
+       "des",
+       7.06,
+       7.28,
+       1.0
+      ],
+      [
+       "pros.",
+       7.28,
+       7.42,
+       0.9
+      ]
+     ],
+     "clarte": 0.24,
+     "ok": true
+    },
+    {
+     "prise": 2,
+     "file": "fr-18-00-p2.wav",
+     "seconds": 7.68,
+     "compute": 75,
+     "heard": "Le Terminal Macro qui explique pourquoi les marchés bougent. Des outils de pros entre les mains de tous les traders, chaque jour. Toute la puissance des pros.",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      7.5
+     ],
+     "rate": 20.9,
+     "mots": [
+      [
+       "Le",
+       0.0,
+       0.36,
+       0.73
+      ],
+      [
+       "Terminal",
+       0.36,
+       0.74,
+       0.57
+      ],
+      [
+       "Macro",
+       0.74,
+       1.08,
+       0.83
+      ],
+      [
+       "qui",
+       1.08,
+       1.34,
+       0.98
+      ],
+      [
+       "explique",
+       1.34,
+       1.56,
+       1.0
+      ],
+      [
+       "pourquoi",
+       1.56,
+       1.94,
+       0.99
+      ],
+      [
+       "les",
+       1.94,
+       2.16,
+       1.0
+      ],
+      [
+       "marchés",
+       2.16,
+       2.38,
+       0.99
+      ],
+      [
+       "bougent.",
+       2.38,
+       3.08,
+       0.99
+      ],
+      [
+       "Des",
+       3.24,
+       3.38,
+       0.99
+      ],
+      [
+       "outils",
+       3.38,
+       3.64,
+       1.0
+      ],
+      [
+       "de",
+       3.64,
+       3.86,
+       1.0
+      ],
+      [
+       "pros",
+       3.86,
+       3.96,
+       0.24
+      ],
+      [
+       "entre",
+       3.96,
+       4.26,
+       0.99
+      ],
+      [
+       "les",
+       4.26,
+       4.38,
+       1.0
+      ],
+      [
+       "mains",
+       4.38,
+       4.48,
+       1.0
+      ],
+      [
+       "de",
+       4.48,
+       4.7,
+       1.0
+      ],
+      [
+       "tous",
+       4.7,
+       4.76,
+       0.99
+      ],
+      [
+       "les",
+       4.76,
+       4.96,
+       1.0
+      ],
+      [
+       "traders,",
+       4.96,
+       5.26,
+       0.85
+      ],
+      [
+       "chaque",
+       5.72,
+       5.86,
+       0.99
+      ],
+      [
+       "jour.",
+       5.86,
+       6.16,
+       1.0
+      ],
+      [
+       "Toute",
+       6.6,
+       6.74,
+       0.96
+      ],
+      [
+       "la",
+       6.74,
+       6.9,
+       1.0
+      ],
+      [
+       "puissance",
+       6.9,
+       7.16,
+       1.0
+      ],
+      [
+       "des",
+       7.16,
+       7.38,
+       1.0
+      ],
+      [
+       "pros.",
+       7.38,
+       7.5,
+       0.93
+      ]
+     ],
+     "clarte": 0.24,
+     "ok": true
+    }
+   ]
+  },
+  {
+   "id": "18-01",
+   "bloc": 18,
+   "ton": "chaleureux",
+   "text": "sans leur prix.",
+   "tts": "sans leur prix.",
+   "gen": {},
+   "voix": "victor-fr",
+   "prises": [
+    {
+     "prise": 1,
+     "file": "fr-18-01-p1.wav",
+     "seconds": 0.88,
+     "compute": 13,
+     "heard": "Sans leur prix.",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      0.74
+     ],
+     "rate": 20.3,
+     "mots": [
+      [
+       "Sans",
+       0.0,
+       0.34,
+       0.27
+      ],
+      [
+       "leur",
+       0.34,
+       0.54,
+       0.89
+      ],
+      [
+       "prix.",
+       0.54,
+       0.74,
+       0.99
+      ]
+     ],
+     "clarte": 0.27,
+     "ok": true
+    },
+    {
+     "prise": 2,
+     "file": "fr-18-01-p2.wav",
+     "seconds": 0.64,
+     "compute": 11,
+     "heard": "Sans leur prix.",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      0.62
+     ],
+     "rate": 24.2,
+     "mots": [
+      [
+       "Sans",
+       0.0,
+       0.28,
+       0.16
+      ],
+      [
+       "leur",
+       0.28,
+       0.44,
+       0.9
+      ],
+      [
+       "prix.",
+       0.44,
+       0.62,
+       0.99
+      ]
+     ],
+     "clarte": 0.16,
+     "ok": true
+    }
+   ]
+  },
+  {
+   "id": "19-00",
+   "bloc": 19,
+   "ton": "complice",
+   "text": "Joli. Tu l'as répétée devant le miroir, celle-là ?",
+   "tts": "Joli. Tu l'as répétée devant le miroir, celle-là ?",
+   "gen": {},
+   "voix": "clara-fr",
+   "prises": [
+    {
+     "prise": 1,
+     "file": "fr-19-00-p1.wav",
+     "seconds": 2.88,
+     "compute": 30,
+     "heard": "Jolie ! Tu l'as répétée devant le miroir, celle-là ?",
+     "wer": 0.1,
+     "extra": 1,
+     "speech": [
+      0.42,
+      2.86
+     ],
+     "rate": 20.5,
+     "mots": [
+      [
+       "Jolie",
+       0.42,
+       0.78,
+       0.81
+      ],
+      [
+       "!",
+       0.78,
+       1.08,
+       0.65
+      ],
+      [
+       "Tu",
+       1.08,
+       1.18,
+       0.99
+      ],
+      [
+       "l",
+       1.18,
+       1.26,
+       0.9
+      ],
+      [
+       "'as",
+       1.26,
+       1.38,
+       0.98
+      ],
+      [
+       "répétée",
+       1.38,
+       1.64,
+       0.79
+      ],
+      [
+       "devant",
+       1.64,
+       1.82,
+       1.0
+      ],
+      [
+       "le",
+       1.82,
+       2.0,
+       1.0
+      ],
+      [
+       "miroir,",
+       2.0,
+       2.28,
+       1.0
+      ],
+      [
+       "celle",
+       2.4,
+       2.46,
+       1.0
+      ],
+      [
+       "-là",
+       2.46,
+       2.62,
+       0.96
+      ],
+      [
+       "?",
+       2.62,
+       2.86,
+       0.95
+      ]
+     ],
+     "clarte": 0.65,
+     "ok": true
+    },
+    {
+     "prise": 2,
+     "file": "fr-19-00-p2.wav",
+     "seconds": 2.96,
+     "compute": 31,
+     "heard": "Jolie. Tu l'as répétée devant le miroir, celle-là ?",
+     "wer": 0.1,
+     "extra": 1,
+     "speech": [
+      0.0,
+      2.92
+     ],
+     "rate": 17.1,
+     "mots": [
+      [
+       "Jolie.",
+       0.0,
+       0.5,
+       0.81
+      ],
+      [
+       "Tu",
+       0.84,
+       0.96,
+       0.99
+      ],
+      [
+       "l",
+       0.96,
+       1.04,
+       0.96
+      ],
+      [
+       "'as",
+       1.04,
+       1.18,
+       0.99
+      ],
+      [
+       "répétée",
+       1.18,
+       1.44,
+       0.79
+      ],
+      [
+       "devant",
+       1.44,
+       1.62,
+       1.0
+      ],
+      [
+       "le",
+       1.62,
+       1.8,
+       1.0
+      ],
+      [
+       "miroir,",
+       1.8,
+       2.2,
+       1.0
+      ],
+      [
+       "celle",
+       2.4,
+       2.42,
+       0.99
+      ],
+      [
+       "-là",
+       2.42,
+       2.62,
+       0.97
+      ],
+      [
+       "?",
+       2.62,
+       2.92,
+       0.81
+      ]
+     ],
+     "clarte": 0.79,
+     "ok": true
+    }
+   ]
+  },
+  {
+   "id": "20-00",
+   "bloc": 20,
+   "ton": "complice",
+   "text": "Tous les matins. Avec mon café.",
+   "tts": "Tous les matins. Avec mon café.",
+   "gen": {},
+   "voix": "victor-fr",
+   "prises": [
+    {
+     "prise": 1,
+     "file": "fr-20-00-p1.wav",
+     "seconds": 2.08,
+     "compute": 30,
+     "heard": "Tous les matins, avec mon café.",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      1.92
+     ],
+     "rate": 16.1,
+     "mots": [
+      [
+       "Tous",
+       0.0,
+       0.4,
+       0.39
+      ],
+      [
+       "les",
+       0.4,
+       0.58,
+       1.0
+      ],
+      [
+       "matins,",
+       0.58,
+       1.16,
+       1.0
+      ],
+      [
+       "avec",
+       1.46,
+       1.54,
+       0.98
+      ],
+      [
+       "mon",
+       1.54,
+       1.68,
+       0.91
+      ],
+      [
+       "café.",
+       1.68,
+       1.92,
+       0.98
+      ]
+     ],
+     "clarte": 0.39,
+     "ok": true
+    },
+    {
+     "prise": 2,
+     "file": "fr-20-00-p2.wav",
+     "seconds": 2.56,
+     "compute": 34,
+     "heard": "Tous les matins, avec mon café.",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      2.48
+     ],
+     "rate": 12.5,
+     "mots": [
+      [
+       "Tous",
+       0.0,
+       0.7,
+       0.69
+      ],
+      [
+       "les",
+       0.7,
+       0.9,
+       1.0
+      ],
+      [
+       "matins,",
+       0.9,
+       1.58,
+       1.0
+      ],
+      [
+       "avec",
+       1.92,
+       2.04,
+       0.98
+      ],
+      [
+       "mon",
+       2.04,
+       2.2,
+       0.68
+      ],
+      [
+       "café.",
+       2.2,
+       2.48,
+       0.97
+      ]
+     ],
+     "clarte": 0.68,
+     "ok": true
+    }
+   ]
+  },
+  {
+   "id": "21-00",
+   "bloc": 21,
+   "ton": "energique",
+   "text": "Chapitre deux : l'arsenal, et je vais vite. Quarante marchés, les plus tradés au monde, lus chaque matin. Un fil d'actualité mondial, uniquement des sources officielles.",
+   "tts": "Chapitre deux : l'arsenal, et je vais vite. Quarante marchés, les plus tradés au monde, lus chaque matin. Un fil d'actualité mondial, uniquement des sources officielles.",
+   "gen": {},
+   "voix": "victor-fr",
+   "prises": [
+    {
+     "prise": 1,
+     "file": "fr-21-00-p1.wav",
+     "seconds": 10.16,
+     "compute": 105,
+     "heard": "Chapitre 2, l'arsenal, et je vais vite, 40 marchés, les plus tradés au monde, lus chaque matin. Un fil d'actualité mondiale, uniquement des sources officielles.",
+     "wer": 0.037,
+     "extra": 1,
+     "speech": [
+      0.0,
+      10.1
+     ],
+     "rate": 16.7,
+     "mots": [
+      [
+       "Chapitre",
+       0.0,
+       0.52,
+       0.84
+      ],
+      [
+       "2,",
+       0.52,
+       1.0,
+       0.89
+      ],
+      [
+       "l",
+       1.26,
+       1.38,
+       0.71
+      ],
+      [
+       "'arsenal,",
+       1.38,
+       1.94,
+       0.94
+      ],
+      [
+       "et",
+       2.18,
+       2.24,
+       0.98
+      ],
+      [
+       "je",
+       2.24,
+       2.36,
+       0.99
+      ],
+      [
+       "vais",
+       2.36,
+       2.5,
+       1.0
+      ],
+      [
+       "vite,",
+       2.5,
+       2.88,
+       1.0
+      ],
+      [
+       "40",
+       3.3,
+       3.54,
+       0.87
+      ],
+      [
+       "marchés,",
+       3.54,
+       4.12,
+       0.98
+      ],
+      [
+       "les",
+       4.18,
+       4.38,
+       0.99
+      ],
+      [
+       "plus",
+       4.38,
+       4.58,
+       1.0
+      ],
+      [
+       "tradés",
+       4.58,
+       4.88,
+       0.97
+      ],
+      [
+       "au",
+       4.88,
+       5.04,
+       1.0
+      ],
+      [
+       "monde,",
+       5.04,
+       5.28,
+       0.98
+      ],
+      [
+       "lus",
+       5.52,
+       5.76,
+       0.81
+      ],
+      [
+       "chaque",
+       5.76,
+       6.02,
+       0.9
+      ],
+      [
+       "matin.",
+       6.02,
+       6.36,
+       1.0
+      ],
+      [
+       "Un",
+       6.9,
+       7.06,
+       0.99
+      ],
+      [
+       "fil",
+       7.06,
+       7.2,
+       0.98
+      ],
+      [
+       "d",
+       7.2,
+       7.34,
+       1.0
+      ],
+      [
+       "'actualité",
+       7.34,
+       7.74,
+       0.97
+      ],
+      [
+       "mondiale,",
+       7.74,
+       8.38,
+       0.96
+      ],
+      [
+       "uniquement",
+       8.72,
+       9.06,
+       1.0
+      ],
+      [
+       "des",
+       9.06,
+       9.22,
+       1.0
+      ],
+      [
+       "sources",
+       9.22,
+       9.52,
+       1.0
+      ],
+      [
+       "officielles.",
+       9.52,
+       10.1,
+       0.99
+      ]
+     ],
+     "clarte": 0.71,
+     "ok": true
+    },
+    {
+     "prise": 2,
+     "file": "fr-21-00-p2.wav",
+     "seconds": 10.56,
+     "compute": 109,
+     "heard": "Chapitre 2, l'arsenal, et je vais vite, 40 marchés, les plus tradés au monde, lus chaque matin, un fil d'actualité mondiale, uniquement des sources officielles.",
+     "wer": 0.037,
+     "extra": 1,
+     "speech": [
+      0.0,
+      10.54
+     ],
+     "rate": 16.0,
+     "mots": [
+      [
+       "Chapitre",
+       0.0,
+       0.58,
+       0.89
+      ],
+      [
+       "2,",
+       0.58,
+       1.04,
+       0.85
+      ],
+      [
+       "l",
+       1.28,
+       1.4,
+       0.69
+      ],
+      [
+       "'arsenal,",
+       1.4,
+       2.02,
+       0.93
+      ],
+      [
+       "et",
+       2.28,
+       2.34,
+       0.93
+      ],
+      [
+       "je",
+       2.34,
+       2.46,
+       0.99
+      ],
+      [
+       "vais",
+       2.46,
+       2.6,
+       1.0
+      ],
+      [
+       "vite,",
+       2.6,
+       3.02,
+       1.0
+      ],
+      [
+       "40",
+       3.52,
+       3.72,
+       0.87
+      ],
+      [
+       "marchés,",
+       3.72,
+       4.34,
+       0.98
+      ],
+      [
+       "les",
+       4.48,
+       4.62,
+       0.98
+      ],
+      [
+       "plus",
+       4.62,
+       4.8,
+       1.0
+      ],
+      [
+       "tradés",
+       4.8,
+       5.12,
+       0.97
+      ],
+      [
+       "au",
+       5.12,
+       5.3,
+       1.0
+      ],
+      [
+       "monde,",
+       5.3,
+       5.58,
+       0.98
+      ],
+      [
+       "lus",
+       5.9,
+       6.06,
+       0.91
+      ],
+      [
+       "chaque",
+       6.06,
+       6.32,
+       1.0
+      ],
+      [
+       "matin,",
+       6.32,
+       6.68,
+       1.0
+      ],
+      [
+       "un",
+       7.18,
+       7.38,
+       0.97
+      ],
+      [
+       "fil",
+       7.38,
+       7.52,
+       0.98
+      ],
+      [
+       "d",
+       7.52,
+       7.62,
+       1.0
+      ],
+      [
+       "'actualité",
+       7.62,
+       8.12,
+       0.93
+      ],
+      [
+       "mondiale,",
+       8.12,
+       8.78,
+       0.96
+      ],
+      [
+       "uniquement",
+       9.12,
+       9.46,
+       1.0
+      ],
+      [
+       "des",
+       9.46,
+       9.64,
+       1.0
+      ],
+      [
+       "sources",
+       9.64,
+       9.94,
+       1.0
+      ],
+      [
+       "officielles.",
+       9.94,
+       10.54,
+       0.99
+      ]
+     ],
+     "clarte": 0.69,
+     "ok": true
+    }
+   ]
+  }
+ ]
+}

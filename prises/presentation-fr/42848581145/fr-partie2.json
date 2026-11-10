@@ -1,0 +1,1376 @@
+{
+ "langue": "fr",
+ "part": 2,
+ "voix": "victor-fr",
+ "phrases": [
+  {
+   "id": "05-00",
+   "bloc": 5,
+   "ton": "sceptique",
+   "text": "Et je vous préviens : je ne vais pas lui faire de cadeau.",
+   "tts": "Et je vous préviens : je ne vais pas lui faire de cadeau.",
+   "gen": {},
+   "voix": "clara-fr",
+   "prises": [
+    {
+     "prise": 1,
+     "file": "fr-05-00-p1.wav",
+     "seconds": 2.48,
+     "compute": 32,
+     "heard": "Et je vous préviens, je ne vais pas lui faire de cadeau.",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      2.46
+     ],
+     "rate": 23.2,
+     "mots": [
+      [
+       "Et",
+       0.0,
+       0.32,
+       0.61
+      ],
+      [
+       "je",
+       0.32,
+       0.44,
+       0.96
+      ],
+      [
+       "vous",
+       0.44,
+       0.58,
+       0.99
+      ],
+      [
+       "préviens,",
+       0.58,
+       1.06,
+       1.0
+      ],
+      [
+       "je",
+       1.28,
+       1.38,
+       0.99
+      ],
+      [
+       "ne",
+       1.38,
+       1.48,
+       0.99
+      ],
+      [
+       "vais",
+       1.48,
+       1.58,
+       1.0
+      ],
+      [
+       "pas",
+       1.58,
+       1.76,
+       0.99
+      ],
+      [
+       "lui",
+       1.76,
+       1.9,
+       1.0
+      ],
+      [
+       "faire",
+       1.9,
+       2.04,
+       1.0
+      ],
+      [
+       "de",
+       2.04,
+       2.24,
+       1.0
+      ],
+      [
+       "cadeau.",
+       2.24,
+       2.46,
+       0.69
+      ]
+     ],
+     "clarte": 0.61,
+     "ok": true
+    },
+    {
+     "prise": 2,
+     "file": "fr-05-00-p2.wav",
+     "seconds": 2.32,
+     "compute": 29,
+     "heard": "Et je vous préviens, je ne vais pas lui faire de cadeau.",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      2.3
+     ],
+     "rate": 24.8,
+     "mots": [
+      [
+       "Et",
+       0.0,
+       0.3,
+       0.55
+      ],
+      [
+       "je",
+       0.3,
+       0.42,
+       0.95
+      ],
+      [
+       "vous",
+       0.42,
+       0.58,
+       1.0
+      ],
+      [
+       "préviens,",
+       0.58,
+       1.04,
+       1.0
+      ],
+      [
+       "je",
+       1.28,
+       1.36,
+       0.99
+      ],
+      [
+       "ne",
+       1.36,
+       1.44,
+       0.99
+      ],
+      [
+       "vais",
+       1.44,
+       1.52,
+       1.0
+      ],
+      [
+       "pas",
+       1.52,
+       1.66,
+       1.0
+      ],
+      [
+       "lui",
+       1.66,
+       1.78,
+       1.0
+      ],
+      [
+       "faire",
+       1.78,
+       1.9,
+       1.0
+      ],
+      [
+       "de",
+       1.9,
+       2.1,
+       1.0
+      ],
+      [
+       "cadeau.",
+       2.1,
+       2.3,
+       0.72
+      ]
+     ],
+     "clarte": 0.55,
+     "ok": true
+    }
+   ]
+  },
+  {
+   "id": "06-00",
+   "bloc": 6,
+   "ton": "complice",
+   "text": "Ha ! Elle ne m'en fait jamais.",
+   "tts": "Ha ! Elle ne m'en fait jamais.",
+   "gen": {},
+   "voix": "victor-fr",
+   "prises": [
+    {
+     "prise": 1,
+     "file": "fr-06-00-p1.wav",
+     "seconds": 2.16,
+     "compute": 34,
+     "heard": "Ha ! Elle ne m'en fait jamais !",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.54,
+      2.14
+     ],
+     "rate": 18.8,
+     "mots": [
+      [
+       "Ha",
+       0.54,
+       0.86,
+       0.83
+      ],
+      [
+       "!",
+       0.86,
+       1.18,
+       0.66
+      ],
+      [
+       "Elle",
+       1.18,
+       1.34,
+       0.95
+      ],
+      [
+       "ne",
+       1.34,
+       1.5,
+       0.98
+      ],
+      [
+       "m",
+       1.5,
+       1.52,
+       0.99
+      ],
+      [
+       "'en",
+       1.52,
+       1.68,
+       1.0
+      ],
+      [
+       "fait",
+       1.68,
+       1.8,
+       0.98
+      ],
+      [
+       "jamais",
+       1.8,
+       2.06,
+       0.99
+      ],
+      [
+       "!",
+       2.06,
+       2.14,
+       0.73
+      ]
+     ],
+     "clarte": 0.66,
+     "ok": true
+    },
+    {
+     "prise": 2,
+     "file": "fr-06-00-p2.wav",
+     "seconds": 2.0,
+     "compute": 31,
+     "heard": "Ha ! Elle ne m'en fait jamais !",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.58,
+      1.98
+     ],
+     "rate": 21.4,
+     "mots": [
+      [
+       "Ha",
+       0.58,
+       0.86,
+       0.79
+      ],
+      [
+       "!",
+       0.86,
+       1.14,
+       0.63
+      ],
+      [
+       "Elle",
+       1.14,
+       1.26,
+       0.94
+      ],
+      [
+       "ne",
+       1.26,
+       1.44,
+       0.98
+      ],
+      [
+       "m",
+       1.44,
+       1.46,
+       0.99
+      ],
+      [
+       "'en",
+       1.46,
+       1.6,
+       1.0
+      ],
+      [
+       "fait",
+       1.6,
+       1.68,
+       0.98
+      ],
+      [
+       "jamais",
+       1.68,
+       1.92,
+       1.0
+      ],
+      [
+       "!",
+       1.92,
+       1.98,
+       0.76
+      ]
+     ],
+     "clarte": 0.63,
+     "ok": true
+    }
+   ]
+  },
+  {
+   "id": "07-00",
+   "bloc": 7,
+   "ton": "energique",
+   "text": "Bonjour à toutes et à tous, et bienvenue dans le podcast de MACROARSENAL ! Je suis Victor Castel, la voix de MACROARSENAL Radio.",
+   "tts": "Bonjour à toutes et à tous, et bienvenue dans le podcast de Macro Arsenal ! Je suis Victor Castel, la voix de Macro Arsenal Radio.",
+   "gen": {},
+   "voix": "victor-fr",
+   "prises": [
+    {
+     "prise": 1,
+     "file": "fr-07-00-p1.wav",
+     "seconds": 7.68,
+     "compute": 89,
+     "heard": "Bonjour à toutes et à tous et bienvenue dans le podcast de Macroarsenal. Je suis Victor Castel, la voix de Macroarsenal Radio.",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      7.6
+     ],
+     "rate": 17.1,
+     "mots": [
+      [
+       "Bonjour",
+       0.0,
+       0.44,
+       0.94
+      ],
+      [
+       "à",
+       0.44,
+       0.66,
+       1.0
+      ],
+      [
+       "toutes",
+       0.66,
+       0.78,
+       1.0
+      ],
+      [
+       "et",
+       0.78,
+       0.98,
+       0.99
+      ],
+      [
+       "à",
+       0.98,
+       1.1,
+       0.99
+      ],
+      [
+       "tous",
+       1.1,
+       1.32,
+       1.0
+      ],
+      [
+       "et",
+       1.32,
+       1.64,
+       0.68
+      ],
+      [
+       "bienvenue",
+       1.64,
+       2.1,
+       0.95
+      ],
+      [
+       "dans",
+       2.1,
+       2.28,
+       1.0
+      ],
+      [
+       "le",
+       2.28,
+       2.42,
+       1.0
+      ],
+      [
+       "podcast",
+       2.42,
+       2.88,
+       0.95
+      ],
+      [
+       "de",
+       2.88,
+       3.18,
+       0.99
+      ],
+      [
+       "Macroarsenal.",
+       3.18,
+       4.02,
+       0.73
+      ],
+      [
+       "Je",
+       4.14,
+       4.54,
+       0.97
+      ],
+      [
+       "suis",
+       4.54,
+       4.74,
+       1.0
+      ],
+      [
+       "Victor",
+       4.74,
+       5.18,
+       0.98
+      ],
+      [
+       "Castel,",
+       5.18,
+       5.72,
+       0.95
+      ],
+      [
+       "la",
+       5.98,
+       6.12,
+       0.98
+      ],
+      [
+       "voix",
+       6.12,
+       6.26,
+       0.99
+      ],
+      [
+       "de",
+       6.26,
+       6.5,
+       1.0
+      ],
+      [
+       "Macroarsenal",
+       6.5,
+       7.36,
+       0.98
+      ],
+      [
+       "Radio.",
+       7.36,
+       7.6,
+       0.83
+      ]
+     ],
+     "clarte": 0.68,
+     "ok": true
+    },
+    {
+     "prise": 2,
+     "file": "fr-07-00-p2.wav",
+     "seconds": 7.84,
+     "compute": 91,
+     "heard": "Bonjour à toutes et à tous et bienvenue dans le podcast de Macro Arsenal, je suis Victor Castel, la voix de Macro Arsenal Radio.",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      7.74
+     ],
+     "rate": 16.8,
+     "mots": [
+      [
+       "Bonjour",
+       0.0,
+       0.5,
+       0.88
+      ],
+      [
+       "à",
+       0.5,
+       0.74,
+       0.99
+      ],
+      [
+       "toutes",
+       0.74,
+       0.86,
+       1.0
+      ],
+      [
+       "et",
+       0.86,
+       1.04,
+       0.99
+      ],
+      [
+       "à",
+       1.04,
+       1.16,
+       0.98
+      ],
+      [
+       "tous",
+       1.16,
+       1.34,
+       1.0
+      ],
+      [
+       "et",
+       1.34,
+       1.66,
+       0.72
+      ],
+      [
+       "bienvenue",
+       1.66,
+       2.16,
+       0.95
+      ],
+      [
+       "dans",
+       2.16,
+       2.36,
+       1.0
+      ],
+      [
+       "le",
+       2.36,
+       2.54,
+       1.0
+      ],
+      [
+       "podcast",
+       2.54,
+       3.02,
+       0.95
+      ],
+      [
+       "de",
+       3.02,
+       3.36,
+       0.99
+      ],
+      [
+       "Macro",
+       3.36,
+       3.68,
+       0.86
+      ],
+      [
+       "Arsenal,",
+       3.68,
+       4.08,
+       0.81
+      ],
+      [
+       "je",
+       4.6,
+       4.66,
+       0.93
+      ],
+      [
+       "suis",
+       4.66,
+       4.88,
+       1.0
+      ],
+      [
+       "Victor",
+       4.88,
+       5.32,
+       0.99
+      ],
+      [
+       "Castel,",
+       5.32,
+       5.98,
+       0.93
+      ],
+      [
+       "la",
+       6.22,
+       6.38,
+       0.97
+      ],
+      [
+       "voix",
+       6.38,
+       6.5,
+       0.99
+      ],
+      [
+       "de",
+       6.5,
+       6.72,
+       1.0
+      ],
+      [
+       "Macro",
+       6.72,
+       7.14,
+       0.98
+      ],
+      [
+       "Arsenal",
+       7.14,
+       7.44,
+       1.0
+      ],
+      [
+       "Radio.",
+       7.44,
+       7.74,
+       0.9
+      ]
+     ],
+     "clarte": 0.72,
+     "ok": true
+    }
+   ]
+  },
+  {
+   "id": "08-00",
+   "bloc": 8,
+   "ton": "vive",
+   "text": "Et moi, c'est Clara ! Je pose les questions que vous vous posez. Même celles qui fâchent.",
+   "tts": "Et moi, c'est Clara ! Je pose les questions que vous vous posez. Même celles qui fâchent.",
+   "gen": {},
+   "voix": "clara-fr",
+   "prises": [
+    {
+     "prise": 1,
+     "file": "fr-08-00-p1.wav",
+     "seconds": 4.56,
+     "compute": 52,
+     "heard": "Et moi, c'est Clara ! Je pose les questions que vous vous posez, même celles qui fâchent.",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      4.32
+     ],
+     "rate": 20.6,
+     "mots": [
+      [
+       "Et",
+       0.0,
+       0.24,
+       0.75
+      ],
+      [
+       "moi,",
+       0.24,
+       0.46,
+       1.0
+      ],
+      [
+       "c",
+       0.6,
+       0.62,
+       1.0
+      ],
+      [
+       "'est",
+       0.62,
+       0.74,
+       1.0
+      ],
+      [
+       "Clara",
+       0.74,
+       1.02,
+       0.98
+      ],
+      [
+       "!",
+       1.02,
+       1.62,
+       0.51
+      ],
+      [
+       "Je",
+       1.62,
+       1.78,
+       0.98
+      ],
+      [
+       "pose",
+       1.78,
+       2.0,
+       0.99
+      ],
+      [
+       "les",
+       2.0,
+       2.14,
+       1.0
+      ],
+      [
+       "questions",
+       2.14,
+       2.46,
+       1.0
+      ],
+      [
+       "que",
+       2.46,
+       2.6,
+       0.99
+      ],
+      [
+       "vous",
+       2.6,
+       2.74,
+       1.0
+      ],
+      [
+       "vous",
+       2.74,
+       2.92,
+       0.99
+      ],
+      [
+       "posez,",
+       2.92,
+       3.36,
+       0.99
+      ],
+      [
+       "même",
+       3.46,
+       3.6,
+       0.99
+      ],
+      [
+       "celles",
+       3.6,
+       3.82,
+       0.98
+      ],
+      [
+       "qui",
+       3.82,
+       3.98,
+       1.0
+      ],
+      [
+       "fâchent.",
+       3.98,
+       4.32,
+       0.96
+      ]
+     ],
+     "clarte": 0.51,
+     "ok": true
+    },
+    {
+     "prise": 2,
+     "file": "fr-08-00-p2.wav",
+     "seconds": 4.8,
+     "compute": 55,
+     "heard": "Et moi c'est Clara, je pose les questions que vous vous posez, même celles qui fâchent.",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      4.76
+     ],
+     "rate": 18.7,
+     "mots": [
+      [
+       "Et",
+       0.0,
+       0.28,
+       0.76
+      ],
+      [
+       "moi",
+       0.28,
+       0.52,
+       1.0
+      ],
+      [
+       "c",
+       0.52,
+       0.72,
+       0.47
+      ],
+      [
+       "'est",
+       0.72,
+       0.88,
+       1.0
+      ],
+      [
+       "Clara,",
+       0.88,
+       1.14,
+       0.98
+      ],
+      [
+       "je",
+       1.76,
+       1.86,
+       0.95
+      ],
+      [
+       "pose",
+       1.86,
+       2.04,
+       0.99
+      ],
+      [
+       "les",
+       2.04,
+       2.2,
+       0.99
+      ],
+      [
+       "questions",
+       2.2,
+       2.58,
+       0.99
+      ],
+      [
+       "que",
+       2.58,
+       2.76,
+       0.99
+      ],
+      [
+       "vous",
+       2.76,
+       2.92,
+       1.0
+      ],
+      [
+       "vous",
+       2.92,
+       3.08,
+       0.99
+      ],
+      [
+       "posez,",
+       3.08,
+       3.74,
+       0.99
+      ],
+      [
+       "même",
+       3.82,
+       4.02,
+       0.98
+      ],
+      [
+       "celles",
+       4.02,
+       4.26,
+       0.94
+      ],
+      [
+       "qui",
+       4.26,
+       4.4,
+       1.0
+      ],
+      [
+       "fâchent.",
+       4.4,
+       4.76,
+       0.97
+      ]
+     ],
+     "clarte": 0.47,
+     "ok": true
+    }
+   ]
+  },
+  {
+   "id": "09-00",
+   "bloc": 9,
+   "ton": "posee",
+   "text": "Et pour être honnêtes dès la première minute : Victor et moi sommes des personnages de MACROARSENAL, avec des voix de synthèse. Mais tout ce qu'on va vous dire, vous pourrez le vérifier.",
+   "tts": "Et pour être honnêtes dès la première minute : Victor et moi sommes des personnages de Macro Arsenal, avec des voix de synthèse. Mais tout ce qu'on va vous dire, vous pourrez le vérifier.",
+   "gen": {},
+   "voix": "clara-fr",
+   "prises": [
+    {
+     "prise": 1,
+     "file": "fr-09-00-p1.wav",
+     "seconds": 8.32,
+     "compute": 91,
+     "heard": "Et pour être honnête dès la première minute, Victor et moi sommes des personnages de MACROARSENAL avec des voix de synthèse. Mais tout ce qu'on va vous dire, vous pourrez le vérifier.",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      8.24
+     ],
+     "rate": 22.7,
+     "mots": [
+      [
+       "Et",
+       0.0,
+       0.52,
+       0.88
+      ],
+      [
+       "pour",
+       0.52,
+       0.66,
+       0.97
+      ],
+      [
+       "être",
+       0.66,
+       0.88,
+       1.0
+      ],
+      [
+       "honnête",
+       0.88,
+       1.12,
+       0.99
+      ],
+      [
+       "dès",
+       1.12,
+       1.28,
+       0.72
+      ],
+      [
+       "la",
+       1.28,
+       1.5,
+       1.0
+      ],
+      [
+       "première",
+       1.5,
+       1.68,
+       0.92
+      ],
+      [
+       "minute,",
+       1.68,
+       2.08,
+       0.99
+      ],
+      [
+       "Victor",
+       2.5,
+       2.72,
+       0.95
+      ],
+      [
+       "et",
+       2.72,
+       2.88,
+       1.0
+      ],
+      [
+       "moi",
+       2.88,
+       3.0,
+       1.0
+      ],
+      [
+       "sommes",
+       3.0,
+       3.16,
+       1.0
+      ],
+      [
+       "des",
+       3.16,
+       3.34,
+       1.0
+      ],
+      [
+       "personnages",
+       3.34,
+       3.76,
+       1.0
+      ],
+      [
+       "de",
+       3.76,
+       3.92,
+       1.0
+      ],
+      [
+       "MACROARSENAL",
+       3.92,
+       4.68,
+       0.59
+      ],
+      [
+       "avec",
+       4.68,
+       5.06,
+       0.89
+      ],
+      [
+       "des",
+       5.06,
+       5.24,
+       1.0
+      ],
+      [
+       "voix",
+       5.24,
+       5.34,
+       0.91
+      ],
+      [
+       "de",
+       5.34,
+       5.56,
+       1.0
+      ],
+      [
+       "synthèse.",
+       5.56,
+       5.92,
+       0.93
+      ],
+      [
+       "Mais",
+       6.38,
+       6.56,
+       0.97
+      ],
+      [
+       "tout",
+       6.56,
+       6.66,
+       0.98
+      ],
+      [
+       "ce",
+       6.66,
+       6.76,
+       1.0
+      ],
+      [
+       "qu",
+       6.76,
+       6.8,
+       0.95
+      ],
+      [
+       "'on",
+       6.8,
+       6.86,
+       1.0
+      ],
+      [
+       "va",
+       6.86,
+       6.98,
+       0.99
+      ],
+      [
+       "vous",
+       6.98,
+       7.16,
+       0.99
+      ],
+      [
+       "dire,",
+       7.16,
+       7.38,
+       1.0
+      ],
+      [
+       "vous",
+       7.54,
+       7.58,
+       1.0
+      ],
+      [
+       "pourrez",
+       7.58,
+       7.8,
+       0.99
+      ],
+      [
+       "le",
+       7.8,
+       7.94,
+       0.99
+      ],
+      [
+       "vérifier.",
+       7.94,
+       8.24,
+       1.0
+      ]
+     ],
+     "clarte": 0.59,
+     "ok": true
+    },
+    {
+     "prise": 2,
+     "file": "fr-09-00-p2.wav",
+     "seconds": 8.8,
+     "compute": 95,
+     "heard": "Et pour être honnête dès la première minute, Victor et moi sommes des personnages de MACROARSENAL avec des voix de synthèse. Mais tout ce qu'on va vous dire, vous pourrez le vérifier.",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      8.72
+     ],
+     "rate": 21.4,
+     "mots": [
+      [
+       "Et",
+       0.0,
+       0.48,
+       0.86
+      ],
+      [
+       "pour",
+       0.48,
+       0.6,
+       0.96
+      ],
+      [
+       "être",
+       0.6,
+       0.82,
+       1.0
+      ],
+      [
+       "honnête",
+       0.82,
+       1.08,
+       0.99
+      ],
+      [
+       "dès",
+       1.08,
+       1.24,
+       0.67
+      ],
+      [
+       "la",
+       1.24,
+       1.44,
+       1.0
+      ],
+      [
+       "première",
+       1.44,
+       1.62,
+       0.95
+      ],
+      [
+       "minute,",
+       1.62,
+       2.1,
+       1.0
+      ],
+      [
+       "Victor",
+       2.54,
+       2.7,
+       0.96
+      ],
+      [
+       "et",
+       2.7,
+       2.88,
+       1.0
+      ],
+      [
+       "moi",
+       2.88,
+       3.02,
+       1.0
+      ],
+      [
+       "sommes",
+       3.02,
+       3.22,
+       0.99
+      ],
+      [
+       "des",
+       3.22,
+       3.4,
+       1.0
+      ],
+      [
+       "personnages",
+       3.4,
+       3.8,
+       1.0
+      ],
+      [
+       "de",
+       3.8,
+       3.96,
+       1.0
+      ],
+      [
+       "MACROARSENAL",
+       3.96,
+       4.66,
+       0.6
+      ],
+      [
+       "avec",
+       4.66,
+       5.04,
+       0.96
+      ],
+      [
+       "des",
+       5.04,
+       5.26,
+       1.0
+      ],
+      [
+       "voix",
+       5.26,
+       5.38,
+       0.92
+      ],
+      [
+       "de",
+       5.38,
+       5.58,
+       1.0
+      ],
+      [
+       "synthèse.",
+       5.58,
+       6.0,
+       0.93
+      ],
+      [
+       "Mais",
+       6.7,
+       6.82,
+       0.98
+      ],
+      [
+       "tout",
+       6.82,
+       6.94,
+       0.99
+      ],
+      [
+       "ce",
+       6.94,
+       7.02,
+       1.0
+      ],
+      [
+       "qu",
+       7.02,
+       7.06,
+       0.97
+      ],
+      [
+       "'on",
+       7.06,
+       7.1,
+       1.0
+      ],
+      [
+       "va",
+       7.1,
+       7.24,
+       1.0
+      ],
+      [
+       "vous",
+       7.24,
+       7.44,
+       0.99
+      ],
+      [
+       "dire,",
+       7.44,
+       7.74,
+       1.0
+      ],
+      [
+       "vous",
+       7.98,
+       8.04,
+       1.0
+      ],
+      [
+       "pourrez",
+       8.04,
+       8.24,
+       0.99
+      ],
+      [
+       "le",
+       8.24,
+       8.38,
+       1.0
+      ],
+      [
+       "vérifier.",
+       8.38,
+       8.72,
+       1.0
+      ]
+     ],
+     "clarte": 0.6,
+     "ok": true
+    }
+   ]
+  }
+ ]
+}

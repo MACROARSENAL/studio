@@ -1,0 +1,1196 @@
+{
+ "langue": "fr",
+ "part": 18,
+ "voix": "victor-fr",
+ "phrases": [
+  {
+   "id": "62-01",
+   "bloc": 62,
+   "ton": "chaleureux",
+   "text": "Et le simulateur, c'est de l'argent fictif : le seul endroit où les erreurs sont gratuites.",
+   "tts": "Et le simulateur, c'est de l'argent fictif : le seul endroit où les erreurs sont gratuites.",
+   "gen": {},
+   "voix": "victor-fr",
+   "prises": [
+    {
+     "prise": 1,
+     "file": "fr-62-01-p1.wav",
+     "seconds": 4.4,
+     "compute": 45,
+     "heard": "Et le simulateur, c'est de l'argent fictif, le seul endroit où les erreurs sont gratuites.",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      4.38
+     ],
+     "rate": 20.8,
+     "mots": [
+      [
+       "Et",
+       0.0,
+       0.3,
+       0.48
+      ],
+      [
+       "le",
+       0.3,
+       0.48,
+       0.99
+      ],
+      [
+       "simulateur,",
+       0.48,
+       1.1,
+       0.99
+      ],
+      [
+       "c",
+       1.28,
+       1.3,
+       1.0
+      ],
+      [
+       "'est",
+       1.3,
+       1.38,
+       1.0
+      ],
+      [
+       "de",
+       1.38,
+       1.44,
+       1.0
+      ],
+      [
+       "l",
+       1.44,
+       1.54,
+       1.0
+      ],
+      [
+       "'argent",
+       1.54,
+       1.72,
+       1.0
+      ],
+      [
+       "fictif,",
+       1.72,
+       2.24,
+       0.99
+      ],
+      [
+       "le",
+       2.6,
+       2.74,
+       0.99
+      ],
+      [
+       "seul",
+       2.74,
+       2.9,
+       1.0
+      ],
+      [
+       "endroit",
+       2.9,
+       3.16,
+       1.0
+      ],
+      [
+       "où",
+       3.16,
+       3.38,
+       0.98
+      ],
+      [
+       "les",
+       3.38,
+       3.58,
+       1.0
+      ],
+      [
+       "erreurs",
+       3.58,
+       3.78,
+       1.0
+      ],
+      [
+       "sont",
+       3.78,
+       3.98,
+       1.0
+      ],
+      [
+       "gratuites.",
+       3.98,
+       4.38,
+       1.0
+      ]
+     ],
+     "clarte": 0.48,
+     "ok": true
+    },
+    {
+     "prise": 2,
+     "file": "fr-62-01-p2.wav",
+     "seconds": 4.4,
+     "compute": 44,
+     "heard": "Et le simulateur, c'est de l'argent fictif, le seul endroit où les erreurs sont gratuites.",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      4.38
+     ],
+     "rate": 20.8,
+     "mots": [
+      [
+       "Et",
+       0.0,
+       0.4,
+       0.56
+      ],
+      [
+       "le",
+       0.4,
+       0.58,
+       0.99
+      ],
+      [
+       "simulateur,",
+       0.58,
+       1.1,
+       0.99
+      ],
+      [
+       "c",
+       1.18,
+       1.2,
+       1.0
+      ],
+      [
+       "'est",
+       1.2,
+       1.28,
+       1.0
+      ],
+      [
+       "de",
+       1.28,
+       1.36,
+       1.0
+      ],
+      [
+       "l",
+       1.36,
+       1.44,
+       1.0
+      ],
+      [
+       "'argent",
+       1.44,
+       1.64,
+       1.0
+      ],
+      [
+       "fictif,",
+       1.64,
+       2.18,
+       0.99
+      ],
+      [
+       "le",
+       2.66,
+       2.76,
+       0.99
+      ],
+      [
+       "seul",
+       2.76,
+       2.9,
+       1.0
+      ],
+      [
+       "endroit",
+       2.9,
+       3.14,
+       1.0
+      ],
+      [
+       "où",
+       3.14,
+       3.28,
+       0.98
+      ],
+      [
+       "les",
+       3.28,
+       3.52,
+       1.0
+      ],
+      [
+       "erreurs",
+       3.52,
+       3.74,
+       1.0
+      ],
+      [
+       "sont",
+       3.74,
+       3.92,
+       1.0
+      ],
+      [
+       "gratuites.",
+       3.92,
+       4.38,
+       1.0
+      ]
+     ],
+     "clarte": 0.56,
+     "ok": true
+    }
+   ]
+  },
+  {
+   "id": "63-00",
+   "bloc": 63,
+   "ton": "curieuse",
+   "text": "Et ça coûte combien ?",
+   "tts": "Et ça coûte combien ?",
+   "gen": {},
+   "voix": "clara-fr",
+   "prises": [
+    {
+     "prise": 1,
+     "file": "fr-63-00-p1.wav",
+     "seconds": 1.2,
+     "compute": 16,
+     "heard": "Et ça coûte combien ?",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      1.18
+     ],
+     "rate": 17.8,
+     "mots": [
+      [
+       "Et",
+       0.0,
+       0.54,
+       0.76
+      ],
+      [
+       "ça",
+       0.54,
+       0.66,
+       0.99
+      ],
+      [
+       "coûte",
+       0.66,
+       0.86,
+       0.97
+      ],
+      [
+       "combien",
+       0.86,
+       1.08,
+       1.0
+      ],
+      [
+       "?",
+       1.08,
+       1.18,
+       0.83
+      ]
+     ],
+     "clarte": 0.76,
+     "ok": true
+    },
+    {
+     "prise": 2,
+     "file": "fr-63-00-p2.wav",
+     "seconds": 0.88,
+     "compute": 14,
+     "heard": "Et ça coûte combien ?",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      0.86
+     ],
+     "rate": 24.4,
+     "mots": [
+      [
+       "Et",
+       0.0,
+       0.24,
+       0.83
+      ],
+      [
+       "ça",
+       0.24,
+       0.34,
+       0.98
+      ],
+      [
+       "coûte",
+       0.34,
+       0.56,
+       0.98
+      ],
+      [
+       "combien",
+       0.56,
+       0.78,
+       1.0
+      ],
+      [
+       "?",
+       0.78,
+       0.86,
+       0.84
+      ]
+     ],
+     "clarte": 0.83,
+     "ok": true
+    }
+   ]
+  },
+  {
+   "id": "64-00",
+   "bloc": 64,
+   "ton": "net",
+   "text": "Découverte est gratuit, sans limite de durée. Fondateur revient à moins d'un euro par jour, en moyenne. Et vous avez sept jours d'essai gratuit sur tout Arsenal, sans carte bancaire.",
+   "tts": "Découverte est gratuit, sans limite de durée. Fondateur revient à moins d'un euro par jour, en moyenne. Et vous avez sept jours d'essai gratuit sur tout Arsenal, sans carte bancaire.",
+   "gen": {},
+   "voix": "victor-fr",
+   "prises": [
+    {
+     "prise": 1,
+     "file": "fr-64-00-p1.wav",
+     "seconds": 10.16,
+     "compute": 97,
+     "heard": "Découverte et gratuite, sans limite de durée. Fondateur revient à moins d'un euro par jour, en moyenne, et vous avez 7 jours d'essais gratuits sur tout arsenal, sans carte bancaire.",
+     "wer": 0.062,
+     "extra": 2,
+     "speech": [
+      0.0,
+      10.1
+     ],
+     "rate": 18.0,
+     "mots": [
+      [
+       "Découverte",
+       0.0,
+       0.68,
+       0.9
+      ],
+      [
+       "et",
+       0.68,
+       0.9,
+       0.93
+      ],
+      [
+       "gratuite,",
+       0.9,
+       1.42,
+       0.71
+      ],
+      [
+       "sans",
+       1.68,
+       1.76,
+       0.99
+      ],
+      [
+       "limite",
+       1.76,
+       2.02,
+       0.96
+      ],
+      [
+       "de",
+       2.02,
+       2.26,
+       1.0
+      ],
+      [
+       "durée.",
+       2.26,
+       2.76,
+       1.0
+      ],
+      [
+       "Fondateur",
+       2.92,
+       3.4,
+       0.92
+      ],
+      [
+       "revient",
+       3.4,
+       3.76,
+       0.99
+      ],
+      [
+       "à",
+       3.76,
+       3.92,
+       0.99
+      ],
+      [
+       "moins",
+       3.92,
+       4.1,
+       0.99
+      ],
+      [
+       "d",
+       4.1,
+       4.22,
+       0.98
+      ],
+      [
+       "'un",
+       4.22,
+       4.36,
+       0.94
+      ],
+      [
+       "euro",
+       4.36,
+       4.52,
+       0.87
+      ],
+      [
+       "par",
+       4.52,
+       4.78,
+       0.99
+      ],
+      [
+       "jour,",
+       4.78,
+       5.1,
+       1.0
+      ],
+      [
+       "en",
+       5.5,
+       5.66,
+       0.97
+      ],
+      [
+       "moyenne,",
+       5.66,
+       6.16,
+       1.0
+      ],
+      [
+       "et",
+       6.62,
+       6.72,
+       0.98
+      ],
+      [
+       "vous",
+       6.72,
+       6.82,
+       1.0
+      ],
+      [
+       "avez",
+       6.82,
+       7.1,
+       1.0
+      ],
+      [
+       "7",
+       7.1,
+       7.34,
+       0.69
+      ],
+      [
+       "jours",
+       7.34,
+       7.56,
+       1.0
+      ],
+      [
+       "d",
+       7.56,
+       7.7,
+       0.99
+      ],
+      [
+       "'essais",
+       7.7,
+       7.94,
+       0.8
+      ],
+      [
+       "gratuits",
+       7.94,
+       8.26,
+       0.98
+      ],
+      [
+       "sur",
+       8.26,
+       8.54,
+       0.98
+      ],
+      [
+       "tout",
+       8.54,
+       8.7,
+       0.96
+      ],
+      [
+       "arsenal,",
+       8.7,
+       9.16,
+       0.74
+      ],
+      [
+       "sans",
+       9.3,
+       9.44,
+       1.0
+      ],
+      [
+       "carte",
+       9.44,
+       9.7,
+       0.99
+      ],
+      [
+       "bancaire.",
+       9.7,
+       10.1,
+       1.0
+      ]
+     ],
+     "clarte": 0.69,
+     "ok": true
+    },
+    {
+     "prise": 2,
+     "file": "fr-64-00-p2.wav",
+     "seconds": 9.76,
+     "compute": 95,
+     "heard": "Découverte et gratuite, sans limite de durée. Fondateur revient à moins d'un euro par jour, en moyenne. Et vous avez 7 jours d'essai gratuits sur tout Arsenal, sans carte bancaire.",
+     "wer": 0.062,
+     "extra": 2,
+     "speech": [
+      0.0,
+      9.74
+     ],
+     "rate": 18.7,
+     "mots": [
+      [
+       "Découverte",
+       0.0,
+       0.68,
+       0.94
+      ],
+      [
+       "et",
+       0.68,
+       0.9,
+       0.83
+      ],
+      [
+       "gratuite,",
+       0.9,
+       1.38,
+       0.58
+      ],
+      [
+       "sans",
+       1.76,
+       1.84,
+       0.99
+      ],
+      [
+       "limite",
+       1.84,
+       2.06,
+       0.95
+      ],
+      [
+       "de",
+       2.06,
+       2.3,
+       1.0
+      ],
+      [
+       "durée.",
+       2.3,
+       2.82,
+       1.0
+      ],
+      [
+       "Fondateur",
+       3.02,
+       3.46,
+       0.9
+      ],
+      [
+       "revient",
+       3.46,
+       3.84,
+       0.99
+      ],
+      [
+       "à",
+       3.84,
+       4.06,
+       0.99
+      ],
+      [
+       "moins",
+       4.06,
+       4.22,
+       0.99
+      ],
+      [
+       "d",
+       4.22,
+       4.32,
+       0.98
+      ],
+      [
+       "'un",
+       4.32,
+       4.4,
+       0.87
+      ],
+      [
+       "euro",
+       4.4,
+       4.56,
+       0.88
+      ],
+      [
+       "par",
+       4.56,
+       4.8,
+       0.99
+      ],
+      [
+       "jour,",
+       4.8,
+       5.08,
+       1.0
+      ],
+      [
+       "en",
+       5.22,
+       5.44,
+       1.0
+      ],
+      [
+       "moyenne.",
+       5.44,
+       5.84,
+       1.0
+      ],
+      [
+       "Et",
+       6.24,
+       6.32,
+       0.93
+      ],
+      [
+       "vous",
+       6.32,
+       6.4,
+       0.99
+      ],
+      [
+       "avez",
+       6.4,
+       6.68,
+       1.0
+      ],
+      [
+       "7",
+       6.68,
+       6.9,
+       0.77
+      ],
+      [
+       "jours",
+       6.9,
+       7.06,
+       1.0
+      ],
+      [
+       "d",
+       7.06,
+       7.2,
+       0.99
+      ],
+      [
+       "'essai",
+       7.2,
+       7.44,
+       0.95
+      ],
+      [
+       "gratuits",
+       7.44,
+       7.8,
+       0.95
+      ],
+      [
+       "sur",
+       7.8,
+       8.02,
+       0.99
+      ],
+      [
+       "tout",
+       8.02,
+       8.16,
+       0.95
+      ],
+      [
+       "Arsenal,",
+       8.16,
+       8.64,
+       0.54
+      ],
+      [
+       "sans",
+       9.02,
+       9.14,
+       0.99
+      ],
+      [
+       "carte",
+       9.14,
+       9.32,
+       1.0
+      ],
+      [
+       "bancaire.",
+       9.32,
+       9.74,
+       0.99
+      ]
+     ],
+     "clarte": 0.54,
+     "ok": true
+    }
+   ]
+  },
+  {
+   "id": "65-00",
+   "bloc": 65,
+   "ton": "vive",
+   "text": "Et on peut entrer quand ?",
+   "tts": "Et on peut entrer quand ?",
+   "gen": {},
+   "voix": "clara-fr",
+   "prises": [
+    {
+     "prise": 1,
+     "file": "fr-65-00-p1.wav",
+     "seconds": 0.96,
+     "compute": 15,
+     "heard": "Et on peut entrer quand ?",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      0.94
+     ],
+     "rate": 26.6,
+     "mots": [
+      [
+       "Et",
+       0.0,
+       0.22,
+       0.83
+      ],
+      [
+       "on",
+       0.22,
+       0.3,
+       0.99
+      ],
+      [
+       "peut",
+       0.3,
+       0.44,
+       0.99
+      ],
+      [
+       "entrer",
+       0.44,
+       0.78,
+       0.99
+      ],
+      [
+       "quand",
+       0.78,
+       0.86,
+       0.98
+      ],
+      [
+       "?",
+       0.86,
+       0.94,
+       0.71
+      ]
+     ],
+     "clarte": 0.71,
+     "ok": true
+    },
+    {
+     "prise": 2,
+     "file": "fr-65-00-p2.wav",
+     "seconds": 1.12,
+     "compute": 16,
+     "heard": "Et on peut entrer quand ?",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      1.1
+     ],
+     "rate": 22.7,
+     "mots": [
+      [
+       "Et",
+       0.0,
+       0.22,
+       0.75
+      ],
+      [
+       "on",
+       0.22,
+       0.32,
+       0.99
+      ],
+      [
+       "peut",
+       0.32,
+       0.48,
+       0.99
+      ],
+      [
+       "entrer",
+       0.48,
+       0.9,
+       0.97
+      ],
+      [
+       "quand",
+       0.9,
+       0.98,
+       0.98
+      ],
+      [
+       "?",
+       0.98,
+       1.1,
+       0.78
+      ]
+     ],
+     "clarte": 0.75,
+     "ok": true
+    }
+   ]
+  },
+  {
+   "id": "66-00",
+   "bloc": 66,
+   "ton": "energique",
+   "text": "Le lundi onze janvier deux mille vingt-sept. Laissez votre adresse sur macroarsenal.com : vous serez prévenu le jour de l'ouverture.",
+   "tts": "Le lundi onze janvier deux mille vingt-sept. Laissez votre adresse sur macro arsenal point com : vous serez prévenu le jour de l'ouverture.",
+   "gen": {},
+   "voix": "victor-fr",
+   "prises": [
+    {
+     "prise": 1,
+     "file": "fr-66-00-p1.wav",
+     "seconds": 8.24,
+     "compute": 85,
+     "heard": "Le lundi 11 janvier 2027, laissez votre adresse sur macroarsenal.com, vous serez prévenu le jour de l'ouverture.",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      8.22
+     ],
+     "rate": 16.9,
+     "mots": [
+      [
+       "Le",
+       0.0,
+       0.28,
+       0.26
+      ],
+      [
+       "lundi",
+       0.28,
+       0.76,
+       0.97
+      ],
+      [
+       "11",
+       0.76,
+       1.14,
+       0.99
+      ],
+      [
+       "janvier",
+       1.14,
+       1.7,
+       0.99
+      ],
+      [
+       "2027,",
+       1.7,
+       2.7,
+       0.98
+      ],
+      [
+       "laissez",
+       3.12,
+       3.38,
+       0.99
+      ],
+      [
+       "votre",
+       3.38,
+       3.52,
+       1.0
+      ],
+      [
+       "adresse",
+       3.52,
+       3.84,
+       1.0
+      ],
+      [
+       "sur",
+       3.84,
+       4.1,
+       0.99
+      ],
+      [
+       "macroarsenal",
+       4.1,
+       4.9,
+       0.66
+      ],
+      [
+       ".com,",
+       4.9,
+       5.68,
+       0.98
+      ],
+      [
+       "vous",
+       6.12,
+       6.26,
+       0.96
+      ],
+      [
+       "serez",
+       6.26,
+       6.56,
+       1.0
+      ],
+      [
+       "prévenu",
+       6.56,
+       7.08,
+       0.94
+      ],
+      [
+       "le",
+       7.08,
+       7.38,
+       0.98
+      ],
+      [
+       "jour",
+       7.38,
+       7.56,
+       0.99
+      ],
+      [
+       "de",
+       7.56,
+       7.7,
+       1.0
+      ],
+      [
+       "l",
+       7.7,
+       7.76,
+       1.0
+      ],
+      [
+       "'ouverture.",
+       7.76,
+       8.22,
+       1.0
+      ]
+     ],
+     "clarte": 0.26,
+     "ok": true
+    },
+    {
+     "prise": 2,
+     "file": "fr-66-00-p2.wav",
+     "seconds": 8.08,
+     "compute": 84,
+     "heard": "Le lundi 11 janvier 2027, laissez votre adresse sur macroarsenal.com comme vous serez prévenu le jour de l'ouverture.",
+     "wer": 0.0,
+     "extra": 1,
+     "speech": [
+      0.0,
+      8.06
+     ],
+     "rate": 17.2,
+     "mots": [
+      [
+       "Le",
+       0.0,
+       0.32,
+       0.33
+      ],
+      [
+       "lundi",
+       0.32,
+       0.8,
+       0.97
+      ],
+      [
+       "11",
+       0.8,
+       1.1,
+       0.99
+      ],
+      [
+       "janvier",
+       1.1,
+       1.64,
+       0.99
+      ],
+      [
+       "2027,",
+       1.64,
+       2.6,
+       0.98
+      ],
+      [
+       "laissez",
+       3.04,
+       3.3,
+       0.99
+      ],
+      [
+       "votre",
+       3.3,
+       3.44,
+       1.0
+      ],
+      [
+       "adresse",
+       3.44,
+       3.8,
+       0.99
+      ],
+      [
+       "sur",
+       3.8,
+       4.08,
+       0.99
+      ],
+      [
+       "macroarsenal",
+       4.08,
+       4.94,
+       0.8
+      ],
+      [
+       ".com",
+       4.94,
+       5.4,
+       0.99
+      ],
+      [
+       "comme",
+       5.4,
+       5.92,
+       0.35
+      ],
+      [
+       "vous",
+       5.92,
+       6.2,
+       0.92
+      ],
+      [
+       "serez",
+       6.2,
+       6.56,
+       0.98
+      ],
+      [
+       "prévenu",
+       6.56,
+       6.98,
+       0.91
+      ],
+      [
+       "le",
+       6.98,
+       7.18,
+       0.99
+      ],
+      [
+       "jour",
+       7.18,
+       7.36,
+       1.0
+      ],
+      [
+       "de",
+       7.36,
+       7.5,
+       1.0
+      ],
+      [
+       "l",
+       7.5,
+       7.54,
+       1.0
+      ],
+      [
+       "'ouverture.",
+       7.54,
+       8.06,
+       1.0
+      ]
+     ],
+     "clarte": 0.33,
+     "ok": true
+    }
+   ]
+  }
+ ]
+}

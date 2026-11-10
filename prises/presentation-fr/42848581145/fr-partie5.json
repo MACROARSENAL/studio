@@ -1,0 +1,904 @@
+{
+ "langue": "fr",
+ "part": 5,
+ "voix": "victor-fr",
+ "phrases": [
+  {
+   "id": "15-00",
+   "bloc": 15,
+   "ton": "sceptique",
+   "text": "D'accord. Mais soyons francs : encore un outil de trading ? Il en sort un tous les matins !",
+   "tts": "D'accord. Mais soyons francs : encore un outil de trading ? Il en sort un tous les matins !",
+   "gen": {},
+   "voix": "clara-fr",
+   "prises": [
+    {
+     "prise": 1,
+     "file": "fr-15-00-p1.wav",
+     "seconds": 5.52,
+     "compute": 39,
+     "heard": "D'accord, mais soyons francs, encore un outil de trading ? Il en sort un tous les matins ?",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      5.5
+     ],
+     "rate": 16.5,
+     "mots": [
+      [
+       "D",
+       0.0,
+       0.52,
+       0.78
+      ],
+      [
+       "'accord,",
+       0.52,
+       0.88,
+       1.0
+      ],
+      [
+       "mais",
+       1.34,
+       1.42,
+       0.99
+      ],
+      [
+       "soyons",
+       1.42,
+       1.82,
+       1.0
+      ],
+      [
+       "francs,",
+       1.82,
+       2.46,
+       0.93
+      ],
+      [
+       "encore",
+       2.56,
+       2.66,
+       0.99
+      ],
+      [
+       "un",
+       2.66,
+       2.84,
+       1.0
+      ],
+      [
+       "outil",
+       2.84,
+       3.04,
+       1.0
+      ],
+      [
+       "de",
+       3.04,
+       3.22,
+       1.0
+      ],
+      [
+       "trading",
+       3.22,
+       3.48,
+       0.96
+      ],
+      [
+       "?",
+       3.48,
+       4.1,
+       0.76
+      ],
+      [
+       "Il",
+       4.1,
+       4.28,
+       0.93
+      ],
+      [
+       "en",
+       4.28,
+       4.5,
+       0.99
+      ],
+      [
+       "sort",
+       4.5,
+       4.64,
+       0.99
+      ],
+      [
+       "un",
+       4.64,
+       4.9,
+       0.99
+      ],
+      [
+       "tous",
+       4.9,
+       5.04,
+       0.97
+      ],
+      [
+       "les",
+       5.04,
+       5.22,
+       1.0
+      ],
+      [
+       "matins",
+       5.22,
+       5.38,
+       1.0
+      ],
+      [
+       "?",
+       5.38,
+       5.5,
+       0.83
+      ]
+     ],
+     "clarte": 0.76,
+     "ok": true
+    },
+    {
+     "prise": 2,
+     "file": "fr-15-00-p2.wav",
+     "seconds": 4.96,
+     "compute": 35,
+     "heard": "D'accord, mais soyons francs. Encore un outil de trading ? Il en sort tous les matins.",
+     "wer": 0.059,
+     "extra": 0,
+     "speech": [
+      0.0,
+      4.68
+     ],
+     "rate": 19.4,
+     "mots": [
+      [
+       "D",
+       0.0,
+       0.52,
+       0.78
+      ],
+      [
+       "'accord,",
+       0.52,
+       0.88,
+       1.0
+      ],
+      [
+       "mais",
+       1.3,
+       1.36,
+       0.99
+      ],
+      [
+       "soyons",
+       1.36,
+       1.7,
+       0.99
+      ],
+      [
+       "francs.",
+       1.7,
+       2.3,
+       0.95
+      ],
+      [
+       "Encore",
+       2.38,
+       2.54,
+       0.99
+      ],
+      [
+       "un",
+       2.54,
+       2.68,
+       0.99
+      ],
+      [
+       "outil",
+       2.68,
+       2.88,
+       0.97
+      ],
+      [
+       "de",
+       2.88,
+       3.0,
+       0.94
+      ],
+      [
+       "trading",
+       3.0,
+       3.24,
+       0.96
+      ],
+      [
+       "?",
+       3.24,
+       3.62,
+       0.8
+      ],
+      [
+       "Il",
+       3.62,
+       3.78,
+       0.96
+      ],
+      [
+       "en",
+       3.78,
+       3.92,
+       0.99
+      ],
+      [
+       "sort",
+       3.92,
+       4.02,
+       0.99
+      ],
+      [
+       "tous",
+       4.02,
+       4.28,
+       0.71
+      ],
+      [
+       "les",
+       4.28,
+       4.5,
+       1.0
+      ],
+      [
+       "matins.",
+       4.5,
+       4.68,
+       1.0
+      ]
+     ],
+     "clarte": 0.71,
+     "ok": true
+    }
+   ]
+  },
+  {
+   "id": "16-00",
+   "bloc": 16,
+   "ton": "complice",
+   "text": "Justement. Un site pour les graphiques, un autre pour l'actualité, un troisième pour le calendrier…",
+   "tts": "Justement. Un site pour les graphiques, un autre pour l'actualité, un troisième pour le calendrier…",
+   "gen": {},
+   "voix": "victor-fr",
+   "prises": [
+    {
+     "prise": 1,
+     "file": "fr-16-00-p1.wav",
+     "seconds": 6.32,
+     "compute": 48,
+     "heard": "Justement, un site pour les graphiques, un autre pour l'actualité, un troisième pour le calendrier.",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.64,
+      6.24
+     ],
+     "rate": 17.7,
+     "mots": [
+      [
+       "Justement,",
+       0.64,
+       1.0,
+       0.93
+      ],
+      [
+       "un",
+       1.78,
+       1.9,
+       0.96
+      ],
+      [
+       "site",
+       1.9,
+       2.04,
+       1.0
+      ],
+      [
+       "pour",
+       2.04,
+       2.22,
+       1.0
+      ],
+      [
+       "les",
+       2.22,
+       2.4,
+       1.0
+      ],
+      [
+       "graphiques,",
+       2.4,
+       2.84,
+       0.98
+      ],
+      [
+       "un",
+       3.3,
+       3.46,
+       0.99
+      ],
+      [
+       "autre",
+       3.46,
+       3.62,
+       1.0
+      ],
+      [
+       "pour",
+       3.62,
+       3.8,
+       1.0
+      ],
+      [
+       "l",
+       3.8,
+       3.92,
+       1.0
+      ],
+      [
+       "'actualité,",
+       3.92,
+       4.46,
+       1.0
+      ],
+      [
+       "un",
+       4.96,
+       5.1,
+       0.99
+      ],
+      [
+       "troisième",
+       5.1,
+       5.44,
+       0.97
+      ],
+      [
+       "pour",
+       5.44,
+       5.7,
+       1.0
+      ],
+      [
+       "le",
+       5.7,
+       5.88,
+       1.0
+      ],
+      [
+       "calendrier.",
+       5.88,
+       6.24,
+       1.0
+      ]
+     ],
+     "clarte": 0.93,
+     "ok": true
+    },
+    {
+     "prise": 2,
+     "file": "fr-16-00-p2.wav",
+     "seconds": 5.44,
+     "compute": 42,
+     "heard": "Justement, un site pour les graphiques, un autre pour l'actualité, un troisième pour le calendrier.",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.48,
+      5.42
+     ],
+     "rate": 20.0,
+     "mots": [
+      [
+       "Justement,",
+       0.48,
+       0.88,
+       0.89
+      ],
+      [
+       "un",
+       1.24,
+       1.38,
+       0.98
+      ],
+      [
+       "site",
+       1.38,
+       1.56,
+       0.99
+      ],
+      [
+       "pour",
+       1.56,
+       1.74,
+       1.0
+      ],
+      [
+       "les",
+       1.74,
+       1.94,
+       1.0
+      ],
+      [
+       "graphiques,",
+       1.94,
+       2.34,
+       0.98
+      ],
+      [
+       "un",
+       2.78,
+       2.94,
+       0.99
+      ],
+      [
+       "autre",
+       2.94,
+       3.1,
+       1.0
+      ],
+      [
+       "pour",
+       3.1,
+       3.28,
+       1.0
+      ],
+      [
+       "l",
+       3.28,
+       3.38,
+       1.0
+      ],
+      [
+       "'actualité,",
+       3.38,
+       3.86,
+       1.0
+      ],
+      [
+       "un",
+       4.26,
+       4.38,
+       0.99
+      ],
+      [
+       "troisième",
+       4.38,
+       4.66,
+       0.98
+      ],
+      [
+       "pour",
+       4.66,
+       4.86,
+       1.0
+      ],
+      [
+       "le",
+       4.86,
+       5.0,
+       1.0
+      ],
+      [
+       "calendrier.",
+       5.0,
+       5.42,
+       1.0
+      ]
+     ],
+     "clarte": 0.89,
+     "ok": true
+    }
+   ]
+  },
+  {
+   "id": "16-01",
+   "bloc": 16,
+   "ton": "complice",
+   "text": "Dix onglets, et toujours pas de réponse à la seule question qui compte : pourquoi le marché bouge, et qu'est-ce que j'en fais, moi, ce matin ?",
+   "tts": "Dix onglets, et toujours pas de réponse à la seule question qui compte : pourquoi le marché bouge, et qu'est-ce que j'en fais, moi, ce matin ?",
+   "gen": {},
+   "voix": "victor-fr",
+   "prises": [
+    {
+     "prise": 1,
+     "file": "fr-16-01-p1.wav",
+     "seconds": 6.8,
+     "compute": 51,
+     "heard": "Dix onglets et toujours pas de réponse à la seule question qui compte. Pourquoi le marché bouge et qu'est-ce que j'en fais moi, ce matin ?",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      6.78
+     ],
+     "rate": 20.9,
+     "mots": [
+      [
+       "Dix",
+       0.0,
+       0.46,
+       0.56
+      ],
+      [
+       "onglets",
+       0.46,
+       0.94,
+       0.87
+      ],
+      [
+       "et",
+       0.94,
+       1.28,
+       0.7
+      ],
+      [
+       "toujours",
+       1.28,
+       1.62,
+       0.99
+      ],
+      [
+       "pas",
+       1.62,
+       1.78,
+       1.0
+      ],
+      [
+       "de",
+       1.78,
+       1.94,
+       1.0
+      ],
+      [
+       "réponse",
+       1.94,
+       2.16,
+       0.91
+      ],
+      [
+       "à",
+       2.16,
+       2.34,
+       0.99
+      ],
+      [
+       "la",
+       2.34,
+       2.48,
+       1.0
+      ],
+      [
+       "seule",
+       2.48,
+       2.6,
+       0.99
+      ],
+      [
+       "question",
+       2.6,
+       2.92,
+       1.0
+      ],
+      [
+       "qui",
+       2.92,
+       3.16,
+       0.99
+      ],
+      [
+       "compte.",
+       3.16,
+       3.38,
+       0.99
+      ],
+      [
+       "Pourquoi",
+       3.9,
+       4.06,
+       0.96
+      ],
+      [
+       "le",
+       4.06,
+       4.28,
+       1.0
+      ],
+      [
+       "marché",
+       4.28,
+       4.48,
+       1.0
+      ],
+      [
+       "bouge",
+       4.48,
+       4.78,
+       1.0
+      ],
+      [
+       "et",
+       4.78,
+       5.22,
+       0.54
+      ],
+      [
+       "qu",
+       5.22,
+       5.32,
+       0.98
+      ],
+      [
+       "'est",
+       5.32,
+       5.4,
+       1.0
+      ],
+      [
+       "-ce",
+       5.4,
+       5.42,
+       0.88
+      ],
+      [
+       "que",
+       5.42,
+       5.46,
+       0.99
+      ],
+      [
+       "j",
+       5.46,
+       5.54,
+       1.0
+      ],
+      [
+       "'en",
+       5.54,
+       5.7,
+       1.0
+      ],
+      [
+       "fais",
+       5.7,
+       5.84,
+       0.97
+      ],
+      [
+       "moi,",
+       5.84,
+       6.26,
+       0.52
+      ],
+      [
+       "ce",
+       6.46,
+       6.58,
+       0.99
+      ],
+      [
+       "matin",
+       6.58,
+       6.74,
+       1.0
+      ],
+      [
+       "?",
+       6.74,
+       6.78,
+       0.86
+      ]
+     ],
+     "clarte": 0.52,
+     "ok": true
+    },
+    {
+     "prise": 2,
+     "file": "fr-16-01-p2.wav",
+     "seconds": 7.28,
+     "compute": 54,
+     "heard": "Dix onglets et toujours pas de réponse à la seule question qui compte, pourquoi le marché bouge et qu'est-ce que j'en fais, moi, ce matin ?",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      7.24
+     ],
+     "rate": 19.6,
+     "mots": [
+      [
+       "Dix",
+       0.0,
+       0.6,
+       0.66
+      ],
+      [
+       "onglets",
+       0.6,
+       1.04,
+       0.87
+      ],
+      [
+       "et",
+       1.04,
+       1.38,
+       0.57
+      ],
+      [
+       "toujours",
+       1.38,
+       1.7,
+       0.99
+      ],
+      [
+       "pas",
+       1.7,
+       1.84,
+       1.0
+      ],
+      [
+       "de",
+       1.84,
+       2.02,
+       0.99
+      ],
+      [
+       "réponse",
+       2.02,
+       2.24,
+       0.93
+      ],
+      [
+       "à",
+       2.24,
+       2.46,
+       0.99
+      ],
+      [
+       "la",
+       2.46,
+       2.58,
+       1.0
+      ],
+      [
+       "seule",
+       2.58,
+       2.72,
+       0.99
+      ],
+      [
+       "question",
+       2.72,
+       3.02,
+       1.0
+      ],
+      [
+       "qui",
+       3.02,
+       3.24,
+       1.0
+      ],
+      [
+       "compte,",
+       3.24,
+       3.5,
+       0.99
+      ],
+      [
+       "pourquoi",
+       4.08,
+       4.22,
+       0.79
+      ],
+      [
+       "le",
+       4.22,
+       4.44,
+       1.0
+      ],
+      [
+       "marché",
+       4.44,
+       4.62,
+       1.0
+      ],
+      [
+       "bouge",
+       4.62,
+       4.96,
+       1.0
+      ],
+      [
+       "et",
+       4.96,
+       5.54,
+       0.68
+      ],
+      [
+       "qu",
+       5.54,
+       5.66,
+       0.98
+      ],
+      [
+       "'est",
+       5.66,
+       5.8,
+       1.0
+      ],
+      [
+       "-ce",
+       5.8,
+       5.82,
+       0.84
+      ],
+      [
+       "que",
+       5.82,
+       5.88,
+       0.98
+      ],
+      [
+       "j",
+       5.88,
+       5.94,
+       1.0
+      ],
+      [
+       "'en",
+       5.94,
+       6.14,
+       1.0
+      ],
+      [
+       "fais,",
+       6.14,
+       6.34,
+       0.97
+      ],
+      [
+       "moi,",
+       6.52,
+       6.68,
+       1.0
+      ],
+      [
+       "ce",
+       6.78,
+       6.94,
+       0.99
+      ],
+      [
+       "matin",
+       6.94,
+       7.1,
+       1.0
+      ],
+      [
+       "?",
+       7.1,
+       7.24,
+       0.83
+      ]
+     ],
+     "clarte": 0.57,
+     "ok": true
+    }
+   ]
+  }
+ ]
+}

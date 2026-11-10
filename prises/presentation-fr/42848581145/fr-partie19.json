@@ -1,0 +1,712 @@
+{
+ "langue": "fr",
+ "part": 19,
+ "voix": "victor-fr",
+ "phrases": [
+  {
+   "id": "67-00",
+   "bloc": 67,
+   "ton": "posee",
+   "text": "Victor… un dernier mot, pour quelqu'un qui hésite ?",
+   "tts": "Victor… un dernier mot, pour quelqu'un qui hésite ?",
+   "gen": {},
+   "voix": "clara-fr",
+   "prises": [
+    {
+     "prise": 1,
+     "file": "fr-67-00-p1.wav",
+     "seconds": 2.88,
+     "compute": 31,
+     "heard": "Victor, un dernier mot pour quelqu'un qui hésite ?",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      2.86
+     ],
+     "rate": 17.8,
+     "mots": [
+      [
+       "Victor,",
+       0.0,
+       0.58,
+       0.76
+      ],
+      [
+       "un",
+       1.06,
+       1.14,
+       0.99
+      ],
+      [
+       "dernier",
+       1.14,
+       1.44,
+       1.0
+      ],
+      [
+       "mot",
+       1.44,
+       1.64,
+       1.0
+      ],
+      [
+       "pour",
+       1.64,
+       1.9,
+       0.96
+      ],
+      [
+       "quelqu",
+       1.9,
+       2.08,
+       1.0
+      ],
+      [
+       "'un",
+       2.08,
+       2.22,
+       1.0
+      ],
+      [
+       "qui",
+       2.22,
+       2.34,
+       1.0
+      ],
+      [
+       "hésite",
+       2.34,
+       2.64,
+       1.0
+      ],
+      [
+       "?",
+       2.64,
+       2.86,
+       0.78
+      ]
+     ],
+     "clarte": 0.76,
+     "ok": true
+    },
+    {
+     "prise": 2,
+     "file": "fr-67-00-p2.wav",
+     "seconds": 2.96,
+     "compute": 32,
+     "heard": "Victor, un dernier mot pour quelqu'un qui hésite ?",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      2.94
+     ],
+     "rate": 17.3,
+     "mots": [
+      [
+       "Victor,",
+       0.0,
+       0.84,
+       0.76
+      ],
+      [
+       "un",
+       1.18,
+       1.26,
+       0.99
+      ],
+      [
+       "dernier",
+       1.26,
+       1.5,
+       1.0
+      ],
+      [
+       "mot",
+       1.5,
+       1.74,
+       1.0
+      ],
+      [
+       "pour",
+       1.74,
+       2.04,
+       0.65
+      ],
+      [
+       "quelqu",
+       2.04,
+       2.22,
+       1.0
+      ],
+      [
+       "'un",
+       2.22,
+       2.34,
+       1.0
+      ],
+      [
+       "qui",
+       2.34,
+       2.44,
+       1.0
+      ],
+      [
+       "hésite",
+       2.44,
+       2.72,
+       1.0
+      ],
+      [
+       "?",
+       2.72,
+       2.94,
+       0.66
+      ]
+     ],
+     "clarte": 0.65,
+     "ok": true
+    }
+   ]
+  },
+  {
+   "id": "68-00",
+   "bloc": 68,
+   "ton": "pose",
+   "text": "Pendant dix-huit ans, j'ai vu des traders gagner, perdre, recommencer. Ceux qui ont tenu avaient un plan… et quelqu'un à côté d'eux. MACROARSENAL, c'est ce quelqu'un.",
+   "tts": "Pendant dix-huit ans, j'ai vu des traders gagner, perdre, recommencer. Ceux qui ont tenu avaient un plan… et quelqu'un à côté d'eux. Macro Arsenal, c'est ce quelqu'un.",
+   "gen": {},
+   "voix": "victor-fr",
+   "prises": [
+    {
+     "prise": 1,
+     "file": "fr-68-00-p1.wav",
+     "seconds": 8.48,
+     "compute": 79,
+     "heard": "Pendant 18 ans, j'ai vu des traders gagner, perdre, recommencer. Ceux qui ont tenu avaient un plan et quelqu'un à côté d'eux. MACROARSENAL, c'est ce quelqu'un.",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      8.46
+     ],
+     "rate": 19.7,
+     "mots": [
+      [
+       "Pendant",
+       0.0,
+       0.56,
+       0.93
+      ],
+      [
+       "18",
+       0.56,
+       0.84,
+       0.94
+      ],
+      [
+       "ans,",
+       0.84,
+       1.1,
+       0.99
+      ],
+      [
+       "j",
+       1.2,
+       1.2,
+       1.0
+      ],
+      [
+       "'ai",
+       1.2,
+       1.28,
+       1.0
+      ],
+      [
+       "vu",
+       1.28,
+       1.36,
+       0.99
+      ],
+      [
+       "des",
+       1.36,
+       1.58,
+       1.0
+      ],
+      [
+       "traders",
+       1.58,
+       1.82,
+       0.76
+      ],
+      [
+       "gagner,",
+       1.82,
+       2.22,
+       0.99
+      ],
+      [
+       "perdre,",
+       2.52,
+       2.72,
+       0.99
+      ],
+      [
+       "recommencer.",
+       3.0,
+       3.58,
+       0.98
+      ],
+      [
+       "Ceux",
+       3.96,
+       4.08,
+       0.99
+      ],
+      [
+       "qui",
+       4.08,
+       4.18,
+       1.0
+      ],
+      [
+       "ont",
+       4.18,
+       4.38,
+       0.99
+      ],
+      [
+       "tenu",
+       4.38,
+       4.62,
+       0.99
+      ],
+      [
+       "avaient",
+       4.62,
+       4.78,
+       0.72
+      ],
+      [
+       "un",
+       4.78,
+       5.06,
+       1.0
+      ],
+      [
+       "plan",
+       5.06,
+       5.2,
+       0.99
+      ],
+      [
+       "et",
+       5.2,
+       5.66,
+       0.63
+      ],
+      [
+       "quelqu",
+       5.66,
+       5.84,
+       1.0
+      ],
+      [
+       "'un",
+       5.84,
+       5.94,
+       1.0
+      ],
+      [
+       "à",
+       5.94,
+       6.04,
+       0.97
+      ],
+      [
+       "côté",
+       6.04,
+       6.18,
+       0.99
+      ],
+      [
+       "d",
+       6.18,
+       6.28,
+       0.98
+      ],
+      [
+       "'eux.",
+       6.28,
+       6.76,
+       1.0
+      ],
+      [
+       "MACROARSENAL,",
+       7.28,
+       7.7,
+       0.59
+      ],
+      [
+       "c",
+       7.92,
+       7.94,
+       0.99
+      ],
+      [
+       "'est",
+       7.94,
+       8.04,
+       1.0
+      ],
+      [
+       "ce",
+       8.04,
+       8.12,
+       0.99
+      ],
+      [
+       "quelqu",
+       8.12,
+       8.36,
+       0.98
+      ],
+      [
+       "'un.",
+       8.36,
+       8.46,
+       1.0
+      ]
+     ],
+     "clarte": 0.59,
+     "ok": true
+    },
+    {
+     "prise": 2,
+     "file": "fr-68-00-p2.wav",
+     "seconds": 9.04,
+     "compute": 83,
+     "heard": "Pendant 18 ans, j'ai vu des traders gagner, perdre, recommencer. Ceux qui ont tenu avaient un plan et quelqu'un à côté d'eux. MACROARSENAL, c'est ce quelqu'un.",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      9.02
+     ],
+     "rate": 18.5,
+     "mots": [
+      [
+       "Pendant",
+       0.0,
+       0.4,
+       0.92
+      ],
+      [
+       "18",
+       0.4,
+       0.66,
+       0.96
+      ],
+      [
+       "ans,",
+       0.66,
+       1.04,
+       0.99
+      ],
+      [
+       "j",
+       1.26,
+       1.28,
+       0.99
+      ],
+      [
+       "'ai",
+       1.28,
+       1.34,
+       1.0
+      ],
+      [
+       "vu",
+       1.34,
+       1.42,
+       0.99
+      ],
+      [
+       "des",
+       1.42,
+       1.64,
+       1.0
+      ],
+      [
+       "traders",
+       1.64,
+       1.82,
+       0.73
+      ],
+      [
+       "gagner,",
+       1.82,
+       2.24,
+       0.99
+      ],
+      [
+       "perdre,",
+       2.66,
+       2.82,
+       0.99
+      ],
+      [
+       "recommencer.",
+       3.18,
+       3.78,
+       0.98
+      ],
+      [
+       "Ceux",
+       4.34,
+       4.5,
+       0.99
+      ],
+      [
+       "qui",
+       4.5,
+       4.6,
+       1.0
+      ],
+      [
+       "ont",
+       4.6,
+       4.78,
+       0.97
+      ],
+      [
+       "tenu",
+       4.78,
+       4.98,
+       1.0
+      ],
+      [
+       "avaient",
+       4.98,
+       5.14,
+       0.9
+      ],
+      [
+       "un",
+       5.14,
+       5.38,
+       1.0
+      ],
+      [
+       "plan",
+       5.38,
+       5.48,
+       0.99
+      ],
+      [
+       "et",
+       5.48,
+       6.2,
+       0.33
+      ],
+      [
+       "quelqu",
+       6.2,
+       6.42,
+       1.0
+      ],
+      [
+       "'un",
+       6.42,
+       6.52,
+       1.0
+      ],
+      [
+       "à",
+       6.52,
+       6.62,
+       0.98
+      ],
+      [
+       "côté",
+       6.62,
+       6.8,
+       0.99
+      ],
+      [
+       "d",
+       6.8,
+       6.9,
+       0.98
+      ],
+      [
+       "'eux.",
+       6.9,
+       7.3,
+       1.0
+      ],
+      [
+       "MACROARSENAL,",
+       7.9,
+       8.26,
+       0.59
+      ],
+      [
+       "c",
+       8.52,
+       8.56,
+       0.99
+      ],
+      [
+       "'est",
+       8.56,
+       8.64,
+       1.0
+      ],
+      [
+       "ce",
+       8.64,
+       8.74,
+       0.99
+      ],
+      [
+       "quelqu",
+       8.74,
+       8.94,
+       1.0
+      ],
+      [
+       "'un.",
+       8.94,
+       9.02,
+       1.0
+      ]
+     ],
+     "clarte": 0.33,
+     "ok": true
+    }
+   ]
+  },
+  {
+   "id": "69-00",
+   "bloc": 69,
+   "ton": "posee",
+   "text": "En salle, personne ne trade seul.",
+   "tts": "En salle, personne ne trade seul.",
+   "gen": {},
+   "voix": "clara-fr",
+   "prises": [
+    {
+     "prise": 1,
+     "file": "fr-69-00-p1.wav",
+     "seconds": 2.48,
+     "compute": 28,
+     "heard": "En salle, personne ne traite seul.",
+     "wer": 0.167,
+     "extra": 1,
+     "speech": [
+      0.0,
+      2.34
+     ],
+     "rate": 14.1,
+     "mots": [
+      [
+       "En",
+       0.0,
+       0.66,
+       0.88
+      ],
+      [
+       "salle,",
+       0.66,
+       1.2,
+       0.96
+      ],
+      [
+       "personne",
+       1.58,
+       1.66,
+       1.0
+      ],
+      [
+       "ne",
+       1.66,
+       1.84,
+       1.0
+      ],
+      [
+       "traite",
+       1.84,
+       2.08,
+       0.94
+      ],
+      [
+       "seul.",
+       2.08,
+       2.34,
+       0.94
+      ]
+     ],
+     "clarte": 0.88,
+     "ok": false
+    },
+    {
+     "prise": 2,
+     "file": "fr-69-00-p2.wav",
+     "seconds": 2.24,
+     "compute": 26,
+     "heard": "En salle, personne ne traite seul.",
+     "wer": 0.167,
+     "extra": 1,
+     "speech": [
+      0.0,
+      1.8
+     ],
+     "rate": 18.3,
+     "mots": [
+      [
+       "En",
+       0.0,
+       0.3,
+       0.89
+      ],
+      [
+       "salle,",
+       0.3,
+       0.74,
+       0.97
+      ],
+      [
+       "personne",
+       1.04,
+       1.14,
+       1.0
+      ],
+      [
+       "ne",
+       1.14,
+       1.32,
+       1.0
+      ],
+      [
+       "traite",
+       1.32,
+       1.54,
+       0.96
+      ],
+      [
+       "seul.",
+       1.54,
+       1.8,
+       0.98
+      ]
+     ],
+     "clarte": 0.89,
+     "ok": false
+    }
+   ]
+  }
+ ]
+}

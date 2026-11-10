@@ -1,0 +1,915 @@
+{
+ "langue": "fr",
+ "part": 12,
+ "voix": "victor-fr",
+ "phrases": [
+  {
+   "id": "41-00",
+   "bloc": 41,
+   "ton": "vive",
+   "text": "Bon ! J'ai une idée de trade. Je clique.",
+   "tts": "Bon ! J'ai une idée de trade. Je clique.",
+   "gen": {},
+   "voix": "clara-fr",
+   "prises": [
+    {
+     "prise": 1,
+     "file": "fr-41-00-p1.wav",
+     "seconds": 2.96,
+     "compute": 37,
+     "heard": "Bon, j'ai une idée de trade. Je clique.",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      2.76
+     ],
+     "rate": 14.5,
+     "mots": [
+      [
+       "Bon,",
+       0.0,
+       0.56,
+       0.85
+      ],
+      [
+       "j",
+       1.02,
+       1.08,
+       0.99
+      ],
+      [
+       "'ai",
+       1.08,
+       1.24,
+       1.0
+      ],
+      [
+       "une",
+       1.24,
+       1.44,
+       0.99
+      ],
+      [
+       "idée",
+       1.44,
+       1.6,
+       1.0
+      ],
+      [
+       "de",
+       1.6,
+       1.88,
+       1.0
+      ],
+      [
+       "trade.",
+       1.88,
+       2.1,
+       0.81
+      ],
+      [
+       "Je",
+       2.42,
+       2.52,
+       0.99
+      ],
+      [
+       "clique.",
+       2.52,
+       2.76,
+       0.97
+      ]
+     ],
+     "clarte": 0.81,
+     "ok": true
+    },
+    {
+     "prise": 2,
+     "file": "fr-41-00-p2.wav",
+     "seconds": 2.56,
+     "compute": 32,
+     "heard": "Bon, j'ai une idée de trade, je clique.",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      2.48
+     ],
+     "rate": 16.1,
+     "mots": [
+      [
+       "Bon,",
+       0.0,
+       0.48,
+       0.86
+      ],
+      [
+       "j",
+       0.86,
+       0.9,
+       0.99
+      ],
+      [
+       "'ai",
+       0.9,
+       1.04,
+       1.0
+      ],
+      [
+       "une",
+       1.04,
+       1.18,
+       0.98
+      ],
+      [
+       "idée",
+       1.18,
+       1.34,
+       1.0
+      ],
+      [
+       "de",
+       1.34,
+       1.58,
+       1.0
+      ],
+      [
+       "trade,",
+       1.58,
+       1.84,
+       0.87
+      ],
+      [
+       "je",
+       2.18,
+       2.3,
+       1.0
+      ],
+      [
+       "clique.",
+       2.3,
+       2.48,
+       0.97
+      ]
+     ],
+     "clarte": 0.86,
+     "ok": true
+    }
+   ]
+  },
+  {
+   "id": "42-00",
+   "bloc": 42,
+   "ton": "net",
+   "text": "Stop ! Avant d'entrer : trente secondes.",
+   "tts": "Stop ! Avant d'entrer : trente secondes.",
+   "gen": {},
+   "voix": "victor-fr",
+   "prises": [
+    {
+     "prise": 1,
+     "file": "fr-42-00-p1.wav",
+     "seconds": 2.32,
+     "compute": 31,
+     "heard": "Stop, avant d'entrer, 30 secondes.",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      2.3
+     ],
+     "rate": 17.4,
+     "mots": [
+      [
+       "Stop,",
+       0.0,
+       0.44,
+       0.79
+      ],
+      [
+       "avant",
+       0.88,
+       0.92,
+       0.99
+      ],
+      [
+       "d",
+       0.92,
+       1.0,
+       1.0
+      ],
+      [
+       "'entrer,",
+       1.0,
+       1.5,
+       0.99
+      ],
+      [
+       "30",
+       1.78,
+       1.9,
+       0.88
+      ],
+      [
+       "secondes.",
+       1.9,
+       2.3,
+       0.98
+      ]
+     ],
+     "clarte": 0.79,
+     "ok": true
+    },
+    {
+     "prise": 2,
+     "file": "fr-42-00-p2.wav",
+     "seconds": 2.56,
+     "compute": 34,
+     "heard": "Stop ! Avant d'entrer, 30 secondes.",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      2.54
+     ],
+     "rate": 15.7,
+     "mots": [
+      [
+       "Stop",
+       0.0,
+       0.52,
+       0.77
+      ],
+      [
+       "!",
+       0.52,
+       0.98,
+       0.44
+      ],
+      [
+       "Avant",
+       0.98,
+       1.1,
+       0.93
+      ],
+      [
+       "d",
+       1.1,
+       1.14,
+       1.0
+      ],
+      [
+       "'entrer,",
+       1.14,
+       1.74,
+       1.0
+      ],
+      [
+       "30",
+       1.92,
+       2.08,
+       0.8
+      ],
+      [
+       "secondes.",
+       2.08,
+       2.54,
+       0.99
+      ]
+     ],
+     "clarte": 0.44,
+     "ok": true
+    }
+   ]
+  },
+  {
+   "id": "43-00",
+   "bloc": 43,
+   "ton": "complice",
+   "text": "Ha ha ! Ça commence…",
+   "tts": "Ha ha ! Ça commence…",
+   "gen": {},
+   "voix": "clara-fr",
+   "prises": [
+    {
+     "prise": 1,
+     "file": "fr-43-00-p1.wav",
+     "seconds": 1.44,
+     "compute": 19,
+     "heard": "Haha, ça commence !",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      1.42
+     ],
+     "rate": 14.1,
+     "mots": [
+      [
+       "Haha,",
+       0.0,
+       0.6,
+       0.43
+      ],
+      [
+       "ça",
+       0.9,
+       1.02,
+       0.97
+      ],
+      [
+       "commence",
+       1.02,
+       1.42,
+       1.0
+      ],
+      [
+       "!",
+       1.42,
+       1.42,
+       0.41
+      ]
+     ],
+     "clarte": 0.41,
+     "ok": true
+    },
+    {
+     "prise": 2,
+     "file": "fr-43-00-p2.wav",
+     "seconds": 1.2,
+     "compute": 16,
+     "heard": "Ha ! Ha ! Ça commence !",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      1.18
+     ],
+     "rate": 16.9,
+     "mots": [
+      [
+       "Ha",
+       0.0,
+       0.4,
+       0.61
+      ],
+      [
+       "!",
+       0.4,
+       0.48,
+       0.23
+      ],
+      [
+       "Ha",
+       0.48,
+       0.6,
+       0.57
+      ],
+      [
+       "!",
+       0.6,
+       0.66,
+       0.93
+      ],
+      [
+       "Ça",
+       0.66,
+       0.78,
+       0.8
+      ],
+      [
+       "commence",
+       0.78,
+       1.1,
+       1.0
+      ],
+      [
+       "!",
+       1.1,
+       1.18,
+       0.62
+      ]
+     ],
+     "clarte": 0.23,
+     "ok": true
+    }
+   ]
+  },
+  {
+   "id": "44-00",
+   "bloc": 44,
+   "ton": "net",
+   "text": "Avant d'entrer, c'est une checklist : l'annonce qui arrive, le Biais, les niveaux clés, la taille de position. Puis le regard de Doji : le calendrier, les niveaux, votre risque. Avec Fondateur et Arsenal, Doji voit vert, orange…",
+   "tts": "Avant d'entrer, c'est une checklist : l'annonce qui arrive, le Biais, les niveaux clés, la taille de position. Puis le regard de Doji : le calendrier, les niveaux, votre risque. Avec Fondateur et Arsenal, Doji voit vert, orange…",
+   "gen": {},
+   "voix": "victor-fr",
+   "prises": [
+    {
+     "prise": 1,
+     "file": "fr-44-00-p1.wav",
+     "seconds": 13.52,
+     "compute": 142,
+     "heard": "Avant d'entrer, c'est une checklist, l'annonce qui arrive, le biais, les niveaux clés, la taille de position, puis le regard de Doji, le calendrier, les niveaux, votre risque. Avec fondateur et arsenal, Doji voit vert, orange.",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      13.42
+     ],
+     "rate": 17.0,
+     "mots": [
+      [
+       "Avant",
+       0.0,
+       0.38,
+       0.91
+      ],
+      [
+       "d",
+       0.38,
+       0.5,
+       1.0
+      ],
+      [
+       "'entrer,",
+       0.5,
+       0.94,
+       1.0
+      ],
+      [
+       "c",
+       1.1,
+       1.1,
+       0.99
+      ],
+      [
+       "'est",
+       1.1,
+       1.18,
+       1.0
+      ],
+      [
+       "une",
+       1.18,
+       1.36,
+       0.99
+      ],
+      [
+       "checklist,",
+       1.36,
+       1.86,
+       0.74
+      ],
+      [
+       "l",
+       2.34,
+       2.42,
+       0.81
+      ],
+      [
+       "'annonce",
+       2.42,
+       2.68,
+       0.99
+      ],
+      [
+       "qui",
+       2.68,
+       2.92,
+       1.0
+      ],
+      [
+       "arrive,",
+       2.92,
+       3.24,
+       1.0
+      ],
+      [
+       "le",
+       3.56,
+       3.78,
+       0.99
+      ],
+      [
+       "biais,",
+       3.78,
+       4.06,
+       1.0
+      ],
+      [
+       "les",
+       4.16,
+       4.32,
+       0.99
+      ],
+      [
+       "niveaux",
+       4.32,
+       4.58,
+       0.99
+      ],
+      [
+       "clés,",
+       4.58,
+       4.86,
+       0.84
+      ],
+      [
+       "la",
+       5.22,
+       5.34,
+       0.99
+      ],
+      [
+       "taille",
+       5.34,
+       5.52,
+       1.0
+      ],
+      [
+       "de",
+       5.52,
+       5.72,
+       1.0
+      ],
+      [
+       "position,",
+       5.72,
+       6.18,
+       0.98
+      ],
+      [
+       "puis",
+       6.66,
+       6.8,
+       0.99
+      ],
+      [
+       "le",
+       6.8,
+       7.02,
+       0.99
+      ],
+      [
+       "regard",
+       7.02,
+       7.2,
+       0.99
+      ],
+      [
+       "de",
+       7.2,
+       7.4,
+       0.99
+      ],
+      [
+       "Doji,",
+       7.4,
+       7.7,
+       0.7
+      ],
+      [
+       "le",
+       8.14,
+       8.28,
+       1.0
+      ],
+      [
+       "calendrier,",
+       8.28,
+       8.78,
+       1.0
+      ],
+      [
+       "les",
+       8.94,
+       9.12,
+       1.0
+      ],
+      [
+       "niveaux,",
+       9.12,
+       9.44,
+       1.0
+      ],
+      [
+       "votre",
+       9.58,
+       9.74,
+       0.98
+      ],
+      [
+       "risque.",
+       9.74,
+       10.1,
+       1.0
+      ],
+      [
+       "Avec",
+       10.48,
+       10.66,
+       1.0
+      ],
+      [
+       "fondateur",
+       10.66,
+       11.18,
+       0.84
+      ],
+      [
+       "et",
+       11.18,
+       11.46,
+       0.99
+      ],
+      [
+       "arsenal,",
+       11.46,
+       11.86,
+       0.9
+      ],
+      [
+       "Doji",
+       12.08,
+       12.3,
+       0.99
+      ],
+      [
+       "voit",
+       12.3,
+       12.5,
+       0.82
+      ],
+      [
+       "vert,",
+       12.5,
+       12.84,
+       0.97
+      ],
+      [
+       "orange.",
+       13.14,
+       13.42,
+       0.63
+      ]
+     ],
+     "clarte": 0.63,
+     "ok": true
+    },
+    {
+     "prise": 2,
+     "file": "fr-44-00-p2.wav",
+     "seconds": 14.08,
+     "compute": 147,
+     "heard": "Avant d'entrer, c'est une checklist. L'annonce qui arrive, le biais, les niveaux clés, la taille de position. Puis le regard de Doji, le calendrier, les niveaux, votre risque. Avec fondateur et arsenal, Doji voit vert, orange.",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      13.94
+     ],
+     "rate": 16.4,
+     "mots": [
+      [
+       "Avant",
+       0.0,
+       0.36,
+       0.94
+      ],
+      [
+       "d",
+       0.36,
+       0.44,
+       1.0
+      ],
+      [
+       "'entrer,",
+       0.44,
+       0.88,
+       1.0
+      ],
+      [
+       "c",
+       1.08,
+       1.1,
+       0.99
+      ],
+      [
+       "'est",
+       1.1,
+       1.14,
+       1.0
+      ],
+      [
+       "une",
+       1.14,
+       1.28,
+       0.99
+      ],
+      [
+       "checklist.",
+       1.28,
+       1.7,
+       0.7
+      ],
+      [
+       "L",
+       2.12,
+       2.22,
+       0.99
+      ],
+      [
+       "'annonce",
+       2.22,
+       2.48,
+       0.99
+      ],
+      [
+       "qui",
+       2.48,
+       2.68,
+       1.0
+      ],
+      [
+       "arrive,",
+       2.68,
+       2.98,
+       1.0
+      ],
+      [
+       "le",
+       3.16,
+       3.3,
+       0.99
+      ],
+      [
+       "biais,",
+       3.3,
+       3.72,
+       1.0
+      ],
+      [
+       "les",
+       3.92,
+       4.1,
+       0.99
+      ],
+      [
+       "niveaux",
+       4.1,
+       4.36,
+       0.99
+      ],
+      [
+       "clés,",
+       4.36,
+       4.7,
+       0.83
+      ],
+      [
+       "la",
+       4.98,
+       5.08,
+       0.99
+      ],
+      [
+       "taille",
+       5.08,
+       5.28,
+       1.0
+      ],
+      [
+       "de",
+       5.28,
+       5.46,
+       1.0
+      ],
+      [
+       "position.",
+       5.46,
+       5.9,
+       0.99
+      ],
+      [
+       "Puis",
+       6.36,
+       6.56,
+       0.99
+      ],
+      [
+       "le",
+       6.56,
+       6.76,
+       0.82
+      ],
+      [
+       "regard",
+       6.76,
+       7.1,
+       0.99
+      ],
+      [
+       "de",
+       7.1,
+       7.32,
+       1.0
+      ],
+      [
+       "Doji,",
+       7.32,
+       7.62,
+       0.51
+      ],
+      [
+       "le",
+       7.96,
+       8.12,
+       1.0
+      ],
+      [
+       "calendrier,",
+       8.12,
+       8.62,
+       1.0
+      ],
+      [
+       "les",
+       8.96,
+       9.12,
+       1.0
+      ],
+      [
+       "niveaux,",
+       9.12,
+       9.58,
+       1.0
+      ],
+      [
+       "votre",
+       9.84,
+       10.02,
+       0.98
+      ],
+      [
+       "risque.",
+       10.02,
+       10.36,
+       1.0
+      ],
+      [
+       "Avec",
+       10.78,
+       10.98,
+       1.0
+      ],
+      [
+       "fondateur",
+       10.98,
+       11.46,
+       0.79
+      ],
+      [
+       "et",
+       11.46,
+       11.64,
+       1.0
+      ],
+      [
+       "arsenal,",
+       11.64,
+       12.06,
+       0.93
+      ],
+      [
+       "Doji",
+       12.5,
+       12.72,
+       0.98
+      ],
+      [
+       "voit",
+       12.72,
+       12.92,
+       0.5
+      ],
+      [
+       "vert,",
+       12.92,
+       13.32,
+       0.95
+      ],
+      [
+       "orange.",
+       13.74,
+       13.94,
+       0.65
+      ]
+     ],
+     "clarte": 0.5,
+     "ok": true
+    }
+   ]
+  }
+ ]
+}

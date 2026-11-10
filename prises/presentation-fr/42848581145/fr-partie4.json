@@ -1,0 +1,933 @@
+{
+ "langue": "fr",
+ "part": 4,
+ "voix": "victor-fr",
+ "phrases": [
+  {
+   "id": "12-00",
+   "bloc": 12,
+   "ton": "pose",
+   "text": "Une chose : en salle, personne ne trade seul. Quelqu'un lit les nouvelles, quelqu'un explique le chiffre, quelqu'un vous arrête avant la bêtise. Moi, j'étais la voix. Dix-huit ans au micro, sans trembler…",
+   "tts": "Une chose : en salle, personne ne trade seul. Quelqu'un lit les nouvelles, quelqu'un explique le chiffre, quelqu'un vous arrête avant la bêtise. Moi, j'étais la voix. Dix-huit ans au micro, sans trembler…",
+   "gen": {},
+   "voix": "victor-fr",
+   "prises": [
+    {
+     "prise": 1,
+     "file": "fr-12-00-p1.wav",
+     "seconds": 10.56,
+     "compute": 105,
+     "heard": "Une chose, en salle, personne ne traite seul. Quelqu'un lit les nouvelles, quelqu'un explique le chiffre, quelqu'un vous arrête avant la bêtise. Moi, j'étais la voix. 18 ans au micro, sans trembler.",
+     "wer": 0.027,
+     "extra": 1,
+     "speech": [
+      0.0,
+      10.16
+     ],
+     "rate": 20.1,
+     "mots": [
+      [
+       "Une",
+       0.0,
+       0.42,
+       0.82
+      ],
+      [
+       "chose,",
+       0.42,
+       0.74,
+       1.0
+      ],
+      [
+       "en",
+       0.94,
+       1.14,
+       0.98
+      ],
+      [
+       "salle,",
+       1.14,
+       1.34,
+       0.95
+      ],
+      [
+       "personne",
+       1.6,
+       1.7,
+       1.0
+      ],
+      [
+       "ne",
+       1.7,
+       1.92,
+       1.0
+      ],
+      [
+       "traite",
+       1.92,
+       2.08,
+       0.94
+      ],
+      [
+       "seul.",
+       2.08,
+       2.34,
+       0.96
+      ],
+      [
+       "Quelqu",
+       2.82,
+       2.98,
+       0.98
+      ],
+      [
+       "'un",
+       2.98,
+       3.1,
+       1.0
+      ],
+      [
+       "lit",
+       3.1,
+       3.2,
+       0.97
+      ],
+      [
+       "les",
+       3.2,
+       3.34,
+       1.0
+      ],
+      [
+       "nouvelles,",
+       3.34,
+       3.64,
+       1.0
+      ],
+      [
+       "quelqu",
+       4.04,
+       4.14,
+       1.0
+      ],
+      [
+       "'un",
+       4.14,
+       4.38,
+       1.0
+      ],
+      [
+       "explique",
+       4.38,
+       4.54,
+       1.0
+      ],
+      [
+       "le",
+       4.54,
+       4.74,
+       0.92
+      ],
+      [
+       "chiffre,",
+       4.74,
+       5.1,
+       1.0
+      ],
+      [
+       "quelqu",
+       5.34,
+       5.46,
+       0.99
+      ],
+      [
+       "'un",
+       5.46,
+       5.54,
+       1.0
+      ],
+      [
+       "vous",
+       5.54,
+       5.74,
+       1.0
+      ],
+      [
+       "arrête",
+       5.74,
+       5.94,
+       1.0
+      ],
+      [
+       "avant",
+       5.94,
+       6.08,
+       1.0
+      ],
+      [
+       "la",
+       6.08,
+       6.24,
+       1.0
+      ],
+      [
+       "bêtise.",
+       6.24,
+       6.62,
+       0.99
+      ],
+      [
+       "Moi,",
+       7.2,
+       7.36,
+       0.98
+      ],
+      [
+       "j",
+       7.42,
+       7.52,
+       1.0
+      ],
+      [
+       "'étais",
+       7.52,
+       7.62,
+       0.99
+      ],
+      [
+       "la",
+       7.62,
+       7.78,
+       0.97
+      ],
+      [
+       "voix.",
+       7.78,
+       7.96,
+       0.96
+      ],
+      [
+       "18",
+       8.54,
+       8.76,
+       0.82
+      ],
+      [
+       "ans",
+       8.76,
+       8.9,
+       0.99
+      ],
+      [
+       "au",
+       8.9,
+       9.04,
+       0.88
+      ],
+      [
+       "micro,",
+       9.04,
+       9.32,
+       0.99
+      ],
+      [
+       "sans",
+       9.66,
+       9.8,
+       1.0
+      ],
+      [
+       "trembler.",
+       9.8,
+       10.16,
+       0.99
+      ]
+     ],
+     "clarte": 0.82,
+     "ok": true
+    },
+    {
+     "prise": 2,
+     "file": "fr-12-00-p2.wav",
+     "seconds": 10.72,
+     "compute": 106,
+     "heard": "Une chose, en salle, personne ne traite seul. Quelqu'un lit les nouvelles, quelqu'un explique le chiffre, quelqu'un vous arrête avant la bêtise. Moi j'étais la voix, 18 ans au micro, sans trembler.",
+     "wer": 0.027,
+     "extra": 1,
+     "speech": [
+      0.0,
+      10.56
+     ],
+     "rate": 19.3,
+     "mots": [
+      [
+       "Une",
+       0.0,
+       0.6,
+       0.73
+      ],
+      [
+       "chose,",
+       0.6,
+       0.92,
+       1.0
+      ],
+      [
+       "en",
+       1.24,
+       1.38,
+       0.97
+      ],
+      [
+       "salle,",
+       1.38,
+       1.76,
+       0.97
+      ],
+      [
+       "personne",
+       2.1,
+       2.18,
+       0.99
+      ],
+      [
+       "ne",
+       2.18,
+       2.42,
+       1.0
+      ],
+      [
+       "traite",
+       2.42,
+       2.58,
+       0.92
+      ],
+      [
+       "seul.",
+       2.58,
+       2.84,
+       0.94
+      ],
+      [
+       "Quelqu",
+       3.38,
+       3.56,
+       0.98
+      ],
+      [
+       "'un",
+       3.56,
+       3.66,
+       1.0
+      ],
+      [
+       "lit",
+       3.66,
+       3.78,
+       0.97
+      ],
+      [
+       "les",
+       3.78,
+       3.92,
+       1.0
+      ],
+      [
+       "nouvelles,",
+       3.92,
+       4.2,
+       1.0
+      ],
+      [
+       "quelqu",
+       4.66,
+       4.74,
+       1.0
+      ],
+      [
+       "'un",
+       4.74,
+       4.98,
+       1.0
+      ],
+      [
+       "explique",
+       4.98,
+       5.2,
+       1.0
+      ],
+      [
+       "le",
+       5.2,
+       5.38,
+       0.94
+      ],
+      [
+       "chiffre,",
+       5.38,
+       5.8,
+       1.0
+      ],
+      [
+       "quelqu",
+       6.0,
+       6.1,
+       0.99
+      ],
+      [
+       "'un",
+       6.1,
+       6.2,
+       1.0
+      ],
+      [
+       "vous",
+       6.2,
+       6.36,
+       1.0
+      ],
+      [
+       "arrête",
+       6.36,
+       6.56,
+       1.0
+      ],
+      [
+       "avant",
+       6.56,
+       6.7,
+       1.0
+      ],
+      [
+       "la",
+       6.7,
+       6.86,
+       1.0
+      ],
+      [
+       "bêtise.",
+       6.86,
+       7.4,
+       0.99
+      ],
+      [
+       "Moi",
+       7.84,
+       7.98,
+       0.9
+      ],
+      [
+       "j",
+       7.98,
+       8.14,
+       0.68
+      ],
+      [
+       "'étais",
+       8.14,
+       8.24,
+       0.98
+      ],
+      [
+       "la",
+       8.24,
+       8.4,
+       0.97
+      ],
+      [
+       "voix,",
+       8.4,
+       8.62,
+       0.91
+      ],
+      [
+       "18",
+       9.06,
+       9.2,
+       0.95
+      ],
+      [
+       "ans",
+       9.2,
+       9.34,
+       0.99
+      ],
+      [
+       "au",
+       9.34,
+       9.48,
+       0.98
+      ],
+      [
+       "micro,",
+       9.48,
+       9.78,
+       0.99
+      ],
+      [
+       "sans",
+       10.06,
+       10.26,
+       1.0
+      ],
+      [
+       "trembler.",
+       10.26,
+       10.56,
+       0.99
+      ]
+     ],
+     "clarte": 0.68,
+     "ok": true
+    }
+   ]
+  },
+  {
+   "id": "12-01",
+   "bloc": 12,
+   "ton": "pose",
+   "text": "enfin, presque jamais.",
+   "tts": "enfin, presque jamais.",
+   "gen": {},
+   "voix": "victor-fr",
+   "prises": [
+    {
+     "prise": 1,
+     "file": "fr-12-01-p1.wav",
+     "seconds": 1.68,
+     "compute": 20,
+     "heard": "Enfin, presque jamais.",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      1.52
+     ],
+     "rate": 14.5,
+     "mots": [
+      [
+       "Enfin,",
+       0.0,
+       0.76,
+       0.71
+      ],
+      [
+       "presque",
+       1.1,
+       1.28,
+       1.0
+      ],
+      [
+       "jamais.",
+       1.28,
+       1.52,
+       1.0
+      ]
+     ],
+     "clarte": 0.71,
+     "ok": true
+    },
+    {
+     "prise": 2,
+     "file": "fr-12-01-p2.wav",
+     "seconds": 1.12,
+     "compute": 15,
+     "heard": "Enfin, presque jamais.",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      1.06
+     ],
+     "rate": 20.8,
+     "mots": [
+      [
+       "Enfin,",
+       0.0,
+       0.54,
+       0.63
+      ],
+      [
+       "presque",
+       0.66,
+       0.84,
+       1.0
+      ],
+      [
+       "jamais.",
+       0.84,
+       1.06,
+       1.0
+      ]
+     ],
+     "clarte": 0.63,
+     "ok": true
+    }
+   ]
+  },
+  {
+   "id": "13-00",
+   "bloc": 13,
+   "ton": "complice",
+   "text": "Presque, hein ?",
+   "tts": "Presque, hein ?",
+   "gen": {},
+   "voix": "clara-fr",
+   "prises": [
+    {
+     "prise": 1,
+     "file": "fr-13-00-p1.wav",
+     "seconds": 0.56,
+     "compute": 8,
+     "heard": "Presqu'un.",
+     "wer": 1.0,
+     "extra": 2,
+     "speech": [
+      0.26,
+      0.46
+     ],
+     "rate": 75.0,
+     "mots": [
+      [
+       "Presqu",
+       0.26,
+       0.42,
+       0.77
+      ],
+      [
+       "'un.",
+       0.42,
+       0.46,
+       0.95
+      ]
+     ],
+     "clarte": 0.77,
+     "ok": false
+    },
+    {
+     "prise": 2,
+     "file": "fr-13-00-p2.wav",
+     "seconds": 0.8,
+     "compute": 11,
+     "heard": "Presque, hein ?",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.54,
+      0.78
+     ],
+     "rate": 62.5,
+     "mots": [
+      [
+       "Presque,",
+       0.54,
+       0.64,
+       0.89
+      ],
+      [
+       "hein",
+       0.7,
+       0.74,
+       0.98
+      ],
+      [
+       "?",
+       0.74,
+       0.78,
+       0.38
+      ]
+     ],
+     "clarte": 0.38,
+     "ok": false
+    }
+   ]
+  },
+  {
+   "id": "14-00",
+   "bloc": 14,
+   "ton": "pose",
+   "text": "On en reparlera. Chez soi, on est seul face à des milliers de chiffres. Trop de bruit. Trop d'avis.",
+   "tts": "On en reparlera. Chez soi, on est seul face à des milliers de chiffres. Trop de bruit. Trop d'avis.",
+   "gen": {},
+   "voix": "victor-fr",
+   "prises": [
+    {
+     "prise": 1,
+     "file": "fr-14-00-p1.wav",
+     "seconds": 5.6,
+     "compute": 58,
+     "heard": "On en reparlera. Chez soi, on est seul face à des milliers de chiffres. Trop de bruit, trop d'avis.",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      5.58
+     ],
+     "rate": 17.7,
+     "mots": [
+      [
+       "On",
+       0.0,
+       0.22,
+       0.47
+      ],
+      [
+       "en",
+       0.22,
+       0.46,
+       0.99
+      ],
+      [
+       "reparlera.",
+       0.46,
+       1.16,
+       0.98
+      ],
+      [
+       "Chez",
+       1.62,
+       1.86,
+       0.98
+      ],
+      [
+       "soi,",
+       1.86,
+       2.06,
+       1.0
+      ],
+      [
+       "on",
+       2.32,
+       2.36,
+       1.0
+      ],
+      [
+       "est",
+       2.36,
+       2.54,
+       0.98
+      ],
+      [
+       "seul",
+       2.54,
+       2.74,
+       0.68
+      ],
+      [
+       "face",
+       2.74,
+       2.96,
+       0.98
+      ],
+      [
+       "à",
+       2.96,
+       3.08,
+       1.0
+      ],
+      [
+       "des",
+       3.08,
+       3.26,
+       1.0
+      ],
+      [
+       "milliers",
+       3.26,
+       3.5,
+       1.0
+      ],
+      [
+       "de",
+       3.5,
+       3.7,
+       1.0
+      ],
+      [
+       "chiffres.",
+       3.7,
+       4.24,
+       1.0
+      ],
+      [
+       "Trop",
+       4.44,
+       4.52,
+       0.99
+      ],
+      [
+       "de",
+       4.52,
+       4.72,
+       1.0
+      ],
+      [
+       "bruit,",
+       4.72,
+       5.06,
+       0.93
+      ],
+      [
+       "trop",
+       5.28,
+       5.34,
+       0.99
+      ],
+      [
+       "d",
+       5.34,
+       5.44,
+       1.0
+      ],
+      [
+       "'avis.",
+       5.44,
+       5.58,
+       1.0
+      ]
+     ],
+     "clarte": 0.47,
+     "ok": true
+    },
+    {
+     "prise": 2,
+     "file": "fr-14-00-p2.wav",
+     "seconds": 5.52,
+     "compute": 57,
+     "heard": "On en reparlera. Chez soi, on est seul face à des milliers de chiffres. Trop de bruit. Trop d'avis.",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      5.5
+     ],
+     "rate": 18.0,
+     "mots": [
+      [
+       "On",
+       0.0,
+       0.28,
+       0.7
+      ],
+      [
+       "en",
+       0.28,
+       0.5,
+       0.99
+      ],
+      [
+       "reparlera.",
+       0.5,
+       1.2,
+       0.98
+      ],
+      [
+       "Chez",
+       1.66,
+       1.9,
+       0.98
+      ],
+      [
+       "soi,",
+       1.9,
+       2.04,
+       1.0
+      ],
+      [
+       "on",
+       2.24,
+       2.26,
+       1.0
+      ],
+      [
+       "est",
+       2.26,
+       2.46,
+       0.99
+      ],
+      [
+       "seul",
+       2.46,
+       2.62,
+       0.64
+      ],
+      [
+       "face",
+       2.62,
+       2.88,
+       0.96
+      ],
+      [
+       "à",
+       2.88,
+       3.0,
+       1.0
+      ],
+      [
+       "des",
+       3.0,
+       3.14,
+       1.0
+      ],
+      [
+       "milliers",
+       3.14,
+       3.36,
+       1.0
+      ],
+      [
+       "de",
+       3.36,
+       3.58,
+       1.0
+      ],
+      [
+       "chiffres.",
+       3.58,
+       3.96,
+       1.0
+      ],
+      [
+       "Trop",
+       4.14,
+       4.24,
+       0.99
+      ],
+      [
+       "de",
+       4.24,
+       4.44,
+       1.0
+      ],
+      [
+       "bruit.",
+       4.44,
+       4.84,
+       0.92
+      ],
+      [
+       "Trop",
+       5.12,
+       5.22,
+       1.0
+      ],
+      [
+       "d",
+       5.22,
+       5.34,
+       1.0
+      ],
+      [
+       "'avis.",
+       5.34,
+       5.5,
+       1.0
+      ]
+     ],
+     "clarte": 0.64,
+     "ok": true
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,138 @@
+{
+ "langue": "fr",
+ "part": 20,
+ "voix": "victor-fr",
+ "phrases": [
+  {
+   "id": "72-00",
+   "bloc": 72,
+   "ton": "pose",
+   "text": "Ne tradez plus jamais à l'aveugle.",
+   "tts": "Ne tradez plus jamais à l'aveugle.",
+   "gen": {},
+   "voix": "victor-fr",
+   "prises": [
+    {
+     "prise": 5,
+     "file": "fr-72-00-p5.wav",
+     "seconds": 1.6,
+     "compute": 23,
+     "heard": "Ne traidez plus jamais à l'aveugle.",
+     "wer": 0.143,
+     "extra": 1,
+     "speech": [
+      0.0,
+      1.52
+     ],
+     "rate": 22.4,
+     "mots": [
+      [
+       "Ne",
+       0.0,
+       0.34,
+       0.58
+      ],
+      [
+       "traidez",
+       0.34,
+       0.62,
+       0.51
+      ],
+      [
+       "plus",
+       0.62,
+       0.88,
+       0.98
+      ],
+      [
+       "jamais",
+       0.88,
+       1.08,
+       0.98
+      ],
+      [
+       "à",
+       1.08,
+       1.22,
+       1.0
+      ],
+      [
+       "l",
+       1.22,
+       1.3,
+       1.0
+      ],
+      [
+       "'aveugle.",
+       1.3,
+       1.52,
+       1.0
+      ]
+     ],
+     "clarte": 0.51,
+     "ok": false
+    },
+    {
+     "prise": 6,
+     "file": "fr-72-00-p6.wav",
+     "seconds": 1.84,
+     "compute": 24,
+     "heard": "Ne tradé plus jamais à l'aveugle.",
+     "wer": 0.143,
+     "extra": 1,
+     "speech": [
+      0.0,
+      1.82
+     ],
+     "rate": 18.7,
+     "mots": [
+      [
+       "Ne",
+       0.0,
+       0.66,
+       0.71
+      ],
+      [
+       "tradé",
+       0.66,
+       0.96,
+       0.42
+      ],
+      [
+       "plus",
+       0.96,
+       1.16,
+       0.93
+      ],
+      [
+       "jamais",
+       1.16,
+       1.34,
+       0.99
+      ],
+      [
+       "à",
+       1.34,
+       1.48,
+       0.98
+      ],
+      [
+       "l",
+       1.48,
+       1.54,
+       0.99
+      ],
+      [
+       "'aveugle.",
+       1.54,
+       1.82,
+       1.0
+      ]
+     ],
+     "clarte": 0.42,
+     "ok": false
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,1034 @@
+{
+ "langue": "fr",
+ "part": 8,
+ "voix": "victor-fr",
+ "phrases": [
+  {
+   "id": "24-00",
+   "bloc": 24,
+   "ton": "curieuse",
+   "text": "Une poignée ? Sur des centaines ?",
+   "tts": "Une poignée ? Sur des centaines ?",
+   "gen": {},
+   "voix": "clara-fr",
+   "prises": [
+    {
+     "prise": 1,
+     "file": "fr-24-00-p1.wav",
+     "seconds": 1.84,
+     "compute": 23,
+     "heard": "Une poignée ? Sur des centaines ?",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      1.82
+     ],
+     "rate": 18.1,
+     "mots": [
+      [
+       "Une",
+       0.0,
+       0.44,
+       0.9
+      ],
+      [
+       "poignée",
+       0.44,
+       0.96,
+       0.99
+      ],
+      [
+       "?",
+       0.96,
+       1.16,
+       0.62
+      ],
+      [
+       "Sur",
+       1.16,
+       1.28,
+       0.94
+      ],
+      [
+       "des",
+       1.28,
+       1.48,
+       1.0
+      ],
+      [
+       "centaines",
+       1.48,
+       1.72,
+       1.0
+      ],
+      [
+       "?",
+       1.72,
+       1.82,
+       0.93
+      ]
+     ],
+     "clarte": 0.62,
+     "ok": true
+    },
+    {
+     "prise": 2,
+     "file": "fr-24-00-p2.wav",
+     "seconds": 1.84,
+     "compute": 23,
+     "heard": "Une poignée ? Sur des centaines ?",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      1.82
+     ],
+     "rate": 18.1,
+     "mots": [
+      [
+       "Une",
+       0.0,
+       0.3,
+       0.93
+      ],
+      [
+       "poignée",
+       0.3,
+       0.9,
+       0.99
+      ],
+      [
+       "?",
+       0.9,
+       1.16,
+       0.68
+      ],
+      [
+       "Sur",
+       1.16,
+       1.3,
+       0.94
+      ],
+      [
+       "des",
+       1.3,
+       1.52,
+       1.0
+      ],
+      [
+       "centaines",
+       1.52,
+       1.82,
+       1.0
+      ],
+      [
+       "?",
+       1.82,
+       1.82,
+       0.94
+      ]
+     ],
+     "clarte": 0.68,
+     "ok": true
+    }
+   ]
+  },
+  {
+   "id": "25-00",
+   "bloc": 25,
+   "ton": "energique",
+   "text": "Une poignée. Et ce n'est pas fini : la Crypto zone, une école de trading, l'Academy, un simulateur, la radio… Et Doji, l'assistant, qui connaît tout ça par cœur.",
+   "tts": "Une poignée. Et ce n'est pas fini : la Crypto zone, une école de trading, l'Akadémi, un simulateur, la radio… Et Doji, l'assistant, qui connaît tout ça par cœur.",
+   "gen": {},
+   "voix": "victor-fr",
+   "prises": [
+    {
+     "prise": 1,
+     "file": "fr-25-00-p1.wav",
+     "seconds": 11.76,
+     "compute": 125,
+     "heard": "Une poignée ! Et ce n'est pas fini, la Crypto zone, une école de trading, l'Academy, un simulateur, la radio et Doji, l'assistant qui connaît tout ça par cœur.",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      11.6
+     ],
+     "rate": 13.9,
+     "mots": [
+      [
+       "Une",
+       0.0,
+       0.5,
+       0.82
+      ],
+      [
+       "poignée",
+       0.5,
+       1.12,
+       0.98
+      ],
+      [
+       "!",
+       1.12,
+       1.56,
+       0.57
+      ],
+      [
+       "Et",
+       1.56,
+       1.68,
+       0.95
+      ],
+      [
+       "ce",
+       1.68,
+       1.84,
+       0.98
+      ],
+      [
+       "n",
+       1.84,
+       2.02,
+       1.0
+      ],
+      [
+       "'est",
+       2.02,
+       2.08,
+       1.0
+      ],
+      [
+       "pas",
+       2.08,
+       2.3,
+       1.0
+      ],
+      [
+       "fini,",
+       2.3,
+       2.52,
+       1.0
+      ],
+      [
+       "la",
+       2.94,
+       3.2,
+       0.95
+      ],
+      [
+       "Crypto",
+       3.2,
+       3.76,
+       0.17
+      ],
+      [
+       "zone,",
+       3.76,
+       3.92,
+       0.04
+      ],
+      [
+       "une",
+       4.28,
+       4.36,
+       0.95
+      ],
+      [
+       "école",
+       4.36,
+       4.64,
+       1.0
+      ],
+      [
+       "de",
+       4.64,
+       4.9,
+       1.0
+      ],
+      [
+       "trading,",
+       4.9,
+       5.22,
+       0.89
+      ],
+      [
+       "l",
+       5.7,
+       5.78,
+       0.99
+      ],
+      [
+       "'Academy,",
+       5.78,
+       6.28,
+       0.53
+      ],
+      [
+       "un",
+       6.52,
+       6.68,
+       0.99
+      ],
+      [
+       "simulateur,",
+       6.68,
+       7.44,
+       0.99
+      ],
+      [
+       "la",
+       7.68,
+       7.78,
+       0.99
+      ],
+      [
+       "radio",
+       7.78,
+       8.16,
+       0.97
+      ],
+      [
+       "et",
+       8.16,
+       8.82,
+       0.53
+      ],
+      [
+       "Doji,",
+       8.82,
+       9.4,
+       0.57
+      ],
+      [
+       "l",
+       9.7,
+       9.8,
+       1.0
+      ],
+      [
+       "'assistant",
+       9.8,
+       10.24,
+       0.98
+      ],
+      [
+       "qui",
+       10.24,
+       10.46,
+       0.97
+      ],
+      [
+       "connaît",
+       10.46,
+       10.9,
+       0.84
+      ],
+      [
+       "tout",
+       10.9,
+       10.98,
+       0.98
+      ],
+      [
+       "ça",
+       10.98,
+       11.16,
+       0.99
+      ],
+      [
+       "par",
+       11.16,
+       11.44,
+       0.99
+      ],
+      [
+       "cœur.",
+       11.44,
+       11.6,
+       0.43
+      ]
+     ],
+     "clarte": 0.04,
+     "ok": true
+    },
+    {
+     "prise": 2,
+     "file": "fr-25-00-p2.wav",
+     "seconds": 11.84,
+     "compute": 123,
+     "heard": "Une poignée, et ce n'est pas fini, la crypto zone, une école de trading, l'Academy, un simulateur, la radio, et Doji, l'assistant, qui connaît tout ça par cœur.",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      11.68
+     ],
+     "rate": 13.8,
+     "mots": [
+      [
+       "Une",
+       0.0,
+       0.54,
+       0.66
+      ],
+      [
+       "poignée,",
+       0.54,
+       1.26,
+       0.98
+      ],
+      [
+       "et",
+       1.56,
+       1.6,
+       0.92
+      ],
+      [
+       "ce",
+       1.6,
+       1.74,
+       0.98
+      ],
+      [
+       "n",
+       1.74,
+       1.86,
+       1.0
+      ],
+      [
+       "'est",
+       1.86,
+       1.88,
+       1.0
+      ],
+      [
+       "pas",
+       1.88,
+       2.04,
+       1.0
+      ],
+      [
+       "fini,",
+       2.04,
+       2.26,
+       1.0
+      ],
+      [
+       "la",
+       2.66,
+       2.82,
+       0.97
+      ],
+      [
+       "crypto",
+       2.82,
+       3.26,
+       0.47
+      ],
+      [
+       "zone,",
+       3.26,
+       3.54,
+       0.33
+      ],
+      [
+       "une",
+       4.1,
+       4.2,
+       0.98
+      ],
+      [
+       "école",
+       4.2,
+       4.48,
+       1.0
+      ],
+      [
+       "de",
+       4.48,
+       4.7,
+       1.0
+      ],
+      [
+       "trading,",
+       4.7,
+       5.02,
+       0.98
+      ],
+      [
+       "l",
+       5.5,
+       5.6,
+       0.99
+      ],
+      [
+       "'Academy,",
+       5.6,
+       6.1,
+       0.52
+      ],
+      [
+       "un",
+       6.42,
+       6.7,
+       0.99
+      ],
+      [
+       "simulateur,",
+       6.7,
+       7.4,
+       1.0
+      ],
+      [
+       "la",
+       7.68,
+       7.74,
+       0.99
+      ],
+      [
+       "radio,",
+       7.74,
+       8.16,
+       0.99
+      ],
+      [
+       "et",
+       8.72,
+       8.88,
+       0.98
+      ],
+      [
+       "Doji,",
+       8.88,
+       9.34,
+       0.64
+      ],
+      [
+       "l",
+       9.46,
+       9.64,
+       1.0
+      ],
+      [
+       "'assistant,",
+       9.64,
+       10.14,
+       0.98
+      ],
+      [
+       "qui",
+       10.46,
+       10.56,
+       1.0
+      ],
+      [
+       "connaît",
+       10.56,
+       10.94,
+       0.88
+      ],
+      [
+       "tout",
+       10.94,
+       11.1,
+       0.99
+      ],
+      [
+       "ça",
+       11.1,
+       11.26,
+       0.99
+      ],
+      [
+       "par",
+       11.26,
+       11.5,
+       1.0
+      ],
+      [
+       "cœur.",
+       11.5,
+       11.68,
+       0.59
+      ]
+     ],
+     "clarte": 0.33,
+     "ok": true
+    }
+   ]
+  },
+  {
+   "id": "26-00",
+   "bloc": 26,
+   "ton": "complice",
+   "text": "Respire, Victor !",
+   "tts": "Respire, Victor !",
+   "gen": {},
+   "voix": "clara-fr",
+   "prises": [
+    {
+     "prise": 1,
+     "file": "fr-26-00-p1.wav",
+     "seconds": 1.28,
+     "compute": 16,
+     "heard": "Respire, Victor !",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      1.26
+     ],
+     "rate": 13.5,
+     "mots": [
+      [
+       "Respire,",
+       0.0,
+       0.66,
+       0.96
+      ],
+      [
+       "Victor",
+       0.8,
+       1.02,
+       0.94
+      ],
+      [
+       "!",
+       1.02,
+       1.26,
+       0.62
+      ]
+     ],
+     "clarte": 0.62,
+     "ok": true
+    },
+    {
+     "prise": 2,
+     "file": "fr-26-00-p2.wav",
+     "seconds": 1.12,
+     "compute": 14,
+     "heard": "Respire, Victor.",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      0.96
+     ],
+     "rate": 17.7,
+     "mots": [
+      [
+       "Respire,",
+       0.0,
+       0.64,
+       0.96
+      ],
+      [
+       "Victor.",
+       0.74,
+       0.96,
+       0.83
+      ]
+     ],
+     "clarte": 0.83,
+     "ok": true
+    }
+   ]
+  },
+  {
+   "id": "27-00",
+   "bloc": 27,
+   "ton": "complice",
+   "text": "Ha ! Et tout ça en français, en anglais et en espagnol.",
+   "tts": "Ha ! Et tout ça en français, en anglais et en espagnol.",
+   "gen": {},
+   "voix": "victor-fr",
+   "prises": [
+    {
+     "prise": 1,
+     "file": "fr-27-00-p1.wav",
+     "seconds": 4.0,
+     "compute": 48,
+     "heard": "Ha ! Et tout ça en français, en anglais et en espagnol.",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      3.98
+     ],
+     "rate": 13.8,
+     "mots": [
+      [
+       "Ha",
+       0.0,
+       0.56,
+       0.68
+      ],
+      [
+       "!",
+       0.56,
+       1.0,
+       0.71
+      ],
+      [
+       "Et",
+       1.0,
+       1.16,
+       0.93
+      ],
+      [
+       "tout",
+       1.16,
+       1.28,
+       0.98
+      ],
+      [
+       "ça",
+       1.28,
+       1.46,
+       0.99
+      ],
+      [
+       "en",
+       1.46,
+       1.68,
+       0.97
+      ],
+      [
+       "français,",
+       1.68,
+       2.06,
+       0.98
+      ],
+      [
+       "en",
+       2.52,
+       2.7,
+       0.99
+      ],
+      [
+       "anglais",
+       2.7,
+       2.98,
+       0.99
+      ],
+      [
+       "et",
+       2.98,
+       3.44,
+       0.82
+      ],
+      [
+       "en",
+       3.44,
+       3.66,
+       1.0
+      ],
+      [
+       "espagnol.",
+       3.66,
+       3.98,
+       0.99
+      ]
+     ],
+     "clarte": 0.68,
+     "ok": true
+    },
+    {
+     "prise": 2,
+     "file": "fr-27-00-p2.wav",
+     "seconds": 4.08,
+     "compute": 49,
+     "heard": "Ha ! Et tout ça en français, en anglais et en espagnol.",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      4.06
+     ],
+     "rate": 13.5,
+     "mots": [
+      [
+       "Ha",
+       0.0,
+       0.58,
+       0.61
+      ],
+      [
+       "!",
+       0.58,
+       0.96,
+       0.67
+      ],
+      [
+       "Et",
+       0.96,
+       1.14,
+       0.94
+      ],
+      [
+       "tout",
+       1.14,
+       1.24,
+       0.96
+      ],
+      [
+       "ça",
+       1.24,
+       1.44,
+       0.99
+      ],
+      [
+       "en",
+       1.44,
+       1.66,
+       0.97
+      ],
+      [
+       "français,",
+       1.66,
+       2.02,
+       0.98
+      ],
+      [
+       "en",
+       2.58,
+       2.76,
+       0.99
+      ],
+      [
+       "anglais",
+       2.76,
+       3.06,
+       0.99
+      ],
+      [
+       "et",
+       3.06,
+       3.46,
+       0.85
+      ],
+      [
+       "en",
+       3.46,
+       3.74,
+       0.99
+      ],
+      [
+       "espagnol.",
+       3.74,
+       4.06,
+       0.98
+      ]
+     ],
+     "clarte": 0.61,
+     "ok": true
+    }
+   ]
+  },
+  {
+   "id": "28-00",
+   "bloc": 28,
+   "ton": "sceptique",
+   "text": "Bon, là, tu me donnes le vertige. Trop d'infos tue l'info !",
+   "tts": "Bon, là, tu me donnes le vertige. Trop d'infos tue l'info !",
+   "gen": {},
+   "voix": "clara-fr",
+   "prises": [
+    {
+     "prise": 1,
+     "file": "fr-28-00-p1.wav",
+     "seconds": 3.84,
+     "compute": 41,
+     "heard": "Bon, là, tu me donnes le vertige. Trop d'infos tu l'infos.",
+     "wer": 0.077,
+     "extra": 1,
+     "speech": [
+      0.0,
+      3.82
+     ],
+     "rate": 15.4,
+     "mots": [
+      [
+       "Bon,",
+       0.0,
+       0.48,
+       0.93
+      ],
+      [
+       "là,",
+       0.76,
+       0.98,
+       0.98
+      ],
+      [
+       "tu",
+       1.2,
+       1.22,
+       1.0
+      ],
+      [
+       "me",
+       1.22,
+       1.42,
+       0.99
+      ],
+      [
+       "donnes",
+       1.42,
+       1.52,
+       0.98
+      ],
+      [
+       "le",
+       1.52,
+       1.7,
+       1.0
+      ],
+      [
+       "vertige.",
+       1.7,
+       2.22,
+       0.99
+      ],
+      [
+       "Trop",
+       2.84,
+       3.0,
+       0.99
+      ],
+      [
+       "d",
+       3.0,
+       3.12,
+       1.0
+      ],
+      [
+       "'infos",
+       3.12,
+       3.38,
+       0.93
+      ],
+      [
+       "tu",
+       3.38,
+       3.48,
+       0.51
+      ],
+      [
+       "l",
+       3.48,
+       3.58,
+       0.95
+      ],
+      [
+       "'infos.",
+       3.58,
+       3.82,
+       0.92
+      ]
+     ],
+     "clarte": 0.51,
+     "ok": true
+    },
+    {
+     "prise": 2,
+     "file": "fr-28-00-p2.wav",
+     "seconds": 3.36,
+     "compute": 36,
+     "heard": "Bon, là, tu me donnes le vertige. Trop d'infos tu l'infos.",
+     "wer": 0.077,
+     "extra": 1,
+     "speech": [
+      0.0,
+      3.34
+     ],
+     "rate": 17.7,
+     "mots": [
+      [
+       "Bon,",
+       0.0,
+       0.32,
+       0.89
+      ],
+      [
+       "là,",
+       0.6,
+       0.8,
+       0.97
+      ],
+      [
+       "tu",
+       0.94,
+       0.96,
+       1.0
+      ],
+      [
+       "me",
+       0.96,
+       1.14,
+       0.99
+      ],
+      [
+       "donnes",
+       1.14,
+       1.24,
+       0.98
+      ],
+      [
+       "le",
+       1.24,
+       1.46,
+       1.0
+      ],
+      [
+       "vertige.",
+       1.46,
+       1.92,
+       0.99
+      ],
+      [
+       "Trop",
+       2.24,
+       2.36,
+       0.98
+      ],
+      [
+       "d",
+       2.36,
+       2.5,
+       1.0
+      ],
+      [
+       "'infos",
+       2.5,
+       2.8,
+       0.94
+      ],
+      [
+       "tu",
+       2.8,
+       2.88,
+       0.7
+      ],
+      [
+       "l",
+       2.88,
+       3.02,
+       0.89
+      ],
+      [
+       "'infos.",
+       3.02,
+       3.34,
+       0.92
+      ]
+     ],
+     "clarte": 0.7,
+     "ok": true
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,1081 @@
+{
+ "langue": "fr",
+ "part": 14,
+ "voix": "victor-fr",
+ "phrases": [
+  {
+   "id": "47-00",
+   "bloc": 47,
+   "ton": "pose",
+   "text": "Dans la salle, un jeune trader n'avait pas mis de stop. Il a perdu tout son compte.",
+   "tts": "Dans la salle, un jeune trader n'avait pas mis de stop. Il a perdu tout son compte.",
+   "gen": {},
+   "voix": "victor-fr",
+   "prises": [
+    {
+     "prise": 1,
+     "file": "fr-47-00-p1.wav",
+     "seconds": 3.6,
+     "compute": 39,
+     "heard": "Dans la salle, un jeune trader n'avait pas mis de stop, il a perdu tout son compte.",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      3.48
+     ],
+     "rate": 23.9,
+     "mots": [
+      [
+       "Dans",
+       0.0,
+       0.2,
+       0.92
+      ],
+      [
+       "la",
+       0.2,
+       0.44,
+       1.0
+      ],
+      [
+       "salle,",
+       0.44,
+       0.64,
+       1.0
+      ],
+      [
+       "un",
+       0.74,
+       0.84,
+       1.0
+      ],
+      [
+       "jeune",
+       0.84,
+       1.02,
+       0.99
+      ],
+      [
+       "trader",
+       1.02,
+       1.24,
+       0.98
+      ],
+      [
+       "n",
+       1.24,
+       1.4,
+       0.98
+      ],
+      [
+       "'avait",
+       1.4,
+       1.52,
+       0.99
+      ],
+      [
+       "pas",
+       1.52,
+       1.64,
+       1.0
+      ],
+      [
+       "mis",
+       1.64,
+       1.76,
+       0.99
+      ],
+      [
+       "de",
+       1.76,
+       1.96,
+       1.0
+      ],
+      [
+       "stop,",
+       1.96,
+       2.1,
+       0.94
+      ],
+      [
+       "il",
+       2.48,
+       2.6,
+       0.98
+      ],
+      [
+       "a",
+       2.6,
+       2.72,
+       0.99
+      ],
+      [
+       "perdu",
+       2.72,
+       2.94,
+       1.0
+      ],
+      [
+       "tout",
+       2.94,
+       3.12,
+       0.99
+      ],
+      [
+       "son",
+       3.12,
+       3.28,
+       1.0
+      ],
+      [
+       "compte.",
+       3.28,
+       3.48,
+       1.0
+      ]
+     ],
+     "clarte": 0.92,
+     "ok": true
+    },
+    {
+     "prise": 2,
+     "file": "fr-47-00-p2.wav",
+     "seconds": 3.76,
+     "compute": 41,
+     "heard": "Dans la salle, un jeune trader n'avait pas mis de stop, il a perdu tout son compte.",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      3.74
+     ],
+     "rate": 22.2,
+     "mots": [
+      [
+       "Dans",
+       0.0,
+       0.14,
+       0.93
+      ],
+      [
+       "la",
+       0.14,
+       0.4,
+       1.0
+      ],
+      [
+       "salle,",
+       0.4,
+       0.62,
+       1.0
+      ],
+      [
+       "un",
+       0.76,
+       0.86,
+       1.0
+      ],
+      [
+       "jeune",
+       0.86,
+       1.04,
+       0.99
+      ],
+      [
+       "trader",
+       1.04,
+       1.3,
+       0.98
+      ],
+      [
+       "n",
+       1.3,
+       1.48,
+       0.99
+      ],
+      [
+       "'avait",
+       1.48,
+       1.62,
+       0.99
+      ],
+      [
+       "pas",
+       1.62,
+       1.7,
+       1.0
+      ],
+      [
+       "mis",
+       1.7,
+       1.84,
+       0.99
+      ],
+      [
+       "de",
+       1.84,
+       2.04,
+       1.0
+      ],
+      [
+       "stop,",
+       2.04,
+       2.2,
+       0.93
+      ],
+      [
+       "il",
+       2.72,
+       2.82,
+       0.98
+      ],
+      [
+       "a",
+       2.82,
+       2.96,
+       0.99
+      ],
+      [
+       "perdu",
+       2.96,
+       3.16,
+       1.0
+      ],
+      [
+       "tout",
+       3.16,
+       3.34,
+       0.99
+      ],
+      [
+       "son",
+       3.34,
+       3.5,
+       1.0
+      ],
+      [
+       "compte.",
+       3.5,
+       3.74,
+       1.0
+      ]
+     ],
+     "clarte": 0.93,
+     "ok": true
+    }
+   ]
+  },
+  {
+   "id": "48-00",
+   "bloc": 48,
+   "ton": "posee",
+   "text": "Tout ?",
+   "tts": "Tout ?",
+   "gen": {},
+   "voix": "clara-fr",
+   "prises": [
+    {
+     "prise": 1,
+     "file": "fr-48-00-p1.wav",
+     "seconds": 0.4,
+     "compute": 10,
+     "heard": "Tu ?",
+     "wer": 1.0,
+     "extra": 1,
+     "speech": [
+      0.0,
+      0.36
+     ],
+     "rate": 16.7,
+     "mots": [
+      [
+       "Tu",
+       0.0,
+       0.0,
+       0.13
+      ],
+      [
+       "?",
+       0.0,
+       0.36,
+       0.32
+      ]
+     ],
+     "clarte": 0.13,
+     "ok": false
+    },
+    {
+     "prise": 2,
+     "file": "fr-48-00-p2.wav",
+     "seconds": 0.64,
+     "compute": 12,
+     "heard": "TOUT !",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      0.62
+     ],
+     "rate": 9.7,
+     "mots": [
+      [
+       "TOUT",
+       0.0,
+       0.4,
+       0.26
+      ],
+      [
+       "!",
+       0.4,
+       0.62,
+       0.68
+      ]
+     ],
+     "clarte": 0.26,
+     "ok": true
+    }
+   ]
+  },
+  {
+   "id": "49-00",
+   "bloc": 49,
+   "ton": "pose",
+   "text": "Tout. Ce soir-là, je me suis fait une promesse : plus personne ne devrait apprendre ça seul.",
+   "tts": "Tout. Ce soir-là, je me suis fait une promesse : plus personne ne devrait apprendre ça seul.",
+   "gen": {},
+   "voix": "victor-fr",
+   "prises": [
+    {
+     "prise": 1,
+     "file": "fr-49-00-p1.wav",
+     "seconds": 4.8,
+     "compute": 51,
+     "heard": "Tout. Ce soir-là, je me suis fait une promesse. Plus personne ne devrait apprendre ça seul.",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      4.6
+     ],
+     "rate": 20.0,
+     "mots": [
+      [
+       "Tout.",
+       0.0,
+       0.3,
+       0.71
+      ],
+      [
+       "Ce",
+       0.94,
+       1.08,
+       0.98
+      ],
+      [
+       "soir",
+       1.08,
+       1.26,
+       1.0
+      ],
+      [
+       "-là,",
+       1.26,
+       1.5,
+       0.88
+      ],
+      [
+       "je",
+       1.6,
+       1.68,
+       1.0
+      ],
+      [
+       "me",
+       1.68,
+       1.76,
+       1.0
+      ],
+      [
+       "suis",
+       1.76,
+       1.9,
+       1.0
+      ],
+      [
+       "fait",
+       1.9,
+       2.0,
+       0.99
+      ],
+      [
+       "une",
+       2.0,
+       2.22,
+       1.0
+      ],
+      [
+       "promesse.",
+       2.22,
+       2.72,
+       1.0
+      ],
+      [
+       "Plus",
+       2.96,
+       3.1,
+       1.0
+      ],
+      [
+       "personne",
+       3.1,
+       3.44,
+       1.0
+      ],
+      [
+       "ne",
+       3.44,
+       3.62,
+       1.0
+      ],
+      [
+       "devrait",
+       3.62,
+       3.84,
+       0.99
+      ],
+      [
+       "apprendre",
+       3.84,
+       4.18,
+       1.0
+      ],
+      [
+       "ça",
+       4.18,
+       4.42,
+       0.97
+      ],
+      [
+       "seul.",
+       4.42,
+       4.6,
+       0.95
+      ]
+     ],
+     "clarte": 0.71,
+     "ok": true
+    },
+    {
+     "prise": 2,
+     "file": "fr-49-00-p2.wav",
+     "seconds": 4.56,
+     "compute": 49,
+     "heard": "Tout. Ce soir-là, je me suis fait une promesse. Plus personne ne devrait apprendre sa seule.",
+     "wer": 0.118,
+     "extra": 2,
+     "speech": [
+      0.0,
+      4.42
+     ],
+     "rate": 20.8,
+     "mots": [
+      [
+       "Tout.",
+       0.0,
+       0.32,
+       0.81
+      ],
+      [
+       "Ce",
+       0.8,
+       0.92,
+       0.99
+      ],
+      [
+       "soir",
+       0.92,
+       1.1,
+       1.0
+      ],
+      [
+       "-là,",
+       1.1,
+       1.26,
+       0.92
+      ],
+      [
+       "je",
+       1.32,
+       1.4,
+       0.99
+      ],
+      [
+       "me",
+       1.4,
+       1.48,
+       1.0
+      ],
+      [
+       "suis",
+       1.48,
+       1.64,
+       1.0
+      ],
+      [
+       "fait",
+       1.64,
+       1.72,
+       0.99
+      ],
+      [
+       "une",
+       1.72,
+       1.96,
+       1.0
+      ],
+      [
+       "promesse.",
+       1.96,
+       2.48,
+       1.0
+      ],
+      [
+       "Plus",
+       2.82,
+       2.94,
+       0.99
+      ],
+      [
+       "personne",
+       2.94,
+       3.3,
+       1.0
+      ],
+      [
+       "ne",
+       3.3,
+       3.5,
+       1.0
+      ],
+      [
+       "devrait",
+       3.5,
+       3.68,
+       0.99
+      ],
+      [
+       "apprendre",
+       3.68,
+       4.04,
+       1.0
+      ],
+      [
+       "sa",
+       4.04,
+       4.3,
+       0.7
+      ],
+      [
+       "seule.",
+       4.3,
+       4.42,
+       0.97
+      ]
+     ],
+     "clarte": 0.7,
+     "ok": false
+    }
+   ]
+  },
+  {
+   "id": "50-00",
+   "bloc": 50,
+   "ton": "posee",
+   "text": "Et c'est pour ça que tu es là.",
+   "tts": "Et c'est pour ça que tu es là.",
+   "gen": {},
+   "voix": "clara-fr",
+   "prises": [
+    {
+     "prise": 1,
+     "file": "fr-50-00-p1.wav",
+     "seconds": 1.36,
+     "compute": 19,
+     "heard": "Et c'est pour ça que tu es là.",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      1.34
+     ],
+     "rate": 22.4,
+     "mots": [
+      [
+       "Et",
+       0.0,
+       0.42,
+       0.78
+      ],
+      [
+       "c",
+       0.42,
+       0.5,
+       1.0
+      ],
+      [
+       "'est",
+       0.5,
+       0.66,
+       1.0
+      ],
+      [
+       "pour",
+       0.66,
+       0.74,
+       1.0
+      ],
+      [
+       "ça",
+       0.74,
+       0.94,
+       0.99
+      ],
+      [
+       "que",
+       0.94,
+       1.06,
+       0.99
+      ],
+      [
+       "tu",
+       1.06,
+       1.12,
+       0.99
+      ],
+      [
+       "es",
+       1.12,
+       1.2,
+       0.99
+      ],
+      [
+       "là.",
+       1.2,
+       1.34,
+       0.99
+      ]
+     ],
+     "clarte": 0.78,
+     "ok": true
+    },
+    {
+     "prise": 2,
+     "file": "fr-50-00-p2.wav",
+     "seconds": 1.52,
+     "compute": 21,
+     "heard": "Et c'est pour ça que tu es là.",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.3,
+      1.4
+     ],
+     "rate": 27.3,
+     "mots": [
+      [
+       "Et",
+       0.3,
+       0.54,
+       0.74
+      ],
+      [
+       "c",
+       0.54,
+       0.66,
+       1.0
+      ],
+      [
+       "'est",
+       0.66,
+       0.78,
+       1.0
+      ],
+      [
+       "pour",
+       0.78,
+       0.86,
+       1.0
+      ],
+      [
+       "ça",
+       0.86,
+       1.02,
+       0.99
+      ],
+      [
+       "que",
+       1.02,
+       1.14,
+       1.0
+      ],
+      [
+       "tu",
+       1.14,
+       1.18,
+       0.99
+      ],
+      [
+       "es",
+       1.18,
+       1.28,
+       1.0
+      ],
+      [
+       "là.",
+       1.28,
+       1.4,
+       1.0
+      ]
+     ],
+     "clarte": 0.74,
+     "ok": true
+    }
+   ]
+  },
+  {
+   "id": "51-00",
+   "bloc": 51,
+   "ton": "chaleureux",
+   "text": "C'est pour ça que je suis là.",
+   "tts": "C'est pour ça que je suis là.",
+   "gen": {},
+   "voix": "victor-fr",
+   "prises": [
+    {
+     "prise": 1,
+     "file": "fr-51-00-p1.wav",
+     "seconds": 1.2,
+     "compute": 16,
+     "heard": "C'est pour ça que je suis là.",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      1.12
+     ],
+     "rate": 25.9,
+     "mots": [
+      [
+       "C",
+       0.0,
+       0.26,
+       0.93
+      ],
+      [
+       "'est",
+       0.26,
+       0.4,
+       1.0
+      ],
+      [
+       "pour",
+       0.4,
+       0.52,
+       1.0
+      ],
+      [
+       "ça",
+       0.52,
+       0.64,
+       0.98
+      ],
+      [
+       "que",
+       0.64,
+       0.8,
+       1.0
+      ],
+      [
+       "je",
+       0.8,
+       0.9,
+       1.0
+      ],
+      [
+       "suis",
+       0.9,
+       1.04,
+       1.0
+      ],
+      [
+       "là.",
+       1.04,
+       1.12,
+       1.0
+      ]
+     ],
+     "clarte": 0.93,
+     "ok": true
+    },
+    {
+     "prise": 2,
+     "file": "fr-51-00-p2.wav",
+     "seconds": 1.28,
+     "compute": 18,
+     "heard": "C'est pour ça que je suis là.",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      1.26
+     ],
+     "rate": 23.0,
+     "mots": [
+      [
+       "C",
+       0.0,
+       0.36,
+       0.9
+      ],
+      [
+       "'est",
+       0.36,
+       0.52,
+       1.0
+      ],
+      [
+       "pour",
+       0.52,
+       0.62,
+       1.0
+      ],
+      [
+       "ça",
+       0.62,
+       0.72,
+       0.97
+      ],
+      [
+       "que",
+       0.72,
+       0.88,
+       1.0
+      ],
+      [
+       "je",
+       0.88,
+       0.98,
+       1.0
+      ],
+      [
+       "suis",
+       0.98,
+       1.12,
+       1.0
+      ],
+      [
+       "là.",
+       1.12,
+       1.26,
+       1.0
+      ]
+     ],
+     "clarte": 0.9,
+     "ok": true
+    }
+   ]
+  },
+  {
+   "id": "52-00",
+   "bloc": 52,
+   "ton": "sceptique",
+   "text": "Chapitre quatre : la question qui fâche. Et si vous vous trompez ?",
+   "tts": "Chapitre quatre : la question qui fâche. Et si vous vous trompez ?",
+   "gen": {},
+   "voix": "clara-fr",
+   "prises": [
+    {
+     "prise": 1,
+     "file": "fr-52-00-p1.wav",
+     "seconds": 4.0,
+     "compute": 44,
+     "heard": "Chapitre 4. La question qui fâche. Et si vous vous trompez ?",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      3.98
+     ],
+     "rate": 16.6,
+     "mots": [
+      [
+       "Chapitre",
+       0.0,
+       0.8,
+       0.9
+      ],
+      [
+       "4.",
+       0.8,
+       1.26,
+       0.89
+      ],
+      [
+       "La",
+       1.62,
+       1.7,
+       0.93
+      ],
+      [
+       "question",
+       1.7,
+       2.02,
+       0.96
+      ],
+      [
+       "qui",
+       2.02,
+       2.26,
+       1.0
+      ],
+      [
+       "fâche.",
+       2.26,
+       2.64,
+       0.97
+      ],
+      [
+       "Et",
+       3.14,
+       3.26,
+       0.98
+      ],
+      [
+       "si",
+       3.26,
+       3.38,
+       0.99
+      ],
+      [
+       "vous",
+       3.38,
+       3.5,
+       1.0
+      ],
+      [
+       "vous",
+       3.5,
+       3.64,
+       0.99
+      ],
+      [
+       "trompez",
+       3.64,
+       3.9,
+       1.0
+      ],
+      [
+       "?",
+       3.9,
+       3.98,
+       0.59
+      ]
+     ],
+     "clarte": 0.59,
+     "ok": true
+    },
+    {
+     "prise": 2,
+     "file": "fr-52-00-p2.wav",
+     "seconds": 3.84,
+     "compute": 43,
+     "heard": "Chapitre 4, la question qui fâche. Et si vous vous trompez ?",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      3.82
+     ],
+     "rate": 17.3,
+     "mots": [
+      [
+       "Chapitre",
+       0.0,
+       0.82,
+       0.91
+      ],
+      [
+       "4,",
+       0.82,
+       1.22,
+       0.9
+      ],
+      [
+       "la",
+       1.56,
+       1.64,
+       0.56
+      ],
+      [
+       "question",
+       1.64,
+       1.94,
+       0.94
+      ],
+      [
+       "qui",
+       1.94,
+       2.18,
+       1.0
+      ],
+      [
+       "fâche.",
+       2.18,
+       2.54,
+       0.97
+      ],
+      [
+       "Et",
+       2.98,
+       3.08,
+       0.98
+      ],
+      [
+       "si",
+       3.08,
+       3.22,
+       0.99
+      ],
+      [
+       "vous",
+       3.22,
+       3.34,
+       1.0
+      ],
+      [
+       "vous",
+       3.34,
+       3.5,
+       0.99
+      ],
+      [
+       "trompez",
+       3.5,
+       3.74,
+       1.0
+      ],
+      [
+       "?",
+       3.74,
+       3.82,
+       0.47
+      ]
+     ],
+     "clarte": 0.47,
+     "ok": true
+    }
+   ]
+  }
+ ]
+}
