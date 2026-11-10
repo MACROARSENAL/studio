@@ -1,0 +1,129 @@
+{
+ "langue": "fr",
+ "part": 19,
+ "voix": "victor-fr",
+ "phrases": [
+  {
+   "id": "69-00",
+   "bloc": 69,
+   "ton": "posee-calme",
+   "text": "En salle, personne ne trade seul.",
+   "tts": "En salle, personne ne trade seul.",
+   "gen": {
+    "temperature": 0.8,
+    "subtalker_temperature": 0.8
+   },
+   "voix": "clara-fr",
+   "prises": [
+    {
+     "prise": 19,
+     "file": "fr-69-00-p19.wav",
+     "seconds": 2.56,
+     "compute": 30,
+     "heard": "En salle, personne ne traite seul.",
+     "wer": 0.167,
+     "extra": 1,
+     "speech": [
+      0.0,
+      2.46
+     ],
+     "rate": 13.4,
+     "mots": [
+      [
+       "En",
+       0.0,
+       0.94,
+       0.77
+      ],
+      [
+       "salle,",
+       0.94,
+       1.34,
+       0.96
+      ],
+      [
+       "personne",
+       1.68,
+       1.82,
+       0.99
+      ],
+      [
+       "ne",
+       1.82,
+       2.06,
+       1.0
+      ],
+      [
+       "traite",
+       2.06,
+       2.22,
+       0.99
+      ],
+      [
+       "seul.",
+       2.22,
+       2.46,
+       0.87
+      ]
+     ],
+     "clarte": 0.77,
+     "ok": false
+    },
+    {
+     "prise": 20,
+     "file": "fr-69-00-p20.wav",
+     "seconds": 2.08,
+     "compute": 24,
+     "heard": "En salle, personne ne traite seul.",
+     "wer": 0.167,
+     "extra": 1,
+     "speech": [
+      0.0,
+      1.96
+     ],
+     "rate": 16.8,
+     "mots": [
+      [
+       "En",
+       0.0,
+       0.5,
+       0.86
+      ],
+      [
+       "salle,",
+       0.5,
+       0.88,
+       0.96
+      ],
+      [
+       "personne",
+       1.18,
+       1.32,
+       0.99
+      ],
+      [
+       "ne",
+       1.32,
+       1.56,
+       1.0
+      ],
+      [
+       "traite",
+       1.56,
+       1.72,
+       0.99
+      ],
+      [
+       "seul.",
+       1.72,
+       1.96,
+       0.92
+      ]
+     ],
+     "clarte": 0.86,
+     "ok": false
+    }
+   ]
+  }
+ ]
+}

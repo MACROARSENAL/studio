@@ -1,0 +1,477 @@
+{
+ "langue": "fr",
+ "part": 16,
+ "voix": "victor-fr",
+ "phrases": [
+  {
+   "id": "59-00",
+   "bloc": 59,
+   "ton": "posee-calme",
+   "text": "D'habitude, on vous montre les gains. Ici, on vous promet de vous montrer les pertes.",
+   "tts": "D'habitude, on vous montre les gains. Ici, on vous promet de vous montrer les pertes.",
+   "gen": {
+    "temperature": 0.8,
+    "subtalker_temperature": 0.8
+   },
+   "voix": "clara-fr",
+   "prises": [
+    {
+     "prise": 15,
+     "file": "fr-59-00-p15.wav",
+     "seconds": 3.92,
+     "compute": 48,
+     "heard": "D'habitude, on vous montre les gains. Ici, on vous promet de vous montrer les pertes.",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      3.9
+     ],
+     "rate": 21.8,
+     "mots": [
+      [
+       "D",
+       0.0,
+       0.28,
+       0.91
+      ],
+      [
+       "'habitude,",
+       0.28,
+       0.66,
+       1.0
+      ],
+      [
+       "on",
+       0.86,
+       0.9,
+       1.0
+      ],
+      [
+       "vous",
+       0.9,
+       1.1,
+       1.0
+      ],
+      [
+       "montre",
+       1.1,
+       1.3,
+       0.99
+      ],
+      [
+       "les",
+       1.3,
+       1.5,
+       1.0
+      ],
+      [
+       "gains.",
+       1.5,
+       1.68,
+       0.99
+      ],
+      [
+       "Ici,",
+       2.12,
+       2.3,
+       0.99
+      ],
+      [
+       "on",
+       2.52,
+       2.52,
+       1.0
+      ],
+      [
+       "vous",
+       2.52,
+       2.7,
+       1.0
+      ],
+      [
+       "promet",
+       2.7,
+       2.88,
+       0.98
+      ],
+      [
+       "de",
+       2.88,
+       3.04,
+       1.0
+      ],
+      [
+       "vous",
+       3.04,
+       3.2,
+       0.98
+      ],
+      [
+       "montrer",
+       3.2,
+       3.4,
+       1.0
+      ],
+      [
+       "les",
+       3.4,
+       3.6,
+       1.0
+      ],
+      [
+       "pertes.",
+       3.6,
+       3.9,
+       0.99
+      ]
+     ],
+     "clarte": 0.91,
+     "ok": true
+    },
+    {
+     "prise": 16,
+     "file": "fr-59-00-p16.wav",
+     "seconds": 4.16,
+     "compute": 47,
+     "heard": "D'habitude, on vous montre les gains. Ici, on vous promet de vous montrer les pertes.",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      4.0
+     ],
+     "rate": 21.2,
+     "mots": [
+      [
+       "D",
+       0.0,
+       0.36,
+       0.88
+      ],
+      [
+       "'habitude,",
+       0.36,
+       0.74,
+       1.0
+      ],
+      [
+       "on",
+       0.88,
+       0.92,
+       0.99
+      ],
+      [
+       "vous",
+       0.92,
+       1.1,
+       1.0
+      ],
+      [
+       "montre",
+       1.1,
+       1.36,
+       0.99
+      ],
+      [
+       "les",
+       1.36,
+       1.54,
+       0.99
+      ],
+      [
+       "gains.",
+       1.54,
+       1.72,
+       0.99
+      ],
+      [
+       "Ici,",
+       2.22,
+       2.44,
+       0.99
+      ],
+      [
+       "on",
+       2.68,
+       2.68,
+       1.0
+      ],
+      [
+       "vous",
+       2.68,
+       2.84,
+       0.99
+      ],
+      [
+       "promet",
+       2.84,
+       3.02,
+       0.97
+      ],
+      [
+       "de",
+       3.02,
+       3.16,
+       1.0
+      ],
+      [
+       "vous",
+       3.16,
+       3.34,
+       0.97
+      ],
+      [
+       "montrer",
+       3.34,
+       3.56,
+       1.0
+      ],
+      [
+       "les",
+       3.56,
+       3.78,
+       1.0
+      ],
+      [
+       "pertes.",
+       3.78,
+       4.0,
+       0.99
+      ]
+     ],
+     "clarte": 0.88,
+     "ok": true
+    },
+    {
+     "prise": 17,
+     "file": "fr-59-00-p17.wav",
+     "seconds": 3.52,
+     "compute": 41,
+     "heard": "D'habitude on vous montre les gains, ici on vous promet de vous montrer les pertes.",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      3.5
+     ],
+     "rate": 24.3,
+     "mots": [
+      [
+       "D",
+       0.0,
+       0.38,
+       0.74
+      ],
+      [
+       "'habitude",
+       0.38,
+       0.66,
+       1.0
+      ],
+      [
+       "on",
+       0.66,
+       0.78,
+       0.7
+      ],
+      [
+       "vous",
+       0.78,
+       0.96,
+       1.0
+      ],
+      [
+       "montre",
+       0.96,
+       1.2,
+       0.98
+      ],
+      [
+       "les",
+       1.2,
+       1.36,
+       0.99
+      ],
+      [
+       "gains,",
+       1.36,
+       1.54,
+       0.98
+      ],
+      [
+       "ici",
+       1.96,
+       2.08,
+       0.95
+      ],
+      [
+       "on",
+       2.08,
+       2.24,
+       0.99
+      ],
+      [
+       "vous",
+       2.24,
+       2.44,
+       0.99
+      ],
+      [
+       "promet",
+       2.44,
+       2.56,
+       0.98
+      ],
+      [
+       "de",
+       2.56,
+       2.7,
+       0.99
+      ],
+      [
+       "vous",
+       2.7,
+       2.84,
+       0.98
+      ],
+      [
+       "montrer",
+       2.84,
+       3.06,
+       1.0
+      ],
+      [
+       "les",
+       3.06,
+       3.24,
+       0.99
+      ],
+      [
+       "pertes.",
+       3.24,
+       3.5,
+       0.99
+      ]
+     ],
+     "clarte": 0.7,
+     "ok": true
+    },
+    {
+     "prise": 18,
+     "file": "fr-59-00-p18.wav",
+     "seconds": 4.24,
+     "compute": 48,
+     "heard": "D'habitude, on vous montre les gains. Ici, on vous promet de vous montrer les pertes.",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      4.16
+     ],
+     "rate": 20.4,
+     "mots": [
+      [
+       "D",
+       0.0,
+       0.34,
+       0.84
+      ],
+      [
+       "'habitude,",
+       0.34,
+       0.72,
+       1.0
+      ],
+      [
+       "on",
+       0.78,
+       0.86,
+       0.99
+      ],
+      [
+       "vous",
+       0.86,
+       1.06,
+       1.0
+      ],
+      [
+       "montre",
+       1.06,
+       1.28,
+       0.99
+      ],
+      [
+       "les",
+       1.28,
+       1.5,
+       0.99
+      ],
+      [
+       "gains.",
+       1.5,
+       1.7,
+       0.99
+      ],
+      [
+       "Ici,",
+       2.4,
+       2.6,
+       0.99
+      ],
+      [
+       "on",
+       2.86,
+       2.86,
+       1.0
+      ],
+      [
+       "vous",
+       2.86,
+       3.04,
+       0.99
+      ],
+      [
+       "promet",
+       3.04,
+       3.16,
+       0.98
+      ],
+      [
+       "de",
+       3.16,
+       3.32,
+       1.0
+      ],
+      [
+       "vous",
+       3.32,
+       3.5,
+       0.98
+      ],
+      [
+       "montrer",
+       3.5,
+       3.7,
+       1.0
+      ],
+      [
+       "les",
+       3.7,
+       3.92,
+       1.0
+      ],
+      [
+       "pertes.",
+       3.92,
+       4.16,
+       0.99
+      ]
+     ],
+     "clarte": 0.84,
+     "ok": true
+    }
+   ]
+  }
+ ]
+}

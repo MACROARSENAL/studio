@@ -1,0 +1,165 @@
+{
+ "langue": "fr",
+ "part": 4,
+ "voix": "victor-fr",
+ "phrases": [
+  {
+   "id": "13-00",
+   "bloc": 13,
+   "ton": "complice-calme",
+   "text": "Presque, hein ?",
+   "tts": "Presque, hein ?",
+   "gen": {
+    "temperature": 0.8,
+    "subtalker_temperature": 0.8
+   },
+   "voix": "clara-fr",
+   "prises": [
+    {
+     "prise": 15,
+     "file": "fr-13-00-p15.wav",
+     "seconds": 0.88,
+     "compute": 10,
+     "heard": "Presque, hein !",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.58,
+      0.86
+     ],
+     "rate": 53.6,
+     "mots": [
+      [
+       "Presque,",
+       0.58,
+       0.74,
+       0.66
+      ],
+      [
+       "hein",
+       0.78,
+       0.78,
+       0.98
+      ],
+      [
+       "!",
+       0.78,
+       0.86,
+       0.25
+      ]
+     ],
+     "clarte": 0.25,
+     "ok": false
+    },
+    {
+     "prise": 16,
+     "file": "fr-13-00-p16.wav",
+     "seconds": 0.56,
+     "compute": 7,
+     "heard": "Presque, hein !",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      0.54
+     ],
+     "rate": 27.8,
+     "mots": [
+      [
+       "Presque,",
+       0.0,
+       0.46,
+       0.66
+      ],
+      [
+       "hein",
+       0.46,
+       0.46,
+       0.98
+      ],
+      [
+       "!",
+       0.46,
+       0.54,
+       0.24
+      ]
+     ],
+     "clarte": 0.24,
+     "ok": false
+    },
+    {
+     "prise": 17,
+     "file": "fr-13-00-p17.wav",
+     "seconds": 0.8,
+     "compute": 9,
+     "heard": "Presque, hein ?",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.36,
+      0.76
+     ],
+     "rate": 37.5,
+     "mots": [
+      [
+       "Presque,",
+       0.36,
+       0.54,
+       0.89
+      ],
+      [
+       "hein",
+       0.58,
+       0.62,
+       0.99
+      ],
+      [
+       "?",
+       0.62,
+       0.76,
+       0.42
+      ]
+     ],
+     "clarte": 0.42,
+     "ok": false
+    },
+    {
+     "prise": 18,
+     "file": "fr-13-00-p18.wav",
+     "seconds": 0.96,
+     "compute": 10,
+     "heard": "Presque, hein ?",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.56,
+      0.94
+     ],
+     "rate": 39.5,
+     "mots": [
+      [
+       "Presque,",
+       0.56,
+       0.76,
+       0.91
+      ],
+      [
+       "hein",
+       0.84,
+       0.94,
+       0.96
+      ],
+      [
+       "?",
+       0.94,
+       0.94,
+       0.58
+      ]
+     ],
+     "clarte": 0.58,
+     "ok": false
+    }
+   ]
+  }
+ ]
+}

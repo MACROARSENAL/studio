@@ -1,0 +1,75 @@
+{
+ "langue": "fr",
+ "part": 14,
+ "voix": "victor-fr",
+ "phrases": [
+  {
+   "id": "48-00",
+   "bloc": 48,
+   "ton": "posee-calme",
+   "text": "Tout ?",
+   "tts": "Tout ?",
+   "gen": {
+    "temperature": 0.8,
+    "subtalker_temperature": 0.8
+   },
+   "voix": "clara-fr",
+   "prises": [
+    {
+     "prise": 19,
+     "file": "fr-48-00-p19.wav",
+     "seconds": 0.24,
+     "compute": 10,
+     "heard": "Tu ?",
+     "wer": 1.0,
+     "extra": 1,
+     "speech": [
+      0.0,
+      0.22
+     ],
+     "rate": 27.3,
+     "mots": [
+      [
+       "Tu",
+       0.0,
+       0.14,
+       0.03
+      ],
+      [
+       "?",
+       0.14,
+       0.22,
+       0.33
+      ]
+     ],
+     "clarte": 0.03,
+     "ok": false
+    },
+    {
+     "prise": 20,
+     "file": "fr-48-00-p20.wav",
+     "seconds": 0.56,
+     "compute": 13,
+     "heard": "Tout.",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      0.02
+     ],
+     "rate": 60.0,
+     "mots": [
+      [
+       "Tout.",
+       0.0,
+       0.02,
+       0.1
+      ]
+     ],
+     "clarte": 0.1,
+     "ok": false
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,971 @@
+{
+ "langue": "fr",
+ "part": 20,
+ "voix": "victor-fr",
+ "phrases": [
+  {
+   "id": "71-00",
+   "bloc": 71,
+   "ton": "vive-calme",
+   "text": "MACROARSENAL. Le terminal qui change votre vision du trading.",
+   "tts": "Macro Arsenal. Le terminal qui change votre vision du trading.",
+   "gen": {
+    "temperature": 0.8,
+    "subtalker_temperature": 0.8
+   },
+   "voix": "clara-fr",
+   "prises": [
+    {
+     "prise": 15,
+     "file": "fr-71-00-p15.wav",
+     "seconds": 4.0,
+     "compute": 47,
+     "heard": "MACROARSENAL, le terminal qui change votre vision du trading.",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.64,
+      3.78
+     ],
+     "rate": 19.7,
+     "mots": [
+      [
+       "MACROARSENAL,",
+       0.64,
+       1.24,
+       0.6
+      ],
+      [
+       "le",
+       1.58,
+       1.84,
+       0.94
+      ],
+      [
+       "terminal",
+       1.84,
+       2.24,
+       0.99
+      ],
+      [
+       "qui",
+       2.24,
+       2.54,
+       1.0
+      ],
+      [
+       "change",
+       2.54,
+       2.74,
+       1.0
+      ],
+      [
+       "votre",
+       2.74,
+       3.0,
+       0.99
+      ],
+      [
+       "vision",
+       3.0,
+       3.3,
+       1.0
+      ],
+      [
+       "du",
+       3.3,
+       3.48,
+       1.0
+      ],
+      [
+       "trading.",
+       3.48,
+       3.78,
+       0.94
+      ]
+     ],
+     "clarte": 0.6,
+     "ok": true
+    },
+    {
+     "prise": 16,
+     "file": "fr-71-00-p16.wav",
+     "seconds": 3.52,
+     "compute": 42,
+     "heard": "Macroarsenal, le terminal qui change votre vision du trading.",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.54,
+      3.36
+     ],
+     "rate": 22.0,
+     "mots": [
+      [
+       "Macroarsenal,",
+       0.54,
+       1.02,
+       0.73
+      ],
+      [
+       "le",
+       1.36,
+       1.52,
+       0.99
+      ],
+      [
+       "terminal",
+       1.52,
+       1.84,
+       1.0
+      ],
+      [
+       "qui",
+       1.84,
+       2.08,
+       1.0
+      ],
+      [
+       "change",
+       2.08,
+       2.3,
+       1.0
+      ],
+      [
+       "votre",
+       2.3,
+       2.58,
+       1.0
+      ],
+      [
+       "vision",
+       2.58,
+       2.94,
+       1.0
+      ],
+      [
+       "du",
+       2.94,
+       3.12,
+       1.0
+      ],
+      [
+       "trading.",
+       3.12,
+       3.36,
+       0.96
+      ]
+     ],
+     "clarte": 0.73,
+     "ok": true
+    },
+    {
+     "prise": 17,
+     "file": "fr-71-00-p17.wav",
+     "seconds": 4.24,
+     "compute": 49,
+     "heard": "MACROARSENAL, le terminal qui change votre vision du trading.",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      1.0,
+      4.1
+     ],
+     "rate": 20.0,
+     "mots": [
+      [
+       "MACROARSENAL,",
+       1.0,
+       1.56,
+       0.59
+      ],
+      [
+       "le",
+       1.9,
+       2.12,
+       0.94
+      ],
+      [
+       "terminal",
+       2.12,
+       2.5,
+       0.99
+      ],
+      [
+       "qui",
+       2.5,
+       2.76,
+       1.0
+      ],
+      [
+       "change",
+       2.76,
+       3.02,
+       0.99
+      ],
+      [
+       "votre",
+       3.02,
+       3.3,
+       0.99
+      ],
+      [
+       "vision",
+       3.3,
+       3.62,
+       0.99
+      ],
+      [
+       "du",
+       3.62,
+       3.8,
+       0.99
+      ],
+      [
+       "trading.",
+       3.8,
+       4.1,
+       0.92
+      ]
+     ],
+     "clarte": 0.59,
+     "ok": true
+    },
+    {
+     "prise": 18,
+     "file": "fr-71-00-p18.wav",
+     "seconds": 3.68,
+     "compute": 43,
+     "heard": "Macroarsenal, le terminal qui change votre vision du trading.",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.66,
+      3.5
+     ],
+     "rate": 21.8,
+     "mots": [
+      [
+       "Macroarsenal,",
+       0.66,
+       1.14,
+       0.72
+      ],
+      [
+       "le",
+       1.38,
+       1.58,
+       0.99
+      ],
+      [
+       "terminal",
+       1.58,
+       1.9,
+       0.99
+      ],
+      [
+       "qui",
+       1.9,
+       2.16,
+       1.0
+      ],
+      [
+       "change",
+       2.16,
+       2.4,
+       1.0
+      ],
+      [
+       "votre",
+       2.4,
+       2.64,
+       0.99
+      ],
+      [
+       "vision",
+       2.64,
+       2.98,
+       1.0
+      ],
+      [
+       "du",
+       2.98,
+       3.2,
+       1.0
+      ],
+      [
+       "trading.",
+       3.2,
+       3.5,
+       0.96
+      ]
+     ],
+     "clarte": 0.72,
+     "ok": true
+    }
+   ]
+  },
+  {
+   "id": "73-00",
+   "bloc": 73,
+   "ton": "posee-calme",
+   "text": "MACROARSENAL est un outil d'information et d'éducation, pas un conseil en investissement personnalisé. Le trading comporte un risque de perte en capital.",
+   "tts": "Macro Arsenal est un outil d'information et d'éducation, pas un conseil en investissement personnalisé. Le trading comporte un risque de perte en capital.",
+   "gen": {
+    "temperature": 0.8,
+    "subtalker_temperature": 0.8
+   },
+   "voix": "clara-fr",
+   "prises": [
+    {
+     "prise": 15,
+     "file": "fr-73-00-p15.wav",
+     "seconds": 8.4,
+     "compute": 88,
+     "heard": "MACROARSENAL est un outil d'information et d'éducation, pas un conseil en investissement personnalisé. Le trading comporte un risque de perte en capital.",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      1.26,
+      8.32
+     ],
+     "rate": 21.8,
+     "mots": [
+      [
+       "MACROARSENAL",
+       1.26,
+       1.7,
+       0.6
+      ],
+      [
+       "est",
+       1.7,
+       1.88,
+       0.94
+      ],
+      [
+       "un",
+       1.88,
+       2.02,
+       0.99
+      ],
+      [
+       "outil",
+       2.02,
+       2.26,
+       1.0
+      ],
+      [
+       "d",
+       2.26,
+       2.36,
+       1.0
+      ],
+      [
+       "'information",
+       2.36,
+       2.82,
+       0.99
+      ],
+      [
+       "et",
+       2.82,
+       2.96,
+       1.0
+      ],
+      [
+       "d",
+       2.96,
+       3.0,
+       1.0
+      ],
+      [
+       "'éducation,",
+       3.0,
+       3.54,
+       1.0
+      ],
+      [
+       "pas",
+       3.74,
+       3.78,
+       0.98
+      ],
+      [
+       "un",
+       3.78,
+       4.0,
+       1.0
+      ],
+      [
+       "conseil",
+       4.0,
+       4.28,
+       1.0
+      ],
+      [
+       "en",
+       4.28,
+       4.46,
+       0.99
+      ],
+      [
+       "investissement",
+       4.46,
+       4.96,
+       0.93
+      ],
+      [
+       "personnalisé.",
+       4.96,
+       5.64,
+       0.98
+      ],
+      [
+       "Le",
+       6.14,
+       6.32,
+       0.97
+      ],
+      [
+       "trading",
+       6.32,
+       6.64,
+       0.86
+      ],
+      [
+       "comporte",
+       6.64,
+       7.06,
+       0.99
+      ],
+      [
+       "un",
+       7.06,
+       7.22,
+       1.0
+      ],
+      [
+       "risque",
+       7.22,
+       7.44,
+       1.0
+      ],
+      [
+       "de",
+       7.44,
+       7.72,
+       1.0
+      ],
+      [
+       "perte",
+       7.72,
+       7.9,
+       0.99
+      ],
+      [
+       "en",
+       7.9,
+       8.06,
+       1.0
+      ],
+      [
+       "capital.",
+       8.06,
+       8.32,
+       0.98
+      ]
+     ],
+     "clarte": 0.6,
+     "ok": true
+    },
+    {
+     "prise": 16,
+     "file": "fr-73-00-p16.wav",
+     "seconds": 7.52,
+     "compute": 81,
+     "heard": "MACROARSENAL est un outil d'information et d'éducation, pas un conseil en investissement personnalisé. Le trading comporte un risque de perte en capital.",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.64,
+      7.36
+     ],
+     "rate": 22.9,
+     "mots": [
+      [
+       "MACROARSENAL",
+       0.64,
+       1.04,
+       0.6
+      ],
+      [
+       "est",
+       1.04,
+       1.18,
+       0.96
+      ],
+      [
+       "un",
+       1.18,
+       1.3,
+       1.0
+      ],
+      [
+       "outil",
+       1.3,
+       1.54,
+       1.0
+      ],
+      [
+       "d",
+       1.54,
+       1.64,
+       1.0
+      ],
+      [
+       "'information",
+       1.64,
+       2.06,
+       0.99
+      ],
+      [
+       "et",
+       2.06,
+       2.2,
+       1.0
+      ],
+      [
+       "d",
+       2.2,
+       2.26,
+       1.0
+      ],
+      [
+       "'éducation,",
+       2.26,
+       2.84,
+       1.0
+      ],
+      [
+       "pas",
+       3.14,
+       3.2,
+       0.98
+      ],
+      [
+       "un",
+       3.2,
+       3.38,
+       1.0
+      ],
+      [
+       "conseil",
+       3.38,
+       3.7,
+       0.99
+      ],
+      [
+       "en",
+       3.7,
+       3.84,
+       0.99
+      ],
+      [
+       "investissement",
+       3.84,
+       4.32,
+       0.97
+      ],
+      [
+       "personnalisé.",
+       4.32,
+       5.02,
+       0.99
+      ],
+      [
+       "Le",
+       5.3,
+       5.46,
+       0.97
+      ],
+      [
+       "trading",
+       5.46,
+       5.74,
+       0.92
+      ],
+      [
+       "comporte",
+       5.74,
+       6.14,
+       0.98
+      ],
+      [
+       "un",
+       6.14,
+       6.3,
+       1.0
+      ],
+      [
+       "risque",
+       6.3,
+       6.5,
+       1.0
+      ],
+      [
+       "de",
+       6.5,
+       6.74,
+       1.0
+      ],
+      [
+       "perte",
+       6.74,
+       6.9,
+       0.98
+      ],
+      [
+       "en",
+       6.9,
+       7.1,
+       1.0
+      ],
+      [
+       "capital.",
+       7.1,
+       7.36,
+       0.98
+      ]
+     ],
+     "clarte": 0.6,
+     "ok": true
+    },
+    {
+     "prise": 17,
+     "file": "fr-73-00-p17.wav",
+     "seconds": 7.76,
+     "compute": 82,
+     "heard": "MACROARSENAL est un outil d'information et d'éducation, pas un conseil en investissement personnalisé. Le trading comporte un risque de perte en capital.",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.76,
+      7.62
+     ],
+     "rate": 22.4,
+     "mots": [
+      [
+       "MACROARSENAL",
+       0.76,
+       1.16,
+       0.59
+      ],
+      [
+       "est",
+       1.16,
+       1.32,
+       0.96
+      ],
+      [
+       "un",
+       1.32,
+       1.44,
+       1.0
+      ],
+      [
+       "outil",
+       1.44,
+       1.66,
+       1.0
+      ],
+      [
+       "d",
+       1.66,
+       1.78,
+       1.0
+      ],
+      [
+       "'information",
+       1.78,
+       2.22,
+       1.0
+      ],
+      [
+       "et",
+       2.22,
+       2.36,
+       1.0
+      ],
+      [
+       "d",
+       2.36,
+       2.42,
+       1.0
+      ],
+      [
+       "'éducation,",
+       2.42,
+       2.98,
+       1.0
+      ],
+      [
+       "pas",
+       3.22,
+       3.3,
+       0.99
+      ],
+      [
+       "un",
+       3.3,
+       3.48,
+       1.0
+      ],
+      [
+       "conseil",
+       3.48,
+       3.76,
+       0.99
+      ],
+      [
+       "en",
+       3.76,
+       3.92,
+       0.99
+      ],
+      [
+       "investissement",
+       3.92,
+       4.38,
+       0.97
+      ],
+      [
+       "personnalisé.",
+       4.38,
+       5.12,
+       0.99
+      ],
+      [
+       "Le",
+       5.58,
+       5.76,
+       0.98
+      ],
+      [
+       "trading",
+       5.76,
+       6.0,
+       0.93
+      ],
+      [
+       "comporte",
+       6.0,
+       6.4,
+       0.98
+      ],
+      [
+       "un",
+       6.4,
+       6.56,
+       1.0
+      ],
+      [
+       "risque",
+       6.56,
+       6.76,
+       1.0
+      ],
+      [
+       "de",
+       6.76,
+       7.0,
+       1.0
+      ],
+      [
+       "perte",
+       7.0,
+       7.18,
+       0.97
+      ],
+      [
+       "en",
+       7.18,
+       7.34,
+       1.0
+      ],
+      [
+       "capital.",
+       7.34,
+       7.62,
+       0.98
+      ]
+     ],
+     "clarte": 0.59,
+     "ok": true
+    },
+    {
+     "prise": 18,
+     "file": "fr-73-00-p18.wav",
+     "seconds": 8.64,
+     "compute": 91,
+     "heard": "MACROARSENAL est un outil d'information et d'éducation, pas un conseil en investissement personnalisé. Le trading comporte un risque de perte en capital.",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      1.0,
+      8.48
+     ],
+     "rate": 20.6,
+     "mots": [
+      [
+       "MACROARSENAL",
+       1.0,
+       1.44,
+       0.57
+      ],
+      [
+       "est",
+       1.44,
+       1.6,
+       0.95
+      ],
+      [
+       "un",
+       1.6,
+       1.8,
+       0.99
+      ],
+      [
+       "outil",
+       1.8,
+       2.08,
+       1.0
+      ],
+      [
+       "d",
+       2.08,
+       2.28,
+       1.0
+      ],
+      [
+       "'information",
+       2.28,
+       2.82,
+       1.0
+      ],
+      [
+       "et",
+       2.82,
+       3.02,
+       1.0
+      ],
+      [
+       "d",
+       3.02,
+       3.04,
+       1.0
+      ],
+      [
+       "'éducation,",
+       3.04,
+       3.6,
+       1.0
+      ],
+      [
+       "pas",
+       3.82,
+       3.88,
+       0.99
+      ],
+      [
+       "un",
+       3.88,
+       4.08,
+       1.0
+      ],
+      [
+       "conseil",
+       4.08,
+       4.42,
+       1.0
+      ],
+      [
+       "en",
+       4.42,
+       4.64,
+       0.99
+      ],
+      [
+       "investissement",
+       4.64,
+       5.18,
+       0.95
+      ],
+      [
+       "personnalisé.",
+       5.18,
+       5.9,
+       0.99
+      ],
+      [
+       "Le",
+       6.22,
+       6.42,
+       0.98
+      ],
+      [
+       "trading",
+       6.42,
+       6.76,
+       0.9
+      ],
+      [
+       "comporte",
+       6.76,
+       7.18,
+       0.99
+      ],
+      [
+       "un",
+       7.18,
+       7.36,
+       1.0
+      ],
+      [
+       "risque",
+       7.36,
+       7.6,
+       1.0
+      ],
+      [
+       "de",
+       7.6,
+       7.84,
+       1.0
+      ],
+      [
+       "perte",
+       7.84,
+       8.0,
+       0.99
+      ],
+      [
+       "en",
+       8.0,
+       8.18,
+       1.0
+      ],
+      [
+       "capital.",
+       8.18,
+       8.48,
+       0.98
+      ]
+     ],
+     "clarte": 0.57,
+     "ok": true
+    }
+   ]
+  }
+ ]
+}

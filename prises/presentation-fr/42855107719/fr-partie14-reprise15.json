@@ -1,0 +1,813 @@
+{
+ "langue": "fr",
+ "part": 14,
+ "voix": "victor-fr",
+ "phrases": [
+  {
+   "id": "48-00",
+   "bloc": 48,
+   "ton": "posee-calme",
+   "text": "Tout ?",
+   "tts": "Tout ?",
+   "gen": {
+    "temperature": 0.8,
+    "subtalker_temperature": 0.8
+   },
+   "voix": "clara-fr",
+   "prises": [
+    {
+     "prise": 15,
+     "file": "fr-48-00-p15.wav",
+     "seconds": 0.48,
+     "compute": 13,
+     "heard": "Tu ?",
+     "wer": 1.0,
+     "extra": 1,
+     "speech": [
+      0.0,
+      0.46
+     ],
+     "rate": 13.0,
+     "mots": [
+      [
+       "Tu",
+       0.0,
+       0.02,
+       0.13
+      ],
+      [
+       "?",
+       0.02,
+       0.46,
+       0.25
+      ]
+     ],
+     "clarte": 0.13,
+     "ok": false
+    },
+    {
+     "prise": 16,
+     "file": "fr-48-00-p16.wav",
+     "seconds": 0.48,
+     "compute": 12,
+     "heard": "Tu ?",
+     "wer": 1.0,
+     "extra": 1,
+     "speech": [
+      0.0,
+      0.46
+     ],
+     "rate": 13.0,
+     "mots": [
+      [
+       "Tu",
+       0.0,
+       0.02,
+       0.1
+      ],
+      [
+       "?",
+       0.02,
+       0.46,
+       0.42
+      ]
+     ],
+     "clarte": 0.1,
+     "ok": false
+    },
+    {
+     "prise": 17,
+     "file": "fr-48-00-p17.wav",
+     "seconds": 0.24,
+     "compute": 10,
+     "heard": "",
+     "wer": 1.0,
+     "extra": 0,
+     "speech": null,
+     "rate": 60.0,
+     "mots": [],
+     "clarte": 0.0,
+     "ok": false
+    },
+    {
+     "prise": 18,
+     "file": "fr-48-00-p18.wav",
+     "seconds": 0.4,
+     "compute": 12,
+     "heard": "Tu ?",
+     "wer": 1.0,
+     "extra": 1,
+     "speech": [
+      0.0,
+      0.38
+     ],
+     "rate": 15.8,
+     "mots": [
+      [
+       "Tu",
+       0.0,
+       0.02,
+       0.11
+      ],
+      [
+       "?",
+       0.02,
+       0.38,
+       0.4
+      ]
+     ],
+     "clarte": 0.11,
+     "ok": false
+    }
+   ]
+  },
+  {
+   "id": "50-00",
+   "bloc": 50,
+   "ton": "posee-calme",
+   "text": "Et c'est pour ça que t'es là.",
+   "tts": "Et c'est pour ça que t'es là.",
+   "gen": {
+    "temperature": 0.8,
+    "subtalker_temperature": 0.8
+   },
+   "voix": "clara-fr",
+   "prises": [
+    {
+     "prise": 15,
+     "file": "fr-50-00-p15.wav",
+     "seconds": 1.36,
+     "compute": 20,
+     "heard": "Et c'est pour ça que t'es là !",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.24,
+      1.34
+     ],
+     "rate": 26.4,
+     "mots": [
+      [
+       "Et",
+       0.24,
+       0.44,
+       0.74
+      ],
+      [
+       "c",
+       0.44,
+       0.56,
+       1.0
+      ],
+      [
+       "'est",
+       0.56,
+       0.66,
+       1.0
+      ],
+      [
+       "pour",
+       0.66,
+       0.74,
+       1.0
+      ],
+      [
+       "ça",
+       0.74,
+       0.9,
+       0.98
+      ],
+      [
+       "que",
+       0.9,
+       1.04,
+       0.98
+      ],
+      [
+       "t",
+       1.04,
+       1.06,
+       0.96
+      ],
+      [
+       "'es",
+       1.06,
+       1.16,
+       0.99
+      ],
+      [
+       "là",
+       1.16,
+       1.26,
+       0.98
+      ],
+      [
+       "!",
+       1.26,
+       1.34,
+       0.39
+      ]
+     ],
+     "clarte": 0.39,
+     "ok": true
+    },
+    {
+     "prise": 16,
+     "file": "fr-50-00-p16.wav",
+     "seconds": 1.12,
+     "compute": 18,
+     "heard": "Et c'est pour ça que t'es là.",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      1.1
+     ],
+     "rate": 26.4,
+     "mots": [
+      [
+       "Et",
+       0.0,
+       0.32,
+       0.68
+      ],
+      [
+       "c",
+       0.32,
+       0.46,
+       1.0
+      ],
+      [
+       "'est",
+       0.46,
+       0.56,
+       1.0
+      ],
+      [
+       "pour",
+       0.56,
+       0.62,
+       1.0
+      ],
+      [
+       "ça",
+       0.62,
+       0.74,
+       0.99
+      ],
+      [
+       "que",
+       0.74,
+       0.88,
+       0.98
+      ],
+      [
+       "t",
+       0.88,
+       0.9,
+       0.98
+      ],
+      [
+       "'es",
+       0.9,
+       1.0,
+       0.99
+      ],
+      [
+       "là.",
+       1.0,
+       1.1,
+       0.99
+      ]
+     ],
+     "clarte": 0.68,
+     "ok": true
+    },
+    {
+     "prise": 17,
+     "file": "fr-50-00-p17.wav",
+     "seconds": 0.96,
+     "compute": 17,
+     "heard": "Et c'est pour ça que t'es là.",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      0.94
+     ],
+     "rate": 30.9,
+     "mots": [
+      [
+       "Et",
+       0.0,
+       0.22,
+       0.73
+      ],
+      [
+       "c",
+       0.22,
+       0.28,
+       1.0
+      ],
+      [
+       "'est",
+       0.28,
+       0.38,
+       1.0
+      ],
+      [
+       "pour",
+       0.38,
+       0.46,
+       1.0
+      ],
+      [
+       "ça",
+       0.46,
+       0.6,
+       0.99
+      ],
+      [
+       "que",
+       0.6,
+       0.7,
+       0.99
+      ],
+      [
+       "t",
+       0.7,
+       0.74,
+       0.98
+      ],
+      [
+       "'es",
+       0.74,
+       0.84,
+       1.0
+      ],
+      [
+       "là.",
+       0.84,
+       0.94,
+       0.99
+      ]
+     ],
+     "clarte": 0.73,
+     "ok": false
+    },
+    {
+     "prise": 18,
+     "file": "fr-50-00-p18.wav",
+     "seconds": 1.28,
+     "compute": 20,
+     "heard": "Et c'est pour ça que t'es là !",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      1.26
+     ],
+     "rate": 23.0,
+     "mots": [
+      [
+       "Et",
+       0.0,
+       0.46,
+       0.75
+      ],
+      [
+       "c",
+       0.46,
+       0.6,
+       1.0
+      ],
+      [
+       "'est",
+       0.6,
+       0.68,
+       1.0
+      ],
+      [
+       "pour",
+       0.68,
+       0.78,
+       1.0
+      ],
+      [
+       "ça",
+       0.78,
+       0.92,
+       0.99
+      ],
+      [
+       "que",
+       0.92,
+       1.06,
+       0.96
+      ],
+      [
+       "t",
+       1.06,
+       1.06,
+       0.97
+      ],
+      [
+       "'es",
+       1.06,
+       1.18,
+       1.0
+      ],
+      [
+       "là",
+       1.18,
+       1.26,
+       0.99
+      ],
+      [
+       "!",
+       1.26,
+       1.26,
+       0.27
+      ]
+     ],
+     "clarte": 0.27,
+     "ok": true
+    }
+   ]
+  },
+  {
+   "id": "52-00",
+   "bloc": 52,
+   "ton": "sceptique-calme",
+   "text": "Chapitre quatre : la question qui fâche. Et si vous vous trompez ?",
+   "tts": "Chapitre quatre : la question qui fâche. Et si vous vous trompez ?",
+   "gen": {
+    "temperature": 0.8,
+    "subtalker_temperature": 0.8
+   },
+   "voix": "clara-fr",
+   "prises": [
+    {
+     "prise": 15,
+     "file": "fr-52-00-p15.wav",
+     "seconds": 3.76,
+     "compute": 40,
+     "heard": "Chapitre 4, la question qui fâche. Et si vous vous trompez ?",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      3.74
+     ],
+     "rate": 17.6,
+     "mots": [
+      [
+       "Chapitre",
+       0.0,
+       0.72,
+       0.91
+      ],
+      [
+       "4,",
+       0.72,
+       1.06,
+       0.91
+      ],
+      [
+       "la",
+       1.38,
+       1.48,
+       0.43
+      ],
+      [
+       "question",
+       1.48,
+       1.8,
+       0.93
+      ],
+      [
+       "qui",
+       1.8,
+       2.06,
+       1.0
+      ],
+      [
+       "fâche.",
+       2.06,
+       2.44,
+       0.98
+      ],
+      [
+       "Et",
+       2.9,
+       3.0,
+       0.97
+      ],
+      [
+       "si",
+       3.0,
+       3.12,
+       0.99
+      ],
+      [
+       "vous",
+       3.12,
+       3.24,
+       1.0
+      ],
+      [
+       "vous",
+       3.24,
+       3.38,
+       0.99
+      ],
+      [
+       "trompez",
+       3.38,
+       3.62,
+       1.0
+      ],
+      [
+       "?",
+       3.62,
+       3.74,
+       0.68
+      ]
+     ],
+     "clarte": 0.43,
+     "ok": true
+    },
+    {
+     "prise": 16,
+     "file": "fr-52-00-p16.wav",
+     "seconds": 4.08,
+     "compute": 42,
+     "heard": "Chapitre 4, la question qui fâche. Et si vous vous trompez ?",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.52,
+      4.06
+     ],
+     "rate": 18.6,
+     "mots": [
+      [
+       "Chapitre",
+       0.52,
+       1.0,
+       0.89
+      ],
+      [
+       "4,",
+       1.0,
+       1.46,
+       0.89
+      ],
+      [
+       "la",
+       1.84,
+       1.92,
+       0.4
+      ],
+      [
+       "question",
+       1.92,
+       2.24,
+       0.93
+      ],
+      [
+       "qui",
+       2.24,
+       2.5,
+       1.0
+      ],
+      [
+       "fâche.",
+       2.5,
+       2.86,
+       0.97
+      ],
+      [
+       "Et",
+       3.18,
+       3.28,
+       0.97
+      ],
+      [
+       "si",
+       3.28,
+       3.4,
+       1.0
+      ],
+      [
+       "vous",
+       3.4,
+       3.56,
+       1.0
+      ],
+      [
+       "vous",
+       3.56,
+       3.72,
+       0.99
+      ],
+      [
+       "trompez",
+       3.72,
+       3.94,
+       1.0
+      ],
+      [
+       "?",
+       3.94,
+       4.06,
+       0.68
+      ]
+     ],
+     "clarte": 0.4,
+     "ok": true
+    },
+    {
+     "prise": 17,
+     "file": "fr-52-00-p17.wav",
+     "seconds": 3.84,
+     "compute": 40,
+     "heard": "Chapitre 4, la question qui fâche. Et si vous vous trompez ?",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.52,
+      3.82
+     ],
+     "rate": 20.0,
+     "mots": [
+      [
+       "Chapitre",
+       0.52,
+       0.96,
+       0.88
+      ],
+      [
+       "4,",
+       0.96,
+       1.38,
+       0.89
+      ],
+      [
+       "la",
+       1.64,
+       1.72,
+       0.45
+      ],
+      [
+       "question",
+       1.72,
+       2.0,
+       0.95
+      ],
+      [
+       "qui",
+       2.0,
+       2.22,
+       1.0
+      ],
+      [
+       "fâche.",
+       2.22,
+       2.74,
+       0.97
+      ],
+      [
+       "Et",
+       2.96,
+       3.06,
+       0.97
+      ],
+      [
+       "si",
+       3.06,
+       3.2,
+       1.0
+      ],
+      [
+       "vous",
+       3.2,
+       3.34,
+       1.0
+      ],
+      [
+       "vous",
+       3.34,
+       3.5,
+       0.99
+      ],
+      [
+       "trompez",
+       3.5,
+       3.74,
+       1.0
+      ],
+      [
+       "?",
+       3.74,
+       3.82,
+       0.57
+      ]
+     ],
+     "clarte": 0.45,
+     "ok": true
+    },
+    {
+     "prise": 18,
+     "file": "fr-52-00-p18.wav",
+     "seconds": 4.16,
+     "compute": 44,
+     "heard": "Chapitre 4, la question qui fâche, et si vous vous trompez ?",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.54,
+      4.14
+     ],
+     "rate": 18.3,
+     "mots": [
+      [
+       "Chapitre",
+       0.54,
+       1.0,
+       0.88
+      ],
+      [
+       "4,",
+       1.0,
+       1.4,
+       0.91
+      ],
+      [
+       "la",
+       1.62,
+       1.7,
+       0.62
+      ],
+      [
+       "question",
+       1.7,
+       2.0,
+       0.98
+      ],
+      [
+       "qui",
+       2.0,
+       2.24,
+       1.0
+      ],
+      [
+       "fâche,",
+       2.24,
+       2.74,
+       0.98
+      ],
+      [
+       "et",
+       3.28,
+       3.38,
+       0.82
+      ],
+      [
+       "si",
+       3.38,
+       3.5,
+       1.0
+      ],
+      [
+       "vous",
+       3.5,
+       3.62,
+       1.0
+      ],
+      [
+       "vous",
+       3.62,
+       3.78,
+       0.99
+      ],
+      [
+       "trompez",
+       3.78,
+       4.06,
+       1.0
+      ],
+      [
+       "?",
+       4.06,
+       4.14,
+       0.52
+      ]
+     ],
+     "clarte": 0.52,
+     "ok": true
+    }
+   ]
+  }
+ ]
+}

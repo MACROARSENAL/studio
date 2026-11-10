@@ -1,0 +1,377 @@
+{
+ "langue": "fr",
+ "part": 11,
+ "voix": "victor-fr",
+ "phrases": [
+  {
+   "id": "37-00",
+   "bloc": 37,
+   "ton": "curieuse-calme",
+   "text": "Aucune ?",
+   "tts": "Aucune ?",
+   "gen": {
+    "temperature": 0.8,
+    "subtalker_temperature": 0.8
+   },
+   "voix": "clara-fr",
+   "prises": [
+    {
+     "prise": 15,
+     "file": "fr-37-00-p15.wav",
+     "seconds": 0.8,
+     "compute": 15,
+     "heard": "Aucune !",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      0.78
+     ],
+     "rate": 10.3,
+     "mots": [
+      [
+       "Aucune",
+       0.0,
+       0.74,
+       0.73
+      ],
+      [
+       "!",
+       0.74,
+       0.78,
+       0.3
+      ]
+     ],
+     "clarte": 0.3,
+     "ok": true
+    },
+    {
+     "prise": 16,
+     "file": "fr-37-00-p16.wav",
+     "seconds": 0.56,
+     "compute": 12,
+     "heard": "Aucune...",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      0.54
+     ],
+     "rate": 14.8,
+     "mots": [
+      [
+       "Aucune...",
+       0.0,
+       0.54,
+       0.59
+      ]
+     ],
+     "clarte": 0.59,
+     "ok": true
+    },
+    {
+     "prise": 17,
+     "file": "fr-37-00-p17.wav",
+     "seconds": 0.64,
+     "compute": 13,
+     "heard": "Aucune ?",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      0.62
+     ],
+     "rate": 12.9,
+     "mots": [
+      [
+       "Aucune",
+       0.0,
+       0.62,
+       0.78
+      ],
+      [
+       "?",
+       0.62,
+       0.62,
+       0.73
+      ]
+     ],
+     "clarte": 0.73,
+     "ok": true
+    },
+    {
+     "prise": 18,
+     "file": "fr-37-00-p18.wav",
+     "seconds": 0.64,
+     "compute": 12,
+     "heard": "Aucune !",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      0.62
+     ],
+     "rate": 12.9,
+     "mots": [
+      [
+       "Aucune",
+       0.0,
+       0.56,
+       0.78
+      ],
+      [
+       "!",
+       0.56,
+       0.62,
+       0.25
+      ]
+     ],
+     "clarte": 0.25,
+     "ok": true
+    }
+   ]
+  },
+  {
+   "id": "39-00",
+   "bloc": 39,
+   "ton": "curieuse-calme",
+   "text": "Et quand un chiffre important tombe ?",
+   "tts": "Et quand un chiffre important tombe ?",
+   "gen": {
+    "temperature": 0.8,
+    "subtalker_temperature": 0.8
+   },
+   "voix": "clara-fr",
+   "prises": [
+    {
+     "prise": 15,
+     "file": "fr-39-00-p15.wav",
+     "seconds": 1.6,
+     "compute": 22,
+     "heard": "Et quand un chiffre important tombe ?",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      1.58
+     ],
+     "rate": 23.4,
+     "mots": [
+      [
+       "Et",
+       0.0,
+       0.3,
+       0.73
+      ],
+      [
+       "quand",
+       0.3,
+       0.5,
+       0.99
+      ],
+      [
+       "un",
+       0.5,
+       0.64,
+       1.0
+      ],
+      [
+       "chiffre",
+       0.64,
+       0.94,
+       1.0
+      ],
+      [
+       "important",
+       0.94,
+       1.22,
+       0.99
+      ],
+      [
+       "tombe",
+       1.22,
+       1.58,
+       1.0
+      ],
+      [
+       "?",
+       1.58,
+       1.58,
+       0.5
+      ]
+     ],
+     "clarte": 0.5,
+     "ok": true
+    },
+    {
+     "prise": 16,
+     "file": "fr-39-00-p16.wav",
+     "seconds": 1.6,
+     "compute": 22,
+     "heard": "Et quand un chiffre important tombe ?",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      1.58
+     ],
+     "rate": 23.4,
+     "mots": [
+      [
+       "Et",
+       0.0,
+       0.38,
+       0.67
+      ],
+      [
+       "quand",
+       0.38,
+       0.54,
+       0.99
+      ],
+      [
+       "un",
+       0.54,
+       0.68,
+       0.99
+      ],
+      [
+       "chiffre",
+       0.68,
+       0.94,
+       1.0
+      ],
+      [
+       "important",
+       0.94,
+       1.22,
+       0.99
+      ],
+      [
+       "tombe",
+       1.22,
+       1.48,
+       1.0
+      ],
+      [
+       "?",
+       1.48,
+       1.58,
+       0.57
+      ]
+     ],
+     "clarte": 0.57,
+     "ok": true
+    },
+    {
+     "prise": 17,
+     "file": "fr-39-00-p17.wav",
+     "seconds": 1.76,
+     "compute": 24,
+     "heard": "Et quand un chiffre important tombe...",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      1.74
+     ],
+     "rate": 21.3,
+     "mots": [
+      [
+       "Et",
+       0.0,
+       0.46,
+       0.7
+      ],
+      [
+       "quand",
+       0.46,
+       0.7,
+       0.99
+      ],
+      [
+       "un",
+       0.7,
+       0.88,
+       0.99
+      ],
+      [
+       "chiffre",
+       0.88,
+       1.16,
+       1.0
+      ],
+      [
+       "important",
+       1.16,
+       1.46,
+       0.99
+      ],
+      [
+       "tombe...",
+       1.46,
+       1.74,
+       0.75
+      ]
+     ],
+     "clarte": 0.7,
+     "ok": true
+    },
+    {
+     "prise": 18,
+     "file": "fr-39-00-p18.wav",
+     "seconds": 2.08,
+     "compute": 27,
+     "heard": "Et quand un chiffre important tombe...",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      2.06
+     ],
+     "rate": 18.0,
+     "mots": [
+      [
+       "Et",
+       0.0,
+       0.72,
+       0.77
+      ],
+      [
+       "quand",
+       0.72,
+       0.94,
+       0.99
+      ],
+      [
+       "un",
+       0.94,
+       1.12,
+       0.99
+      ],
+      [
+       "chiffre",
+       1.12,
+       1.4,
+       1.0
+      ],
+      [
+       "important",
+       1.4,
+       1.7,
+       0.99
+      ],
+      [
+       "tombe...",
+       1.7,
+       2.06,
+       0.75
+      ]
+     ],
+     "clarte": 0.75,
+     "ok": true
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,743 @@
+{
+ "langue": "fr",
+ "part": 9,
+ "voix": "victor-fr",
+ "phrases": [
+  {
+   "id": "30-00",
+   "bloc": 30,
+   "ton": "vive-calme",
+   "text": "Chapitre trois : une journée dans le terminal. Bon, c'est le matin. Vous ouvrez le terminal…",
+   "tts": "Chapitre trois : une journée dans le terminal. Bon, c'est le matin. Vous ouvrez le terminal…",
+   "gen": {
+    "temperature": 0.8,
+    "subtalker_temperature": 0.8
+   },
+   "voix": "clara-fr",
+   "prises": [
+    {
+     "prise": 15,
+     "file": "fr-30-00-p15.wav",
+     "seconds": 4.88,
+     "compute": 39,
+     "heard": "Chapitre 3, une journée dans le terminal. Bon, c'est le matin. Vous ouvrez le terminal ?",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      4.86
+     ],
+     "rate": 18.9,
+     "mots": [
+      [
+       "Chapitre",
+       0.0,
+       0.56,
+       0.91
+      ],
+      [
+       "3,",
+       0.56,
+       0.96,
+       0.88
+      ],
+      [
+       "une",
+       1.22,
+       1.3,
+       0.76
+      ],
+      [
+       "journée",
+       1.3,
+       1.56,
+       1.0
+      ],
+      [
+       "dans",
+       1.56,
+       1.72,
+       1.0
+      ],
+      [
+       "le",
+       1.72,
+       1.94,
+       1.0
+      ],
+      [
+       "terminal.",
+       1.94,
+       2.26,
+       0.95
+      ],
+      [
+       "Bon,",
+       2.74,
+       2.86,
+       0.95
+      ],
+      [
+       "c",
+       3.06,
+       3.06,
+       1.0
+      ],
+      [
+       "'est",
+       3.06,
+       3.16,
+       1.0
+      ],
+      [
+       "le",
+       3.16,
+       3.32,
+       1.0
+      ],
+      [
+       "matin.",
+       3.32,
+       3.5,
+       1.0
+      ],
+      [
+       "Vous",
+       3.84,
+       3.98,
+       1.0
+      ],
+      [
+       "ouvrez",
+       3.98,
+       4.2,
+       1.0
+      ],
+      [
+       "le",
+       4.2,
+       4.44,
+       1.0
+      ],
+      [
+       "terminal",
+       4.44,
+       4.72,
+       1.0
+      ],
+      [
+       "?",
+       4.72,
+       4.86,
+       0.77
+      ]
+     ],
+     "clarte": 0.76,
+     "ok": true
+    },
+    {
+     "prise": 16,
+     "file": "fr-30-00-p16.wav",
+     "seconds": 5.28,
+     "compute": 41,
+     "heard": "Chapitre 3, une journée dans le terminal. Bon, c'est le matin, vous ouvrez le terminal.",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      5.12
+     ],
+     "rate": 18.0,
+     "mots": [
+      [
+       "Chapitre",
+       0.0,
+       0.62,
+       0.9
+      ],
+      [
+       "3,",
+       0.62,
+       1.06,
+       0.89
+      ],
+      [
+       "une",
+       1.32,
+       1.46,
+       0.75
+      ],
+      [
+       "journée",
+       1.46,
+       1.84,
+       1.0
+      ],
+      [
+       "dans",
+       1.84,
+       2.02,
+       1.0
+      ],
+      [
+       "le",
+       2.02,
+       2.28,
+       1.0
+      ],
+      [
+       "terminal.",
+       2.28,
+       2.62,
+       0.94
+      ],
+      [
+       "Bon,",
+       3.04,
+       3.18,
+       0.94
+      ],
+      [
+       "c",
+       3.28,
+       3.32,
+       1.0
+      ],
+      [
+       "'est",
+       3.32,
+       3.42,
+       1.0
+      ],
+      [
+       "le",
+       3.42,
+       3.6,
+       1.0
+      ],
+      [
+       "matin,",
+       3.6,
+       3.82,
+       1.0
+      ],
+      [
+       "vous",
+       4.18,
+       4.32,
+       0.99
+      ],
+      [
+       "ouvrez",
+       4.32,
+       4.58,
+       1.0
+      ],
+      [
+       "le",
+       4.58,
+       4.84,
+       1.0
+      ],
+      [
+       "terminal.",
+       4.84,
+       5.12,
+       1.0
+      ]
+     ],
+     "clarte": 0.75,
+     "ok": true
+    },
+    {
+     "prise": 17,
+     "file": "fr-30-00-p17.wav",
+     "seconds": 5.04,
+     "compute": 38,
+     "heard": "Chapitre 3, une journée dans le terminal. Bon, c'est le matin, vous ouvrez le terminal.",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      4.9
+     ],
+     "rate": 18.8,
+     "mots": [
+      [
+       "Chapitre",
+       0.0,
+       0.6,
+       0.91
+      ],
+      [
+       "3,",
+       0.6,
+       0.96,
+       0.88
+      ],
+      [
+       "une",
+       1.26,
+       1.34,
+       0.66
+      ],
+      [
+       "journée",
+       1.34,
+       1.62,
+       1.0
+      ],
+      [
+       "dans",
+       1.62,
+       1.8,
+       1.0
+      ],
+      [
+       "le",
+       1.8,
+       2.06,
+       1.0
+      ],
+      [
+       "terminal.",
+       2.06,
+       2.44,
+       0.93
+      ],
+      [
+       "Bon,",
+       2.86,
+       3.02,
+       0.96
+      ],
+      [
+       "c",
+       3.18,
+       3.22,
+       1.0
+      ],
+      [
+       "'est",
+       3.22,
+       3.32,
+       1.0
+      ],
+      [
+       "le",
+       3.32,
+       3.46,
+       1.0
+      ],
+      [
+       "matin,",
+       3.46,
+       3.66,
+       1.0
+      ],
+      [
+       "vous",
+       4.04,
+       4.14,
+       0.99
+      ],
+      [
+       "ouvrez",
+       4.14,
+       4.38,
+       1.0
+      ],
+      [
+       "le",
+       4.38,
+       4.62,
+       1.0
+      ],
+      [
+       "terminal.",
+       4.62,
+       4.9,
+       1.0
+      ]
+     ],
+     "clarte": 0.66,
+     "ok": true
+    },
+    {
+     "prise": 18,
+     "file": "fr-30-00-p18.wav",
+     "seconds": 4.96,
+     "compute": 38,
+     "heard": "Chapitre 3, une journée dans le terminal, bon, c'est le matin, vous ouvrez le terminal ?",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      4.94
+     ],
+     "rate": 18.6,
+     "mots": [
+      [
+       "Chapitre",
+       0.0,
+       0.62,
+       0.94
+      ],
+      [
+       "3,",
+       0.62,
+       0.92,
+       0.87
+      ],
+      [
+       "une",
+       1.18,
+       1.26,
+       0.8
+      ],
+      [
+       "journée",
+       1.26,
+       1.52,
+       1.0
+      ],
+      [
+       "dans",
+       1.52,
+       1.68,
+       1.0
+      ],
+      [
+       "le",
+       1.68,
+       1.94,
+       1.0
+      ],
+      [
+       "terminal,",
+       1.94,
+       2.26,
+       0.93
+      ],
+      [
+       "bon,",
+       2.8,
+       3.04,
+       0.93
+      ],
+      [
+       "c",
+       3.16,
+       3.18,
+       1.0
+      ],
+      [
+       "'est",
+       3.18,
+       3.26,
+       1.0
+      ],
+      [
+       "le",
+       3.26,
+       3.42,
+       1.0
+      ],
+      [
+       "matin,",
+       3.42,
+       3.6,
+       1.0
+      ],
+      [
+       "vous",
+       3.96,
+       4.08,
+       0.99
+      ],
+      [
+       "ouvrez",
+       4.08,
+       4.32,
+       1.0
+      ],
+      [
+       "le",
+       4.32,
+       4.56,
+       1.0
+      ],
+      [
+       "terminal",
+       4.56,
+       4.82,
+       1.0
+      ],
+      [
+       "?",
+       4.82,
+       4.94,
+       0.76
+      ]
+     ],
+     "clarte": 0.76,
+     "ok": true
+    }
+   ]
+  },
+  {
+   "id": "30-01",
+   "bloc": 30,
+   "ton": "vive-calme",
+   "text": "Qu'est-ce qui vous attend ?",
+   "tts": "Qu'est-ce qui vous attend ?",
+   "gen": {
+    "temperature": 0.8,
+    "subtalker_temperature": 0.8
+   },
+   "voix": "clara-fr",
+   "prises": [
+    {
+     "prise": 15,
+     "file": "fr-30-01-p15.wav",
+     "seconds": 1.28,
+     "compute": 14,
+     "heard": "Qu'est-ce qui vous attend ?",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      1.24
+     ],
+     "rate": 21.8,
+     "mots": [
+      [
+       "Qu",
+       0.0,
+       0.32,
+       0.64
+      ],
+      [
+       "'est",
+       0.32,
+       0.44,
+       0.99
+      ],
+      [
+       "-ce",
+       0.44,
+       0.48,
+       0.89
+      ],
+      [
+       "qui",
+       0.48,
+       0.58,
+       0.96
+      ],
+      [
+       "vous",
+       0.58,
+       0.78,
+       1.0
+      ],
+      [
+       "attend",
+       0.78,
+       1.04,
+       0.97
+      ],
+      [
+       "?",
+       1.04,
+       1.24,
+       0.8
+      ]
+     ],
+     "clarte": 0.64,
+     "ok": true
+    },
+    {
+     "prise": 16,
+     "file": "fr-30-01-p16.wav",
+     "seconds": 0.88,
+     "compute": 11,
+     "heard": "Qu'est-ce qui vous attend ?",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      0.86
+     ],
+     "rate": 31.4,
+     "mots": [
+      [
+       "Qu",
+       0.0,
+       0.18,
+       0.75
+      ],
+      [
+       "'est",
+       0.18,
+       0.3,
+       1.0
+      ],
+      [
+       "-ce",
+       0.3,
+       0.3,
+       0.89
+      ],
+      [
+       "qui",
+       0.3,
+       0.4,
+       0.96
+      ],
+      [
+       "vous",
+       0.4,
+       0.6,
+       1.0
+      ],
+      [
+       "attend",
+       0.6,
+       0.8,
+       0.97
+      ],
+      [
+       "?",
+       0.8,
+       0.86,
+       0.83
+      ]
+     ],
+     "clarte": 0.75,
+     "ok": false
+    },
+    {
+     "prise": 17,
+     "file": "fr-30-01-p17.wav",
+     "seconds": 0.96,
+     "compute": 11,
+     "heard": "Qu'est-ce qui vous attend ?",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      0.94
+     ],
+     "rate": 28.7,
+     "mots": [
+      [
+       "Qu",
+       0.0,
+       0.16,
+       0.77
+      ],
+      [
+       "'est",
+       0.16,
+       0.28,
+       1.0
+      ],
+      [
+       "-ce",
+       0.28,
+       0.32,
+       0.91
+      ],
+      [
+       "qui",
+       0.32,
+       0.42,
+       0.97
+      ],
+      [
+       "vous",
+       0.42,
+       0.58,
+       1.0
+      ],
+      [
+       "attend",
+       0.58,
+       0.82,
+       0.98
+      ],
+      [
+       "?",
+       0.82,
+       0.94,
+       0.88
+      ]
+     ],
+     "clarte": 0.77,
+     "ok": false
+    },
+    {
+     "prise": 18,
+     "file": "fr-30-01-p18.wav",
+     "seconds": 0.96,
+     "compute": 11,
+     "heard": "Qu'est-ce qui vous attend ?",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      0.94
+     ],
+     "rate": 28.7,
+     "mots": [
+      [
+       "Qu",
+       0.0,
+       0.22,
+       0.67
+      ],
+      [
+       "'est",
+       0.22,
+       0.34,
+       0.99
+      ],
+      [
+       "-ce",
+       0.34,
+       0.38,
+       0.8
+      ],
+      [
+       "qui",
+       0.38,
+       0.46,
+       0.98
+      ],
+      [
+       "vous",
+       0.46,
+       0.66,
+       1.0
+      ],
+      [
+       "attend",
+       0.66,
+       0.88,
+       0.96
+      ],
+      [
+       "?",
+       0.88,
+       0.94,
+       0.81
+      ]
+     ],
+     "clarte": 0.67,
+     "ok": false
+    }
+   ]
+  }
+ ]
+}

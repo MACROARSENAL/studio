@@ -1,0 +1,123 @@
+{
+ "langue": "fr",
+ "part": 14,
+ "voix": "victor-fr",
+ "phrases": [
+  {
+   "id": "48-00",
+   "bloc": 48,
+   "ton": "posee-calme",
+   "text": "Tout ?",
+   "tts": "Tout ?",
+   "gen": {
+    "temperature": 0.8,
+    "subtalker_temperature": 0.8
+   },
+   "voix": "clara-fr",
+   "prises": [
+    {
+     "prise": 21,
+     "file": "fr-48-00-p21.wav",
+     "seconds": 0.32,
+     "compute": 11,
+     "heard": "Tu ?",
+     "wer": 1.0,
+     "extra": 1,
+     "speech": [
+      0.0,
+      0.18
+     ],
+     "rate": 33.3,
+     "mots": [
+      [
+       "Tu",
+       0.0,
+       0.02,
+       0.14
+      ],
+      [
+       "?",
+       0.02,
+       0.18,
+       0.33
+      ]
+     ],
+     "clarte": 0.14,
+     "ok": false
+    },
+    {
+     "prise": 22,
+     "file": "fr-48-00-p22.wav",
+     "seconds": 0.48,
+     "compute": 12,
+     "heard": "Sous-titres réalisés para la communauté d'Amara.org",
+     "wer": 1.0,
+     "extra": 9,
+     "speech": [
+      0.0,
+      0.22
+     ],
+     "rate": 27.3,
+     "mots": [
+      [
+       "Sous",
+       0.0,
+       0.0,
+       0.45
+      ],
+      [
+       "-titres",
+       0.0,
+       0.0,
+       0.83
+      ],
+      [
+       "réalisés",
+       0.0,
+       0.04,
+       0.68
+      ],
+      [
+       "para",
+       0.04,
+       0.04,
+       0.93
+      ],
+      [
+       "la",
+       0.04,
+       0.04,
+       0.92
+      ],
+      [
+       "communauté",
+       0.04,
+       0.04,
+       0.94
+      ],
+      [
+       "d",
+       0.04,
+       0.04,
+       0.98
+      ],
+      [
+       "'Amara",
+       0.04,
+       0.04,
+       0.98
+      ],
+      [
+       ".org",
+       0.04,
+       0.22,
+       0.99
+      ]
+     ],
+     "clarte": 0.45,
+     "ok": false
+    }
+   ]
+  }
+ ]
+}

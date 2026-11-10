@@ -1,0 +1,117 @@
+{
+ "langue": "fr",
+ "part": 7,
+ "voix": "victor-fr",
+ "phrases": [
+  {
+   "id": "22-00",
+   "bloc": 22,
+   "ton": "sceptique-calme",
+   "text": "Pfff… Ça, c'est la base.",
+   "tts": "Pfff… Ça, c'est la base.",
+   "gen": {
+    "temperature": 0.8,
+    "subtalker_temperature": 0.8
+   },
+   "voix": "clara-fr",
+   "prises": [
+    {
+     "prise": 21,
+     "file": "fr-22-00-p21.wav",
+     "seconds": 1.92,
+     "compute": 16,
+     "heard": "Ça, c'est la base.",
+     "wer": 0.167,
+     "extra": 0,
+     "speech": [
+      0.58,
+      1.9
+     ],
+     "rate": 18.2,
+     "mots": [
+      [
+       "Ça,",
+       0.58,
+       0.9,
+       0.28
+      ],
+      [
+       "c",
+       1.42,
+       1.48,
+       0.99
+      ],
+      [
+       "'est",
+       1.48,
+       1.58,
+       1.0
+      ],
+      [
+       "la",
+       1.58,
+       1.7,
+       0.99
+      ],
+      [
+       "base.",
+       1.7,
+       1.9,
+       1.0
+      ]
+     ],
+     "clarte": 0.28,
+     "ok": false
+    },
+    {
+     "prise": 22,
+     "file": "fr-22-00-p22.wav",
+     "seconds": 2.32,
+     "compute": 18,
+     "heard": "Ça, c'est la base.",
+     "wer": 0.167,
+     "extra": 0,
+     "speech": [
+      1.02,
+      2.24
+     ],
+     "rate": 19.7,
+     "mots": [
+      [
+       "Ça,",
+       1.02,
+       1.3,
+       0.39
+      ],
+      [
+       "c",
+       1.68,
+       1.74,
+       1.0
+      ],
+      [
+       "'est",
+       1.74,
+       1.86,
+       1.0
+      ],
+      [
+       "la",
+       1.86,
+       2.0,
+       1.0
+      ],
+      [
+       "base.",
+       2.0,
+       2.24,
+       1.0
+      ]
+     ],
+     "clarte": 0.39,
+     "ok": false
+    }
+   ]
+  }
+ ]
+}

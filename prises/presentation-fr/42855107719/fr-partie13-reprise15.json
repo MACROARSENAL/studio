@@ -1,0 +1,429 @@
+{
+ "langue": "fr",
+ "part": 13,
+ "voix": "victor-fr",
+ "phrases": [
+  {
+   "id": "45-00",
+   "bloc": 45,
+   "ton": "posee-calme",
+   "text": "Tu insistes beaucoup sur ce moment-là. C'est ça, ton « presque jamais » ?",
+   "tts": "Tu insistes beaucoup sur ce moment-là. C'est ça, ton « presque jamais » ?",
+   "gen": {
+    "temperature": 0.8,
+    "subtalker_temperature": 0.8
+   },
+   "voix": "clara-fr",
+   "prises": [
+    {
+     "prise": 15,
+     "file": "fr-45-00-p15.wav",
+     "seconds": 3.52,
+     "compute": 40,
+     "heard": "Tu insistes beaucoup sur ce moment-là. C'est ça ton presque jamais ?",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      3.5
+     ],
+     "rate": 20.9,
+     "mots": [
+      [
+       "Tu",
+       0.0,
+       0.5,
+       0.78
+      ],
+      [
+       "insistes",
+       0.5,
+       0.96,
+       0.9
+      ],
+      [
+       "beaucoup",
+       0.96,
+       1.24,
+       1.0
+      ],
+      [
+       "sur",
+       1.24,
+       1.46,
+       0.99
+      ],
+      [
+       "ce",
+       1.46,
+       1.58,
+       0.99
+      ],
+      [
+       "moment",
+       1.58,
+       1.8,
+       1.0
+      ],
+      [
+       "-là.",
+       1.8,
+       2.16,
+       0.79
+      ],
+      [
+       "C",
+       2.42,
+       2.48,
+       0.99
+      ],
+      [
+       "'est",
+       2.48,
+       2.6,
+       1.0
+      ],
+      [
+       "ça",
+       2.6,
+       2.7,
+       0.99
+      ],
+      [
+       "ton",
+       2.7,
+       2.82,
+       0.88
+      ],
+      [
+       "presque",
+       2.82,
+       3.16,
+       0.73
+      ],
+      [
+       "jamais",
+       3.16,
+       3.38,
+       0.93
+      ],
+      [
+       "?",
+       3.38,
+       3.5,
+       0.76
+      ]
+     ],
+     "clarte": 0.73,
+     "ok": true
+    },
+    {
+     "prise": 16,
+     "file": "fr-45-00-p16.wav",
+     "seconds": 3.92,
+     "compute": 44,
+     "heard": "Tu insistes beaucoup sur ce moment-là, c'est ça ton presque jamais ?",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      3.9
+     ],
+     "rate": 18.7,
+     "mots": [
+      [
+       "Tu",
+       0.0,
+       0.22,
+       0.89
+      ],
+      [
+       "insistes",
+       0.22,
+       0.72,
+       0.85
+      ],
+      [
+       "beaucoup",
+       0.72,
+       1.04,
+       1.0
+      ],
+      [
+       "sur",
+       1.04,
+       1.26,
+       0.99
+      ],
+      [
+       "ce",
+       1.26,
+       1.36,
+       1.0
+      ],
+      [
+       "moment",
+       1.36,
+       1.6,
+       1.0
+      ],
+      [
+       "-là,",
+       1.6,
+       2.02,
+       0.88
+      ],
+      [
+       "c",
+       2.32,
+       2.38,
+       0.95
+      ],
+      [
+       "'est",
+       2.38,
+       2.54,
+       1.0
+      ],
+      [
+       "ça",
+       2.54,
+       2.66,
+       0.98
+      ],
+      [
+       "ton",
+       2.66,
+       2.86,
+       0.9
+      ],
+      [
+       "presque",
+       2.86,
+       3.28,
+       0.62
+      ],
+      [
+       "jamais",
+       3.28,
+       3.52,
+       0.94
+      ],
+      [
+       "?",
+       3.52,
+       3.9,
+       0.82
+      ]
+     ],
+     "clarte": 0.62,
+     "ok": true
+    },
+    {
+     "prise": 17,
+     "file": "fr-45-00-p17.wav",
+     "seconds": 3.76,
+     "compute": 44,
+     "heard": "Tu insistes beaucoup sur ce moment-là. C'est ça ton presque jamais ?",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      3.74
+     ],
+     "rate": 19.5,
+     "mots": [
+      [
+       "Tu",
+       0.0,
+       0.28,
+       0.84
+      ],
+      [
+       "insistes",
+       0.28,
+       0.76,
+       0.89
+      ],
+      [
+       "beaucoup",
+       0.76,
+       1.06,
+       1.0
+      ],
+      [
+       "sur",
+       1.06,
+       1.28,
+       1.0
+      ],
+      [
+       "ce",
+       1.28,
+       1.42,
+       1.0
+      ],
+      [
+       "moment",
+       1.42,
+       1.66,
+       1.0
+      ],
+      [
+       "-là.",
+       1.66,
+       2.08,
+       0.78
+      ],
+      [
+       "C",
+       2.4,
+       2.54,
+       0.99
+      ],
+      [
+       "'est",
+       2.54,
+       2.64,
+       1.0
+      ],
+      [
+       "ça",
+       2.64,
+       2.74,
+       0.99
+      ],
+      [
+       "ton",
+       2.74,
+       2.9,
+       0.96
+      ],
+      [
+       "presque",
+       2.9,
+       3.36,
+       0.63
+      ],
+      [
+       "jamais",
+       3.36,
+       3.62,
+       0.94
+      ],
+      [
+       "?",
+       3.62,
+       3.74,
+       0.72
+      ]
+     ],
+     "clarte": 0.63,
+     "ok": true
+    },
+    {
+     "prise": 18,
+     "file": "fr-45-00-p18.wav",
+     "seconds": 4.0,
+     "compute": 44,
+     "heard": "Tu insistes beaucoup sur ce moment-là. C'est ça ton presque jamais ?",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      3.98
+     ],
+     "rate": 18.3,
+     "mots": [
+      [
+       "Tu",
+       0.0,
+       0.46,
+       0.8
+      ],
+      [
+       "insistes",
+       0.46,
+       0.92,
+       0.89
+      ],
+      [
+       "beaucoup",
+       0.92,
+       1.26,
+       1.0
+      ],
+      [
+       "sur",
+       1.26,
+       1.48,
+       0.99
+      ],
+      [
+       "ce",
+       1.48,
+       1.62,
+       1.0
+      ],
+      [
+       "moment",
+       1.62,
+       1.86,
+       1.0
+      ],
+      [
+       "-là.",
+       1.86,
+       2.22,
+       0.77
+      ],
+      [
+       "C",
+       2.58,
+       2.66,
+       0.99
+      ],
+      [
+       "'est",
+       2.66,
+       2.78,
+       1.0
+      ],
+      [
+       "ça",
+       2.78,
+       2.86,
+       0.99
+      ],
+      [
+       "ton",
+       2.86,
+       3.04,
+       0.88
+      ],
+      [
+       "presque",
+       3.04,
+       3.48,
+       0.62
+      ],
+      [
+       "jamais",
+       3.48,
+       3.7,
+       0.94
+      ],
+      [
+       "?",
+       3.7,
+       3.98,
+       0.74
+      ]
+     ],
+     "clarte": 0.62,
+     "ok": true
+    }
+   ]
+  }
+ ]
+}

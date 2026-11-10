@@ -1,0 +1,93 @@
+{
+ "langue": "fr",
+ "part": 4,
+ "voix": "victor-fr",
+ "phrases": [
+  {
+   "id": "13-00",
+   "bloc": 13,
+   "ton": "complice-calme",
+   "text": "Presque, hein ?",
+   "tts": "Presque, hein ?",
+   "gen": {
+    "temperature": 0.8,
+    "subtalker_temperature": 0.8
+   },
+   "voix": "clara-fr",
+   "prises": [
+    {
+     "prise": 21,
+     "file": "fr-13-00-p21.wav",
+     "seconds": 0.64,
+     "compute": 8,
+     "heard": "Presque, hein ?",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.38,
+      0.62
+     ],
+     "rate": 62.5,
+     "mots": [
+      [
+       "Presque,",
+       0.38,
+       0.5,
+       0.78
+      ],
+      [
+       "hein",
+       0.5,
+       0.56,
+       0.98
+      ],
+      [
+       "?",
+       0.56,
+       0.62,
+       0.34
+      ]
+     ],
+     "clarte": 0.34,
+     "ok": false
+    },
+    {
+     "prise": 22,
+     "file": "fr-13-00-p22.wav",
+     "seconds": 1.04,
+     "compute": 11,
+     "heard": "Presque, hein ?",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.56,
+      1.02
+     ],
+     "rate": 32.6,
+     "mots": [
+      [
+       "Presque,",
+       0.56,
+       0.8,
+       0.85
+      ],
+      [
+       "hein",
+       0.9,
+       1.02,
+       0.96
+      ],
+      [
+       "?",
+       1.02,
+       1.02,
+       0.61
+      ]
+     ],
+     "clarte": 0.61,
+     "ok": false
+    }
+   ]
+  }
+ ]
+}

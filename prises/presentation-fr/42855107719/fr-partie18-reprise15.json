@@ -1,0 +1,443 @@
+{
+ "langue": "fr",
+ "part": 18,
+ "voix": "victor-fr",
+ "phrases": [
+  {
+   "id": "63-00",
+   "bloc": 63,
+   "ton": "curieuse-calme",
+   "text": "Et ça coûte combien ?",
+   "tts": "Et ça coûte combien ?",
+   "gen": {
+    "temperature": 0.8,
+    "subtalker_temperature": 0.8
+   },
+   "voix": "clara-fr",
+   "prises": [
+    {
+     "prise": 15,
+     "file": "fr-63-00-p15.wav",
+     "seconds": 0.8,
+     "compute": 13,
+     "heard": "Et ça coûte combien ?",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      0.78
+     ],
+     "rate": 26.9,
+     "mots": [
+      [
+       "Et",
+       0.0,
+       0.2,
+       0.77
+      ],
+      [
+       "ça",
+       0.2,
+       0.34,
+       0.98
+      ],
+      [
+       "coûte",
+       0.34,
+       0.5,
+       0.98
+      ],
+      [
+       "combien",
+       0.5,
+       0.7,
+       1.0
+      ],
+      [
+       "?",
+       0.7,
+       0.78,
+       0.8
+      ]
+     ],
+     "clarte": 0.77,
+     "ok": true
+    },
+    {
+     "prise": 16,
+     "file": "fr-63-00-p16.wav",
+     "seconds": 1.2,
+     "compute": 15,
+     "heard": "Et ça coûte combien ?",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      1.16
+     ],
+     "rate": 18.1,
+     "mots": [
+      [
+       "Et",
+       0.0,
+       0.36,
+       0.69
+      ],
+      [
+       "ça",
+       0.36,
+       0.52,
+       0.98
+      ],
+      [
+       "coûte",
+       0.52,
+       0.72,
+       0.98
+      ],
+      [
+       "combien",
+       0.72,
+       0.96,
+       1.0
+      ],
+      [
+       "?",
+       0.96,
+       1.16,
+       0.83
+      ]
+     ],
+     "clarte": 0.69,
+     "ok": true
+    },
+    {
+     "prise": 17,
+     "file": "fr-63-00-p17.wav",
+     "seconds": 1.2,
+     "compute": 15,
+     "heard": "Et ça coûte combien ?",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      1.18
+     ],
+     "rate": 17.8,
+     "mots": [
+      [
+       "Et",
+       0.0,
+       0.4,
+       0.74
+      ],
+      [
+       "ça",
+       0.4,
+       0.54,
+       0.98
+      ],
+      [
+       "coûte",
+       0.54,
+       0.72,
+       0.98
+      ],
+      [
+       "combien",
+       0.72,
+       0.94,
+       1.0
+      ],
+      [
+       "?",
+       0.94,
+       1.18,
+       0.82
+      ]
+     ],
+     "clarte": 0.74,
+     "ok": true
+    },
+    {
+     "prise": 18,
+     "file": "fr-63-00-p18.wav",
+     "seconds": 1.04,
+     "compute": 14,
+     "heard": "Et ça coûte combien ?",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      1.0
+     ],
+     "rate": 21.0,
+     "mots": [
+      [
+       "Et",
+       0.0,
+       0.22,
+       0.79
+      ],
+      [
+       "ça",
+       0.22,
+       0.34,
+       0.99
+      ],
+      [
+       "coûte",
+       0.34,
+       0.54,
+       0.97
+      ],
+      [
+       "combien",
+       0.54,
+       0.76,
+       1.0
+      ],
+      [
+       "?",
+       0.76,
+       1.0,
+       0.86
+      ]
+     ],
+     "clarte": 0.79,
+     "ok": true
+    }
+   ]
+  },
+  {
+   "id": "65-00",
+   "bloc": 65,
+   "ton": "vive-calme",
+   "text": "Et on peut entrer quand ?",
+   "tts": "Et on peut entrer quand ?",
+   "gen": {
+    "temperature": 0.8,
+    "subtalker_temperature": 0.8
+   },
+   "voix": "clara-fr",
+   "prises": [
+    {
+     "prise": 15,
+     "file": "fr-65-00-p15.wav",
+     "seconds": 0.96,
+     "compute": 14,
+     "heard": "Et on peut entrer quand ?",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      0.94
+     ],
+     "rate": 26.6,
+     "mots": [
+      [
+       "Et",
+       0.0,
+       0.2,
+       0.79
+      ],
+      [
+       "on",
+       0.2,
+       0.3,
+       0.99
+      ],
+      [
+       "peut",
+       0.3,
+       0.48,
+       0.99
+      ],
+      [
+       "entrer",
+       0.48,
+       0.76,
+       0.88
+      ],
+      [
+       "quand",
+       0.76,
+       0.84,
+       0.93
+      ],
+      [
+       "?",
+       0.84,
+       0.94,
+       0.76
+      ]
+     ],
+     "clarte": 0.76,
+     "ok": true
+    },
+    {
+     "prise": 16,
+     "file": "fr-65-00-p16.wav",
+     "seconds": 1.2,
+     "compute": 16,
+     "heard": "Et on peut entrer quand ?",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      1.18
+     ],
+     "rate": 21.2,
+     "mots": [
+      [
+       "Et",
+       0.0,
+       0.34,
+       0.77
+      ],
+      [
+       "on",
+       0.34,
+       0.46,
+       0.99
+      ],
+      [
+       "peut",
+       0.46,
+       0.6,
+       0.99
+      ],
+      [
+       "entrer",
+       0.6,
+       0.94,
+       0.96
+      ],
+      [
+       "quand",
+       0.94,
+       1.02,
+       0.98
+      ],
+      [
+       "?",
+       1.02,
+       1.18,
+       0.77
+      ]
+     ],
+     "clarte": 0.77,
+     "ok": true
+    },
+    {
+     "prise": 17,
+     "file": "fr-65-00-p17.wav",
+     "seconds": 1.12,
+     "compute": 15,
+     "heard": "Et on peut entrer quand ?",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      1.1
+     ],
+     "rate": 22.7,
+     "mots": [
+      [
+       "Et",
+       0.0,
+       0.34,
+       0.75
+      ],
+      [
+       "on",
+       0.34,
+       0.48,
+       0.99
+      ],
+      [
+       "peut",
+       0.48,
+       0.6,
+       0.99
+      ],
+      [
+       "entrer",
+       0.6,
+       0.94,
+       0.97
+      ],
+      [
+       "quand",
+       0.94,
+       1.02,
+       0.97
+      ],
+      [
+       "?",
+       1.02,
+       1.1,
+       0.78
+      ]
+     ],
+     "clarte": 0.75,
+     "ok": true
+    },
+    {
+     "prise": 18,
+     "file": "fr-65-00-p18.wav",
+     "seconds": 1.04,
+     "compute": 14,
+     "heard": "Et on peut entrer quand ?",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      1.02
+     ],
+     "rate": 24.5,
+     "mots": [
+      [
+       "Et",
+       0.0,
+       0.24,
+       0.82
+      ],
+      [
+       "on",
+       0.24,
+       0.36,
+       0.99
+      ],
+      [
+       "peut",
+       0.36,
+       0.5,
+       0.99
+      ],
+      [
+       "entrer",
+       0.5,
+       0.86,
+       0.96
+      ],
+      [
+       "quand",
+       0.86,
+       0.94,
+       0.98
+      ],
+      [
+       "?",
+       0.94,
+       1.02,
+       0.82
+      ]
+     ],
+     "clarte": 0.82,
+     "ok": true
+    }
+   ]
+  }
+ ]
+}

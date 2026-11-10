@@ -1,0 +1,689 @@
+{
+ "langue": "fr",
+ "part": 1,
+ "voix": "victor-fr",
+ "phrases": [
+  {
+   "id": "01-00",
+   "bloc": 1,
+   "ton": "posee-calme",
+   "text": "Et là… un chiffre tombe.",
+   "tts": "Et là… un chiffre tombe.",
+   "gen": {
+    "temperature": 0.8,
+    "subtalker_temperature": 0.8
+   },
+   "voix": "clara-fr",
+   "prises": [
+    {
+     "prise": 15,
+     "file": "fr-01-00-p15.wav",
+     "seconds": 1.6,
+     "compute": 25,
+     "heard": "Et là, un chiffre tombe.",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      1.58
+     ],
+     "rate": 15.2,
+     "mots": [
+      [
+       "Et",
+       0.0,
+       0.28,
+       0.8
+      ],
+      [
+       "là,",
+       0.28,
+       0.66,
+       0.98
+      ],
+      [
+       "un",
+       0.9,
+       1.08,
+       0.98
+      ],
+      [
+       "chiffre",
+       1.08,
+       1.4,
+       1.0
+      ],
+      [
+       "tombe.",
+       1.4,
+       1.58,
+       1.0
+      ]
+     ],
+     "clarte": 0.8,
+     "ok": true
+    },
+    {
+     "prise": 16,
+     "file": "fr-01-00-p16.wav",
+     "seconds": 2.16,
+     "compute": 29,
+     "heard": "Et là, un chiffre tombe.",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      2.14
+     ],
+     "rate": 11.2,
+     "mots": [
+      [
+       "Et",
+       0.0,
+       0.82,
+       0.82
+      ],
+      [
+       "là,",
+       0.82,
+       1.24,
+       0.97
+      ],
+      [
+       "un",
+       1.5,
+       1.62,
+       0.99
+      ],
+      [
+       "chiffre",
+       1.62,
+       1.94,
+       1.0
+      ],
+      [
+       "tombe.",
+       1.94,
+       2.14,
+       1.0
+      ]
+     ],
+     "clarte": 0.82,
+     "ok": true
+    },
+    {
+     "prise": 17,
+     "file": "fr-01-00-p17.wav",
+     "seconds": 1.84,
+     "compute": 25,
+     "heard": "Et là, un chiffre tombe.",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      1.82
+     ],
+     "rate": 13.2,
+     "mots": [
+      [
+       "Et",
+       0.0,
+       0.44,
+       0.79
+      ],
+      [
+       "là,",
+       0.44,
+       0.84,
+       0.98
+      ],
+      [
+       "un",
+       1.06,
+       1.22,
+       0.99
+      ],
+      [
+       "chiffre",
+       1.22,
+       1.56,
+       1.0
+      ],
+      [
+       "tombe.",
+       1.56,
+       1.82,
+       1.0
+      ]
+     ],
+     "clarte": 0.79,
+     "ok": true
+    },
+    {
+     "prise": 18,
+     "file": "fr-01-00-p18.wav",
+     "seconds": 2.16,
+     "compute": 28,
+     "heard": "Et là, un chiffre tombe.",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      2.14
+     ],
+     "rate": 11.2,
+     "mots": [
+      [
+       "Et",
+       0.0,
+       0.56,
+       0.79
+      ],
+      [
+       "là,",
+       0.56,
+       1.0,
+       0.98
+      ],
+      [
+       "un",
+       1.3,
+       1.46,
+       0.99
+      ],
+      [
+       "chiffre",
+       1.46,
+       1.84,
+       1.0
+      ],
+      [
+       "tombe.",
+       1.84,
+       2.14,
+       1.0
+      ]
+     ],
+     "clarte": 0.79,
+     "ok": true
+    }
+   ]
+  },
+  {
+   "id": "03-00",
+   "bloc": 3,
+   "ton": "posee-calme",
+   "text": "Ça, c'est trader à l'aveugle. Et chaque jour, des milliers de traders le vivent.",
+   "tts": "Ça, c'est trader à l'aveugle. Et chaque jour, des milliers de traders le vivent.",
+   "gen": {
+    "temperature": 0.8,
+    "subtalker_temperature": 0.8
+   },
+   "voix": "clara-fr",
+   "prises": [
+    {
+     "prise": 15,
+     "file": "fr-03-00-p15.wav",
+     "seconds": 4.32,
+     "compute": 50,
+     "heard": "Ça, c'est trader à l'aveugle. Et chaque jour, des milliers de traders le vivent.",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      4.3
+     ],
+     "rate": 18.6,
+     "mots": [
+      [
+       "Ça,",
+       0.0,
+       0.68,
+       0.72
+      ],
+      [
+       "c",
+       0.88,
+       0.92,
+       0.99
+      ],
+      [
+       "'est",
+       0.92,
+       1.06,
+       1.0
+      ],
+      [
+       "trader",
+       1.06,
+       1.26,
+       0.97
+      ],
+      [
+       "à",
+       1.26,
+       1.44,
+       0.99
+      ],
+      [
+       "l",
+       1.44,
+       1.54,
+       0.99
+      ],
+      [
+       "'aveugle.",
+       1.54,
+       2.02,
+       1.0
+      ],
+      [
+       "Et",
+       2.24,
+       2.36,
+       0.99
+      ],
+      [
+       "chaque",
+       2.36,
+       2.56,
+       0.99
+      ],
+      [
+       "jour,",
+       2.56,
+       2.92,
+       1.0
+      ],
+      [
+       "des",
+       3.1,
+       3.14,
+       1.0
+      ],
+      [
+       "milliers",
+       3.14,
+       3.38,
+       1.0
+      ],
+      [
+       "de",
+       3.38,
+       3.6,
+       1.0
+      ],
+      [
+       "traders",
+       3.6,
+       3.8,
+       0.97
+      ],
+      [
+       "le",
+       3.8,
+       4.06,
+       1.0
+      ],
+      [
+       "vivent.",
+       4.06,
+       4.3,
+       0.99
+      ]
+     ],
+     "clarte": 0.72,
+     "ok": true
+    },
+    {
+     "prise": 16,
+     "file": "fr-03-00-p16.wav",
+     "seconds": 3.92,
+     "compute": 47,
+     "heard": "Ça, c'est trader à l'aveugle. Et chaque jour, des milliers de traders le vivent.",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      3.9
+     ],
+     "rate": 20.5,
+     "mots": [
+      [
+       "Ça,",
+       0.0,
+       0.6,
+       0.79
+      ],
+      [
+       "c",
+       0.82,
+       0.9,
+       0.94
+      ],
+      [
+       "'est",
+       0.9,
+       1.04,
+       1.0
+      ],
+      [
+       "trader",
+       1.04,
+       1.22,
+       0.55
+      ],
+      [
+       "à",
+       1.22,
+       1.38,
+       0.99
+      ],
+      [
+       "l",
+       1.38,
+       1.5,
+       0.99
+      ],
+      [
+       "'aveugle.",
+       1.5,
+       1.86,
+       1.0
+      ],
+      [
+       "Et",
+       2.08,
+       2.2,
+       0.99
+      ],
+      [
+       "chaque",
+       2.2,
+       2.36,
+       0.99
+      ],
+      [
+       "jour,",
+       2.36,
+       2.56,
+       1.0
+      ],
+      [
+       "des",
+       2.66,
+       2.78,
+       1.0
+      ],
+      [
+       "milliers",
+       2.78,
+       3.02,
+       1.0
+      ],
+      [
+       "de",
+       3.02,
+       3.22,
+       1.0
+      ],
+      [
+       "traders",
+       3.22,
+       3.4,
+       0.97
+      ],
+      [
+       "le",
+       3.4,
+       3.64,
+       1.0
+      ],
+      [
+       "vivent.",
+       3.64,
+       3.9,
+       0.98
+      ]
+     ],
+     "clarte": 0.55,
+     "ok": true
+    },
+    {
+     "prise": 17,
+     "file": "fr-03-00-p17.wav",
+     "seconds": 4.24,
+     "compute": 50,
+     "heard": "Ça, c'est traders à l'aveugle. Et chaque jour, des milliers de traders le vivent.",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      4.12
+     ],
+     "rate": 19.4,
+     "mots": [
+      [
+       "Ça,",
+       0.0,
+       0.62,
+       0.83
+      ],
+      [
+       "c",
+       0.92,
+       1.0,
+       0.99
+      ],
+      [
+       "'est",
+       1.0,
+       1.16,
+       1.0
+      ],
+      [
+       "traders",
+       1.16,
+       1.38,
+       0.07
+      ],
+      [
+       "à",
+       1.38,
+       1.54,
+       1.0
+      ],
+      [
+       "l",
+       1.54,
+       1.66,
+       0.95
+      ],
+      [
+       "'aveugle.",
+       1.66,
+       2.18,
+       1.0
+      ],
+      [
+       "Et",
+       2.44,
+       2.56,
+       0.97
+      ],
+      [
+       "chaque",
+       2.56,
+       2.72,
+       0.99
+      ],
+      [
+       "jour,",
+       2.72,
+       2.94,
+       1.0
+      ],
+      [
+       "des",
+       3.02,
+       3.14,
+       1.0
+      ],
+      [
+       "milliers",
+       3.14,
+       3.36,
+       1.0
+      ],
+      [
+       "de",
+       3.36,
+       3.5,
+       1.0
+      ],
+      [
+       "traders",
+       3.5,
+       3.68,
+       0.99
+      ],
+      [
+       "le",
+       3.68,
+       3.92,
+       1.0
+      ],
+      [
+       "vivent.",
+       3.92,
+       4.12,
+       0.99
+      ]
+     ],
+     "clarte": 0.07,
+     "ok": true
+    },
+    {
+     "prise": 18,
+     "file": "fr-03-00-p18.wav",
+     "seconds": 3.92,
+     "compute": 47,
+     "heard": "Ça, c'est trader à l'aveugle ! Et chaque jour, des milliers de traders le vivent.",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      3.9
+     ],
+     "rate": 20.5,
+     "mots": [
+      [
+       "Ça,",
+       0.0,
+       0.62,
+       0.78
+      ],
+      [
+       "c",
+       0.8,
+       0.84,
+       0.97
+      ],
+      [
+       "'est",
+       0.84,
+       0.98,
+       1.0
+      ],
+      [
+       "trader",
+       0.98,
+       1.16,
+       0.72
+      ],
+      [
+       "à",
+       1.16,
+       1.3,
+       0.99
+      ],
+      [
+       "l",
+       1.3,
+       1.38,
+       0.97
+      ],
+      [
+       "'aveugle",
+       1.38,
+       1.82,
+       1.0
+      ],
+      [
+       "!",
+       1.82,
+       2.04,
+       0.39
+      ],
+      [
+       "Et",
+       2.04,
+       2.16,
+       0.98
+      ],
+      [
+       "chaque",
+       2.16,
+       2.34,
+       0.98
+      ],
+      [
+       "jour,",
+       2.34,
+       2.56,
+       1.0
+      ],
+      [
+       "des",
+       2.72,
+       2.8,
+       1.0
+      ],
+      [
+       "milliers",
+       2.8,
+       3.08,
+       1.0
+      ],
+      [
+       "de",
+       3.08,
+       3.26,
+       1.0
+      ],
+      [
+       "traders",
+       3.26,
+       3.44,
+       0.96
+      ],
+      [
+       "le",
+       3.44,
+       3.68,
+       1.0
+      ],
+      [
+       "vivent.",
+       3.68,
+       3.9,
+       0.99
+      ]
+     ],
+     "clarte": 0.39,
+     "ok": true
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,829 @@
+{
+ "langue": "fr",
+ "part": 8,
+ "voix": "victor-fr",
+ "phrases": [
+  {
+   "id": "24-00",
+   "bloc": 24,
+   "ton": "curieuse-calme",
+   "text": "Une poignée ? Sur des centaines ?",
+   "tts": "Une poignée ? Sur des centaines ?",
+   "gen": {
+    "temperature": 0.8,
+    "subtalker_temperature": 0.8
+   },
+   "voix": "clara-fr",
+   "prises": [
+    {
+     "prise": 15,
+     "file": "fr-24-00-p15.wav",
+     "seconds": 2.24,
+     "compute": 35,
+     "heard": "Une poignée ? Sur des centaines ?",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      2.22
+     ],
+     "rate": 14.9,
+     "mots": [
+      [
+       "Une",
+       0.0,
+       0.64,
+       0.85
+      ],
+      [
+       "poignée",
+       0.64,
+       1.28,
+       0.99
+      ],
+      [
+       "?",
+       1.28,
+       1.46,
+       0.58
+      ],
+      [
+       "Sur",
+       1.46,
+       1.64,
+       0.94
+      ],
+      [
+       "des",
+       1.64,
+       1.84,
+       0.99
+      ],
+      [
+       "centaines",
+       1.84,
+       2.12,
+       1.0
+      ],
+      [
+       "?",
+       2.12,
+       2.22,
+       0.94
+      ]
+     ],
+     "clarte": 0.58,
+     "ok": true
+    },
+    {
+     "prise": 16,
+     "file": "fr-24-00-p16.wav",
+     "seconds": 2.0,
+     "compute": 31,
+     "heard": "Une poignée ? Sur des centaines ?",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      1.98
+     ],
+     "rate": 16.7,
+     "mots": [
+      [
+       "Une",
+       0.0,
+       0.5,
+       0.88
+      ],
+      [
+       "poignée",
+       0.5,
+       1.18,
+       0.99
+      ],
+      [
+       "?",
+       1.18,
+       1.4,
+       0.63
+      ],
+      [
+       "Sur",
+       1.4,
+       1.52,
+       0.94
+      ],
+      [
+       "des",
+       1.52,
+       1.72,
+       1.0
+      ],
+      [
+       "centaines",
+       1.72,
+       1.92,
+       1.0
+      ],
+      [
+       "?",
+       1.92,
+       1.98,
+       0.94
+      ]
+     ],
+     "clarte": 0.63,
+     "ok": true
+    },
+    {
+     "prise": 17,
+     "file": "fr-24-00-p17.wav",
+     "seconds": 1.84,
+     "compute": 29,
+     "heard": "Une poignée ? Sur des centaines ?",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      1.82
+     ],
+     "rate": 18.1,
+     "mots": [
+      [
+       "Une",
+       0.0,
+       0.4,
+       0.87
+      ],
+      [
+       "poignée",
+       0.4,
+       0.96,
+       0.99
+      ],
+      [
+       "?",
+       0.96,
+       1.14,
+       0.64
+      ],
+      [
+       "Sur",
+       1.14,
+       1.28,
+       0.94
+      ],
+      [
+       "des",
+       1.28,
+       1.48,
+       1.0
+      ],
+      [
+       "centaines",
+       1.48,
+       1.76,
+       1.0
+      ],
+      [
+       "?",
+       1.76,
+       1.82,
+       0.9
+      ]
+     ],
+     "clarte": 0.64,
+     "ok": true
+    },
+    {
+     "prise": 18,
+     "file": "fr-24-00-p18.wav",
+     "seconds": 2.08,
+     "compute": 32,
+     "heard": "Une poignée ? Sur des centaines ?",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      2.06
+     ],
+     "rate": 16.0,
+     "mots": [
+      [
+       "Une",
+       0.0,
+       0.5,
+       0.89
+      ],
+      [
+       "poignée",
+       0.5,
+       1.04,
+       0.99
+      ],
+      [
+       "?",
+       1.04,
+       1.4,
+       0.7
+      ],
+      [
+       "Sur",
+       1.4,
+       1.52,
+       0.95
+      ],
+      [
+       "des",
+       1.52,
+       1.72,
+       1.0
+      ],
+      [
+       "centaines",
+       1.72,
+       2.0,
+       1.0
+      ],
+      [
+       "?",
+       2.0,
+       2.06,
+       0.93
+      ]
+     ],
+     "clarte": 0.7,
+     "ok": true
+    }
+   ]
+  },
+  {
+   "id": "26-00",
+   "bloc": 26,
+   "ton": "complice-calme",
+   "text": "Respire, Victor !",
+   "tts": "Respire, Victor !",
+   "gen": {
+    "temperature": 0.8,
+    "subtalker_temperature": 0.8
+   },
+   "voix": "clara-fr",
+   "prises": [
+    {
+     "prise": 15,
+     "file": "fr-26-00-p15.wav",
+     "seconds": 1.12,
+     "compute": 18,
+     "heard": "Respire, Victor !",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      1.1
+     ],
+     "rate": 15.5,
+     "mots": [
+      [
+       "Respire,",
+       0.0,
+       0.58,
+       0.96
+      ],
+      [
+       "Victor",
+       0.66,
+       0.94,
+       0.95
+      ],
+      [
+       "!",
+       0.94,
+       1.1,
+       0.7
+      ]
+     ],
+     "clarte": 0.7,
+     "ok": true
+    },
+    {
+     "prise": 16,
+     "file": "fr-26-00-p16.wav",
+     "seconds": 0.96,
+     "compute": 16,
+     "heard": "Respire, Victor.",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      0.86
+     ],
+     "rate": 19.8,
+     "mots": [
+      [
+       "Respire,",
+       0.0,
+       0.56,
+       0.96
+      ],
+      [
+       "Victor.",
+       0.66,
+       0.86,
+       0.96
+      ]
+     ],
+     "clarte": 0.96,
+     "ok": true
+    },
+    {
+     "prise": 17,
+     "file": "fr-26-00-p17.wav",
+     "seconds": 1.2,
+     "compute": 19,
+     "heard": "Respire, Victor !",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      1.18
+     ],
+     "rate": 14.4,
+     "mots": [
+      [
+       "Respire,",
+       0.0,
+       0.72,
+       0.93
+      ],
+      [
+       "Victor",
+       0.82,
+       1.04,
+       0.94
+      ],
+      [
+       "!",
+       1.04,
+       1.18,
+       0.67
+      ]
+     ],
+     "clarte": 0.67,
+     "ok": true
+    },
+    {
+     "prise": 18,
+     "file": "fr-26-00-p18.wav",
+     "seconds": 1.04,
+     "compute": 17,
+     "heard": "Respire, Victor.",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      0.88
+     ],
+     "rate": 19.3,
+     "mots": [
+      [
+       "Respire,",
+       0.0,
+       0.6,
+       0.96
+      ],
+      [
+       "Victor.",
+       0.7,
+       0.88,
+       0.98
+      ]
+     ],
+     "clarte": 0.96,
+     "ok": true
+    }
+   ]
+  },
+  {
+   "id": "28-00",
+   "bloc": 28,
+   "ton": "sceptique-calme",
+   "text": "Bon, là, tu me donnes le vertige. Trop d'infos tue l'info !",
+   "tts": "Bon, là, tu me donnes le vertige. Trop d'infos tue l'info !",
+   "gen": {
+    "temperature": 0.8,
+    "subtalker_temperature": 0.8
+   },
+   "voix": "clara-fr",
+   "prises": [
+    {
+     "prise": 15,
+     "file": "fr-28-00-p15.wav",
+     "seconds": 4.08,
+     "compute": 54,
+     "heard": "Bon, là tu me donnes le vertige. Trop d'info tue l'info !",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.4,
+      4.06
+     ],
+     "rate": 16.1,
+     "mots": [
+      [
+       "Bon,",
+       0.4,
+       0.78,
+       0.8
+      ],
+      [
+       "là",
+       1.18,
+       1.36,
+       0.94
+      ],
+      [
+       "tu",
+       1.36,
+       1.48,
+       0.9
+      ],
+      [
+       "me",
+       1.48,
+       1.68,
+       0.99
+      ],
+      [
+       "donnes",
+       1.68,
+       1.8,
+       0.96
+      ],
+      [
+       "le",
+       1.8,
+       2.02,
+       1.0
+      ],
+      [
+       "vertige.",
+       2.02,
+       2.62,
+       0.99
+      ],
+      [
+       "Trop",
+       2.98,
+       3.14,
+       0.97
+      ],
+      [
+       "d",
+       3.14,
+       3.24,
+       1.0
+      ],
+      [
+       "'info",
+       3.24,
+       3.52,
+       0.71
+      ],
+      [
+       "tue",
+       3.52,
+       3.7,
+       0.85
+      ],
+      [
+       "l",
+       3.7,
+       3.8,
+       0.99
+      ],
+      [
+       "'info",
+       3.8,
+       4.02,
+       0.99
+      ],
+      [
+       "!",
+       4.02,
+       4.06,
+       0.47
+      ]
+     ],
+     "clarte": 0.47,
+     "ok": true
+    },
+    {
+     "prise": 16,
+     "file": "fr-28-00-p16.wav",
+     "seconds": 3.92,
+     "compute": 52,
+     "heard": "Bon, là tu me donnes le vertige ! Trop d'infos tu l'infos !",
+     "wer": 0.077,
+     "extra": 1,
+     "speech": [
+      0.52,
+      3.9
+     ],
+     "rate": 17.5,
+     "mots": [
+      [
+       "Bon,",
+       0.52,
+       0.88,
+       0.87
+      ],
+      [
+       "là",
+       1.04,
+       1.22,
+       0.97
+      ],
+      [
+       "tu",
+       1.22,
+       1.36,
+       0.76
+      ],
+      [
+       "me",
+       1.36,
+       1.56,
+       0.99
+      ],
+      [
+       "donnes",
+       1.56,
+       1.66,
+       0.96
+      ],
+      [
+       "le",
+       1.66,
+       1.88,
+       1.0
+      ],
+      [
+       "vertige",
+       1.88,
+       2.4,
+       0.99
+      ],
+      [
+       "!",
+       2.4,
+       2.86,
+       0.23
+      ],
+      [
+       "Trop",
+       2.86,
+       3.0,
+       0.97
+      ],
+      [
+       "d",
+       3.0,
+       3.14,
+       1.0
+      ],
+      [
+       "'infos",
+       3.14,
+       3.42,
+       0.93
+      ],
+      [
+       "tu",
+       3.42,
+       3.52,
+       0.77
+      ],
+      [
+       "l",
+       3.52,
+       3.62,
+       0.92
+      ],
+      [
+       "'infos",
+       3.62,
+       3.9,
+       0.9
+      ],
+      [
+       "!",
+       3.9,
+       3.9,
+       0.57
+      ]
+     ],
+     "clarte": 0.23,
+     "ok": true
+    },
+    {
+     "prise": 17,
+     "file": "fr-28-00-p17.wav",
+     "seconds": 4.0,
+     "compute": 53,
+     "heard": "Bon, là tu me donnes le vertige. Trop d'infos tu l'infos !",
+     "wer": 0.077,
+     "extra": 1,
+     "speech": [
+      0.58,
+      3.96
+     ],
+     "rate": 17.5,
+     "mots": [
+      [
+       "Bon,",
+       0.58,
+       0.86,
+       0.83
+      ],
+      [
+       "là",
+       0.96,
+       1.16,
+       0.9
+      ],
+      [
+       "tu",
+       1.16,
+       1.28,
+       0.87
+      ],
+      [
+       "me",
+       1.28,
+       1.42,
+       0.97
+      ],
+      [
+       "donnes",
+       1.42,
+       1.52,
+       0.92
+      ],
+      [
+       "le",
+       1.52,
+       1.7,
+       1.0
+      ],
+      [
+       "vertige.",
+       1.7,
+       2.3,
+       0.99
+      ],
+      [
+       "Trop",
+       2.76,
+       2.9,
+       0.93
+      ],
+      [
+       "d",
+       2.9,
+       3.04,
+       1.0
+      ],
+      [
+       "'infos",
+       3.04,
+       3.34,
+       0.92
+      ],
+      [
+       "tu",
+       3.34,
+       3.42,
+       0.72
+      ],
+      [
+       "l",
+       3.42,
+       3.54,
+       0.93
+      ],
+      [
+       "'infos",
+       3.54,
+       3.88,
+       0.88
+      ],
+      [
+       "!",
+       3.88,
+       3.96,
+       0.39
+      ]
+     ],
+     "clarte": 0.39,
+     "ok": true
+    },
+    {
+     "prise": 18,
+     "file": "fr-28-00-p18.wav",
+     "seconds": 3.52,
+     "compute": 48,
+     "heard": "Bon, là tu me donnes le vertige. Trop d'infos tu l'infos.",
+     "wer": 0.077,
+     "extra": 1,
+     "speech": [
+      0.0,
+      3.46
+     ],
+     "rate": 17.1,
+     "mots": [
+      [
+       "Bon,",
+       0.0,
+       0.56,
+       0.88
+      ],
+      [
+       "là",
+       0.94,
+       1.14,
+       0.95
+      ],
+      [
+       "tu",
+       1.14,
+       1.28,
+       0.81
+      ],
+      [
+       "me",
+       1.28,
+       1.48,
+       0.99
+      ],
+      [
+       "donnes",
+       1.48,
+       1.58,
+       0.97
+      ],
+      [
+       "le",
+       1.58,
+       1.78,
+       1.0
+      ],
+      [
+       "vertige.",
+       1.78,
+       2.22,
+       0.99
+      ],
+      [
+       "Trop",
+       2.52,
+       2.64,
+       0.98
+      ],
+      [
+       "d",
+       2.64,
+       2.72,
+       1.0
+      ],
+      [
+       "'infos",
+       2.72,
+       3.0,
+       0.94
+      ],
+      [
+       "tu",
+       3.0,
+       3.1,
+       0.76
+      ],
+      [
+       "l",
+       3.1,
+       3.18,
+       0.96
+      ],
+      [
+       "'infos.",
+       3.18,
+       3.46,
+       0.89
+      ]
+     ],
+     "clarte": 0.76,
+     "ok": true
+    }
+   ]
+  }
+ ]
+}
