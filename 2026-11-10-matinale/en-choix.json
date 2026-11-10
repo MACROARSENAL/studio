@@ -12,8 +12,8 @@
     "prise": 1,
     "file": "en-00-00-p1.wav",
     "seconds": 8.16,
-    "compute": 82,
-    "heard": "Eight o'clock, and the markets are waking up. Good morning, trading floor. This is Victor Castel, and you're listening to MACROARSENAL Radio.",
+    "compute": 90,
+    "heard": "Eight o'clock and the markets are waking up. Good morning, trading floor. This is Victor Castel and you're listening to MACROARSENAL Radio.",
     "wer": 0.0,
     "extra": 0,
     "speech": [
@@ -25,48 +25,48 @@
      [
       "Eight",
       0.0,
-      0.34,
-      0.39
+      0.36,
+      0.41
      ],
      [
       "o",
-      0.34,
+      0.36,
       0.52,
       0.97
      ],
      [
-      "'clock,",
+      "'clock",
       0.52,
       0.76,
       0.99
      ],
      [
       "and",
-      1.08,
-      1.16,
-      1.0
+      0.76,
+      1.12,
+      0.65
      ],
      [
       "the",
-      1.16,
-      1.34,
+      1.12,
+      1.32,
       1.0
      ],
      [
       "markets",
-      1.34,
+      1.32,
       1.66,
       0.99
      ],
      [
       "are",
       1.66,
-      2.02,
+      1.98,
       1.0
      ],
      [
       "waking",
-      2.02,
+      1.98,
       2.24,
       1.0
      ],
@@ -90,13 +90,13 @@
      ],
      [
       "trading",
-      3.62,
-      3.74,
-      0.4
+      3.6,
+      3.72,
+      0.42
      ],
      [
       "floor.",
-      3.74,
+      3.72,
       4.04,
       1.0
      ],
@@ -109,42 +109,42 @@
      [
       "is",
       4.7,
-      4.9,
+      4.88,
       1.0
      ],
      [
       "Victor",
-      4.9,
-      5.18,
+      4.88,
+      5.16,
       0.99
      ],
      [
-      "Castel,",
-      5.18,
+      "Castel",
+      5.16,
       5.7,
-      0.49
+      0.5
      ],
      [
       "and",
-      5.96,
-      6.04,
-      1.0
+      5.7,
+      6.06,
+      0.66
      ],
      [
       "you're",
-      6.04,
-      6.2,
+      6.06,
+      6.22,
       0.98
      ],
      [
       "listening",
-      6.2,
-      6.52,
+      6.22,
+      6.5,
       1.0
      ],
      [
       "to",
-      6.52,
+      6.5,
       6.9,
       1.0
      ],
@@ -158,10 +158,10 @@
       "Radio.",
       7.72,
       8.0,
-      0.05
+      0.03
      ]
     ],
-    "clarte": 0.05,
+    "clarte": 0.03,
     "ok": true
    },
    "toutes": [
@@ -169,8 +169,8 @@
      "prise": 1,
      "file": "en-00-00-p1.wav",
      "seconds": 8.16,
-     "compute": 82,
-     "heard": "Eight o'clock, and the markets are waking up. Good morning, trading floor. This is Victor Castel, and you're listening to MACROARSENAL Radio.",
+     "compute": 90,
+     "heard": "Eight o'clock and the markets are waking up. Good morning, trading floor. This is Victor Castel and you're listening to MACROARSENAL Radio.",
      "wer": 0.0,
      "extra": 0,
      "speech": [
@@ -182,48 +182,48 @@
       [
        "Eight",
        0.0,
-       0.34,
-       0.39
+       0.36,
+       0.41
       ],
       [
        "o",
-       0.34,
+       0.36,
        0.52,
        0.97
       ],
       [
-       "'clock,",
+       "'clock",
        0.52,
        0.76,
        0.99
       ],
       [
        "and",
-       1.08,
-       1.16,
-       1.0
+       0.76,
+       1.12,
+       0.65
       ],
       [
        "the",
-       1.16,
-       1.34,
+       1.12,
+       1.32,
        1.0
       ],
       [
        "markets",
-       1.34,
+       1.32,
        1.66,
        0.99
       ],
       [
        "are",
        1.66,
-       2.02,
+       1.98,
        1.0
       ],
       [
        "waking",
-       2.02,
+       1.98,
        2.24,
        1.0
       ],
@@ -247,13 +247,13 @@
       ],
       [
        "trading",
-       3.62,
-       3.74,
-       0.4
+       3.6,
+       3.72,
+       0.42
       ],
       [
        "floor.",
-       3.74,
+       3.72,
        4.04,
        1.0
       ],
@@ -266,42 +266,42 @@
       [
        "is",
        4.7,
-       4.9,
+       4.88,
        1.0
       ],
       [
        "Victor",
-       4.9,
-       5.18,
+       4.88,
+       5.16,
        0.99
       ],
       [
-       "Castel,",
-       5.18,
+       "Castel",
+       5.16,
        5.7,
-       0.49
+       0.5
       ],
       [
        "and",
-       5.96,
-       6.04,
-       1.0
+       5.7,
+       6.06,
+       0.66
       ],
       [
        "you're",
-       6.04,
-       6.2,
+       6.06,
+       6.22,
        0.98
       ],
       [
        "listening",
-       6.2,
-       6.52,
+       6.22,
+       6.5,
        1.0
       ],
       [
        "to",
-       6.52,
+       6.5,
        6.9,
        1.0
       ],
@@ -315,10 +315,10 @@
        "Radio.",
        7.72,
        8.0,
-       0.05
+       0.03
       ]
      ],
-     "clarte": 0.05,
+     "clarte": 0.03,
      "ok": true
     }
    ]
@@ -334,8 +334,8 @@
     "prise": 1,
     "file": "en-00-01-p1.wav",
     "seconds": 8.96,
-    "compute": 89,
-    "heard": "Strong Coffee screens on 3 minutes around the world. Tuesday the 10th of November and all eyes are on U.S. inflation.",
+    "compute": 96,
+    "heard": "Strong Coffee screens on 3 minutes around the world. Tuesday, the 10th of November, and all eyes are on U.S. inflation.",
     "wer": 0.048,
     "extra": 2,
     "speech": [
@@ -348,7 +348,7 @@
       "Strong",
       0.0,
       0.74,
-      0.9
+      0.88
      ],
      [
       "Coffee",
@@ -365,20 +365,20 @@
      [
       "on",
       1.64,
-      2.22,
+      2.18,
       1.0
      ],
      [
       "3",
-      2.22,
+      2.18,
       2.68,
-      0.28
+      0.29
      ],
      [
       "minutes",
       2.68,
       3.16,
-      0.86
+      0.87
      ],
      [
       "around",
@@ -399,16 +399,16 @@
       0.99
      ],
      [
-      "Tuesday",
+      "Tuesday,",
       5.16,
       5.54,
-      0.98
+      0.97
      ],
      [
       "the",
-      5.54,
+      5.7,
       5.78,
-      0.54
+      0.8
      ],
      [
       "10th",
@@ -419,26 +419,26 @@
      [
       "of",
       6.02,
-      6.18,
-      0.94
+      6.2,
+      0.97
      ],
      [
-      "November",
-      6.18,
+      "November,",
+      6.2,
       6.5,
       1.0
      ],
      [
       "and",
-      6.5,
-      7.0,
-      0.8
+      6.86,
+      7.02,
+      0.99
      ],
      [
       "all",
-      7.0,
+      7.02,
       7.26,
-      0.96
+      0.97
      ],
      [
       "eyes",
@@ -449,20 +449,20 @@
      [
       "are",
       7.54,
-      7.78,
-      0.97
+      7.8,
+      0.98
      ],
      [
       "on",
-      7.78,
+      7.8,
       8.0,
-      0.99
+      1.0
      ],
      [
       "U",
       8.0,
       8.14,
-      0.72
+      0.79
      ],
      [
       ".S.",
@@ -474,10 +474,10 @@
       "inflation.",
       8.64,
       8.72,
-      0.94
+      0.98
      ]
     ],
-    "clarte": 0.28,
+    "clarte": 0.29,
     "ok": false
    },
    "toutes": [
@@ -485,27 +485,27 @@
      "prise": 2,
      "file": "en-00-01-p2.wav",
      "seconds": 9.44,
-     "compute": 90,
+     "compute": 103,
      "heard": "Strong Coffee screens on, three minutes around the world. Tuesday, the 10th of November, and all eyes are on U.S. inflation.",
      "wer": 0.048,
      "extra": 2,
      "speech": [
       0.0,
-      9.28
+      9.26
      ],
      "rate": 13.3,
      "mots": [
       [
        "Strong",
        0.0,
-       0.86,
-       0.86
+       0.88,
+       0.83
       ],
       [
        "Coffee",
-       0.86,
+       0.88,
        1.44,
-       0.87
+       0.89
       ],
       [
        "screens",
@@ -516,14 +516,14 @@
       [
        "on,",
        1.92,
-       2.44,
+       2.42,
        1.0
       ],
       [
        "three",
        2.7,
        2.96,
-       0.66
+       0.68
       ],
       [
        "minutes",
@@ -546,7 +546,7 @@
       [
        "world.",
        3.74,
-       4.28,
+       4.36,
        0.99
       ],
       [
@@ -557,19 +557,19 @@
       ],
       [
        "the",
-       5.8,
+       5.78,
        5.84,
        0.92
       ],
       [
        "10th",
        5.84,
-       6.16,
+       6.14,
        0.94
       ],
       [
        "of",
-       6.16,
+       6.14,
        6.3,
        0.98
       ],
@@ -600,12 +600,12 @@
       [
        "are",
        8.02,
-       8.3,
+       8.28,
        0.99
       ],
       [
        "on",
-       8.3,
+       8.28,
        8.52,
        1.0
       ],
@@ -613,7 +613,7 @@
        "U",
        8.52,
        8.7,
-       0.79
+       0.8
       ],
       [
        ".S.",
@@ -624,32 +624,32 @@
       [
        "inflation.",
        9.2,
-       9.28,
-       0.96
+       9.26,
+       0.95
       ]
      ],
-     "clarte": 0.66,
+     "clarte": 0.68,
      "ok": false
     },
     {
      "prise": 3,
      "file": "en-00-01-p3.wav",
      "seconds": 8.88,
-     "compute": 87,
-     "heard": "Strong Coffee screens on, three minutes around the world. Tuesday, the 10th of November, and all eyes are on U.S. inflation.",
+     "compute": 98,
+     "heard": "Strong Coffee screens on Three Minutes Around the World, Tuesday, the 10th of November, and all eyes are on U.S. inflation.",
      "wer": 0.048,
      "extra": 2,
      "speech": [
       0.0,
-      8.56
+      8.58
      ],
-     "rate": 14.4,
+     "rate": 14.3,
      "mots": [
       [
        "Strong",
        0.0,
        0.58,
-       0.93
+       0.92
       ],
       [
        "Coffee",
@@ -664,44 +664,44 @@
        0.96
       ],
       [
-       "on,",
+       "on",
        1.38,
        2.1,
        1.0
       ],
       [
-       "three",
-       2.36,
+       "Three",
+       2.1,
        2.56,
-       0.33
+       0.05
       ],
       [
-       "minutes",
+       "Minutes",
        2.56,
-       3.0,
-       1.0
+       3.02,
+       0.87
       ],
       [
-       "around",
-       3.0,
-       3.32,
-       0.98
+       "Around",
+       3.02,
+       3.34,
+       0.92
       ],
       [
        "the",
-       3.32,
+       3.34,
        3.54,
+       0.82
+      ],
+      [
+       "World,",
+       3.54,
+       4.12,
        1.0
       ],
       [
-       "world.",
-       3.54,
-       4.12,
-       0.99
-      ],
-      [
        "Tuesday,",
-       4.56,
+       4.74,
        4.96,
        0.99
       ],
@@ -709,19 +709,19 @@
        "the",
        5.14,
        5.2,
-       0.96
+       0.85
       ],
       [
        "10th",
        5.2,
-       5.46,
-       0.94
+       5.44,
+       0.95
       ],
       [
        "of",
-       5.46,
+       5.44,
        5.6,
-       0.99
+       0.98
       ],
       [
        "November,",
@@ -731,19 +731,19 @@
       ],
       [
        "and",
-       6.44,
-       6.62,
+       6.4,
+       6.58,
        0.99
       ],
       [
        "all",
-       6.62,
-       6.92,
-       0.98
+       6.58,
+       6.9,
+       0.93
       ],
       [
        "eyes",
-       6.92,
+       6.9,
        7.28,
        1.0
       ],
@@ -756,37 +756,37 @@
       [
        "on",
        7.56,
-       7.82,
+       7.8,
        1.0
       ],
       [
        "U",
-       7.82,
-       8.0,
-       0.8
+       7.8,
+       7.98,
+       0.83
       ],
       [
        ".S.",
-       8.0,
+       7.98,
        8.12,
        1.0
       ],
       [
        "inflation.",
        8.48,
-       8.56,
-       0.98
+       8.58,
+       0.97
       ]
      ],
-     "clarte": 0.33,
+     "clarte": 0.05,
      "ok": false
     },
     {
      "prise": 4,
      "file": "en-00-01-p4.wav",
      "seconds": 8.32,
-     "compute": 84,
-     "heard": "Strong Coffee screens on three minutes around the world. Tuesday the 10th of November, and all eyes are on U.S. inflation.",
+     "compute": 93,
+     "heard": "Strong Coffee screens on three minutes around the world. Tuesday the 10th of November and all eyes are on U.S. inflation.",
      "wer": 0.048,
      "extra": 2,
      "speech": [
@@ -799,7 +799,7 @@
        "Strong",
        0.0,
        0.46,
-       0.92
+       0.93
       ],
       [
        "Coffee",
@@ -811,7 +811,7 @@
        "screens",
        0.98,
        1.48,
-       0.87
+       0.86
       ],
       [
        "on",
@@ -823,7 +823,7 @@
        "three",
        2.0,
        2.5,
-       0.73
+       0.67
       ],
       [
        "minutes",
@@ -847,7 +847,7 @@
        "world.",
        3.44,
        4.02,
-       1.0
+       0.99
       ],
       [
        "Tuesday",
@@ -859,7 +859,7 @@
        "the",
        4.82,
        5.04,
-       0.64
+       0.58
       ],
       [
        "10th",
@@ -874,26 +874,26 @@
        0.98
       ],
       [
-       "November,",
+       "November",
        5.48,
        5.78,
        1.0
       ],
       [
        "and",
-       6.22,
-       6.38,
-       0.99
+       5.78,
+       6.36,
+       0.7
       ],
       [
        "all",
-       6.38,
-       6.6,
-       0.98
+       6.36,
+       6.58,
+       0.96
       ],
       [
        "eyes",
-       6.6,
+       6.58,
        6.92,
        1.0
       ],
@@ -901,7 +901,7 @@
        "are",
        6.92,
        7.22,
-       0.99
+       0.98
       ],
       [
        "on",
@@ -913,7 +913,7 @@
        "U",
        7.42,
        7.6,
-       0.74
+       0.66
       ],
       [
        ".S.",
@@ -923,19 +923,19 @@
       ],
       [
        "inflation.",
-       8.06,
+       8.08,
        8.14,
-       0.97
+       0.95
       ]
      ],
-     "clarte": 0.64,
+     "clarte": 0.58,
      "ok": false
     },
     {
      "prise": 5,
      "file": "en-00-01-p5.wav",
      "seconds": 7.84,
-     "compute": 81,
+     "compute": 88,
      "heard": "Strong Coffee screens on three minutes around the world. Tuesday the 10th of November and all eyes are on U.S. inflation.",
      "wer": 0.048,
      "extra": 2,
@@ -949,23 +949,23 @@
        "Strong",
        0.0,
        0.76,
-       0.86
+       0.87
       ],
       [
        "Coffee",
        0.76,
-       1.16,
-       0.84
+       1.18,
+       0.85
       ],
       [
        "screens",
-       1.16,
-       1.56,
+       1.18,
+       1.54,
        0.95
       ],
       [
        "on",
-       1.56,
+       1.54,
        2.0,
        1.0
       ],
@@ -973,7 +973,7 @@
        "three",
        2.0,
        2.44,
-       0.61
+       0.58
       ],
       [
        "minutes",
@@ -996,32 +996,32 @@
       [
        "world.",
        3.44,
-       4.0,
+       4.02,
        0.99
       ],
       [
        "Tuesday",
        4.58,
        4.94,
-       0.99
+       0.98
       ],
       [
        "the",
        4.94,
-       5.16,
-       0.56
+       5.14,
+       0.59
       ],
       [
        "10th",
-       5.16,
-       5.4,
-       0.94
+       5.14,
+       5.38,
+       0.95
       ],
       [
        "of",
-       5.4,
+       5.38,
        5.56,
-       0.96
+       0.97
       ],
       [
        "November",
@@ -1032,18 +1032,18 @@
       [
        "and",
        5.84,
-       6.22,
-       0.82
+       6.2,
+       0.83
       ],
       [
        "all",
-       6.22,
-       6.4,
+       6.2,
+       6.38,
        0.98
       ],
       [
        "eyes",
-       6.4,
+       6.38,
        6.66,
        1.0
       ],
@@ -1062,31 +1062,31 @@
       [
        "U",
        7.06,
-       7.2,
-       0.63
+       7.18,
+       0.67
       ],
       [
        ".S.",
-       7.2,
+       7.18,
        7.3,
        1.0
       ],
       [
        "inflation.",
-       7.66,
+       7.64,
        7.7,
-       0.95
+       0.96
       ]
      ],
-     "clarte": 0.56,
+     "clarte": 0.58,
      "ok": false
     },
     {
      "prise": 1,
      "file": "en-00-01-p1.wav",
      "seconds": 8.96,
-     "compute": 89,
-     "heard": "Strong Coffee screens on 3 minutes around the world. Tuesday the 10th of November and all eyes are on U.S. inflation.",
+     "compute": 96,
+     "heard": "Strong Coffee screens on 3 minutes around the world. Tuesday, the 10th of November, and all eyes are on U.S. inflation.",
      "wer": 0.048,
      "extra": 2,
      "speech": [
@@ -1099,7 +1099,7 @@
        "Strong",
        0.0,
        0.74,
-       0.9
+       0.88
       ],
       [
        "Coffee",
@@ -1116,20 +1116,20 @@
       [
        "on",
        1.64,
-       2.22,
+       2.18,
        1.0
       ],
       [
        "3",
-       2.22,
+       2.18,
        2.68,
-       0.28
+       0.29
       ],
       [
        "minutes",
        2.68,
        3.16,
-       0.86
+       0.87
       ],
       [
        "around",
@@ -1150,16 +1150,16 @@
        0.99
       ],
       [
-       "Tuesday",
+       "Tuesday,",
        5.16,
        5.54,
-       0.98
+       0.97
       ],
       [
        "the",
-       5.54,
+       5.7,
        5.78,
-       0.54
+       0.8
       ],
       [
        "10th",
@@ -1170,26 +1170,26 @@
       [
        "of",
        6.02,
-       6.18,
-       0.94
+       6.2,
+       0.97
       ],
       [
-       "November",
-       6.18,
+       "November,",
+       6.2,
        6.5,
        1.0
       ],
       [
        "and",
-       6.5,
-       7.0,
-       0.8
+       6.86,
+       7.02,
+       0.99
       ],
       [
        "all",
-       7.0,
+       7.02,
        7.26,
-       0.96
+       0.97
       ],
       [
        "eyes",
@@ -1200,20 +1200,20 @@
       [
        "are",
        7.54,
-       7.78,
-       0.97
+       7.8,
+       0.98
       ],
       [
        "on",
-       7.78,
+       7.8,
        8.0,
-       0.99
+       1.0
       ],
       [
        "U",
        8.0,
        8.14,
-       0.72
+       0.79
       ],
       [
        ".S.",
@@ -1225,10 +1225,10 @@
        "inflation.",
        8.64,
        8.72,
-       0.94
+       0.98
       ]
      ],
-     "clarte": 0.28,
+     "clarte": 0.29,
      "ok": false
     }
    ]
@@ -1243,422 +1243,410 @@
    "prise": {
     "prise": 1,
     "file": "en-01-00-p1.wav",
-    "seconds": 13.04,
-    "compute": 116,
-    "heard": "Wall Street first. Yesterday New York had its best session since April. The US&P 500 gained 2.3 percent. The NASDAQ 2.7. Chipmakers led the way with AMD and Broadcom.",
-    "wer": 0.029,
-    "extra": 1,
+    "seconds": 13.28,
+    "compute": 132,
+    "heard": "Wall Street first. Yesterday New York had its best session since April. The S&P 500 gained 2.3%, the NASDAQ 2.7. Chipmakers led the way with AMD and Broadcom.",
+    "wer": 0.0,
+    "extra": 0,
     "speech": [
      0.0,
-     12.94
+     13.18
     ],
-    "rate": 15.8,
+    "rate": 15.5,
     "mots": [
      [
       "Wall",
       0.0,
-      0.52,
-      0.74
+      0.54,
+      0.67
      ],
      [
       "Street",
-      0.52,
-      0.8,
-      0.9
+      0.54,
+      0.82,
+      0.84
      ],
      [
       "first.",
-      0.8,
-      1.28,
-      0.63
+      0.82,
+      1.32,
+      0.69
      ],
      [
       "Yesterday",
-      1.82,
-      2.08,
+      1.96,
+      2.26,
       0.99
      ],
      [
       "New",
-      2.08,
-      2.32,
-      0.73
+      2.26,
+      2.58,
+      0.58
      ],
      [
       "York",
-      2.32,
-      2.56,
+      2.58,
+      2.84,
       1.0
      ],
      [
       "had",
-      2.56,
-      2.72,
+      2.84,
+      3.0,
       0.99
      ],
      [
       "its",
-      2.72,
-      2.98,
-      0.93
+      3.0,
+      3.26,
+      0.92
      ],
      [
       "best",
-      2.98,
-      3.28,
+      3.26,
+      3.56,
       0.98
      ],
      [
       "session",
-      3.28,
-      3.68,
-      0.76
+      3.56,
+      3.92,
+      0.95
      ],
      [
       "since",
-      3.68,
-      4.06,
+      3.92,
+      4.28,
       0.99
      ],
      [
       "April.",
-      4.06,
-      4.48,
+      4.28,
+      4.68,
       0.99
      ],
      [
       "The",
-      4.86,
-      5.06,
-      0.98
+      5.1,
+      5.28,
+      0.99
      ],
      [
-      "US",
-      5.06,
-      5.3,
-      0.76
+      "S",
+      5.28,
+      5.42,
+      0.98
      ],
      [
       "&P",
-      5.3,
-      5.72,
-      0.72
-     ],
-     [
-      "500",
-      5.72,
-      6.2,
-      0.96
-     ],
-     [
-      "gained",
-      6.2,
-      6.58,
-      0.99
-     ],
-     [
-      "2",
-      6.58,
-      6.92,
+      5.42,
+      5.78,
       0.98
      ],
      [
-      ".3",
-      6.92,
-      7.38,
-      1.0
+      "500",
+      5.78,
+      6.24,
+      0.97
      ],
      [
-      "percent.",
-      7.38,
-      7.92,
-      0.35
-     ],
-     [
-      "The",
-      8.28,
-      8.42,
+      "gained",
+      6.24,
+      6.62,
       0.99
      ],
      [
-      "NASDAQ",
-      8.42,
-      8.96,
-      0.84
+      "2",
+      6.62,
+      6.98,
+      0.98
      ],
      [
-      "2",
-      8.96,
-      9.14,
+      ".3%,",
+      6.98,
+      7.96,
+      0.81
+     ],
+     [
+      "the",
+      7.96,
+      8.28,
       0.96
      ],
      [
+      "NASDAQ",
+      8.28,
+      8.82,
+      0.87
+     ],
+     [
+      "2",
+      8.82,
+      9.04,
+      0.98
+     ],
+     [
       ".7.",
-      9.14,
-      9.86,
+      9.04,
+      9.7,
       1.0
      ],
      [
       "Chipmakers",
-      10.18,
+      10.16,
       10.68,
-      0.93
+      0.95
      ],
      [
       "led",
       10.68,
-      10.88,
-      0.93
+      10.9,
+      0.91
      ],
      [
       "the",
-      10.88,
-      11.12,
+      10.9,
+      11.1,
       1.0
      ],
      [
       "way",
-      11.12,
+      11.1,
       11.4,
       1.0
      ],
      [
       "with",
       11.4,
-      11.76,
-      0.81
+      11.82,
+      0.78
      ],
      [
       "AMD",
-      11.76,
-      12.22,
-      0.99
+      11.82,
+      12.32,
+      1.0
      ],
      [
       "and",
-      12.22,
-      12.5,
-      0.97
+      12.32,
+      12.72,
+      0.98
      ],
      [
       "Broadcom.",
-      12.5,
-      12.94,
+      12.72,
+      13.18,
       0.99
      ]
     ],
-    "clarte": 0.35,
+    "clarte": 0.58,
     "ok": true
    },
    "toutes": [
     {
      "prise": 1,
      "file": "en-01-00-p1.wav",
-     "seconds": 13.04,
-     "compute": 116,
-     "heard": "Wall Street first. Yesterday New York had its best session since April. The US&P 500 gained 2.3 percent. The NASDAQ 2.7. Chipmakers led the way with AMD and Broadcom.",
-     "wer": 0.029,
-     "extra": 1,
+     "seconds": 13.28,
+     "compute": 132,
+     "heard": "Wall Street first. Yesterday New York had its best session since April. The S&P 500 gained 2.3%, the NASDAQ 2.7. Chipmakers led the way with AMD and Broadcom.",
+     "wer": 0.0,
+     "extra": 0,
      "speech": [
       0.0,
-      12.94
+      13.18
      ],
-     "rate": 15.8,
+     "rate": 15.5,
      "mots": [
       [
        "Wall",
        0.0,
-       0.52,
-       0.74
+       0.54,
+       0.67
       ],
       [
        "Street",
-       0.52,
-       0.8,
-       0.9
+       0.54,
+       0.82,
+       0.84
       ],
       [
        "first.",
-       0.8,
-       1.28,
-       0.63
+       0.82,
+       1.32,
+       0.69
       ],
       [
        "Yesterday",
-       1.82,
-       2.08,
+       1.96,
+       2.26,
        0.99
       ],
       [
        "New",
-       2.08,
-       2.32,
-       0.73
+       2.26,
+       2.58,
+       0.58
       ],
       [
        "York",
-       2.32,
-       2.56,
+       2.58,
+       2.84,
        1.0
       ],
       [
        "had",
-       2.56,
-       2.72,
+       2.84,
+       3.0,
        0.99
       ],
       [
        "its",
-       2.72,
-       2.98,
-       0.93
+       3.0,
+       3.26,
+       0.92
       ],
       [
        "best",
-       2.98,
-       3.28,
+       3.26,
+       3.56,
        0.98
       ],
       [
        "session",
-       3.28,
-       3.68,
-       0.76
+       3.56,
+       3.92,
+       0.95
       ],
       [
        "since",
-       3.68,
-       4.06,
+       3.92,
+       4.28,
        0.99
       ],
       [
        "April.",
-       4.06,
-       4.48,
+       4.28,
+       4.68,
        0.99
       ],
       [
        "The",
-       4.86,
-       5.06,
-       0.98
+       5.1,
+       5.28,
+       0.99
       ],
       [
-       "US",
-       5.06,
-       5.3,
-       0.76
+       "S",
+       5.28,
+       5.42,
+       0.98
       ],
       [
        "&P",
-       5.3,
-       5.72,
-       0.72
-      ],
-      [
-       "500",
-       5.72,
-       6.2,
-       0.96
-      ],
-      [
-       "gained",
-       6.2,
-       6.58,
-       0.99
-      ],
-      [
-       "2",
-       6.58,
-       6.92,
+       5.42,
+       5.78,
        0.98
       ],
       [
-       ".3",
-       6.92,
-       7.38,
-       1.0
+       "500",
+       5.78,
+       6.24,
+       0.97
       ],
       [
-       "percent.",
-       7.38,
-       7.92,
-       0.35
-      ],
-      [
-       "The",
-       8.28,
-       8.42,
+       "gained",
+       6.24,
+       6.62,
        0.99
       ],
       [
-       "NASDAQ",
-       8.42,
-       8.96,
-       0.84
+       "2",
+       6.62,
+       6.98,
+       0.98
       ],
       [
-       "2",
-       8.96,
-       9.14,
+       ".3%,",
+       6.98,
+       7.96,
+       0.81
+      ],
+      [
+       "the",
+       7.96,
+       8.28,
        0.96
       ],
       [
+       "NASDAQ",
+       8.28,
+       8.82,
+       0.87
+      ],
+      [
+       "2",
+       8.82,
+       9.04,
+       0.98
+      ],
+      [
        ".7.",
-       9.14,
-       9.86,
+       9.04,
+       9.7,
        1.0
       ],
       [
        "Chipmakers",
-       10.18,
+       10.16,
        10.68,
-       0.93
+       0.95
       ],
       [
        "led",
        10.68,
-       10.88,
-       0.93
+       10.9,
+       0.91
       ],
       [
        "the",
-       10.88,
-       11.12,
+       10.9,
+       11.1,
        1.0
       ],
       [
        "way",
-       11.12,
+       11.1,
        11.4,
        1.0
       ],
       [
        "with",
        11.4,
-       11.76,
-       0.81
+       11.82,
+       0.78
       ],
       [
        "AMD",
-       11.76,
-       12.22,
-       0.99
+       11.82,
+       12.32,
+       1.0
       ],
       [
        "and",
-       12.22,
-       12.5,
-       0.97
+       12.32,
+       12.72,
+       0.98
       ],
       [
        "Broadcom.",
-       12.5,
-       12.94,
+       12.72,
+       13.18,
        0.99
       ]
      ],
-     "clarte": 0.35,
+     "clarte": 0.58,
      "ok": true
     }
    ]
@@ -1673,398 +1661,398 @@
    "prise": {
     "prise": 1,
     "file": "en-01-01-p1.wav",
-    "seconds": 12.72,
+    "seconds": 11.28,
     "compute": 113,
-    "heard": "The one shadow, NVIDIA fell about four percent. Its board is looking into reports that its chief executive was targeted by a foreign intelligence service. Beijing calls the claims slander.",
+    "heard": "The one shadow. NVIDIA fell about four percent. Its board is looking into reports that its chief executive was targeted by a foreign intelligence service. Beijing calls the claims slander.",
     "wer": 0.0,
     "extra": 0,
     "speech": [
      0.0,
-     12.52
+     11.16
     ],
-    "rate": 15.0,
+    "rate": 16.8,
     "mots": [
      [
       "The",
       0.0,
-      0.42,
-      0.7
+      0.28,
+      0.72
      ],
      [
       "one",
-      0.42,
-      0.7,
-      0.86
+      0.28,
+      0.6,
+      0.58
      ],
      [
-      "shadow,",
-      0.7,
-      1.12,
+      "shadow.",
+      0.6,
+      1.08,
       0.97
      ],
      [
       "NVIDIA",
-      1.66,
-      2.06,
-      0.81
+      1.46,
+      1.84,
+      0.88
      ],
      [
       "fell",
-      2.06,
-      2.38,
-      0.7
+      1.84,
+      2.14,
+      0.99
      ],
      [
       "about",
-      2.38,
-      2.9,
+      2.14,
+      2.54,
       0.99
      ],
      [
       "four",
-      2.9,
-      3.18,
-      0.35
+      2.54,
+      2.82,
+      0.36
      ],
      [
       "percent.",
-      3.18,
-      3.68,
-      0.95
-     ],
-     [
-      "Its",
-      4.28,
-      4.42,
+      2.82,
+      3.32,
       0.94
      ],
      [
+      "Its",
+      3.94,
+      4.1,
+      0.88
+     ],
+     [
       "board",
-      4.42,
-      4.7,
+      4.1,
+      4.34,
       0.95
      ],
      [
       "is",
-      4.7,
-      4.96,
+      4.34,
+      4.58,
       1.0
      ],
      [
       "looking",
-      4.96,
-      5.18,
+      4.58,
+      4.8,
       1.0
      ],
      [
       "into",
-      5.18,
-      5.44,
-      1.0
+      4.8,
+      5.06,
+      0.99
      ],
      [
       "reports",
-      5.44,
-      5.86,
+      5.06,
+      5.46,
       1.0
      ],
      [
       "that",
-      5.86,
-      6.1,
+      5.46,
+      5.68,
       1.0
      ],
      [
       "its",
-      6.1,
-      6.34,
-      0.97
+      5.68,
+      5.88,
+      0.98
      ],
      [
       "chief",
-      6.34,
-      6.68,
-      0.95
+      5.88,
+      6.14,
+      0.94
      ],
      [
       "executive",
-      6.68,
-      7.24,
+      6.14,
+      6.64,
       1.0
      ],
      [
       "was",
-      7.24,
-      7.52,
+      6.64,
+      6.9,
       1.0
      ],
      [
       "targeted",
-      7.52,
-      7.92,
+      6.9,
+      7.28,
       1.0
      ],
      [
       "by",
-      7.92,
-      8.3,
+      7.28,
+      7.62,
       1.0
      ],
      [
       "a",
-      8.3,
-      8.46,
+      7.62,
+      7.76,
       1.0
      ],
      [
       "foreign",
-      8.46,
-      8.82,
+      7.76,
+      8.06,
       0.98
      ],
      [
       "intelligence",
-      8.82,
-      9.42,
+      8.06,
+      8.58,
       1.0
      ],
      [
       "service.",
-      9.42,
-      9.98,
+      8.58,
+      9.06,
       1.0
      ],
      [
       "Beijing",
-      10.48,
-      10.88,
-      1.0
+      9.44,
+      9.82,
+      0.99
      ],
      [
       "calls",
-      10.88,
-      11.3,
+      9.82,
+      10.16,
       1.0
      ],
      [
       "the",
-      11.3,
-      11.58,
+      10.16,
+      10.42,
       1.0
      ],
      [
       "claims",
-      11.58,
-      11.88,
-      1.0
+      10.42,
+      10.66,
+      0.74
      ],
      [
       "slander.",
-      11.88,
-      12.52,
+      10.66,
+      11.16,
       0.68
      ]
     ],
-    "clarte": 0.35,
+    "clarte": 0.36,
     "ok": true
    },
    "toutes": [
     {
      "prise": 1,
      "file": "en-01-01-p1.wav",
-     "seconds": 12.72,
+     "seconds": 11.28,
      "compute": 113,
-     "heard": "The one shadow, NVIDIA fell about four percent. Its board is looking into reports that its chief executive was targeted by a foreign intelligence service. Beijing calls the claims slander.",
+     "heard": "The one shadow. NVIDIA fell about four percent. Its board is looking into reports that its chief executive was targeted by a foreign intelligence service. Beijing calls the claims slander.",
      "wer": 0.0,
      "extra": 0,
      "speech": [
       0.0,
-      12.52
+      11.16
      ],
-     "rate": 15.0,
+     "rate": 16.8,
      "mots": [
       [
        "The",
        0.0,
-       0.42,
-       0.7
+       0.28,
+       0.72
       ],
       [
        "one",
-       0.42,
-       0.7,
-       0.86
+       0.28,
+       0.6,
+       0.58
       ],
       [
-       "shadow,",
-       0.7,
-       1.12,
+       "shadow.",
+       0.6,
+       1.08,
        0.97
       ],
       [
        "NVIDIA",
-       1.66,
-       2.06,
-       0.81
+       1.46,
+       1.84,
+       0.88
       ],
       [
        "fell",
-       2.06,
-       2.38,
-       0.7
+       1.84,
+       2.14,
+       0.99
       ],
       [
        "about",
-       2.38,
-       2.9,
+       2.14,
+       2.54,
        0.99
       ],
       [
        "four",
-       2.9,
-       3.18,
-       0.35
+       2.54,
+       2.82,
+       0.36
       ],
       [
        "percent.",
-       3.18,
-       3.68,
-       0.95
-      ],
-      [
-       "Its",
-       4.28,
-       4.42,
+       2.82,
+       3.32,
        0.94
       ],
       [
+       "Its",
+       3.94,
+       4.1,
+       0.88
+      ],
+      [
        "board",
-       4.42,
-       4.7,
+       4.1,
+       4.34,
        0.95
       ],
       [
        "is",
-       4.7,
-       4.96,
+       4.34,
+       4.58,
        1.0
       ],
       [
        "looking",
-       4.96,
-       5.18,
+       4.58,
+       4.8,
        1.0
       ],
       [
        "into",
-       5.18,
-       5.44,
-       1.0
+       4.8,
+       5.06,
+       0.99
       ],
       [
        "reports",
-       5.44,
-       5.86,
+       5.06,
+       5.46,
        1.0
       ],
       [
        "that",
-       5.86,
-       6.1,
+       5.46,
+       5.68,
        1.0
       ],
       [
        "its",
-       6.1,
-       6.34,
-       0.97
+       5.68,
+       5.88,
+       0.98
       ],
       [
        "chief",
-       6.34,
-       6.68,
-       0.95
+       5.88,
+       6.14,
+       0.94
       ],
       [
        "executive",
-       6.68,
-       7.24,
+       6.14,
+       6.64,
        1.0
       ],
       [
        "was",
-       7.24,
-       7.52,
+       6.64,
+       6.9,
        1.0
       ],
       [
        "targeted",
-       7.52,
-       7.92,
+       6.9,
+       7.28,
        1.0
       ],
       [
        "by",
-       7.92,
-       8.3,
+       7.28,
+       7.62,
        1.0
       ],
       [
        "a",
-       8.3,
-       8.46,
+       7.62,
+       7.76,
        1.0
       ],
       [
        "foreign",
-       8.46,
-       8.82,
+       7.76,
+       8.06,
        0.98
       ],
       [
        "intelligence",
-       8.82,
-       9.42,
+       8.06,
+       8.58,
        1.0
       ],
       [
        "service.",
-       9.42,
-       9.98,
+       8.58,
+       9.06,
        1.0
       ],
       [
        "Beijing",
-       10.48,
-       10.88,
-       1.0
+       9.44,
+       9.82,
+       0.99
       ],
       [
        "calls",
-       10.88,
-       11.3,
+       9.82,
+       10.16,
        1.0
       ],
       [
        "the",
-       11.3,
-       11.58,
+       10.16,
+       10.42,
        1.0
       ],
       [
        "claims",
-       11.58,
-       11.88,
-       1.0
+       10.42,
+       10.66,
+       0.74
       ],
       [
        "slander.",
-       11.88,
-       12.52,
+       10.66,
+       11.16,
        0.68
       ]
      ],
-     "clarte": 0.35,
+     "clarte": 0.36,
      "ok": true
     }
    ]
@@ -2077,53 +2065,53 @@
    "tts": "Overnight, Asia kept the rally going. In Tokyo, the Nikkei climbed above sixty thousand points, up about two point six percent. In Seoul, the Kospi jumped about four percent: the open was so strong that a trading pause kicked in.",
    "gen": {},
    "prise": {
-    "prise": 5,
-    "file": "en-02-00-p5.wav",
-    "seconds": 15.36,
-    "compute": 136,
-    "heard": "Overnight, Asia kept the rally going. In Tokyo, the Nikkei climbed above 60,000 points, up about 2.6%. In Seoul, the KOSPI jumped about 4%. The open was so strong that a trading pause kicked in.",
+    "prise": 2,
+    "file": "en-02-00-p2.wav",
+    "seconds": 14.8,
+    "compute": 150,
+    "heard": "Overnight, Asia kept the rally going. In Tokyo, the Nikkei climbed above 60,000 points, up about 2.6%. In Seoul, the Kospi jumped about 4%. The open was so strong that a trading pause kicked in.",
     "wer": 0.025,
     "extra": 4,
     "speech": [
      0.0,
-     15.28
+     14.78
     ],
-    "rate": 15.0,
+    "rate": 15.5,
     "mots": [
      [
       "Overnight,",
       0.0,
-      1.02,
-      0.99
+      0.96,
+      1.0
      ],
      [
       "Asia",
-      1.44,
-      1.48,
+      1.4,
+      1.46,
       0.98
      ],
      [
       "kept",
-      1.48,
-      1.8,
+      1.46,
+      1.76,
       1.0
      ],
      [
       "the",
-      1.8,
-      2.04,
+      1.76,
+      2.02,
       1.0
      ],
      [
       "rally",
-      2.04,
-      2.24,
+      2.02,
+      2.2,
       1.0
      ],
      [
       "going.",
-      2.24,
-      2.68,
+      2.2,
+      2.62,
       1.0
      ],
      [
@@ -2135,7 +2123,7 @@
      [
       "Tokyo,",
       3.34,
-      3.76,
+      3.74,
       1.0
      ],
      [
@@ -2147,173 +2135,173 @@
      [
       "Nikkei",
       4.1,
-      4.56,
-      0.98
+      4.58,
+      0.96
      ],
      [
       "climbed",
-      4.56,
-      4.82,
+      4.58,
+      4.78,
       0.99
      ],
      [
       "above",
-      4.82,
-      5.2,
+      4.78,
+      5.14,
       1.0
      ],
      [
       "60",
-      5.2,
-      5.56,
+      5.14,
+      5.48,
       0.97
      ],
      [
       ",000",
-      5.56,
-      5.96,
-      0.94
+      5.48,
+      5.9,
+      0.91
      ],
      [
       "points,",
-      5.96,
-      6.4,
+      5.9,
+      6.28,
       0.98
      ],
      [
       "up",
+      6.62,
       6.78,
-      6.96,
       1.0
      ],
      [
       "about",
-      6.96,
-      7.38,
-      0.98
+      6.78,
+      7.14,
+      0.99
      ],
      [
       "2",
-      7.38,
-      7.68,
+      7.14,
+      7.42,
       0.99
      ],
      [
       ".6%.",
-      7.68,
-      8.78,
-      0.9
+      7.42,
+      8.64,
+      0.88
      ],
      [
       "In",
-      8.78,
-      9.32,
+      8.64,
+      9.18,
       1.0
      ],
      [
       "Seoul,",
-      9.32,
-      9.64,
+      9.18,
+      9.42,
       1.0
      ],
      [
       "the",
-      10.02,
-      10.18,
+      9.58,
+      9.76,
       0.99
      ],
      [
-      "KOSPI",
-      10.18,
-      10.56,
-      0.69
+      "Kospi",
+      9.76,
+      10.1,
+      0.73
      ],
      [
       "jumped",
-      10.56,
-      10.88,
+      10.1,
+      10.36,
       1.0
      ],
      [
       "about",
-      10.88,
-      11.2,
+      10.36,
+      10.68,
       0.99
      ],
      [
       "4%.",
-      11.2,
-      12.26,
-      0.93
+      10.68,
+      11.62,
+      0.95
      ],
      [
       "The",
-      12.26,
-      12.6,
+      11.62,
+      12.0,
       0.99
      ],
      [
       "open",
-      12.6,
-      12.8,
-      0.63
+      12.0,
+      12.26,
+      0.55
      ],
      [
       "was",
-      12.8,
-      13.02,
+      12.26,
+      12.5,
       1.0
      ],
      [
       "so",
-      13.02,
-      13.32,
+      12.5,
+      12.84,
       1.0
      ],
      [
       "strong",
-      13.32,
-      13.7,
+      12.84,
+      13.22,
       1.0
      ],
      [
       "that",
-      13.7,
-      13.92,
+      13.22,
+      13.46,
       0.95
      ],
      [
       "a",
-      13.92,
-      14.12,
+      13.46,
+      13.64,
       0.99
      ],
      [
       "trading",
-      14.12,
-      14.32,
-      1.0
+      13.64,
+      13.86,
+      0.99
      ],
      [
       "pause",
-      14.32,
-      14.68,
+      13.86,
+      14.24,
       1.0
      ],
      [
       "kicked",
-      14.68,
-      14.96,
+      14.24,
+      14.5,
       1.0
      ],
      [
       "in.",
-      14.96,
-      15.28,
+      14.5,
+      14.78,
       1.0
      ]
     ],
-    "clarte": 0.63,
+    "clarte": 0.55,
     "ok": false
    },
    "toutes": [
@@ -2321,27 +2309,27 @@
      "prise": 2,
      "file": "en-02-00-p2.wav",
      "seconds": 14.8,
-     "compute": 132,
+     "compute": 150,
      "heard": "Overnight, Asia kept the rally going. In Tokyo, the Nikkei climbed above 60,000 points, up about 2.6%. In Seoul, the Kospi jumped about 4%. The open was so strong that a trading pause kicked in.",
      "wer": 0.025,
      "extra": 4,
      "speech": [
       0.0,
-      14.72
+      14.78
      ],
-     "rate": 15.6,
+     "rate": 15.5,
      "mots": [
       [
        "Overnight,",
        0.0,
-       0.98,
-       0.99
+       0.96,
+       1.0
       ],
       [
        "Asia",
        1.4,
        1.46,
-       0.99
+       0.98
       ],
       [
        "kept",
@@ -2358,1181 +2346,1163 @@
       [
        "rally",
        2.02,
-       2.22,
+       2.2,
        1.0
       ],
       [
        "going.",
-       2.22,
-       2.66,
+       2.2,
+       2.62,
        1.0
       ],
       [
        "In",
-       3.16,
-       3.28,
+       3.22,
+       3.34,
        1.0
       ],
       [
        "Tokyo,",
-       3.28,
-       3.68,
+       3.34,
+       3.74,
        1.0
       ],
       [
        "the",
-       3.88,
-       4.0,
+       3.98,
+       4.1,
        0.98
       ],
       [
        "Nikkei",
-       4.0,
-       4.5,
-       0.97
+       4.1,
+       4.58,
+       0.96
       ],
       [
        "climbed",
-       4.5,
-       4.74,
+       4.58,
+       4.78,
        0.99
       ],
       [
        "above",
-       4.74,
-       5.16,
+       4.78,
+       5.14,
        1.0
       ],
       [
        "60",
-       5.16,
-       5.54,
+       5.14,
+       5.48,
        0.97
       ],
       [
        ",000",
-       5.54,
-       6.02,
-       0.93
+       5.48,
+       5.9,
+       0.91
       ],
       [
        "points,",
-       6.02,
-       6.42,
-       0.99
+       5.9,
+       6.28,
+       0.98
       ],
       [
        "up",
-       6.72,
-       6.92,
+       6.62,
+       6.78,
        1.0
       ],
       [
        "about",
-       6.92,
-       7.28,
+       6.78,
+       7.14,
        0.99
       ],
       [
        "2",
-       7.28,
-       7.56,
+       7.14,
+       7.42,
        0.99
       ],
       [
        ".6%.",
-       7.56,
-       8.7,
-       0.87
+       7.42,
+       8.64,
+       0.88
       ],
       [
        "In",
-       8.7,
+       8.64,
        9.18,
        1.0
       ],
       [
        "Seoul,",
        9.18,
-       9.44,
+       9.42,
        1.0
       ],
       [
        "the",
-       9.62,
-       9.78,
+       9.58,
+       9.76,
        0.99
       ],
       [
        "Kospi",
-       9.78,
-       10.2,
+       9.76,
+       10.1,
        0.73
       ],
       [
        "jumped",
-       10.2,
-       10.44,
+       10.1,
+       10.36,
        1.0
       ],
       [
        "about",
-       10.44,
-       10.8,
+       10.36,
+       10.68,
        0.99
       ],
       [
        "4%.",
-       10.8,
-       11.68,
-       0.93
+       10.68,
+       11.62,
+       0.95
       ],
       [
        "The",
-       11.68,
-       12.02,
+       11.62,
+       12.0,
        0.99
       ],
       [
        "open",
-       12.02,
-       12.24,
-       0.56
+       12.0,
+       12.26,
+       0.55
       ],
       [
        "was",
-       12.24,
-       12.44,
+       12.26,
+       12.5,
        1.0
       ],
       [
        "so",
-       12.44,
-       12.76,
+       12.5,
+       12.84,
        1.0
       ],
       [
        "strong",
-       12.76,
-       13.08,
+       12.84,
+       13.22,
        1.0
       ],
       [
        "that",
-       13.08,
-       13.3,
+       13.22,
+       13.46,
        0.95
       ],
       [
        "a",
-       13.3,
-       13.52,
+       13.46,
+       13.64,
        0.99
       ],
       [
        "trading",
-       13.52,
-       13.72,
-       1.0
+       13.64,
+       13.86,
+       0.99
       ],
       [
        "pause",
-       13.72,
-       14.1,
+       13.86,
+       14.24,
        1.0
       ],
       [
        "kicked",
-       14.1,
-       14.4,
+       14.24,
+       14.5,
        1.0
       ],
       [
        "in.",
-       14.4,
-       14.72,
+       14.5,
+       14.78,
        1.0
       ]
      ],
-     "clarte": 0.56,
+     "clarte": 0.55,
      "ok": false
     },
     {
      "prise": 3,
      "file": "en-02-00-p3.wav",
      "seconds": 14.88,
-     "compute": 134,
-     "heard": "Overnight, Asia kept the rally going. In Tokyo, the Nikkei climbed above 60,000 points, up about 2.6 percent. In Seoul, the KOSPI jumped about 4 percent. The open was so strong that a trading pause kicked in.",
+     "compute": 149,
+     "heard": "Overnight, Asia kept the rally going. In Tokyo, the Nikkei climbed above 60,000 points, up about 2.6%. In Seoul, the KOSPI jumped about 4%. The open was so strong that a trading pause kicked in.",
      "wer": 0.025,
      "extra": 4,
      "speech": [
-      0.0,
-      14.86
+      0.74,
+      14.78
      ],
-     "rate": 15.4,
+     "rate": 16.3,
      "mots": [
       [
        "Overnight,",
-       0.0,
-       1.16,
-       0.99
+       0.74,
+       1.34,
+       0.97
       ],
       [
        "Asia",
-       1.38,
-       1.72,
+       1.58,
+       1.88,
        0.98
       ],
       [
        "kept",
-       1.72,
-       2.02,
+       1.88,
+       2.14,
        1.0
       ],
       [
        "the",
-       2.02,
-       2.32,
+       2.14,
+       2.38,
        0.99
       ],
       [
        "rally",
-       2.32,
-       2.52,
-       1.0
+       2.38,
+       2.6,
+       0.99
       ],
       [
        "going.",
-       2.52,
-       2.92,
+       2.6,
+       3.04,
        1.0
       ],
       [
        "In",
-       3.4,
-       3.52,
+       3.62,
+       3.72,
        0.99
       ],
       [
        "Tokyo,",
-       3.52,
-       3.98,
+       3.72,
+       4.12,
        0.99
       ],
       [
        "the",
-       4.2,
        4.32,
-       0.98
+       4.44,
+       0.97
       ],
       [
        "Nikkei",
-       4.32,
-       4.8,
-       0.96
+       4.44,
+       4.88,
+       0.65
       ],
       [
        "climbed",
-       4.8,
-       5.04,
+       4.88,
+       5.1,
        0.99
       ],
       [
        "above",
-       5.04,
-       5.42,
+       5.1,
+       5.46,
        1.0
       ],
       [
        "60",
-       5.42,
-       5.8,
+       5.46,
+       5.84,
        0.97
       ],
       [
        ",000",
-       5.8,
-       6.24,
+       5.84,
+       6.3,
        0.93
       ],
       [
        "points,",
-       6.24,
-       6.66,
+       6.3,
+       6.72,
        0.98
       ],
       [
        "up",
-       7.0,
+       7.02,
        7.16,
-       0.99
+       1.0
       ],
       [
        "about",
        7.16,
-       7.5,
-       0.97
+       7.48,
+       0.99
       ],
       [
        "2",
-       7.5,
+       7.48,
        7.76,
        0.99
       ],
       [
-       ".6",
+       ".6%.",
        7.76,
-       8.26,
-       0.99
-      ],
-      [
-       "percent.",
-       8.26,
-       8.68,
-       0.24
+       8.06,
+       0.84
       ],
       [
        "In",
-       9.02,
-       9.28,
+       8.74,
+       9.22,
        1.0
       ],
       [
        "Seoul,",
-       9.28,
-       9.54,
+       9.22,
+       9.44,
        1.0
       ],
       [
        "the",
-       9.68,
-       9.84,
+       9.58,
+       9.74,
        0.99
       ],
       [
        "KOSPI",
-       9.84,
-       10.16,
-       0.64
+       9.74,
+       10.04,
+       0.58
       ],
       [
        "jumped",
-       10.16,
-       10.48,
+       10.04,
+       10.3,
        1.0
       ],
       [
        "about",
-       10.48,
-       10.86,
+       10.3,
+       10.6,
        0.99
       ],
       [
-       "4",
-       10.86,
-       11.18,
-       0.94
-      ],
-      [
-       "percent.",
-       11.18,
-       11.64,
-       0.95
+       "4%.",
+       10.6,
+       11.0,
+       0.97
       ],
       [
        "The",
-       11.98,
-       12.18,
+       11.62,
+       12.02,
        0.99
       ],
       [
        "open",
-       12.18,
-       12.42,
-       0.69
+       12.02,
+       12.28,
+       0.59
       ],
       [
        "was",
-       12.42,
-       12.62,
+       12.28,
+       12.5,
        1.0
       ],
       [
        "so",
-       12.62,
-       13.0,
+       12.5,
+       12.84,
        1.0
       ],
       [
        "strong",
-       13.0,
-       13.28,
+       12.84,
+       13.2,
        1.0
       ],
       [
        "that",
-       13.28,
-       13.5,
-       0.94
+       13.2,
+       13.42,
+       0.97
       ],
       [
        "a",
-       13.5,
-       13.72,
+       13.42,
+       13.62,
        0.99
       ],
       [
        "trading",
-       13.72,
-       13.92,
-       1.0
+       13.62,
+       13.82,
+       0.99
       ],
       [
        "pause",
-       13.92,
-       14.28,
+       13.82,
+       14.2,
        1.0
       ],
       [
        "kicked",
-       14.28,
-       14.54,
+       14.2,
+       14.48,
        1.0
       ],
       [
        "in.",
-       14.54,
-       14.86,
+       14.48,
+       14.78,
        1.0
       ]
      ],
-     "clarte": 0.24,
+     "clarte": 0.58,
      "ok": false
     },
     {
      "prise": 4,
      "file": "en-02-00-p4.wav",
-     "seconds": 15.12,
-     "compute": 136,
+     "seconds": 14.8,
+     "compute": 154,
      "heard": "Overnight, Asia kept the rally going. In Tokyo, the Nikkei climbed above 60,000 points, up about 2.6%. In Seoul, the Kospi jumped about 4%. The open was so strong that a trading pause kicked in.",
      "wer": 0.025,
      "extra": 4,
      "speech": [
       0.0,
-      15.02
+      14.68
      ],
-     "rate": 15.2,
+     "rate": 15.6,
      "mots": [
       [
        "Overnight,",
        0.0,
-       0.92,
-       1.0
-      ],
-      [
-       "Asia",
-       1.3,
-       1.36,
+       0.9,
        0.99
       ],
       [
+       "Asia",
+       1.4,
+       1.46,
+       0.98
+      ],
+      [
        "kept",
-       1.36,
-       1.64,
+       1.46,
+       1.74,
        1.0
       ],
       [
        "the",
-       1.64,
-       1.9,
+       1.74,
+       1.98,
        1.0
       ],
       [
        "rally",
-       1.9,
-       2.1,
+       1.98,
+       2.18,
        1.0
       ],
       [
        "going.",
-       2.1,
-       2.54,
+       2.18,
+       2.6,
        1.0
       ],
       [
        "In",
-       3.1,
-       3.22,
-       1.0
-      ],
-      [
-       "Tokyo,",
-       3.22,
-       3.72,
+       3.14,
+       3.24,
        0.99
       ],
       [
+       "Tokyo,",
+       3.24,
+       3.68,
+       1.0
+      ],
+      [
        "the",
-       4.14,
-       4.26,
-       0.97
+       3.86,
+       3.98,
+       0.98
       ],
       [
        "Nikkei",
-       4.26,
-       4.74,
+       3.98,
+       4.5,
        0.96
       ],
       [
        "climbed",
-       4.74,
-       4.94,
+       4.5,
+       4.68,
        0.99
       ],
       [
        "above",
-       4.94,
-       5.3,
+       4.68,
+       5.08,
        1.0
       ],
       [
        "60",
-       5.3,
-       5.7,
-       0.97
+       5.08,
+       5.46,
+       0.98
       ],
       [
        ",000",
-       5.7,
-       6.2,
-       0.94
+       5.46,
+       5.92,
+       0.95
       ],
       [
        "points,",
-       6.2,
-       6.56,
+       5.92,
+       6.34,
        0.98
       ],
       [
        "up",
-       6.84,
-       7.02,
+       6.72,
+       6.86,
        1.0
       ],
       [
        "about",
-       7.02,
-       7.36,
-       0.99
+       6.86,
+       7.16,
+       0.98
       ],
       [
        "2",
-       7.36,
-       7.66,
+       7.16,
+       7.44,
        0.99
       ],
       [
        ".6%.",
-       7.66,
-       8.84,
+       7.44,
+       8.62,
        0.89
       ],
       [
        "In",
-       8.84,
-       9.36,
+       8.62,
+       9.14,
        1.0
       ],
       [
        "Seoul,",
-       9.36,
-       9.58,
+       9.14,
+       9.38,
        1.0
       ],
       [
        "the",
-       9.74,
-       9.9,
+       9.52,
+       9.68,
        0.99
       ],
       [
        "Kospi",
-       9.9,
-       10.28,
-       0.71
+       9.68,
+       10.04,
+       0.69
       ],
       [
        "jumped",
+       10.04,
        10.28,
-       10.5,
        1.0
       ],
       [
        "about",
-       10.5,
-       10.88,
+       10.28,
+       10.62,
        0.99
       ],
       [
        "4%.",
-       10.88,
-       11.92,
+       10.62,
+       11.66,
        0.97
       ],
       [
        "The",
-       11.92,
-       12.24,
+       11.66,
+       12.0,
        0.99
       ],
       [
        "open",
+       12.0,
        12.24,
-       12.46,
-       0.61
+       0.73
       ],
       [
        "was",
-       12.46,
-       12.68,
+       12.24,
+       12.42,
        1.0
       ],
       [
        "so",
-       12.68,
-       13.02,
+       12.42,
+       12.82,
        1.0
       ],
       [
        "strong",
-       13.02,
-       13.36,
+       12.82,
+       13.12,
        1.0
       ],
       [
        "that",
-       13.36,
-       13.6,
+       13.12,
+       13.32,
        0.95
       ],
       [
        "a",
-       13.6,
-       13.82,
+       13.32,
+       13.54,
        0.99
       ],
       [
        "trading",
-       13.82,
-       14.02,
+       13.54,
+       13.72,
        1.0
       ],
       [
        "pause",
-       14.02,
-       14.42,
+       13.72,
+       14.06,
        1.0
       ],
       [
        "kicked",
-       14.42,
-       14.72,
+       14.06,
+       14.34,
        1.0
       ],
       [
        "in.",
-       14.72,
-       15.02,
+       14.34,
+       14.68,
        1.0
       ]
      ],
-     "clarte": 0.61,
+     "clarte": 0.69,
      "ok": false
     },
     {
      "prise": 5,
      "file": "en-02-00-p5.wav",
-     "seconds": 15.36,
-     "compute": 136,
+     "seconds": 14.72,
+     "compute": 152,
      "heard": "Overnight, Asia kept the rally going. In Tokyo, the Nikkei climbed above 60,000 points, up about 2.6%. In Seoul, the KOSPI jumped about 4%. The open was so strong that a trading pause kicked in.",
      "wer": 0.025,
      "extra": 4,
      "speech": [
       0.0,
-      15.28
+      14.7
      ],
-     "rate": 15.0,
+     "rate": 15.6,
      "mots": [
       [
        "Overnight,",
        0.0,
-       1.02,
-       0.99
-      ],
-      [
-       "Asia",
-       1.44,
-       1.48,
-       0.98
-      ],
-      [
-       "kept",
-       1.48,
-       1.8,
-       1.0
-      ],
-      [
-       "the",
-       1.8,
-       2.04,
-       1.0
-      ],
-      [
-       "rally",
-       2.04,
-       2.24,
-       1.0
-      ],
-      [
-       "going.",
-       2.24,
-       2.68,
-       1.0
-      ],
-      [
-       "In",
-       3.22,
-       3.34,
-       1.0
-      ],
-      [
-       "Tokyo,",
-       3.34,
-       3.76,
-       1.0
-      ],
-      [
-       "the",
-       3.98,
-       4.1,
-       0.98
-      ],
-      [
-       "Nikkei",
-       4.1,
-       4.56,
-       0.98
-      ],
-      [
-       "climbed",
-       4.56,
-       4.82,
-       0.99
-      ],
-      [
-       "above",
-       4.82,
-       5.2,
-       1.0
-      ],
-      [
-       "60",
-       5.2,
-       5.56,
-       0.97
-      ],
-      [
-       ",000",
-       5.56,
-       5.96,
-       0.94
-      ],
-      [
-       "points,",
-       5.96,
-       6.4,
-       0.98
-      ],
-      [
-       "up",
-       6.78,
-       6.96,
-       1.0
-      ],
-      [
-       "about",
-       6.96,
-       7.38,
-       0.98
-      ],
-      [
-       "2",
-       7.38,
-       7.68,
-       0.99
-      ],
-      [
-       ".6%.",
-       7.68,
-       8.78,
-       0.9
-      ],
-      [
-       "In",
-       8.78,
-       9.32,
-       1.0
-      ],
-      [
-       "Seoul,",
-       9.32,
-       9.64,
-       1.0
-      ],
-      [
-       "the",
-       10.02,
-       10.18,
-       0.99
-      ],
-      [
-       "KOSPI",
-       10.18,
-       10.56,
-       0.69
-      ],
-      [
-       "jumped",
-       10.56,
-       10.88,
-       1.0
-      ],
-      [
-       "about",
-       10.88,
-       11.2,
-       0.99
-      ],
-      [
-       "4%.",
-       11.2,
-       12.26,
-       0.93
-      ],
-      [
-       "The",
-       12.26,
-       12.6,
-       0.99
-      ],
-      [
-       "open",
-       12.6,
-       12.8,
-       0.63
-      ],
-      [
-       "was",
-       12.8,
-       13.02,
-       1.0
-      ],
-      [
-       "so",
-       13.02,
-       13.32,
-       1.0
-      ],
-      [
-       "strong",
-       13.32,
-       13.7,
-       1.0
-      ],
-      [
-       "that",
-       13.7,
-       13.92,
-       0.95
-      ],
-      [
-       "a",
-       13.92,
-       14.12,
-       0.99
-      ],
-      [
-       "trading",
-       14.12,
-       14.32,
-       1.0
-      ],
-      [
-       "pause",
-       14.32,
-       14.68,
-       1.0
-      ],
-      [
-       "kicked",
-       14.68,
-       14.96,
-       1.0
-      ],
-      [
-       "in.",
-       14.96,
-       15.28,
-       1.0
-      ]
-     ],
-     "clarte": 0.63,
-     "ok": false
-    },
-    {
-     "prise": 1,
-     "file": "en-02-00-p1.wav",
-     "seconds": 14.96,
-     "compute": 132,
-     "heard": "Overnight, Asia kept the rally going. In Tokyo, the Nikkei climb climbed above 60,000 points, up about 2.6%. In Seoul, the KOSPI jumped about 4%. The open was so strong that a trading pause kicked in.",
-     "wer": 0.025,
-     "extra": 5,
-     "speech": [
-      0.0,
-      14.84
-     ],
-     "rate": 15.4,
-     "mots": [
-      [
-       "Overnight,",
-       0.0,
-       0.98,
+       0.9,
        0.99
       ],
       [
        "Asia",
        1.3,
-       1.34,
+       1.36,
        0.98
       ],
       [
        "kept",
-       1.34,
-       1.62,
+       1.36,
+       1.68,
        1.0
       ],
       [
        "the",
-       1.62,
-       1.88,
-       0.99
+       1.68,
+       1.94,
+       1.0
       ],
       [
        "rally",
-       1.88,
-       2.06,
+       1.94,
+       2.12,
        1.0
       ],
       [
        "going.",
-       2.06,
-       2.48,
+       2.12,
+       2.56,
        1.0
       ],
       [
        "In",
-       3.16,
-       3.26,
-       1.0
+       3.1,
+       3.2,
+       0.99
       ],
       [
        "Tokyo,",
-       3.26,
-       3.72,
-       1.0
+       3.2,
+       3.62,
+       0.99
       ],
       [
        "the",
-       4.02,
-       4.16,
-       0.98
+       3.8,
+       3.9,
+       0.96
       ],
       [
        "Nikkei",
-       4.16,
-       4.68,
-       0.7
-      ],
-      [
-       "climb",
-       4.68,
-       4.86,
-       0.71
+       3.9,
+       4.34,
+       0.98
       ],
       [
        "climbed",
-       4.86,
-       5.24,
+       4.34,
+       4.58,
        0.99
       ],
       [
        "above",
-       5.24,
-       5.6,
+       4.58,
+       4.98,
        1.0
       ],
       [
        "60",
-       5.6,
-       6.0,
-       0.98
+       4.98,
+       5.38,
+       0.97
       ],
       [
        ",000",
-       6.0,
-       6.44,
-       0.95
+       5.38,
+       5.86,
+       0.94
       ],
       [
        "points,",
-       6.44,
-       6.82,
+       5.86,
+       6.26,
        0.98
       ],
       [
        "up",
-       7.18,
-       7.32,
+       6.54,
+       6.66,
        1.0
       ],
       [
        "about",
-       7.32,
-       7.64,
-       0.98
+       6.66,
+       6.98,
+       0.99
       ],
       [
        "2",
-       7.64,
-       7.92,
+       6.98,
+       7.28,
        0.99
       ],
       [
        ".6%.",
-       7.92,
-       8.96,
+       7.28,
+       8.44,
        0.89
       ],
       [
        "In",
-       8.96,
-       9.42,
+       8.44,
+       8.88,
        1.0
       ],
       [
        "Seoul,",
-       9.42,
-       9.62,
+       8.88,
+       9.22,
        1.0
       ],
       [
        "the",
-       9.76,
-       9.94,
+       9.62,
+       9.8,
        0.99
       ],
       [
        "KOSPI",
-       9.94,
-       10.26,
-       0.6
+       9.8,
+       10.1,
+       0.62
       ],
       [
        "jumped",
-       10.26,
-       10.56,
-       0.99
+       10.1,
+       10.44,
+       1.0
       ],
       [
        "about",
-       10.56,
-       10.88,
+       10.44,
+       10.76,
        0.99
       ],
       [
        "4%.",
-       10.88,
-       11.92,
-       0.98
+       10.76,
+       11.72,
+       0.96
       ],
       [
        "The",
-       11.92,
-       12.24,
+       11.72,
+       12.08,
        0.99
       ],
       [
        "open",
-       12.24,
-       12.4,
+       12.08,
+       12.32,
        0.67
       ],
       [
        "was",
-       12.4,
-       12.6,
+       12.32,
+       12.5,
        1.0
       ],
       [
        "so",
-       12.6,
-       12.96,
+       12.5,
+       12.78,
        1.0
       ],
       [
        "strong",
-       12.96,
-       13.28,
+       12.78,
+       13.16,
        1.0
       ],
       [
        "that",
-       13.28,
-       13.5,
-       0.96
+       13.16,
+       13.36,
+       0.95
       ],
       [
        "a",
-       13.5,
-       13.7,
+       13.36,
+       13.58,
        0.99
       ],
       [
        "trading",
-       13.7,
-       13.9,
-       0.99
+       13.58,
+       13.76,
+       1.0
       ],
       [
        "pause",
-       13.9,
-       14.24,
+       13.76,
+       14.14,
        1.0
       ],
       [
        "kicked",
-       14.24,
-       14.52,
+       14.14,
+       14.4,
        1.0
       ],
       [
        "in.",
-       14.52,
-       14.84,
+       14.4,
+       14.7,
        1.0
       ]
      ],
-     "clarte": 0.6,
+     "clarte": 0.62,
+     "ok": false
+    },
+    {
+     "prise": 1,
+     "file": "en-02-00-p1.wav",
+     "seconds": 14.48,
+     "compute": 145,
+     "heard": "Overnight, Asia kept the rally going. In Tokyo, the Nikkei climbed above 60,000 points, up about 2.6%. In Seoul, the KOSPI jumped about 4%. The open was so strong that a trading pause kicked in.",
+     "wer": 0.025,
+     "extra": 4,
+     "speech": [
+      0.0,
+      14.4
+     ],
+     "rate": 15.9,
+     "mots": [
+      [
+       "Overnight,",
+       0.0,
+       1.04,
+       0.99
+      ],
+      [
+       "Asia",
+       1.32,
+       1.6,
+       0.98
+      ],
+      [
+       "kept",
+       1.6,
+       1.9,
+       1.0
+      ],
+      [
+       "the",
+       1.9,
+       2.12,
+       1.0
+      ],
+      [
+       "rally",
+       2.12,
+       2.3,
+       1.0
+      ],
+      [
+       "going.",
+       2.3,
+       2.78,
+       1.0
+      ],
+      [
+       "In",
+       3.38,
+       3.5,
+       0.99
+      ],
+      [
+       "Tokyo,",
+       3.5,
+       3.98,
+       0.99
+      ],
+      [
+       "the",
+       4.18,
+       4.3,
+       0.98
+      ],
+      [
+       "Nikkei",
+       4.3,
+       4.76,
+       0.97
+      ],
+      [
+       "climbed",
+       4.76,
+       5.0,
+       0.99
+      ],
+      [
+       "above",
+       5.0,
+       5.38,
+       1.0
+      ],
+      [
+       "60",
+       5.38,
+       5.72,
+       0.98
+      ],
+      [
+       ",000",
+       5.72,
+       6.16,
+       0.95
+      ],
+      [
+       "points,",
+       6.16,
+       6.56,
+       0.98
+      ],
+      [
+       "up",
+       6.88,
+       7.04,
+       1.0
+      ],
+      [
+       "about",
+       7.04,
+       7.34,
+       0.99
+      ],
+      [
+       "2",
+       7.34,
+       7.56,
+       0.99
+      ],
+      [
+       ".6%.",
+       7.56,
+       8.62,
+       0.88
+      ],
+      [
+       "In",
+       8.62,
+       9.12,
+       1.0
+      ],
+      [
+       "Seoul,",
+       9.12,
+       9.42,
+       1.0
+      ],
+      [
+       "the",
+       9.6,
+       9.74,
+       0.99
+      ],
+      [
+       "KOSPI",
+       9.74,
+       10.04,
+       0.62
+      ],
+      [
+       "jumped",
+       10.04,
+       10.34,
+       1.0
+      ],
+      [
+       "about",
+       10.34,
+       10.62,
+       0.99
+      ],
+      [
+       "4%.",
+       10.62,
+       11.48,
+       0.91
+      ],
+      [
+       "The",
+       11.48,
+       11.78,
+       0.99
+      ],
+      [
+       "open",
+       11.78,
+       11.98,
+       0.51
+      ],
+      [
+       "was",
+       11.98,
+       12.18,
+       1.0
+      ],
+      [
+       "so",
+       12.18,
+       12.56,
+       1.0
+      ],
+      [
+       "strong",
+       12.56,
+       12.84,
+       1.0
+      ],
+      [
+       "that",
+       12.84,
+       13.08,
+       0.92
+      ],
+      [
+       "a",
+       13.08,
+       13.28,
+       0.99
+      ],
+      [
+       "trading",
+       13.28,
+       13.5,
+       0.99
+      ],
+      [
+       "pause",
+       13.5,
+       13.86,
+       1.0
+      ],
+      [
+       "kicked",
+       13.86,
+       14.12,
+       1.0
+      ],
+      [
+       "in.",
+       14.12,
+       14.4,
+       1.0
+      ]
+     ],
+     "clarte": 0.51,
      "ok": false
     }
    ]
@@ -3547,158 +3517,158 @@
    "prise": {
     "prise": 1,
     "file": "en-02-01-p1.wav",
-    "seconds": 4.4,
-    "compute": 49,
+    "seconds": 4.08,
+    "compute": 32,
     "heard": "And SoftBank soared about 15% ahead of its results.",
     "wer": 0.0,
     "extra": 0,
     "speech": [
      0.0,
-     4.06
+     3.76
     ],
-    "rate": 15.5,
+    "rate": 16.8,
     "mots": [
      [
       "And",
       0.0,
-      0.72,
-      0.29
+      0.62,
+      0.17
      ],
      [
       "SoftBank",
-      0.72,
-      1.26,
+      0.62,
+      1.18,
       0.79
      ],
      [
       "soared",
-      1.26,
-      1.7,
+      1.18,
+      1.58,
       1.0
      ],
      [
       "about",
-      1.7,
-      2.04,
+      1.58,
+      1.9,
       0.99
      ],
      [
       "15",
-      2.04,
-      2.48,
-      0.84
+      1.9,
+      2.4,
+      0.88
      ],
      [
       "%",
-      2.48,
-      2.98,
-      0.72
+      2.4,
+      2.82,
+      0.74
      ],
      [
       "ahead",
-      2.98,
-      3.32,
+      2.82,
+      3.06,
       0.99
      ],
      [
       "of",
-      3.32,
-      3.5,
+      3.06,
+      3.2,
       1.0
      ],
      [
       "its",
-      3.5,
-      3.64,
+      3.2,
+      3.34,
       0.99
      ],
      [
       "results.",
-      3.64,
-      4.06,
+      3.34,
+      3.76,
       1.0
      ]
     ],
-    "clarte": 0.29,
+    "clarte": 0.17,
     "ok": true
    },
    "toutes": [
     {
      "prise": 1,
      "file": "en-02-01-p1.wav",
-     "seconds": 4.4,
-     "compute": 49,
+     "seconds": 4.08,
+     "compute": 32,
      "heard": "And SoftBank soared about 15% ahead of its results.",
      "wer": 0.0,
      "extra": 0,
      "speech": [
       0.0,
-      4.06
+      3.76
      ],
-     "rate": 15.5,
+     "rate": 16.8,
      "mots": [
       [
        "And",
        0.0,
-       0.72,
-       0.29
+       0.62,
+       0.17
       ],
       [
        "SoftBank",
-       0.72,
-       1.26,
+       0.62,
+       1.18,
        0.79
       ],
       [
        "soared",
-       1.26,
-       1.7,
+       1.18,
+       1.58,
        1.0
       ],
       [
        "about",
-       1.7,
-       2.04,
+       1.58,
+       1.9,
        0.99
       ],
       [
        "15",
-       2.04,
-       2.48,
-       0.84
+       1.9,
+       2.4,
+       0.88
       ],
       [
        "%",
-       2.48,
-       2.98,
-       0.72
+       2.4,
+       2.82,
+       0.74
       ],
       [
        "ahead",
-       2.98,
-       3.32,
+       2.82,
+       3.06,
        0.99
       ],
       [
        "of",
-       3.32,
-       3.5,
+       3.06,
+       3.2,
        1.0
       ],
       [
        "its",
-       3.5,
-       3.64,
+       3.2,
+       3.34,
        0.99
       ],
       [
        "results.",
-       3.64,
-       4.06,
+       3.34,
+       3.76,
        1.0
       ]
      ],
-     "clarte": 0.29,
+     "clarte": 0.17,
      "ok": true
     }
    ]
@@ -3713,422 +3683,422 @@
    "prise": {
     "prise": 1,
     "file": "en-03-00-p1.wav",
-    "seconds": 13.28,
-    "compute": 125,
-    "heard": "Oil, meanwhile, is easing. Brent is back near $92 a barrel, after falling more than 4% yesterday. Donald Trump says new strikes on Iran are highly unlikely if talks make progress.",
+    "seconds": 12.88,
+    "compute": 84,
+    "heard": "Oil, meanwhile, is easing. Brent is back near $92 a barrel after falling more than 4% yesterday. Donald Trump says new strikes on Iran are highly unlikely if talks make progress.",
     "wer": 0.029,
     "extra": 0,
     "speech": [
      0.0,
-     13.14
+     12.66
     ],
-    "rate": 15.5,
+    "rate": 16.1,
     "mots": [
      [
       "Oil,",
       0.0,
       0.76,
-      0.98
+      0.92
      ],
      [
       "meanwhile,",
-      0.76,
-      1.3,
+      0.88,
+      1.44,
       1.0
      ],
      [
       "is",
-      1.5,
-      1.72,
+      1.7,
+      1.88,
       1.0
      ],
      [
       "easing.",
-      1.72,
-      2.36,
+      1.88,
+      2.64,
       1.0
      ],
      [
       "Brent",
-      2.68,
-      2.76,
+      2.94,
+      3.08,
       1.0
      ],
      [
       "is",
-      2.76,
-      3.04,
+      3.08,
+      3.38,
       1.0
      ],
      [
       "back",
-      3.04,
-      3.22,
+      3.38,
+      3.6,
       1.0
      ],
      [
       "near",
-      3.22,
-      3.48,
+      3.6,
+      3.82,
       0.99
      ],
      [
       "$92",
-      3.48,
-      4.08,
-      0.88
+      3.82,
+      4.46,
+      0.9
      ],
      [
       "a",
-      4.08,
-      4.66,
-      0.95
+      4.46,
+      4.92,
+      0.94
      ],
      [
-      "barrel,",
-      4.66,
-      4.96,
+      "barrel",
+      4.92,
+      5.2,
       1.0
      ],
      [
       "after",
-      5.48,
-      5.7,
-      1.0
+      5.2,
+      5.68,
+      0.88
      ],
      [
       "falling",
-      5.7,
+      5.68,
       5.98,
       1.0
      ],
      [
       "more",
       5.98,
-      6.3,
+      6.26,
       1.0
      ],
      [
       "than",
-      6.3,
-      6.56,
+      6.26,
+      6.46,
       1.0
      ],
      [
       "4",
-      6.56,
-      6.86,
-      0.89
+      6.46,
+      6.82,
+      0.91
      ],
      [
       "%",
-      6.86,
-      7.26,
-      0.46
+      6.82,
+      7.04,
+      0.68
      ],
      [
       "yesterday.",
-      7.26,
-      7.88,
+      7.04,
+      7.56,
       1.0
      ],
      [
       "Donald",
-      8.56,
-      8.82,
+      8.0,
+      8.26,
       1.0
      ],
      [
       "Trump",
-      8.82,
-      9.12,
+      8.26,
+      8.52,
       1.0
      ],
      [
       "says",
-      9.12,
-      9.44,
+      8.52,
+      8.94,
       1.0
      ],
      [
       "new",
+      8.94,
       9.44,
-      9.76,
-      0.99
+      0.82
      ],
      [
       "strikes",
-      9.76,
-      10.08,
+      9.44,
+      9.74,
       1.0
      ],
      [
       "on",
-      10.08,
-      10.34,
+      9.74,
+      10.0,
       1.0
      ],
      [
       "Iran",
-      10.34,
-      10.58,
+      10.0,
+      10.26,
       1.0
      ],
      [
       "are",
-      10.58,
-      10.9,
+      10.26,
+      10.56,
       1.0
      ],
      [
       "highly",
-      10.9,
-      11.24,
+      10.56,
+      10.86,
       0.97
      ],
      [
       "unlikely",
-      11.24,
-      11.74,
+      10.86,
+      11.34,
       1.0
      ],
      [
       "if",
-      11.74,
-      12.06,
+      11.34,
+      11.66,
       0.99
      ],
      [
       "talks",
-      12.06,
-      12.36,
+      11.66,
+      11.92,
       1.0
      ],
      [
       "make",
-      12.36,
-      12.7,
+      11.92,
+      12.24,
       1.0
      ],
      [
       "progress.",
-      12.7,
-      13.14,
+      12.24,
+      12.66,
       1.0
      ]
     ],
-    "clarte": 0.46,
+    "clarte": 0.68,
     "ok": true
    },
    "toutes": [
     {
      "prise": 1,
      "file": "en-03-00-p1.wav",
-     "seconds": 13.28,
-     "compute": 125,
-     "heard": "Oil, meanwhile, is easing. Brent is back near $92 a barrel, after falling more than 4% yesterday. Donald Trump says new strikes on Iran are highly unlikely if talks make progress.",
+     "seconds": 12.88,
+     "compute": 84,
+     "heard": "Oil, meanwhile, is easing. Brent is back near $92 a barrel after falling more than 4% yesterday. Donald Trump says new strikes on Iran are highly unlikely if talks make progress.",
      "wer": 0.029,
      "extra": 0,
      "speech": [
       0.0,
-      13.14
+      12.66
      ],
-     "rate": 15.5,
+     "rate": 16.1,
      "mots": [
       [
        "Oil,",
        0.0,
        0.76,
-       0.98
+       0.92
       ],
       [
        "meanwhile,",
-       0.76,
-       1.3,
+       0.88,
+       1.44,
        1.0
       ],
       [
        "is",
-       1.5,
-       1.72,
+       1.7,
+       1.88,
        1.0
       ],
       [
        "easing.",
-       1.72,
-       2.36,
+       1.88,
+       2.64,
        1.0
       ],
       [
        "Brent",
-       2.68,
-       2.76,
+       2.94,
+       3.08,
        1.0
       ],
       [
        "is",
-       2.76,
-       3.04,
+       3.08,
+       3.38,
        1.0
       ],
       [
        "back",
-       3.04,
-       3.22,
+       3.38,
+       3.6,
        1.0
       ],
       [
        "near",
-       3.22,
-       3.48,
+       3.6,
+       3.82,
        0.99
       ],
       [
        "$92",
-       3.48,
-       4.08,
-       0.88
+       3.82,
+       4.46,
+       0.9
       ],
       [
        "a",
-       4.08,
-       4.66,
-       0.95
+       4.46,
+       4.92,
+       0.94
       ],
       [
-       "barrel,",
-       4.66,
-       4.96,
+       "barrel",
+       4.92,
+       5.2,
        1.0
       ],
       [
        "after",
-       5.48,
-       5.7,
-       1.0
+       5.2,
+       5.68,
+       0.88
       ],
       [
        "falling",
-       5.7,
+       5.68,
        5.98,
        1.0
       ],
       [
        "more",
        5.98,
-       6.3,
+       6.26,
        1.0
       ],
       [
        "than",
-       6.3,
-       6.56,
+       6.26,
+       6.46,
        1.0
       ],
       [
        "4",
-       6.56,
-       6.86,
-       0.89
+       6.46,
+       6.82,
+       0.91
       ],
       [
        "%",
-       6.86,
-       7.26,
-       0.46
+       6.82,
+       7.04,
+       0.68
       ],
       [
        "yesterday.",
-       7.26,
-       7.88,
+       7.04,
+       7.56,
        1.0
       ],
       [
        "Donald",
-       8.56,
-       8.82,
+       8.0,
+       8.26,
        1.0
       ],
       [
        "Trump",
-       8.82,
-       9.12,
+       8.26,
+       8.52,
        1.0
       ],
       [
        "says",
-       9.12,
-       9.44,
+       8.52,
+       8.94,
        1.0
       ],
       [
        "new",
+       8.94,
        9.44,
-       9.76,
-       0.99
+       0.82
       ],
       [
        "strikes",
-       9.76,
-       10.08,
+       9.44,
+       9.74,
        1.0
       ],
       [
        "on",
-       10.08,
-       10.34,
+       9.74,
+       10.0,
        1.0
       ],
       [
        "Iran",
-       10.34,
-       10.58,
+       10.0,
+       10.26,
        1.0
       ],
       [
        "are",
-       10.58,
-       10.9,
+       10.26,
+       10.56,
        1.0
       ],
       [
        "highly",
-       10.9,
-       11.24,
+       10.56,
+       10.86,
        0.97
       ],
       [
        "unlikely",
-       11.24,
-       11.74,
+       10.86,
+       11.34,
        1.0
       ],
       [
        "if",
-       11.74,
-       12.06,
+       11.34,
+       11.66,
        0.99
       ],
       [
        "talks",
-       12.06,
-       12.36,
+       11.66,
+       11.92,
        1.0
       ],
       [
        "make",
-       12.36,
-       12.7,
+       11.92,
+       12.24,
        1.0
       ],
       [
        "progress.",
-       12.7,
-       13.14,
+       12.24,
+       12.66,
        1.0
       ]
      ],
-     "clarte": 0.46,
+     "clarte": 0.68,
      "ok": true
     }
    ]
@@ -4143,158 +4113,158 @@
    "prise": {
     "prise": 1,
     "file": "en-03-01-p1.wav",
-    "seconds": 3.44,
-    "compute": 40,
+    "seconds": 3.28,
+    "compute": 26,
     "heard": "But fresh incidents are reported in the Strait of Hormuz.",
     "wer": 0.0,
     "extra": 0,
     "speech": [
      0.0,
-     3.32
+     3.18
     ],
-    "rate": 17.2,
+    "rate": 17.9,
     "mots": [
      [
       "But",
       0.0,
-      0.68,
-      0.73
+      0.52,
+      0.63
      ],
      [
       "fresh",
-      0.68,
-      1.0,
+      0.52,
+      0.84,
       0.97
      ],
      [
       "incidents",
-      1.0,
-      1.44,
+      0.84,
+      1.26,
       0.96
      ],
      [
       "are",
-      1.44,
-      1.72,
+      1.26,
+      1.54,
       1.0
      ],
      [
       "reported",
-      1.72,
-      2.08,
+      1.54,
+      1.94,
       1.0
      ],
      [
       "in",
-      2.08,
-      2.34,
-      1.0
+      1.94,
+      2.22,
+      0.99
      ],
      [
       "the",
-      2.34,
-      2.54,
+      2.22,
+      2.46,
       1.0
      ],
      [
       "Strait",
-      2.54,
-      2.72,
+      2.46,
+      2.62,
       0.99
      ],
      [
       "of",
-      2.72,
-      2.88,
+      2.62,
+      2.78,
       1.0
      ],
      [
       "Hormuz.",
-      2.88,
-      3.32,
-      1.0
+      2.78,
+      3.18,
+      0.99
      ]
     ],
-    "clarte": 0.73,
+    "clarte": 0.63,
     "ok": true
    },
    "toutes": [
     {
      "prise": 1,
      "file": "en-03-01-p1.wav",
-     "seconds": 3.44,
-     "compute": 40,
+     "seconds": 3.28,
+     "compute": 26,
      "heard": "But fresh incidents are reported in the Strait of Hormuz.",
      "wer": 0.0,
      "extra": 0,
      "speech": [
       0.0,
-      3.32
+      3.18
      ],
-     "rate": 17.2,
+     "rate": 17.9,
      "mots": [
       [
        "But",
        0.0,
-       0.68,
-       0.73
+       0.52,
+       0.63
       ],
       [
        "fresh",
-       0.68,
-       1.0,
+       0.52,
+       0.84,
        0.97
       ],
       [
        "incidents",
-       1.0,
-       1.44,
+       0.84,
+       1.26,
        0.96
       ],
       [
        "are",
-       1.44,
-       1.72,
+       1.26,
+       1.54,
        1.0
       ],
       [
        "reported",
-       1.72,
-       2.08,
+       1.54,
+       1.94,
        1.0
       ],
       [
        "in",
-       2.08,
-       2.34,
-       1.0
+       1.94,
+       2.22,
+       0.99
       ],
       [
        "the",
-       2.34,
-       2.54,
+       2.22,
+       2.46,
        1.0
       ],
       [
        "Strait",
-       2.54,
-       2.72,
+       2.46,
+       2.62,
        0.99
       ],
       [
        "of",
-       2.72,
-       2.88,
+       2.62,
+       2.78,
        1.0
       ],
       [
        "Hormuz.",
-       2.88,
-       3.32,
-       1.0
+       2.78,
+       3.18,
+       0.99
       ]
      ],
-     "clarte": 0.73,
+     "clarte": 0.63,
      "ok": true
     }
    ]
@@ -4309,302 +4279,302 @@
    "prise": {
     "prise": 1,
     "file": "en-04-00-p1.wav",
-    "seconds": 7.92,
-    "compute": 79,
-    "heard": "On trade, Beijing is extending by two months its suspension of an extra tariff on some American goods. The truce is holding.",
+    "seconds": 8.32,
+    "compute": 55,
+    "heard": "On trade. Beijing is extending by two months its suspension of an extra tariff on some American goods. The truce is holding.",
     "wer": 0.0,
     "extra": 0,
     "speech": [
      0.0,
-     7.74
+     8.2
     ],
-    "rate": 16.0,
+    "rate": 15.1,
     "mots": [
      [
       "On",
       0.0,
-      0.52,
-      0.92
+      0.44,
+      0.61
      ],
      [
-      "trade,",
-      0.52,
-      0.9,
-      0.98
+      "trade.",
+      0.44,
+      0.86,
+      0.88
      ],
      [
       "Beijing",
-      1.38,
-      1.64,
-      1.0
+      1.4,
+      1.7,
+      0.99
      ],
      [
       "is",
-      1.64,
-      2.04,
+      1.7,
+      2.08,
       1.0
      ],
      [
       "extending",
-      2.04,
-      2.34,
+      2.08,
+      2.4,
       1.0
      ],
      [
       "by",
-      2.34,
-      2.64,
-      0.99
+      2.4,
+      2.72,
+      0.97
      ],
      [
       "two",
-      2.64,
-      2.9,
+      2.72,
+      2.96,
       0.88
      ],
      [
       "months",
-      2.9,
-      3.24,
-      1.0
+      2.96,
+      3.28,
+      0.99
      ],
      [
       "its",
-      3.24,
-      3.54,
-      0.93
+      3.28,
+      3.6,
+      0.86
      ],
      [
       "suspension",
-      3.54,
-      4.02,
+      3.6,
+      4.08,
       0.99
      ],
      [
       "of",
-      4.02,
-      4.28,
+      4.08,
+      4.36,
       0.99
      ],
      [
       "an",
-      4.28,
-      4.46,
+      4.36,
+      4.6,
       1.0
      ],
      [
       "extra",
-      4.46,
-      4.74,
+      4.6,
+      4.9,
       0.99
      ],
      [
       "tariff",
-      4.74,
-      5.06,
+      4.9,
+      5.28,
       1.0
      ],
      [
       "on",
-      5.06,
       5.28,
-      1.0
+      5.52,
+      0.99
      ],
      [
       "some",
-      5.28,
-      5.48,
+      5.52,
+      5.74,
       1.0
      ],
      [
       "American",
-      5.48,
-      5.96,
-      0.99
+      5.74,
+      6.24,
+      0.97
      ],
      [
       "goods.",
-      5.96,
-      6.38,
-      1.0
+      6.24,
+      6.66,
+      0.99
      ],
      [
       "The",
-      6.86,
-      7.04,
+      7.26,
+      7.46,
       0.99
      ],
      [
       "truce",
-      7.04,
-      7.3,
-      0.97
+      7.46,
+      7.7,
+      0.95
      ],
      [
       "is",
-      7.3,
-      7.5,
+      7.7,
+      7.98,
       1.0
      ],
      [
       "holding.",
-      7.5,
-      7.74,
+      7.98,
+      8.2,
       1.0
      ]
     ],
-    "clarte": 0.88,
+    "clarte": 0.61,
     "ok": true
    },
    "toutes": [
     {
      "prise": 1,
      "file": "en-04-00-p1.wav",
-     "seconds": 7.92,
-     "compute": 79,
-     "heard": "On trade, Beijing is extending by two months its suspension of an extra tariff on some American goods. The truce is holding.",
+     "seconds": 8.32,
+     "compute": 55,
+     "heard": "On trade. Beijing is extending by two months its suspension of an extra tariff on some American goods. The truce is holding.",
      "wer": 0.0,
      "extra": 0,
      "speech": [
       0.0,
-      7.74
+      8.2
      ],
-     "rate": 16.0,
+     "rate": 15.1,
      "mots": [
       [
        "On",
        0.0,
-       0.52,
-       0.92
+       0.44,
+       0.61
       ],
       [
-       "trade,",
-       0.52,
-       0.9,
-       0.98
+       "trade.",
+       0.44,
+       0.86,
+       0.88
       ],
       [
        "Beijing",
-       1.38,
-       1.64,
-       1.0
+       1.4,
+       1.7,
+       0.99
       ],
       [
        "is",
-       1.64,
-       2.04,
+       1.7,
+       2.08,
        1.0
       ],
       [
        "extending",
-       2.04,
-       2.34,
+       2.08,
+       2.4,
        1.0
       ],
       [
        "by",
-       2.34,
-       2.64,
-       0.99
+       2.4,
+       2.72,
+       0.97
       ],
       [
        "two",
-       2.64,
-       2.9,
+       2.72,
+       2.96,
        0.88
       ],
       [
        "months",
-       2.9,
-       3.24,
-       1.0
+       2.96,
+       3.28,
+       0.99
       ],
       [
        "its",
-       3.24,
-       3.54,
-       0.93
+       3.28,
+       3.6,
+       0.86
       ],
       [
        "suspension",
-       3.54,
-       4.02,
+       3.6,
+       4.08,
        0.99
       ],
       [
        "of",
-       4.02,
-       4.28,
+       4.08,
+       4.36,
        0.99
       ],
       [
        "an",
-       4.28,
-       4.46,
+       4.36,
+       4.6,
        1.0
       ],
       [
        "extra",
-       4.46,
-       4.74,
+       4.6,
+       4.9,
        0.99
       ],
       [
        "tariff",
-       4.74,
-       5.06,
+       4.9,
+       5.28,
        1.0
       ],
       [
        "on",
-       5.06,
        5.28,
-       1.0
+       5.52,
+       0.99
       ],
       [
        "some",
-       5.28,
-       5.48,
+       5.52,
+       5.74,
        1.0
       ],
       [
        "American",
-       5.48,
-       5.96,
-       0.99
+       5.74,
+       6.24,
+       0.97
       ],
       [
        "goods.",
-       5.96,
-       6.38,
-       1.0
+       6.24,
+       6.66,
+       0.99
       ],
       [
        "The",
-       6.86,
-       7.04,
+       7.26,
+       7.46,
        0.99
       ],
       [
        "truce",
-       7.04,
-       7.3,
-       0.97
+       7.46,
+       7.7,
+       0.95
       ],
       [
        "is",
-       7.3,
-       7.5,
+       7.7,
+       7.98,
        1.0
       ],
       [
        "holding.",
-       7.5,
-       7.74,
+       7.98,
+       8.2,
        1.0
       ]
      ],
-     "clarte": 0.88,
+     "clarte": 0.61,
      "ok": true
     }
    ]
@@ -4620,8 +4590,8 @@
     "prise": 1,
     "file": "en-05-00-p1.wav",
     "seconds": 11.92,
-    "compute": 111,
-    "heard": "The number of the morning 35.2 percent. That's the rise in Chinese exports in October from a year earlier. Since January, China's trade surplus has already passed one trillion dollars.",
+    "compute": 78,
+    "heard": "The number of the morning, 35.2 percent. That's the rise in Chinese exports in October, from a year earlier, since January, China's trade surplus has already passed one trillion dollars.",
     "wer": 0.0,
     "extra": 0,
     "speech": [
@@ -4634,7 +4604,7 @@
       "The",
       0.0,
       0.3,
-      0.56
+      0.53
      ],
      [
       "number",
@@ -4646,29 +4616,29 @@
       "of",
       0.54,
       0.68,
-      0.99
+      1.0
      ],
      [
       "the",
       0.68,
       0.82,
-      1.0
+      0.99
      ],
      [
-      "morning",
+      "morning,",
       0.82,
       1.14,
       0.99
      ],
      [
       "35",
-      1.14,
-      1.94,
-      0.45
+      1.64,
+      1.96,
+      0.97
      ],
      [
       ".2",
-      1.94,
+      1.96,
       2.54,
       0.99
      ],
@@ -4676,17 +4646,17 @@
       "percent.",
       2.54,
       3.06,
-      0.54
+      0.26
      ],
      [
       "That's",
-      3.42,
-      3.72,
+      3.44,
+      3.74,
       0.98
      ],
      [
       "the",
-      3.72,
+      3.74,
       3.88,
       1.0
      ],
@@ -4706,7 +4676,7 @@
       "Chinese",
       4.4,
       4.78,
-      0.95
+      0.98
      ],
      [
       "exports",
@@ -4717,24 +4687,24 @@
      [
       "in",
       5.22,
-      5.42,
+      5.4,
+      1.0
+     ],
+     [
+      "October,",
+      5.4,
+      5.84,
       0.99
      ],
      [
-      "October",
-      5.42,
-      5.84,
-      0.98
-     ],
-     [
       "from",
-      5.84,
-      6.46,
-      0.68
+      6.26,
+      6.44,
+      0.99
      ],
      [
       "a",
-      6.46,
+      6.44,
       6.62,
       1.0
      ],
@@ -4745,32 +4715,32 @@
       1.0
      ],
      [
-      "earlier.",
+      "earlier,",
       6.8,
-      7.28,
+      7.26,
       1.0
      ],
      [
-      "Since",
-      7.8,
+      "since",
+      7.62,
       7.88,
       0.99
      ],
      [
       "January,",
       7.88,
-      8.46,
+      8.44,
       0.99
      ],
      [
       "China's",
-      8.52,
-      9.12,
+      8.56,
+      9.1,
       1.0
      ],
      [
       "trade",
-      9.12,
+      9.1,
       9.32,
       1.0
      ],
@@ -4778,7 +4748,7 @@
       "surplus",
       9.32,
       9.66,
-      1.0
+      0.99
      ],
      [
       "has",
@@ -4795,29 +4765,29 @@
      [
       "passed",
       10.16,
-      10.5,
-      0.95
+      10.48,
+      0.96
      ],
      [
       "one",
-      10.5,
+      10.48,
       10.82,
-      0.58
+      0.49
      ],
      [
       "trillion",
       10.82,
       11.1,
-      1.0
+      0.99
      ],
      [
       "dollars.",
       11.1,
       11.56,
-      0.99
+      1.0
      ]
     ],
-    "clarte": 0.45,
+    "clarte": 0.26,
     "ok": true
    },
    "toutes": [
@@ -4825,8 +4795,8 @@
      "prise": 1,
      "file": "en-05-00-p1.wav",
      "seconds": 11.92,
-     "compute": 111,
-     "heard": "The number of the morning 35.2 percent. That's the rise in Chinese exports in October from a year earlier. Since January, China's trade surplus has already passed one trillion dollars.",
+     "compute": 78,
+     "heard": "The number of the morning, 35.2 percent. That's the rise in Chinese exports in October, from a year earlier, since January, China's trade surplus has already passed one trillion dollars.",
      "wer": 0.0,
      "extra": 0,
      "speech": [
@@ -4839,7 +4809,7 @@
        "The",
        0.0,
        0.3,
-       0.56
+       0.53
       ],
       [
        "number",
@@ -4851,29 +4821,29 @@
        "of",
        0.54,
        0.68,
-       0.99
+       1.0
       ],
       [
        "the",
        0.68,
        0.82,
-       1.0
+       0.99
       ],
       [
-       "morning",
+       "morning,",
        0.82,
        1.14,
        0.99
       ],
       [
        "35",
-       1.14,
-       1.94,
-       0.45
+       1.64,
+       1.96,
+       0.97
       ],
       [
        ".2",
-       1.94,
+       1.96,
        2.54,
        0.99
       ],
@@ -4881,17 +4851,17 @@
        "percent.",
        2.54,
        3.06,
-       0.54
+       0.26
       ],
       [
        "That's",
-       3.42,
-       3.72,
+       3.44,
+       3.74,
        0.98
       ],
       [
        "the",
-       3.72,
+       3.74,
        3.88,
        1.0
       ],
@@ -4911,7 +4881,7 @@
        "Chinese",
        4.4,
        4.78,
-       0.95
+       0.98
       ],
       [
        "exports",
@@ -4922,24 +4892,24 @@
       [
        "in",
        5.22,
-       5.42,
+       5.4,
+       1.0
+      ],
+      [
+       "October,",
+       5.4,
+       5.84,
        0.99
       ],
       [
-       "October",
-       5.42,
-       5.84,
-       0.98
-      ],
-      [
        "from",
-       5.84,
-       6.46,
-       0.68
+       6.26,
+       6.44,
+       0.99
       ],
       [
        "a",
-       6.46,
+       6.44,
        6.62,
        1.0
       ],
@@ -4950,32 +4920,32 @@
        1.0
       ],
       [
-       "earlier.",
+       "earlier,",
        6.8,
-       7.28,
+       7.26,
        1.0
       ],
       [
-       "Since",
-       7.8,
+       "since",
+       7.62,
        7.88,
        0.99
       ],
       [
        "January,",
        7.88,
-       8.46,
+       8.44,
        0.99
       ],
       [
        "China's",
-       8.52,
-       9.12,
+       8.56,
+       9.1,
        1.0
       ],
       [
        "trade",
-       9.12,
+       9.1,
        9.32,
        1.0
       ],
@@ -4983,7 +4953,7 @@
        "surplus",
        9.32,
        9.66,
-       1.0
+       0.99
       ],
       [
        "has",
@@ -5000,29 +4970,29 @@
       [
        "passed",
        10.16,
-       10.5,
-       0.95
+       10.48,
+       0.96
       ],
       [
        "one",
-       10.5,
+       10.48,
        10.82,
-       0.58
+       0.49
       ],
       [
        "trillion",
        10.82,
        11.1,
-       1.0
+       0.99
       ],
       [
        "dollars.",
        11.1,
        11.56,
-       0.99
+       1.0
       ]
      ],
-     "clarte": 0.45,
+     "clarte": 0.26,
      "ok": true
     }
    ]
@@ -5037,326 +5007,326 @@
    "prise": {
     "prise": 1,
     "file": "en-06-00-p1.wav",
-    "seconds": 9.04,
-    "compute": 83,
-    "heard": "Today's bias. Five markets are free for everyone this morning. The dollar is seen higher, backed by a Federal Reserve that is standing firm.",
+    "seconds": 8.64,
+    "compute": 91,
+    "heard": "Today's Bias Five markets are free for everyone this morning. The dollar is seen higher, backed by a Federal Reserve that is standing firm.",
     "wer": 0.0,
     "extra": 0,
     "speech": [
      0.0,
-     8.82
+     8.56
     ],
-    "rate": 15.9,
+    "rate": 16.4,
     "mots": [
      [
       "Today's",
       0.0,
-      0.74,
-      0.96
+      0.64,
+      0.92
      ],
      [
-      "bias.",
-      0.74,
-      1.12,
-      0.81
+      "Bias",
+      0.64,
+      1.32,
+      0.75
      ],
      [
       "Five",
-      1.62,
-      1.92,
-      0.71
+      1.32,
+      2.02,
+      0.47
      ],
      [
       "markets",
-      1.92,
-      2.3,
-      1.0
+      2.02,
+      2.44,
+      0.99
      ],
      [
       "are",
-      2.3,
-      2.68,
+      2.44,
+      2.78,
       1.0
      ],
      [
       "free",
-      2.68,
-      2.94,
-      1.0
+      2.78,
+      3.0,
+      0.99
      ],
      [
       "for",
-      2.94,
-      3.28,
+      3.0,
+      3.32,
       1.0
      ],
      [
       "everyone",
-      3.28,
+      3.32,
       3.66,
       0.99
      ],
      [
       "this",
       3.66,
-      3.98,
+      3.94,
       0.99
      ],
      [
       "morning.",
-      3.98,
+      3.94,
       4.3,
       1.0
      ],
      [
       "The",
       4.72,
-      4.82,
-      1.0
+      4.8,
+      0.99
      ],
      [
       "dollar",
-      4.82,
-      5.08,
-      0.97
+      4.8,
+      5.06,
+      0.96
      ],
      [
       "is",
-      5.08,
-      5.36,
+      5.06,
+      5.3,
       1.0
      ],
      [
       "seen",
-      5.36,
-      5.56,
+      5.3,
+      5.52,
       1.0
      ],
      [
       "higher,",
-      5.56,
-      6.06,
+      5.52,
+      5.92,
       1.0
      ],
      [
       "backed",
-      6.46,
-      6.56,
-      1.0
+      5.98,
+      6.28,
+      0.99
      ],
      [
       "by",
+      6.28,
       6.56,
-      6.82,
       1.0
      ],
      [
       "a",
-      6.82,
-      6.98,
-      1.0
+      6.56,
+      6.68,
+      0.99
      ],
      [
       "Federal",
+      6.68,
       6.98,
-      7.26,
-      0.64
+      0.66
      ],
      [
       "Reserve",
-      7.26,
-      7.76,
-      0.88
+      6.98,
+      7.44,
+      0.92
      ],
      [
       "that",
-      7.76,
-      7.92,
+      7.44,
+      7.62,
       0.99
      ],
      [
       "is",
-      7.92,
-      8.2,
+      7.62,
+      7.88,
       1.0
      ],
      [
       "standing",
-      8.2,
-      8.44,
-      1.0
+      7.88,
+      8.16,
+      0.99
      ],
      [
       "firm.",
-      8.44,
-      8.82,
+      8.16,
+      8.56,
       1.0
      ]
     ],
-    "clarte": 0.64,
+    "clarte": 0.47,
     "ok": true
    },
    "toutes": [
     {
      "prise": 1,
      "file": "en-06-00-p1.wav",
-     "seconds": 9.04,
-     "compute": 83,
-     "heard": "Today's bias. Five markets are free for everyone this morning. The dollar is seen higher, backed by a Federal Reserve that is standing firm.",
+     "seconds": 8.64,
+     "compute": 91,
+     "heard": "Today's Bias Five markets are free for everyone this morning. The dollar is seen higher, backed by a Federal Reserve that is standing firm.",
      "wer": 0.0,
      "extra": 0,
      "speech": [
       0.0,
-      8.82
+      8.56
      ],
-     "rate": 15.9,
+     "rate": 16.4,
      "mots": [
       [
        "Today's",
        0.0,
-       0.74,
-       0.96
+       0.64,
+       0.92
       ],
       [
-       "bias.",
-       0.74,
-       1.12,
-       0.81
+       "Bias",
+       0.64,
+       1.32,
+       0.75
       ],
       [
        "Five",
-       1.62,
-       1.92,
-       0.71
+       1.32,
+       2.02,
+       0.47
       ],
       [
        "markets",
-       1.92,
-       2.3,
-       1.0
+       2.02,
+       2.44,
+       0.99
       ],
       [
        "are",
-       2.3,
-       2.68,
+       2.44,
+       2.78,
        1.0
       ],
       [
        "free",
-       2.68,
-       2.94,
-       1.0
+       2.78,
+       3.0,
+       0.99
       ],
       [
        "for",
-       2.94,
-       3.28,
+       3.0,
+       3.32,
        1.0
       ],
       [
        "everyone",
-       3.28,
+       3.32,
        3.66,
        0.99
       ],
       [
        "this",
        3.66,
-       3.98,
+       3.94,
        0.99
       ],
       [
        "morning.",
-       3.98,
+       3.94,
        4.3,
        1.0
       ],
       [
        "The",
        4.72,
-       4.82,
-       1.0
+       4.8,
+       0.99
       ],
       [
        "dollar",
-       4.82,
-       5.08,
-       0.97
+       4.8,
+       5.06,
+       0.96
       ],
       [
        "is",
-       5.08,
-       5.36,
+       5.06,
+       5.3,
        1.0
       ],
       [
        "seen",
-       5.36,
-       5.56,
+       5.3,
+       5.52,
        1.0
       ],
       [
        "higher,",
-       5.56,
-       6.06,
+       5.52,
+       5.92,
        1.0
       ],
       [
        "backed",
-       6.46,
-       6.56,
-       1.0
+       5.98,
+       6.28,
+       0.99
       ],
       [
        "by",
+       6.28,
        6.56,
-       6.82,
        1.0
       ],
       [
        "a",
-       6.82,
-       6.98,
-       1.0
+       6.56,
+       6.68,
+       0.99
       ],
       [
        "Federal",
+       6.68,
        6.98,
-       7.26,
-       0.64
+       0.66
       ],
       [
        "Reserve",
-       7.26,
-       7.76,
-       0.88
+       6.98,
+       7.44,
+       0.92
       ],
       [
        "that",
-       7.76,
-       7.92,
+       7.44,
+       7.62,
        0.99
       ],
       [
        "is",
-       7.92,
-       8.2,
+       7.62,
+       7.88,
        1.0
       ],
       [
        "standing",
-       8.2,
-       8.44,
-       1.0
+       7.88,
+       8.16,
+       0.99
       ],
       [
        "firm.",
-       8.44,
-       8.82,
+       8.16,
+       8.56,
        1.0
       ]
      ],
-     "clarte": 0.64,
+     "clarte": 0.47,
      "ok": true
     }
    ]
@@ -5372,110 +5342,110 @@
     "prise": 1,
     "file": "en-06-01-p1.wav",
     "seconds": 5.28,
-    "compute": 49,
+    "compute": 58,
     "heard": "The New Zealand dollar is seen lower. It has just slipped below its one-year low.",
     "wer": 0.0,
     "extra": 0,
     "speech": [
      0.0,
-     5.08
+     5.06
     ],
-    "rate": 15.9,
+    "rate": 16.0,
     "mots": [
      [
       "The",
       0.0,
-      0.56,
-      0.91
+      0.58,
+      0.89
      ],
      [
       "New",
-      0.56,
-      0.82,
-      0.83
+      0.58,
+      0.84,
+      0.87
      ],
      [
       "Zealand",
-      0.82,
-      1.08,
+      0.84,
+      1.18,
       0.99
      ],
      [
       "dollar",
-      1.08,
-      1.4,
+      1.18,
+      1.5,
       0.95
      ],
      [
       "is",
-      1.4,
-      1.64,
-      0.99
+      1.5,
+      1.76,
+      1.0
      ],
      [
       "seen",
-      1.64,
-      1.84,
-      0.99
+      1.76,
+      1.96,
+      0.97
      ],
      [
       "lower.",
-      1.84,
-      2.28,
+      1.96,
+      2.42,
       1.0
      ],
      [
       "It",
-      2.62,
-      2.78,
+      2.7,
+      2.86,
       0.99
      ],
      [
       "has",
-      2.78,
-      3.0,
-      0.98
+      2.86,
+      3.1,
+      0.99
      ],
      [
       "just",
-      3.0,
-      3.28,
+      3.1,
+      3.34,
       1.0
      ],
      [
       "slipped",
-      3.28,
-      3.56,
+      3.34,
+      3.64,
       0.99
      ],
      [
       "below",
-      3.56,
-      4.0,
+      3.64,
+      4.06,
       1.0
      ],
      [
       "its",
-      4.0,
-      4.3,
-      0.95
+      4.06,
+      4.34,
+      0.96
      ],
      [
       "one",
-      4.3,
+      4.34,
       4.56,
       0.78
      ],
      [
       "-year",
       4.56,
-      4.76,
-      0.8
+      4.78,
+      0.85
      ],
      [
       "low.",
-      4.76,
-      5.08,
+      4.78,
+      5.06,
       0.98
      ]
     ],
@@ -5487,110 +5457,110 @@
      "prise": 1,
      "file": "en-06-01-p1.wav",
      "seconds": 5.28,
-     "compute": 49,
+     "compute": 58,
      "heard": "The New Zealand dollar is seen lower. It has just slipped below its one-year low.",
      "wer": 0.0,
      "extra": 0,
      "speech": [
       0.0,
-      5.08
+      5.06
      ],
-     "rate": 15.9,
+     "rate": 16.0,
      "mots": [
       [
        "The",
        0.0,
-       0.56,
-       0.91
+       0.58,
+       0.89
       ],
       [
        "New",
-       0.56,
-       0.82,
-       0.83
+       0.58,
+       0.84,
+       0.87
       ],
       [
        "Zealand",
-       0.82,
-       1.08,
+       0.84,
+       1.18,
        0.99
       ],
       [
        "dollar",
-       1.08,
-       1.4,
+       1.18,
+       1.5,
        0.95
       ],
       [
        "is",
-       1.4,
-       1.64,
-       0.99
+       1.5,
+       1.76,
+       1.0
       ],
       [
        "seen",
-       1.64,
-       1.84,
-       0.99
+       1.76,
+       1.96,
+       0.97
       ],
       [
        "lower.",
-       1.84,
-       2.28,
+       1.96,
+       2.42,
        1.0
       ],
       [
        "It",
-       2.62,
-       2.78,
+       2.7,
+       2.86,
        0.99
       ],
       [
        "has",
-       2.78,
-       3.0,
-       0.98
+       2.86,
+       3.1,
+       0.99
       ],
       [
        "just",
-       3.0,
-       3.28,
+       3.1,
+       3.34,
        1.0
       ],
       [
        "slipped",
-       3.28,
-       3.56,
+       3.34,
+       3.64,
        0.99
       ],
       [
        "below",
-       3.56,
-       4.0,
+       3.64,
+       4.06,
        1.0
       ],
       [
        "its",
-       4.0,
-       4.3,
-       0.95
+       4.06,
+       4.34,
+       0.96
       ],
       [
        "one",
-       4.3,
+       4.34,
        4.56,
        0.78
       ],
       [
        "-year",
        4.56,
-       4.76,
-       0.8
+       4.78,
+       0.85
       ],
       [
        "low.",
-       4.76,
-       5.08,
+       4.78,
+       5.06,
        0.98
       ]
      ],
@@ -5610,222 +5580,222 @@
     "prise": 2,
     "file": "en-06-02-p2.wav",
     "seconds": 13.6,
-    "compute": 120,
-    "heard": "In crypto, Bitcoin is holding near $75,000 and Ether is seen lower, weighed down by record outflows from its exchange-traded funds. All 40 full readings are waiting for you in the terminal.",
+    "compute": 137,
+    "heard": "In crypto, Bitcoin is holding near $75,000, and Ether is seen lower, weighed down by record outflows from its exchange traded funds. All 40 full readings are waiting for you in the terminal.",
     "wer": 0.056,
     "extra": 4,
     "speech": [
      0.0,
-     13.24
+     13.08
     ],
-    "rate": 16.2,
+    "rate": 16.4,
     "mots": [
      [
       "In",
       0.0,
-      0.32,
-      0.94
+      0.44,
+      0.57
      ],
      [
       "crypto,",
-      0.32,
-      0.82,
-      0.99
+      0.44,
+      0.98,
+      0.91
      ],
      [
       "Bitcoin",
-      1.26,
-      1.46,
-      0.75
+      1.6,
+      1.82,
+      0.77
      ],
      [
       "is",
-      1.46,
-      1.74,
+      1.82,
+      2.1,
       1.0
      ],
      [
       "holding",
-      1.74,
-      1.98,
+      2.1,
+      2.36,
       1.0
      ],
      [
       "near",
-      1.98,
       2.36,
-      0.99
+      2.7,
+      1.0
      ],
      [
       "$75",
-      2.36,
-      3.0,
+      2.7,
+      3.3,
       0.9
      ],
      [
-      ",000",
-      3.0,
-      3.98,
-      0.98
+      ",000,",
+      3.3,
+      4.28,
+      0.96
      ],
      [
       "and",
-      3.98,
-      4.42,
-      0.69
+      4.56,
+      4.82,
+      0.99
      ],
      [
       "Ether",
-      4.42,
-      4.78,
-      0.91
+      4.82,
+      5.14,
+      0.89
      ],
      [
       "is",
-      4.78,
-      5.04,
+      5.14,
+      5.4,
       1.0
      ],
      [
       "seen",
-      5.04,
-      5.3,
+      5.4,
+      5.66,
       0.99
      ],
      [
       "lower,",
-      5.3,
-      5.86,
+      5.66,
+      6.26,
       1.0
      ],
      [
       "weighed",
-      6.22,
-      6.38,
+      6.56,
+      6.72,
       0.99
      ],
      [
       "down",
-      6.38,
-      6.74,
+      6.72,
+      7.02,
       1.0
      ],
      [
       "by",
-      6.74,
-      7.06,
+      7.02,
+      7.34,
       1.0
      ],
      [
       "record",
-      7.06,
-      7.32,
+      7.34,
+      7.58,
       1.0
      ],
      [
       "outflows",
-      7.32,
-      7.84,
-      1.0
+      7.58,
+      8.1,
+      0.99
      ],
      [
       "from",
-      7.84,
       8.1,
+      8.4,
       1.0
      ],
      [
       "its",
-      8.1,
       8.4,
+      8.68,
       0.96
      ],
      [
       "exchange",
-      8.4,
-      8.8,
-      0.96
+      8.68,
+      9.06,
+      0.95
      ],
      [
-      "-traded",
-      8.8,
-      9.16,
-      0.82
+      "traded",
+      9.06,
+      9.34,
+      0.45
      ],
      [
       "funds.",
-      9.16,
-      9.6,
+      9.34,
+      9.78,
       1.0
      ],
      [
       "All",
-      10.36,
-      10.62,
+      10.44,
+      10.68,
       1.0
      ],
      [
       "40",
-      10.62,
-      10.96,
-      0.82
+      10.68,
+      11.0,
+      0.66
      ],
      [
       "full",
-      10.96,
-      11.26,
+      11.0,
+      11.22,
       0.96
      ],
      [
       "readings",
-      11.26,
-      11.58,
-      0.98
+      11.22,
+      11.54,
+      0.99
      ],
      [
       "are",
-      11.58,
-      11.92,
+      11.54,
+      11.82,
       1.0
      ],
      [
       "waiting",
-      11.92,
-      12.18,
+      11.82,
+      12.04,
       1.0
      ],
      [
       "for",
-      12.18,
-      12.44,
+      12.04,
+      12.3,
       1.0
      ],
      [
       "you",
-      12.44,
-      12.62,
+      12.3,
+      12.46,
       1.0
      ],
      [
       "in",
-      12.62,
-      12.76,
-      1.0
+      12.46,
+      12.58,
+      0.99
      ],
      [
       "the",
+      12.58,
       12.76,
-      12.94,
       1.0
      ],
      [
       "terminal.",
-      12.94,
-      13.24,
-      0.86
+      12.76,
+      13.08,
+      0.88
      ]
     ],
-    "clarte": 0.69,
+    "clarte": 0.45,
     "ok": false
    },
    "toutes": [
@@ -5833,896 +5803,8 @@
      "prise": 2,
      "file": "en-06-02-p2.wav",
      "seconds": 13.6,
-     "compute": 120,
-     "heard": "In crypto, Bitcoin is holding near $75,000 and Ether is seen lower, weighed down by record outflows from its exchange-traded funds. All 40 full readings are waiting for you in the terminal.",
-     "wer": 0.056,
-     "extra": 4,
-     "speech": [
-      0.0,
-      13.24
-     ],
-     "rate": 16.2,
-     "mots": [
-      [
-       "In",
-       0.0,
-       0.32,
-       0.94
-      ],
-      [
-       "crypto,",
-       0.32,
-       0.82,
-       0.99
-      ],
-      [
-       "Bitcoin",
-       1.26,
-       1.46,
-       0.75
-      ],
-      [
-       "is",
-       1.46,
-       1.74,
-       1.0
-      ],
-      [
-       "holding",
-       1.74,
-       1.98,
-       1.0
-      ],
-      [
-       "near",
-       1.98,
-       2.36,
-       0.99
-      ],
-      [
-       "$75",
-       2.36,
-       3.0,
-       0.9
-      ],
-      [
-       ",000",
-       3.0,
-       3.98,
-       0.98
-      ],
-      [
-       "and",
-       3.98,
-       4.42,
-       0.69
-      ],
-      [
-       "Ether",
-       4.42,
-       4.78,
-       0.91
-      ],
-      [
-       "is",
-       4.78,
-       5.04,
-       1.0
-      ],
-      [
-       "seen",
-       5.04,
-       5.3,
-       0.99
-      ],
-      [
-       "lower,",
-       5.3,
-       5.86,
-       1.0
-      ],
-      [
-       "weighed",
-       6.22,
-       6.38,
-       0.99
-      ],
-      [
-       "down",
-       6.38,
-       6.74,
-       1.0
-      ],
-      [
-       "by",
-       6.74,
-       7.06,
-       1.0
-      ],
-      [
-       "record",
-       7.06,
-       7.32,
-       1.0
-      ],
-      [
-       "outflows",
-       7.32,
-       7.84,
-       1.0
-      ],
-      [
-       "from",
-       7.84,
-       8.1,
-       1.0
-      ],
-      [
-       "its",
-       8.1,
-       8.4,
-       0.96
-      ],
-      [
-       "exchange",
-       8.4,
-       8.8,
-       0.96
-      ],
-      [
-       "-traded",
-       8.8,
-       9.16,
-       0.82
-      ],
-      [
-       "funds.",
-       9.16,
-       9.6,
-       1.0
-      ],
-      [
-       "All",
-       10.36,
-       10.62,
-       1.0
-      ],
-      [
-       "40",
-       10.62,
-       10.96,
-       0.82
-      ],
-      [
-       "full",
-       10.96,
-       11.26,
-       0.96
-      ],
-      [
-       "readings",
-       11.26,
-       11.58,
-       0.98
-      ],
-      [
-       "are",
-       11.58,
-       11.92,
-       1.0
-      ],
-      [
-       "waiting",
-       11.92,
-       12.18,
-       1.0
-      ],
-      [
-       "for",
-       12.18,
-       12.44,
-       1.0
-      ],
-      [
-       "you",
-       12.44,
-       12.62,
-       1.0
-      ],
-      [
-       "in",
-       12.62,
-       12.76,
-       1.0
-      ],
-      [
-       "the",
-       12.76,
-       12.94,
-       1.0
-      ],
-      [
-       "terminal.",
-       12.94,
-       13.24,
-       0.86
-      ]
-     ],
-     "clarte": 0.69,
-     "ok": false
-    },
-    {
-     "prise": 3,
-     "file": "en-06-02-p3.wav",
-     "seconds": 13.2,
-     "compute": 114,
-     "heard": "In crypto, Bitcoin is holding near $75,000 and Ether is seen lower, weighed down by record outflows from its exchange traded funds. All 40 full readings are waiting for you in the terminal.",
-     "wer": 0.056,
-     "extra": 4,
-     "speech": [
-      0.0,
-      13.06
-     ],
-     "rate": 16.5,
-     "mots": [
-      [
-       "In",
-       0.0,
-       0.32,
-       0.96
-      ],
-      [
-       "crypto,",
-       0.32,
-       0.86,
-       0.99
-      ],
-      [
-       "Bitcoin",
-       1.42,
-       1.62,
-       0.76
-      ],
-      [
-       "is",
-       1.62,
-       1.92,
-       1.0
-      ],
-      [
-       "holding",
-       1.92,
-       2.14,
-       1.0
-      ],
-      [
-       "near",
-       2.14,
-       2.44,
-       0.99
-      ],
-      [
-       "$75",
-       2.44,
-       2.98,
-       0.93
-      ],
-      [
-       ",000",
-       2.98,
-       3.96,
-       0.99
-      ],
-      [
-       "and",
-       3.96,
-       4.5,
-       0.64
-      ],
-      [
-       "Ether",
-       4.5,
-       4.84,
-       0.92
-      ],
-      [
-       "is",
-       4.84,
-       5.08,
-       1.0
-      ],
-      [
-       "seen",
-       5.08,
-       5.34,
-       1.0
-      ],
-      [
-       "lower,",
-       5.34,
-       5.92,
-       1.0
-      ],
-      [
-       "weighed",
-       6.24,
-       6.4,
-       0.99
-      ],
-      [
-       "down",
-       6.4,
-       6.8,
-       0.99
-      ],
-      [
-       "by",
-       6.8,
-       7.12,
-       1.0
-      ],
-      [
-       "record",
-       7.12,
-       7.4,
-       1.0
-      ],
-      [
-       "outflows",
-       7.4,
-       7.96,
-       1.0
-      ],
-      [
-       "from",
-       7.96,
-       8.2,
-       1.0
-      ],
-      [
-       "its",
-       8.2,
-       8.48,
-       0.96
-      ],
-      [
-       "exchange",
-       8.48,
-       8.9,
-       0.96
-      ],
-      [
-       "traded",
-       8.9,
-       9.22,
-       0.68
-      ],
-      [
-       "funds.",
-       9.22,
-       9.76,
-       1.0
-      ],
-      [
-       "All",
-       10.44,
-       10.72,
-       1.0
-      ],
-      [
-       "40",
-       10.72,
-       11.04,
-       0.74
-      ],
-      [
-       "full",
-       11.04,
-       11.32,
-       0.97
-      ],
-      [
-       "readings",
-       11.32,
-       11.62,
-       0.99
-      ],
-      [
-       "are",
-       11.62,
-       11.92,
-       1.0
-      ],
-      [
-       "waiting",
-       11.92,
-       12.12,
-       1.0
-      ],
-      [
-       "for",
-       12.12,
-       12.34,
-       1.0
-      ],
-      [
-       "you",
-       12.34,
-       12.5,
-       1.0
-      ],
-      [
-       "in",
-       12.5,
-       12.6,
-       1.0
-      ],
-      [
-       "the",
-       12.6,
-       12.78,
-       1.0
-      ],
-      [
-       "terminal.",
-       12.78,
-       13.06,
-       0.88
-      ]
-     ],
-     "clarte": 0.64,
-     "ok": false
-    },
-    {
-     "prise": 4,
-     "file": "en-06-02-p4.wav",
-     "seconds": 13.12,
-     "compute": 114,
-     "heard": "In crypto, Bitcoin is holding near $75,000 and Ether is seen lower, weighed down by record outflows from its exchange-traded funds. All 40 full readings are waiting for you in the terminal.",
-     "wer": 0.056,
-     "extra": 4,
-     "speech": [
-      0.0,
-      12.96
-     ],
-     "rate": 16.6,
-     "mots": [
-      [
-       "In",
-       0.0,
-       0.34,
-       0.95
-      ],
-      [
-       "crypto,",
-       0.34,
-       0.84,
-       0.99
-      ],
-      [
-       "Bitcoin",
-       1.34,
-       1.58,
-       0.75
-      ],
-      [
-       "is",
-       1.58,
-       1.88,
-       1.0
-      ],
-      [
-       "holding",
-       1.88,
-       2.14,
-       1.0
-      ],
-      [
-       "near",
-       2.14,
-       2.48,
-       1.0
-      ],
-      [
-       "$75",
-       2.48,
-       3.04,
-       0.94
-      ],
-      [
-       ",000",
-       3.04,
-       4.0,
-       0.98
-      ],
-      [
-       "and",
-       4.0,
-       4.48,
-       0.7
-      ],
-      [
-       "Ether",
-       4.48,
-       4.86,
-       0.91
-      ],
-      [
-       "is",
-       4.86,
-       5.06,
-       1.0
-      ],
-      [
-       "seen",
-       5.06,
-       5.32,
-       0.99
-      ],
-      [
-       "lower,",
-       5.32,
-       5.9,
-       1.0
-      ],
-      [
-       "weighed",
-       6.3,
-       6.46,
-       0.99
-      ],
-      [
-       "down",
-       6.46,
-       6.88,
-       1.0
-      ],
-      [
-       "by",
-       6.88,
-       7.2,
-       1.0
-      ],
-      [
-       "record",
-       7.2,
-       7.5,
-       1.0
-      ],
-      [
-       "outflows",
-       7.5,
-       8.04,
-       1.0
-      ],
-      [
-       "from",
-       8.04,
-       8.28,
-       1.0
-      ],
-      [
-       "its",
-       8.28,
-       8.54,
-       0.97
-      ],
-      [
-       "exchange",
-       8.54,
-       8.96,
-       0.97
-      ],
-      [
-       "-traded",
-       8.96,
-       9.36,
-       0.81
-      ],
-      [
-       "funds.",
-       9.36,
-       9.78,
-       1.0
-      ],
-      [
-       "All",
-       10.3,
-       10.54,
-       1.0
-      ],
-      [
-       "40",
-       10.54,
-       10.9,
-       0.81
-      ],
-      [
-       "full",
-       10.9,
-       11.18,
-       0.96
-      ],
-      [
-       "readings",
-       11.18,
-       11.46,
-       0.99
-      ],
-      [
-       "are",
-       11.46,
-       11.74,
-       1.0
-      ],
-      [
-       "waiting",
-       11.74,
-       11.94,
-       1.0
-      ],
-      [
-       "for",
-       11.94,
-       12.2,
-       1.0
-      ],
-      [
-       "you",
-       12.2,
-       12.38,
-       1.0
-      ],
-      [
-       "in",
-       12.38,
-       12.52,
-       1.0
-      ],
-      [
-       "the",
-       12.52,
-       12.68,
-       1.0
-      ],
-      [
-       "terminal.",
-       12.68,
-       12.96,
-       0.88
-      ]
-     ],
-     "clarte": 0.7,
-     "ok": false
-    },
-    {
-     "prise": 5,
-     "file": "en-06-02-p5.wav",
-     "seconds": 13.04,
-     "compute": 116,
-     "heard": "In crypto, Bitcoin is holding near $75,000 and Ether is seen lower, weighed down by record outflows from its exchange-traded funds. All 40 full readings are waiting for you in the terminal.",
-     "wer": 0.056,
-     "extra": 4,
-     "speech": [
-      0.0,
-      12.76
-     ],
-     "rate": 16.8,
-     "mots": [
-      [
-       "In",
-       0.0,
-       0.36,
-       0.95
-      ],
-      [
-       "crypto,",
-       0.36,
-       0.74,
-       0.99
-      ],
-      [
-       "Bitcoin",
-       1.06,
-       1.26,
-       0.75
-      ],
-      [
-       "is",
-       1.26,
-       1.56,
-       1.0
-      ],
-      [
-       "holding",
-       1.56,
-       1.82,
-       1.0
-      ],
-      [
-       "near",
-       1.82,
-       2.18,
-       1.0
-      ],
-      [
-       "$75",
-       2.18,
-       2.76,
-       0.93
-      ],
-      [
-       ",000",
-       2.76,
-       3.76,
-       0.98
-      ],
-      [
-       "and",
-       3.76,
-       4.2,
-       0.71
-      ],
-      [
-       "Ether",
-       4.2,
-       4.6,
-       0.9
-      ],
-      [
-       "is",
-       4.6,
-       4.84,
-       1.0
-      ],
-      [
-       "seen",
-       4.84,
-       5.1,
-       1.0
-      ],
-      [
-       "lower,",
-       5.1,
-       5.6,
-       1.0
-      ],
-      [
-       "weighed",
-       5.96,
-       6.1,
-       0.99
-      ],
-      [
-       "down",
-       6.1,
-       6.48,
-       0.99
-      ],
-      [
-       "by",
-       6.48,
-       6.82,
-       1.0
-      ],
-      [
-       "record",
-       6.82,
-       7.1,
-       1.0
-      ],
-      [
-       "outflows",
-       7.1,
-       7.6,
-       1.0
-      ],
-      [
-       "from",
-       7.6,
-       7.86,
-       0.99
-      ],
-      [
-       "its",
-       7.86,
-       8.12,
-       0.97
-      ],
-      [
-       "exchange",
-       8.12,
-       8.5,
-       0.96
-      ],
-      [
-       "-traded",
-       8.5,
-       8.92,
-       0.78
-      ],
-      [
-       "funds.",
-       8.92,
-       9.34,
-       1.0
-      ],
-      [
-       "All",
-       10.06,
-       10.3,
-       1.0
-      ],
-      [
-       "40",
-       10.3,
-       10.64,
-       0.74
-      ],
-      [
-       "full",
-       10.64,
-       10.92,
-       0.95
-      ],
-      [
-       "readings",
-       10.92,
-       11.16,
-       0.98
-      ],
-      [
-       "are",
-       11.16,
-       11.4,
-       1.0
-      ],
-      [
-       "waiting",
-       11.4,
-       11.62,
-       1.0
-      ],
-      [
-       "for",
-       11.62,
-       11.9,
-       1.0
-      ],
-      [
-       "you",
-       11.9,
-       12.08,
-       1.0
-      ],
-      [
-       "in",
-       12.08,
-       12.28,
-       1.0
-      ],
-      [
-       "the",
-       12.28,
-       12.46,
-       1.0
-      ],
-      [
-       "terminal.",
-       12.46,
-       12.76,
-       0.8
-      ]
-     ],
-     "clarte": 0.71,
-     "ok": false
-    },
-    {
-     "prise": 1,
-     "file": "en-06-02-p1.wav",
-     "seconds": 13.2,
-     "compute": 115,
-     "heard": "In crypto, Bitcoin is holding near $75,000, and Ether is seen lower, weighed down by record outflows from its exchange-traded funds. All 40 full readings are waiting for you in the terminal.",
+     "compute": 137,
+     "heard": "In crypto, Bitcoin is holding near $75,000, and Ether is seen lower, weighed down by record outflows from its exchange traded funds. All 40 full readings are waiting for you in the terminal.",
      "wer": 0.056,
      "extra": 4,
      "speech": [
@@ -6734,209 +5816,1097 @@
       [
        "In",
        0.0,
-       0.74,
-       0.92
+       0.44,
+       0.57
       ],
       [
        "crypto,",
-       0.74,
-       1.26,
-       0.99
+       0.44,
+       0.98,
+       0.91
       ],
       [
        "Bitcoin",
-       1.74,
-       1.94,
-       0.74
+       1.6,
+       1.82,
+       0.77
       ],
       [
        "is",
-       1.94,
-       2.22,
+       1.82,
+       2.1,
        1.0
       ],
       [
        "holding",
-       2.22,
-       2.46,
+       2.1,
+       2.36,
        1.0
       ],
       [
        "near",
-       2.46,
-       2.78,
-       0.99
+       2.36,
+       2.7,
+       1.0
       ],
       [
        "$75",
-       2.78,
-       3.34,
-       0.91
+       2.7,
+       3.3,
+       0.9
       ],
       [
        ",000,",
-       3.34,
-       4.32,
-       0.98
+       3.3,
+       4.28,
+       0.96
       ],
       [
        "and",
-       4.7,
-       4.92,
+       4.56,
+       4.82,
        0.99
       ],
       [
        "Ether",
-       4.92,
-       5.2,
-       0.91
+       4.82,
+       5.14,
+       0.89
       ],
       [
        "is",
-       5.2,
-       5.42,
+       5.14,
+       5.4,
        1.0
       ],
       [
        "seen",
-       5.42,
+       5.4,
        5.66,
        0.99
       ],
       [
        "lower,",
        5.66,
-       6.16,
+       6.26,
        1.0
       ],
       [
        "weighed",
-       6.52,
-       6.66,
+       6.56,
+       6.72,
        0.99
       ],
       [
        "down",
-       6.66,
-       6.96,
+       6.72,
+       7.02,
        1.0
       ],
       [
        "by",
-       6.96,
-       7.26,
+       7.02,
+       7.34,
        1.0
       ],
       [
        "record",
-       7.26,
-       7.48,
+       7.34,
+       7.58,
        1.0
       ],
       [
        "outflows",
-       7.48,
-       7.96,
-       1.0
+       7.58,
+       8.1,
+       0.99
       ],
       [
        "from",
-       7.96,
-       8.2,
+       8.1,
+       8.4,
        1.0
       ],
       [
        "its",
-       8.2,
-       8.48,
+       8.4,
+       8.68,
        0.96
       ],
       [
        "exchange",
-       8.48,
-       8.88,
+       8.68,
+       9.06,
        0.95
       ],
       [
-       "-traded",
-       8.88,
-       9.24,
-       0.88
+       "traded",
+       9.06,
+       9.34,
+       0.45
       ],
       [
        "funds.",
-       9.24,
-       9.64,
+       9.34,
+       9.78,
        1.0
       ],
       [
        "All",
-       10.38,
+       10.44,
+       10.68,
+       1.0
+      ],
+      [
+       "40",
+       10.68,
+       11.0,
+       0.66
+      ],
+      [
+       "full",
+       11.0,
+       11.22,
+       0.96
+      ],
+      [
+       "readings",
+       11.22,
+       11.54,
+       0.99
+      ],
+      [
+       "are",
+       11.54,
+       11.82,
+       1.0
+      ],
+      [
+       "waiting",
+       11.82,
+       12.04,
+       1.0
+      ],
+      [
+       "for",
+       12.04,
+       12.3,
+       1.0
+      ],
+      [
+       "you",
+       12.3,
+       12.46,
+       1.0
+      ],
+      [
+       "in",
+       12.46,
+       12.58,
+       0.99
+      ],
+      [
+       "the",
+       12.58,
+       12.76,
+       1.0
+      ],
+      [
+       "terminal.",
+       12.76,
+       13.08,
+       0.88
+      ]
+     ],
+     "clarte": 0.45,
+     "ok": false
+    },
+    {
+     "prise": 3,
+     "file": "en-06-02-p3.wav",
+     "seconds": 12.96,
+     "compute": 130,
+     "heard": "In crypto, Bitcoin is holding near $75,000 and Ether is seen lower, weighed down by record outflows from its exchange-traded funds. All 40 full readings are waiting for you in the terminal.",
+     "wer": 0.056,
+     "extra": 4,
+     "speech": [
+      0.0,
+      12.78
+     ],
+     "rate": 16.8,
+     "mots": [
+      [
+       "In",
+       0.0,
+       0.46,
+       0.34
+      ],
+      [
+       "crypto,",
+       0.46,
+       0.96,
+       0.81
+      ],
+      [
+       "Bitcoin",
+       1.56,
+       1.8,
+       0.74
+      ],
+      [
+       "is",
+       1.8,
+       2.08,
+       1.0
+      ],
+      [
+       "holding",
+       2.08,
+       2.32,
+       1.0
+      ],
+      [
+       "near",
+       2.32,
+       2.68,
+       1.0
+      ],
+      [
+       "$75",
+       2.68,
+       3.26,
+       0.93
+      ],
+      [
+       ",000",
+       3.26,
+       4.26,
+       0.98
+      ],
+      [
+       "and",
+       4.26,
+       4.68,
+       0.72
+      ],
+      [
+       "Ether",
+       4.68,
+       5.04,
+       0.9
+      ],
+      [
+       "is",
+       5.04,
+       5.28,
+       1.0
+      ],
+      [
+       "seen",
+       5.28,
+       5.52,
+       0.99
+      ],
+      [
+       "lower,",
+       5.52,
+       6.12,
+       1.0
+      ],
+      [
+       "weighed",
+       6.48,
+       6.62,
+       0.99
+      ],
+      [
+       "down",
+       6.62,
+       7.04,
+       1.0
+      ],
+      [
+       "by",
+       7.04,
+       7.36,
+       1.0
+      ],
+      [
+       "record",
+       7.36,
+       7.62,
+       1.0
+      ],
+      [
+       "outflows",
+       7.62,
+       8.14,
+       0.99
+      ],
+      [
+       "from",
+       8.14,
+       8.38,
+       1.0
+      ],
+      [
+       "its",
+       8.38,
+       8.66,
+       0.97
+      ],
+      [
+       "exchange",
+       8.66,
+       9.04,
+       0.96
+      ],
+      [
+       "-traded",
+       9.04,
+       9.38,
+       0.83
+      ],
+      [
+       "funds.",
+       9.38,
+       9.76,
+       1.0
+      ],
+      [
+       "All",
+       10.42,
        10.66,
        1.0
       ],
       [
        "40",
        10.66,
-       11.02,
-       0.79
+       10.96,
+       0.36
       ],
       [
        "full",
-       11.02,
-       11.28,
-       0.97
+       10.96,
+       11.18,
+       0.9
       ],
       [
        "readings",
-       11.28,
-       11.58,
+       11.18,
+       11.44,
        0.99
       ],
       [
        "are",
-       11.58,
-       11.86,
+       11.44,
+       11.7,
        1.0
       ],
       [
        "waiting",
-       11.86,
-       12.06,
+       11.7,
+       11.88,
        1.0
       ],
       [
        "for",
-       12.06,
-       12.32,
+       11.88,
+       12.1,
        1.0
       ],
       [
        "you",
-       12.32,
-       12.5,
+       12.1,
+       12.24,
        1.0
       ],
       [
        "in",
-       12.5,
-       12.64,
+       12.24,
+       12.36,
        0.99
       ],
       [
        "the",
-       12.64,
-       12.8,
+       12.36,
+       12.52,
        1.0
       ],
       [
        "terminal.",
-       12.8,
-       13.08,
+       12.52,
+       12.78,
+       0.87
+      ]
+     ],
+     "clarte": 0.34,
+     "ok": false
+    },
+    {
+     "prise": 4,
+     "file": "en-06-02-p4.wav",
+     "seconds": 12.24,
+     "compute": 124,
+     "heard": "In crypto, Bitcoin is holding near $75,000 and Ether is seen lower, weighed down by record outflows from its exchange-traded funds. All 40 full readings are waiting for you in the terminal.",
+     "wer": 0.056,
+     "extra": 4,
+     "speech": [
+      0.0,
+      12.08
+     ],
+     "rate": 17.8,
+     "mots": [
+      [
+       "In",
+       0.0,
+       0.48,
+       0.88
+      ],
+      [
+       "crypto,",
+       0.48,
+       0.96,
+       0.98
+      ],
+      [
+       "Bitcoin",
+       1.44,
+       1.68,
+       0.73
+      ],
+      [
+       "is",
+       1.68,
+       1.98,
+       1.0
+      ],
+      [
+       "holding",
+       1.98,
+       2.22,
+       1.0
+      ],
+      [
+       "near",
+       2.22,
+       2.56,
+       1.0
+      ],
+      [
+       "$75",
+       2.56,
+       3.12,
+       0.93
+      ],
+      [
+       ",000",
+       3.12,
+       4.08,
+       0.98
+      ],
+      [
+       "and",
+       4.08,
+       4.46,
+       0.69
+      ],
+      [
+       "Ether",
+       4.46,
+       4.8,
+       0.9
+      ],
+      [
+       "is",
+       4.8,
+       5.02,
+       1.0
+      ],
+      [
+       "seen",
+       5.02,
+       5.26,
+       0.99
+      ],
+      [
+       "lower,",
+       5.26,
+       5.8,
+       1.0
+      ],
+      [
+       "weighed",
+       6.12,
+       6.28,
+       1.0
+      ],
+      [
+       "down",
+       6.28,
+       6.58,
+       1.0
+      ],
+      [
+       "by",
+       6.58,
+       6.9,
+       1.0
+      ],
+      [
+       "record",
+       6.9,
+       7.12,
+       1.0
+      ],
+      [
+       "outflows",
+       7.12,
+       7.58,
+       1.0
+      ],
+      [
+       "from",
+       7.58,
+       7.82,
+       1.0
+      ],
+      [
+       "its",
+       7.82,
+       8.06,
+       0.96
+      ],
+      [
+       "exchange",
+       8.06,
+       8.44,
+       0.95
+      ],
+      [
+       "-traded",
+       8.44,
+       8.8,
+       0.81
+      ],
+      [
+       "funds.",
+       8.8,
+       9.16,
+       1.0
+      ],
+      [
+       "All",
+       9.72,
+       9.9,
+       1.0
+      ],
+      [
+       "40",
+       9.9,
+       10.24,
+       0.81
+      ],
+      [
+       "full",
+       10.24,
+       10.5,
+       0.97
+      ],
+      [
+       "readings",
+       10.5,
+       10.76,
+       0.99
+      ],
+      [
+       "are",
+       10.76,
+       11.0,
+       1.0
+      ],
+      [
+       "waiting",
+       11.0,
+       11.18,
+       1.0
+      ],
+      [
+       "for",
+       11.18,
+       11.42,
+       1.0
+      ],
+      [
+       "you",
+       11.42,
+       11.56,
+       1.0
+      ],
+      [
+       "in",
+       11.56,
+       11.68,
+       0.99
+      ],
+      [
+       "the",
+       11.68,
+       11.82,
+       1.0
+      ],
+      [
+       "terminal.",
+       11.82,
+       12.08,
+       0.88
+      ]
+     ],
+     "clarte": 0.69,
+     "ok": false
+    },
+    {
+     "prise": 5,
+     "file": "en-06-02-p5.wav",
+     "seconds": 13.04,
+     "compute": 130,
+     "heard": "In crypto, Bitcoin is holding near $75,000 and Ether is seen lower, weighed down by record outflows from its exchange-traded funds. All 40 full readings are waiting for you in the terminal.",
+     "wer": 0.056,
+     "extra": 4,
+     "speech": [
+      0.0,
+      12.92
+     ],
+     "rate": 16.6,
+     "mots": [
+      [
+       "In",
+       0.0,
+       0.3,
+       0.43
+      ],
+      [
+       "crypto,",
+       0.3,
+       0.84,
+       0.98
+      ],
+      [
+       "Bitcoin",
+       1.42,
+       1.64,
+       0.73
+      ],
+      [
+       "is",
+       1.64,
+       1.94,
+       1.0
+      ],
+      [
+       "holding",
+       1.94,
+       2.2,
+       1.0
+      ],
+      [
+       "near",
+       2.2,
+       2.54,
+       1.0
+      ],
+      [
+       "$75",
+       2.54,
+       3.2,
+       0.94
+      ],
+      [
+       ",000",
+       3.2,
+       4.24,
+       0.98
+      ],
+      [
+       "and",
+       4.24,
+       4.66,
+       0.57
+      ],
+      [
+       "Ether",
+       4.66,
+       4.98,
+       0.91
+      ],
+      [
+       "is",
+       4.98,
+       5.22,
+       1.0
+      ],
+      [
+       "seen",
+       5.22,
+       5.48,
+       0.99
+      ],
+      [
+       "lower,",
+       5.48,
+       6.04,
+       1.0
+      ],
+      [
+       "weighed",
+       6.44,
+       6.6,
+       0.99
+      ],
+      [
+       "down",
+       6.6,
+       6.96,
+       1.0
+      ],
+      [
+       "by",
+       6.96,
+       7.3,
+       1.0
+      ],
+      [
+       "record",
+       7.3,
+       7.56,
+       1.0
+      ],
+      [
+       "outflows",
+       7.56,
+       8.02,
+       0.99
+      ],
+      [
+       "from",
+       8.02,
+       8.28,
+       1.0
+      ],
+      [
+       "its",
+       8.28,
+       8.56,
+       0.96
+      ],
+      [
+       "exchange",
+       8.56,
+       8.96,
+       0.94
+      ],
+      [
+       "-traded",
+       8.96,
+       9.34,
+       0.81
+      ],
+      [
+       "funds.",
+       9.34,
+       9.72,
+       1.0
+      ],
+      [
+       "All",
+       10.32,
+       10.58,
+       1.0
+      ],
+      [
+       "40",
+       10.58,
+       10.92,
+       0.61
+      ],
+      [
+       "full",
+       10.92,
+       11.16,
+       0.95
+      ],
+      [
+       "readings",
+       11.16,
+       11.44,
+       0.99
+      ],
+      [
+       "are",
+       11.44,
+       11.7,
+       1.0
+      ],
+      [
+       "waiting",
+       11.7,
+       11.9,
+       1.0
+      ],
+      [
+       "for",
+       11.9,
+       12.16,
+       1.0
+      ],
+      [
+       "you",
+       12.16,
+       12.34,
+       1.0
+      ],
+      [
+       "in",
+       12.34,
+       12.46,
+       1.0
+      ],
+      [
+       "the",
+       12.46,
+       12.64,
+       1.0
+      ],
+      [
+       "terminal.",
+       12.64,
+       12.92,
        0.86
       ]
      ],
-     "clarte": 0.74,
+     "clarte": 0.43,
+     "ok": false
+    },
+    {
+     "prise": 1,
+     "file": "en-06-02-p1.wav",
+     "seconds": 13.12,
+     "compute": 132,
+     "heard": "In crypto, Bitcoin is holding near $75,000, and Ether is seen lower, weighed down by record outflows from its exchange-traded funds. All 40 full readings are waiting for you in the terminal.",
+     "wer": 0.056,
+     "extra": 4,
+     "speech": [
+      0.0,
+      12.98
+     ],
+     "rate": 16.6,
+     "mots": [
+      [
+       "In",
+       0.0,
+       0.4,
+       0.57
+      ],
+      [
+       "crypto,",
+       0.4,
+       0.9,
+       0.84
+      ],
+      [
+       "Bitcoin",
+       1.44,
+       1.7,
+       0.75
+      ],
+      [
+       "is",
+       1.7,
+       2.02,
+       1.0
+      ],
+      [
+       "holding",
+       2.02,
+       2.28,
+       1.0
+      ],
+      [
+       "near",
+       2.28,
+       2.66,
+       1.0
+      ],
+      [
+       "$75",
+       2.66,
+       3.32,
+       0.91
+      ],
+      [
+       ",000,",
+       3.32,
+       4.26,
+       0.98
+      ],
+      [
+       "and",
+       4.66,
+       4.88,
+       0.99
+      ],
+      [
+       "Ether",
+       4.88,
+       5.16,
+       0.91
+      ],
+      [
+       "is",
+       5.16,
+       5.36,
+       1.0
+      ],
+      [
+       "seen",
+       5.36,
+       5.6,
+       0.99
+      ],
+      [
+       "lower,",
+       5.6,
+       6.12,
+       1.0
+      ],
+      [
+       "weighed",
+       6.44,
+       6.6,
+       1.0
+      ],
+      [
+       "down",
+       6.6,
+       6.94,
+       1.0
+      ],
+      [
+       "by",
+       6.94,
+       7.26,
+       1.0
+      ],
+      [
+       "record",
+       7.26,
+       7.54,
+       1.0
+      ],
+      [
+       "outflows",
+       7.54,
+       8.04,
+       0.99
+      ],
+      [
+       "from",
+       8.04,
+       8.28,
+       1.0
+      ],
+      [
+       "its",
+       8.28,
+       8.54,
+       0.97
+      ],
+      [
+       "exchange",
+       8.54,
+       8.98,
+       0.95
+      ],
+      [
+       "-traded",
+       8.98,
+       9.34,
+       0.82
+      ],
+      [
+       "funds.",
+       9.34,
+       9.72,
+       1.0
+      ],
+      [
+       "All",
+       10.3,
+       10.52,
+       1.0
+      ],
+      [
+       "40",
+       10.52,
+       10.84,
+       0.77
+      ],
+      [
+       "full",
+       10.84,
+       11.12,
+       0.97
+      ],
+      [
+       "readings",
+       11.12,
+       11.44,
+       0.99
+      ],
+      [
+       "are",
+       11.44,
+       11.76,
+       1.0
+      ],
+      [
+       "waiting",
+       11.76,
+       11.98,
+       1.0
+      ],
+      [
+       "for",
+       11.98,
+       12.26,
+       1.0
+      ],
+      [
+       "you",
+       12.26,
+       12.42,
+       1.0
+      ],
+      [
+       "in",
+       12.42,
+       12.56,
+       0.99
+      ],
+      [
+       "the",
+       12.56,
+       12.72,
+       1.0
+      ],
+      [
+       "terminal.",
+       12.72,
+       12.98,
+       0.87
+      ]
+     ],
+     "clarte": 0.57,
      "ok": false
     }
    ]
@@ -6951,434 +6921,410 @@
    "prise": {
     "prise": 1,
     "file": "en-07-00-p1.wav",
-    "seconds": 12.88,
-    "compute": 113,
-    "heard": "The world of stocks. Europe had a solid session too. The CAC 40 gained 1.2% led by ST Micro and Spain's IBEX nearly 2% on the back of the banks.",
-    "wer": 0.029,
-    "extra": 2,
+    "seconds": 11.92,
+    "compute": 121,
+    "heard": "The world of stocks. Europe had a solid session too. The CAC 40 gained 1.2%, led by STMicro, and Spain's IBEX nearly 2% on the back of the banks.",
+    "wer": 0.0,
+    "extra": 0,
     "speech": [
      0.0,
-     12.5
+     11.68
     ],
-    "rate": 14.2,
+    "rate": 15.2,
     "mots": [
      [
       "The",
       0.0,
-      0.62,
-      0.86
+      0.24,
+      0.66
      ],
      [
       "world",
-      0.62,
-      0.92,
-      0.95
+      0.24,
+      0.52,
+      0.84
      ],
      [
       "of",
-      0.92,
-      1.22,
+      0.52,
+      0.82,
       1.0
      ],
      [
       "stocks.",
-      1.22,
-      1.64,
+      0.82,
+      1.28,
       0.98
      ],
      [
       "Europe",
-      2.28,
-      2.42,
+      2.0,
+      2.14,
       1.0
      ],
      [
       "had",
-      2.42,
-      2.68,
-      0.99
+      2.14,
+      2.38,
+      1.0
      ],
      [
       "a",
-      2.68,
-      2.88,
+      2.38,
+      2.6,
       1.0
      ],
      [
       "solid",
-      2.88,
-      3.14,
+      2.6,
+      2.84,
       1.0
      ],
      [
       "session",
-      3.14,
-      3.54,
-      0.89
+      2.84,
+      3.18,
+      0.86
      ],
      [
       "too.",
-      3.54,
-      4.04,
-      0.62
+      3.18,
+      3.64,
+      0.61
      ],
      [
       "The",
-      4.48,
-      4.66,
-      0.98
+      4.02,
+      4.2,
+      0.99
      ],
      [
       "CAC",
-      4.66,
-      4.92,
-      0.89
+      4.2,
+      4.46,
+      0.9
      ],
      [
       "40",
-      4.92,
-      5.26,
-      0.73
+      4.46,
+      4.78,
+      0.75
      ],
      [
       "gained",
-      5.26,
-      5.62,
+      4.78,
+      5.1,
       0.99
      ],
      [
       "1",
-      5.62,
-      6.0,
+      5.1,
+      5.5,
       0.99
      ],
      [
-      ".2",
-      6.0,
-      6.54,
-      0.99
-     ],
-     [
-      "%",
-      6.54,
-      7.2,
-      0.46
+      ".2%,",
+      5.5,
+      6.7,
+      0.76
      ],
      [
       "led",
-      7.2,
-      7.4,
-      0.9
+      6.7,
+      6.9,
+      0.96
      ],
      [
       "by",
-      7.4,
-      7.78,
+      6.9,
+      7.28,
       1.0
      ],
      [
-      "ST",
-      7.78,
-      8.22,
-      0.82
-     ],
-     [
-      "Micro",
-      8.22,
-      8.66,
-      0.72
+      "STMicro,",
+      7.28,
+      8.14,
+      0.63
      ],
      [
       "and",
-      8.66,
-      9.22,
-      0.87
+      8.4,
+      8.64,
+      0.99
      ],
      [
       "Spain's",
-      9.22,
-      9.78,
+      8.64,
+      9.16,
       0.99
      ],
      [
       "IBEX",
-      9.78,
-      10.18,
+      9.16,
+      9.54,
       0.82
      ],
      [
       "nearly",
-      10.18,
-      10.52,
-      0.98
-     ],
-     [
-      "2",
-      10.52,
-      10.94,
-      0.96
-     ],
-     [
-      "%",
-      10.94,
-      11.32,
-      0.95
-     ],
-     [
-      "on",
-      11.32,
-      11.58,
+      9.54,
+      9.88,
       0.99
      ],
      [
+      "2",
+      9.88,
+      10.3,
+      0.95
+     ],
+     [
+      "%",
+      10.3,
+      10.56,
+      0.94
+     ],
+     [
+      "on",
+      10.56,
+      10.76,
+      1.0
+     ],
+     [
       "the",
-      11.58,
-      11.76,
+      10.76,
+      10.94,
       1.0
      ],
      [
       "back",
-      11.76,
-      11.9,
+      10.94,
+      11.08,
       0.99
      ],
      [
       "of",
-      11.9,
-      12.1,
+      11.08,
+      11.28,
       1.0
      ],
      [
       "the",
-      12.1,
-      12.28,
+      11.28,
+      11.44,
       1.0
      ],
      [
       "banks.",
-      12.28,
-      12.5,
-      0.98
+      11.44,
+      11.68,
+      0.99
      ]
     ],
-    "clarte": 0.46,
+    "clarte": 0.61,
     "ok": true
    },
    "toutes": [
     {
      "prise": 1,
      "file": "en-07-00-p1.wav",
-     "seconds": 12.88,
-     "compute": 113,
-     "heard": "The world of stocks. Europe had a solid session too. The CAC 40 gained 1.2% led by ST Micro and Spain's IBEX nearly 2% on the back of the banks.",
-     "wer": 0.029,
-     "extra": 2,
+     "seconds": 11.92,
+     "compute": 121,
+     "heard": "The world of stocks. Europe had a solid session too. The CAC 40 gained 1.2%, led by STMicro, and Spain's IBEX nearly 2% on the back of the banks.",
+     "wer": 0.0,
+     "extra": 0,
      "speech": [
       0.0,
-      12.5
+      11.68
      ],
-     "rate": 14.2,
+     "rate": 15.2,
      "mots": [
       [
        "The",
        0.0,
-       0.62,
-       0.86
+       0.24,
+       0.66
       ],
       [
        "world",
-       0.62,
-       0.92,
-       0.95
+       0.24,
+       0.52,
+       0.84
       ],
       [
        "of",
-       0.92,
-       1.22,
+       0.52,
+       0.82,
        1.0
       ],
       [
        "stocks.",
-       1.22,
-       1.64,
+       0.82,
+       1.28,
        0.98
       ],
       [
        "Europe",
-       2.28,
-       2.42,
+       2.0,
+       2.14,
        1.0
       ],
       [
        "had",
-       2.42,
-       2.68,
-       0.99
+       2.14,
+       2.38,
+       1.0
       ],
       [
        "a",
-       2.68,
-       2.88,
+       2.38,
+       2.6,
        1.0
       ],
       [
        "solid",
-       2.88,
-       3.14,
+       2.6,
+       2.84,
        1.0
       ],
       [
        "session",
-       3.14,
-       3.54,
-       0.89
+       2.84,
+       3.18,
+       0.86
       ],
       [
        "too.",
-       3.54,
-       4.04,
-       0.62
+       3.18,
+       3.64,
+       0.61
       ],
       [
        "The",
-       4.48,
-       4.66,
-       0.98
+       4.02,
+       4.2,
+       0.99
       ],
       [
        "CAC",
-       4.66,
-       4.92,
-       0.89
+       4.2,
+       4.46,
+       0.9
       ],
       [
        "40",
-       4.92,
-       5.26,
-       0.73
+       4.46,
+       4.78,
+       0.75
       ],
       [
        "gained",
-       5.26,
-       5.62,
+       4.78,
+       5.1,
        0.99
       ],
       [
        "1",
-       5.62,
-       6.0,
+       5.1,
+       5.5,
        0.99
       ],
       [
-       ".2",
-       6.0,
-       6.54,
-       0.99
-      ],
-      [
-       "%",
-       6.54,
-       7.2,
-       0.46
+       ".2%,",
+       5.5,
+       6.7,
+       0.76
       ],
       [
        "led",
-       7.2,
-       7.4,
-       0.9
+       6.7,
+       6.9,
+       0.96
       ],
       [
        "by",
-       7.4,
-       7.78,
+       6.9,
+       7.28,
        1.0
       ],
       [
-       "ST",
-       7.78,
-       8.22,
-       0.82
-      ],
-      [
-       "Micro",
-       8.22,
-       8.66,
-       0.72
+       "STMicro,",
+       7.28,
+       8.14,
+       0.63
       ],
       [
        "and",
-       8.66,
-       9.22,
-       0.87
+       8.4,
+       8.64,
+       0.99
       ],
       [
        "Spain's",
-       9.22,
-       9.78,
+       8.64,
+       9.16,
        0.99
       ],
       [
        "IBEX",
-       9.78,
-       10.18,
+       9.16,
+       9.54,
        0.82
       ],
       [
        "nearly",
-       10.18,
-       10.52,
-       0.98
-      ],
-      [
-       "2",
-       10.52,
-       10.94,
-       0.96
-      ],
-      [
-       "%",
-       10.94,
-       11.32,
-       0.95
-      ],
-      [
-       "on",
-       11.32,
-       11.58,
+       9.54,
+       9.88,
        0.99
       ],
       [
+       "2",
+       9.88,
+       10.3,
+       0.95
+      ],
+      [
+       "%",
+       10.3,
+       10.56,
+       0.94
+      ],
+      [
+       "on",
+       10.56,
+       10.76,
+       1.0
+      ],
+      [
        "the",
-       11.58,
-       11.76,
+       10.76,
+       10.94,
        1.0
       ],
       [
        "back",
-       11.76,
-       11.9,
+       10.94,
+       11.08,
        0.99
       ],
       [
        "of",
-       11.9,
-       12.1,
+       11.08,
+       11.28,
        1.0
       ],
       [
        "the",
-       12.1,
-       12.28,
+       11.28,
+       11.44,
        1.0
       ],
       [
        "banks.",
-       12.28,
-       12.5,
-       0.98
+       11.44,
+       11.68,
+       0.99
       ]
      ],
-     "clarte": 0.46,
+     "clarte": 0.61,
      "ok": true
     }
    ]
@@ -7393,398 +7339,386 @@
    "prise": {
     "prise": 1,
     "file": "en-07-01-p1.wav",
-    "seconds": 11.84,
-    "compute": 68,
-    "heard": "On the radar, two new names this morning, AMD and Legrand. Eli Lilly takes the top spot, and this evening, after the Wall Street close, Core Weave reports its results.",
+    "seconds": 13.04,
+    "compute": 123,
+    "heard": "On the radar, two new names this morning, AMD and Legrand. Eli Lilly takes the top spot, and this evening, after the Wall Street close, CoreWeave reports its results.",
     "wer": 0.0,
     "extra": 0,
     "speech": [
      0.0,
-     11.64
+     12.74
     ],
-    "rate": 14.3,
+    "rate": 13.1,
     "mots": [
      [
       "On",
       0.0,
-      0.58,
-      0.83
+      0.32,
+      0.78
      ],
      [
       "the",
-      0.58,
-      0.76,
-      1.0
+      0.32,
+      0.52,
+      0.99
      ],
      [
       "radar,",
-      0.76,
-      1.18,
-      0.96
+      0.52,
+      1.08,
+      0.92
      ],
      [
       "two",
       1.6,
-      1.7,
-      0.96
+      1.72,
+      0.95
      ],
      [
       "new",
-      1.7,
-      1.92,
+      1.72,
+      1.96,
       1.0
      ],
      [
       "names",
-      1.92,
-      2.22,
+      1.96,
+      2.3,
       1.0
      ],
      [
       "this",
-      2.22,
-      2.5,
+      2.3,
+      2.62,
       1.0
      ],
      [
       "morning,",
-      2.5,
-      2.86,
+      2.62,
+      3.02,
       1.0
      ],
      [
       "AMD",
-      3.22,
-      3.46,
-      0.95
+      3.54,
+      3.82,
+      0.96
      ],
      [
       "and",
-      3.46,
-      3.9,
+      3.82,
+      4.36,
       0.98
      ],
      [
       "Legrand.",
-      3.9,
-      4.62,
-      0.71
+      4.36,
+      5.18,
+      0.73
      ],
      [
       "Eli",
-      4.96,
-      5.24,
-      0.95
+      5.92,
+      6.2,
+      0.96
      ],
      [
       "Lilly",
-      5.24,
-      5.54,
-      0.95
+      6.2,
+      6.5,
+      0.94
      ],
      [
       "takes",
-      5.54,
-      5.9,
-      0.99
+      6.5,
+      6.86,
+      1.0
      ],
      [
       "the",
-      5.9,
-      6.16,
+      6.86,
+      7.12,
       1.0
      ],
      [
       "top",
-      6.16,
-      6.44,
+      7.12,
+      7.34,
       1.0
      ],
      [
       "spot,",
-      6.44,
-      6.78,
+      7.34,
+      7.66,
       1.0
      ],
      [
       "and",
-      7.26,
-      7.42,
-      0.99
+      8.04,
+      8.18,
+      1.0
      ],
      [
       "this",
-      7.42,
-      7.64,
-      0.99
+      8.18,
+      8.38,
+      0.98
      ],
      [
       "evening,",
-      7.64,
-      7.98,
+      8.38,
+      8.8,
       1.0
      ],
      [
       "after",
-      8.26,
-      8.36,
+      9.22,
+      9.4,
       1.0
      ],
      [
       "the",
-      8.36,
-      8.6,
-      0.97
+      9.4,
+      9.64,
+      0.98
      ],
      [
       "Wall",
-      8.6,
-      8.84,
+      9.64,
+      9.88,
       0.98
      ],
      [
       "Street",
-      8.84,
-      9.08,
+      9.88,
+      10.14,
       0.99
      ],
      [
       "close,",
-      9.08,
-      9.58,
-      0.56
+      10.14,
+      10.68,
+      0.5
      ],
      [
-      "Core",
-      9.98,
-      10.14,
-      0.75
-     ],
-     [
-      "Weave",
-      10.14,
-      10.54,
-      0.76
+      "CoreWeave",
+      11.14,
+      11.72,
+      0.73
      ],
      [
       "reports",
-      10.54,
-      10.96,
+      11.72,
+      12.12,
       1.0
      ],
      [
       "its",
-      10.96,
-      11.26,
+      12.12,
+      12.42,
       0.97
      ],
      [
       "results.",
-      11.26,
-      11.64,
+      12.42,
+      12.74,
       1.0
      ]
     ],
-    "clarte": 0.56,
+    "clarte": 0.5,
     "ok": true
    },
    "toutes": [
     {
      "prise": 1,
      "file": "en-07-01-p1.wav",
-     "seconds": 11.84,
-     "compute": 68,
-     "heard": "On the radar, two new names this morning, AMD and Legrand. Eli Lilly takes the top spot, and this evening, after the Wall Street close, Core Weave reports its results.",
+     "seconds": 13.04,
+     "compute": 123,
+     "heard": "On the radar, two new names this morning, AMD and Legrand. Eli Lilly takes the top spot, and this evening, after the Wall Street close, CoreWeave reports its results.",
      "wer": 0.0,
      "extra": 0,
      "speech": [
       0.0,
-      11.64
+      12.74
      ],
-     "rate": 14.3,
+     "rate": 13.1,
      "mots": [
       [
        "On",
        0.0,
-       0.58,
-       0.83
+       0.32,
+       0.78
       ],
       [
        "the",
-       0.58,
-       0.76,
-       1.0
+       0.32,
+       0.52,
+       0.99
       ],
       [
        "radar,",
-       0.76,
-       1.18,
-       0.96
+       0.52,
+       1.08,
+       0.92
       ],
       [
        "two",
        1.6,
-       1.7,
-       0.96
+       1.72,
+       0.95
       ],
       [
        "new",
-       1.7,
-       1.92,
+       1.72,
+       1.96,
        1.0
       ],
       [
        "names",
-       1.92,
-       2.22,
+       1.96,
+       2.3,
        1.0
       ],
       [
        "this",
-       2.22,
-       2.5,
+       2.3,
+       2.62,
        1.0
       ],
       [
        "morning,",
-       2.5,
-       2.86,
+       2.62,
+       3.02,
        1.0
       ],
       [
        "AMD",
-       3.22,
-       3.46,
-       0.95
+       3.54,
+       3.82,
+       0.96
       ],
       [
        "and",
-       3.46,
-       3.9,
+       3.82,
+       4.36,
        0.98
       ],
       [
        "Legrand.",
-       3.9,
-       4.62,
-       0.71
+       4.36,
+       5.18,
+       0.73
       ],
       [
        "Eli",
-       4.96,
-       5.24,
-       0.95
+       5.92,
+       6.2,
+       0.96
       ],
       [
        "Lilly",
-       5.24,
-       5.54,
-       0.95
+       6.2,
+       6.5,
+       0.94
       ],
       [
        "takes",
-       5.54,
-       5.9,
-       0.99
+       6.5,
+       6.86,
+       1.0
       ],
       [
        "the",
-       5.9,
-       6.16,
+       6.86,
+       7.12,
        1.0
       ],
       [
        "top",
-       6.16,
-       6.44,
+       7.12,
+       7.34,
        1.0
       ],
       [
        "spot,",
-       6.44,
-       6.78,
+       7.34,
+       7.66,
        1.0
       ],
       [
        "and",
-       7.26,
-       7.42,
-       0.99
+       8.04,
+       8.18,
+       1.0
       ],
       [
        "this",
-       7.42,
-       7.64,
-       0.99
+       8.18,
+       8.38,
+       0.98
       ],
       [
        "evening,",
-       7.64,
-       7.98,
+       8.38,
+       8.8,
        1.0
       ],
       [
        "after",
-       8.26,
-       8.36,
+       9.22,
+       9.4,
        1.0
       ],
       [
        "the",
-       8.36,
-       8.6,
-       0.97
+       9.4,
+       9.64,
+       0.98
       ],
       [
        "Wall",
-       8.6,
-       8.84,
+       9.64,
+       9.88,
        0.98
       ],
       [
        "Street",
-       8.84,
-       9.08,
+       9.88,
+       10.14,
        0.99
       ],
       [
        "close,",
-       9.08,
-       9.58,
-       0.56
+       10.14,
+       10.68,
+       0.5
       ],
       [
-       "Core",
-       9.98,
-       10.14,
-       0.75
-      ],
-      [
-       "Weave",
-       10.14,
-       10.54,
-       0.76
+       "CoreWeave",
+       11.14,
+       11.72,
+       0.73
       ],
       [
        "reports",
-       10.54,
-       10.96,
+       11.72,
+       12.12,
        1.0
       ],
       [
        "its",
-       10.96,
-       11.26,
+       12.12,
+       12.42,
        0.97
       ],
       [
        "results.",
-       11.26,
-       11.64,
+       12.42,
+       12.74,
        1.0
       ]
      ],
-     "clarte": 0.56,
+     "clarte": 0.5,
      "ok": true
     }
    ]
@@ -7800,10 +7734,10 @@
     "prise": 1,
     "file": "en-08-00-p1.wav",
     "seconds": 11.92,
-    "compute": 67,
-    "heard": "Today's big event, US inflation for October, early this afternoon in Europe, an hour before Wall Street opens. The market expects 3.9% over a year, after 3.7.",
-    "wer": 0.0,
-    "extra": 0,
+    "compute": 112,
+    "heard": "Today's big event, U.S. inflation for October, early this afternoon in Europe, an hour before Wall Street opens. The market expects 3.9% over a year, after 3.7.",
+    "wer": 0.03,
+    "extra": 2,
     "speech": [
      0.0,
      11.84
@@ -7814,7 +7748,7 @@
       "Today's",
       0.0,
       0.98,
-      0.95
+      0.94
      ],
      [
       "big",
@@ -7829,16 +7763,22 @@
       1.0
      ],
      [
-      "US",
-      2.2,
-      2.3,
-      0.53
+      "U",
+      2.18,
+      2.22,
+      0.43
+     ],
+     [
+      ".S.",
+      2.22,
+      2.34,
+      1.0
      ],
      [
       "inflation",
-      2.3,
+      2.72,
       2.82,
-      0.99
+      0.98
      ],
      [
       "for",
@@ -7849,12 +7789,12 @@
      [
       "October,",
       3.06,
-      3.54,
-      0.99
+      3.56,
+      1.0
      ],
      [
       "early",
-      3.98,
+      4.0,
       4.2,
       0.99
      ],
@@ -7873,12 +7813,12 @@
      [
       "in",
       4.8,
-      5.04,
+      5.06,
       1.0
      ],
      [
       "Europe,",
-      5.04,
+      5.06,
       5.3,
       1.0
      ],
@@ -7886,7 +7826,7 @@
       "an",
       5.68,
       5.84,
-      0.97
+      0.98
      ],
      [
       "hour",
@@ -7904,19 +7844,19 @@
       "Wall",
       6.38,
       6.68,
-      0.98
+      0.99
      ],
      [
       "Street",
       6.68,
       6.86,
-      0.96
+      0.98
      ],
      [
       "opens.",
       6.86,
       7.2,
-      0.99
+      1.0
      ],
      [
       "The",
@@ -7928,7 +7868,7 @@
       "market",
       8.08,
       8.3,
-      0.99
+      1.0
      ],
      [
       "expects",
@@ -7946,30 +7886,30 @@
       ".9",
       9.1,
       9.54,
-      0.99
+      1.0
      ],
      [
       "%",
       9.54,
       9.78,
-      0.72
+      0.64
      ],
      [
       "over",
       9.78,
-      10.02,
+      10.04,
       0.99
      ],
      [
       "a",
-      10.02,
+      10.04,
       10.22,
       0.99
      ],
      [
       "year,",
       10.22,
-      10.46,
+      10.48,
       1.0
      ],
      [
@@ -7991,7 +7931,7 @@
       1.0
      ]
     ],
-    "clarte": 0.53,
+    "clarte": 0.43,
     "ok": true
    },
    "toutes": [
@@ -7999,10 +7939,10 @@
      "prise": 1,
      "file": "en-08-00-p1.wav",
      "seconds": 11.92,
-     "compute": 67,
-     "heard": "Today's big event, US inflation for October, early this afternoon in Europe, an hour before Wall Street opens. The market expects 3.9% over a year, after 3.7.",
-     "wer": 0.0,
-     "extra": 0,
+     "compute": 112,
+     "heard": "Today's big event, U.S. inflation for October, early this afternoon in Europe, an hour before Wall Street opens. The market expects 3.9% over a year, after 3.7.",
+     "wer": 0.03,
+     "extra": 2,
      "speech": [
       0.0,
       11.84
@@ -8013,7 +7953,7 @@
        "Today's",
        0.0,
        0.98,
-       0.95
+       0.94
       ],
       [
        "big",
@@ -8028,16 +7968,22 @@
        1.0
       ],
       [
-       "US",
-       2.2,
-       2.3,
-       0.53
+       "U",
+       2.18,
+       2.22,
+       0.43
+      ],
+      [
+       ".S.",
+       2.22,
+       2.34,
+       1.0
       ],
       [
        "inflation",
-       2.3,
+       2.72,
        2.82,
-       0.99
+       0.98
       ],
       [
        "for",
@@ -8048,12 +7994,12 @@
       [
        "October,",
        3.06,
-       3.54,
-       0.99
+       3.56,
+       1.0
       ],
       [
        "early",
-       3.98,
+       4.0,
        4.2,
        0.99
       ],
@@ -8072,12 +8018,12 @@
       [
        "in",
        4.8,
-       5.04,
+       5.06,
        1.0
       ],
       [
        "Europe,",
-       5.04,
+       5.06,
        5.3,
        1.0
       ],
@@ -8085,7 +8031,7 @@
        "an",
        5.68,
        5.84,
-       0.97
+       0.98
       ],
       [
        "hour",
@@ -8103,19 +8049,19 @@
        "Wall",
        6.38,
        6.68,
-       0.98
+       0.99
       ],
       [
        "Street",
        6.68,
        6.86,
-       0.96
+       0.98
       ],
       [
        "opens.",
        6.86,
        7.2,
-       0.99
+       1.0
       ],
       [
        "The",
@@ -8127,7 +8073,7 @@
        "market",
        8.08,
        8.3,
-       0.99
+       1.0
       ],
       [
        "expects",
@@ -8145,30 +8091,30 @@
        ".9",
        9.1,
        9.54,
-       0.99
+       1.0
       ],
       [
        "%",
        9.54,
        9.78,
-       0.72
+       0.64
       ],
       [
        "over",
        9.78,
-       10.02,
+       10.04,
        0.99
       ],
       [
        "a",
-       10.02,
+       10.04,
        10.22,
        0.99
       ],
       [
        "year,",
        10.22,
-       10.46,
+       10.48,
        1.0
       ],
       [
@@ -8190,7 +8136,7 @@
        1.0
       ]
      ],
-     "clarte": 0.53,
+     "clarte": 0.43,
      "ok": true
     }
    ]
@@ -8206,7 +8152,7 @@
     "prise": 1,
     "file": "en-08-01-p1.wav",
     "seconds": 12.08,
-    "compute": 69,
+    "compute": 114,
     "heard": "It's the last major inflation reading before the Fed meeting on the 9th of December. A stronger number than expected usually supports the dollar and weighs on gold. A weaker one tends to do the opposite.",
     "wer": 0.027,
     "extra": 1,
@@ -8220,17 +8166,17 @@
       "It's",
       0.0,
       0.62,
-      0.93
+      0.92
      ],
      [
       "the",
       0.62,
-      0.78,
+      0.76,
       1.0
      ],
      [
       "last",
-      0.78,
+      0.76,
       1.1,
       1.0
      ],
@@ -8273,12 +8219,12 @@
      [
       "meeting",
       3.02,
-      3.32,
+      3.34,
       0.98
      ],
      [
       "on",
-      3.32,
+      3.34,
       3.64,
       0.98
      ],
@@ -8286,19 +8232,19 @@
       "the",
       3.64,
       3.78,
-      0.89
+      0.87
      ],
      [
       "9th",
       3.78,
-      4.04,
+      4.06,
       0.92
      ],
      [
       "of",
-      4.04,
+      4.06,
       4.2,
-      0.94
+      0.93
      ],
      [
       "December.",
@@ -8358,13 +8304,13 @@
       "dollar",
       8.04,
       8.32,
-      0.96
+      0.97
      ],
      [
       "and",
       8.32,
       8.6,
-      0.98
+      0.97
      ],
      [
       "weighs",
@@ -8417,12 +8363,12 @@
      [
       "do",
       11.32,
-      11.44,
+      11.42,
       1.0
      ],
      [
       "the",
-      11.44,
+      11.42,
       11.68,
       1.0
      ],
@@ -8433,7 +8379,7 @@
       1.0
      ]
     ],
-    "clarte": 0.89,
+    "clarte": 0.87,
     "ok": true
    },
    "toutes": [
@@ -8441,7 +8387,7 @@
      "prise": 1,
      "file": "en-08-01-p1.wav",
      "seconds": 12.08,
-     "compute": 69,
+     "compute": 114,
      "heard": "It's the last major inflation reading before the Fed meeting on the 9th of December. A stronger number than expected usually supports the dollar and weighs on gold. A weaker one tends to do the opposite.",
      "wer": 0.027,
      "extra": 1,
@@ -8455,17 +8401,17 @@
        "It's",
        0.0,
        0.62,
-       0.93
+       0.92
       ],
       [
        "the",
        0.62,
-       0.78,
+       0.76,
        1.0
       ],
       [
        "last",
-       0.78,
+       0.76,
        1.1,
        1.0
       ],
@@ -8508,12 +8454,12 @@
       [
        "meeting",
        3.02,
-       3.32,
+       3.34,
        0.98
       ],
       [
        "on",
-       3.32,
+       3.34,
        3.64,
        0.98
       ],
@@ -8521,19 +8467,19 @@
        "the",
        3.64,
        3.78,
-       0.89
+       0.87
       ],
       [
        "9th",
        3.78,
-       4.04,
+       4.06,
        0.92
       ],
       [
        "of",
-       4.04,
+       4.06,
        4.2,
-       0.94
+       0.93
       ],
       [
        "December.",
@@ -8593,13 +8539,13 @@
        "dollar",
        8.04,
        8.32,
-       0.96
+       0.97
       ],
       [
        "and",
        8.32,
        8.6,
-       0.98
+       0.97
       ],
       [
        "weighs",
@@ -8652,12 +8598,12 @@
       [
        "do",
        11.32,
-       11.44,
+       11.42,
        1.0
       ],
       [
        "the",
-       11.44,
+       11.42,
        11.68,
        1.0
       ],
@@ -8668,7 +8614,7 @@
        1.0
       ]
      ],
-     "clarte": 0.89,
+     "clarte": 0.87,
      "ok": true
     }
    ]
@@ -8684,8 +8630,8 @@
     "prise": 1,
     "file": "en-09-00-p1.wav",
     "seconds": 12.24,
-    "compute": 72,
-    "heard": "Floor Talk, Core Inflation. It's the rise in prices without energy and food, two items that bounce up and down. Central bankers watch it closely because it shows the underlying trend.",
+    "compute": 125,
+    "heard": "Floor Talk, Core Inflation, it's the rise in prices without energy and food. Two items that bounce up and down. Central bankers watch it closely, because it shows the underlying trend.",
     "wer": 0.0,
     "extra": 0,
     "speech": [
@@ -8698,31 +8644,31 @@
       "Floor",
       0.0,
       1.04,
-      0.82
+      0.84
      ],
      [
       "Talk,",
       1.04,
       1.36,
-      0.38
+      0.37
      ],
      [
       "Core",
       1.7,
       1.86,
-      0.84
+      0.81
      ],
      [
-      "Inflation.",
+      "Inflation,",
       1.86,
       2.54,
       0.97
      ],
      [
-      "It's",
-      2.96,
+      "it's",
+      2.94,
       3.06,
-      0.98
+      0.87
      ],
      [
       "the",
@@ -8734,13 +8680,13 @@
       "rise",
       3.24,
       3.52,
-      0.98
+      0.97
      ],
      [
       "in",
       3.52,
       3.8,
-      0.99
+      0.98
      ],
      [
       "prices",
@@ -8751,44 +8697,44 @@
      [
       "without",
       4.1,
-      4.5,
-      1.0
+      4.52,
+      0.99
      ],
      [
       "energy",
-      4.5,
+      4.52,
       4.94,
-      1.0
+      0.99
      ],
      [
       "and",
       4.94,
-      5.26,
+      5.28,
       1.0
      ],
      [
-      "food,",
-      5.26,
-      5.52,
+      "food.",
+      5.28,
+      5.56,
       1.0
      ],
      [
-      "two",
-      6.04,
+      "Two",
+      6.0,
       6.24,
-      0.91
+      0.96
      ],
      [
       "items",
       6.24,
       6.52,
-      1.0
+      0.99
      ],
      [
       "that",
       6.52,
       6.8,
-      1.0
+      0.99
      ],
      [
       "bounce",
@@ -8800,7 +8746,7 @@
       "up",
       7.04,
       7.32,
-      1.0
+      0.99
      ],
      [
       "and",
@@ -8811,12 +8757,12 @@
      [
       "down.",
       7.52,
-      7.84,
+      7.9,
       1.0
      ],
      [
       "Central",
-      8.32,
+      8.3,
       8.58,
       1.0
      ],
@@ -8824,7 +8770,7 @@
       "bankers",
       8.58,
       9.06,
-      0.94
+      0.95
      ],
      [
       "watch",
@@ -8836,35 +8782,35 @@
       "it",
       9.3,
       9.54,
-      1.0
+      0.99
      ],
      [
-      "closely",
+      "closely,",
       9.54,
       9.9,
       1.0
      ],
      [
       "because",
-      9.9,
+      10.22,
       10.46,
-      0.53
+      1.0
      ],
      [
       "it",
       10.46,
-      10.7,
+      10.68,
       1.0
      ],
      [
       "shows",
-      10.7,
-      10.92,
+      10.68,
+      10.94,
       1.0
      ],
      [
       "the",
-      10.92,
+      10.94,
       11.28,
       1.0
      ],
@@ -8881,7 +8827,7 @@
       1.0
      ]
     ],
-    "clarte": 0.38,
+    "clarte": 0.37,
     "ok": true
    },
    "toutes": [
@@ -8889,8 +8835,8 @@
      "prise": 1,
      "file": "en-09-00-p1.wav",
      "seconds": 12.24,
-     "compute": 72,
-     "heard": "Floor Talk, Core Inflation. It's the rise in prices without energy and food, two items that bounce up and down. Central bankers watch it closely because it shows the underlying trend.",
+     "compute": 125,
+     "heard": "Floor Talk, Core Inflation, it's the rise in prices without energy and food. Two items that bounce up and down. Central bankers watch it closely, because it shows the underlying trend.",
      "wer": 0.0,
      "extra": 0,
      "speech": [
@@ -8903,31 +8849,31 @@
        "Floor",
        0.0,
        1.04,
-       0.82
+       0.84
       ],
       [
        "Talk,",
        1.04,
        1.36,
-       0.38
+       0.37
       ],
       [
        "Core",
        1.7,
        1.86,
-       0.84
+       0.81
       ],
       [
-       "Inflation.",
+       "Inflation,",
        1.86,
        2.54,
        0.97
       ],
       [
-       "It's",
-       2.96,
+       "it's",
+       2.94,
        3.06,
-       0.98
+       0.87
       ],
       [
        "the",
@@ -8939,13 +8885,13 @@
        "rise",
        3.24,
        3.52,
-       0.98
+       0.97
       ],
       [
        "in",
        3.52,
        3.8,
-       0.99
+       0.98
       ],
       [
        "prices",
@@ -8956,44 +8902,44 @@
       [
        "without",
        4.1,
-       4.5,
-       1.0
+       4.52,
+       0.99
       ],
       [
        "energy",
-       4.5,
+       4.52,
        4.94,
-       1.0
+       0.99
       ],
       [
        "and",
        4.94,
-       5.26,
+       5.28,
        1.0
       ],
       [
-       "food,",
-       5.26,
-       5.52,
+       "food.",
+       5.28,
+       5.56,
        1.0
       ],
       [
-       "two",
-       6.04,
+       "Two",
+       6.0,
        6.24,
-       0.91
+       0.96
       ],
       [
        "items",
        6.24,
        6.52,
-       1.0
+       0.99
       ],
       [
        "that",
        6.52,
        6.8,
-       1.0
+       0.99
       ],
       [
        "bounce",
@@ -9005,7 +8951,7 @@
        "up",
        7.04,
        7.32,
-       1.0
+       0.99
       ],
       [
        "and",
@@ -9016,12 +8962,12 @@
       [
        "down.",
        7.52,
-       7.84,
+       7.9,
        1.0
       ],
       [
        "Central",
-       8.32,
+       8.3,
        8.58,
        1.0
       ],
@@ -9029,7 +8975,7 @@
        "bankers",
        8.58,
        9.06,
-       0.94
+       0.95
       ],
       [
        "watch",
@@ -9041,35 +8987,35 @@
        "it",
        9.3,
        9.54,
-       1.0
+       0.99
       ],
       [
-       "closely",
+       "closely,",
        9.54,
        9.9,
        1.0
       ],
       [
        "because",
-       9.9,
+       10.22,
        10.46,
-       0.53
+       1.0
       ],
       [
        "it",
        10.46,
-       10.7,
+       10.68,
        1.0
       ],
       [
        "shows",
-       10.7,
-       10.92,
+       10.68,
+       10.94,
        1.0
       ],
       [
        "the",
-       10.92,
+       10.94,
        11.28,
        1.0
       ],
@@ -9086,7 +9032,7 @@
        1.0
       ]
      ],
-     "clarte": 0.38,
+     "clarte": 0.37,
      "ok": true
     }
    ]
@@ -9102,7 +9048,7 @@
     "prise": 1,
     "file": "en-09-01-p1.wav",
     "seconds": 8.88,
-    "compute": 71,
+    "compute": 88,
     "heard": "Today, the market expects it at 2.8% over a year. Remember this, the headline number is not always the one that moves interest rates.",
     "wer": 0.0,
     "extra": 0,
@@ -9116,7 +9062,7 @@
       "Today,",
       0.0,
       0.68,
-      0.97
+      0.98
      ],
      [
       "the",
@@ -9140,7 +9086,7 @@
       "it",
       1.64,
       1.82,
-      0.99
+      1.0
      ],
      [
       "at",
@@ -9186,7 +9132,7 @@
      ],
      [
       "Remember",
-      4.64,
+      4.66,
       4.92,
       1.0
      ],
@@ -9223,12 +9169,12 @@
      [
       "not",
       6.68,
-      6.84,
+      6.86,
       1.0
      ],
      [
       "always",
-      6.84,
+      6.86,
       7.24,
       1.0
      ],
@@ -9236,7 +9182,7 @@
       "the",
       7.24,
       7.42,
-      0.99
+      1.0
      ],
      [
       "one",
@@ -9247,12 +9193,12 @@
      [
       "that",
       7.52,
-      7.66,
+      7.68,
       1.0
      ],
      [
       "moves",
-      7.66,
+      7.68,
       7.96,
       1.0
      ],
@@ -9277,7 +9223,7 @@
      "prise": 1,
      "file": "en-09-01-p1.wav",
      "seconds": 8.88,
-     "compute": 71,
+     "compute": 88,
      "heard": "Today, the market expects it at 2.8% over a year. Remember this, the headline number is not always the one that moves interest rates.",
      "wer": 0.0,
      "extra": 0,
@@ -9291,7 +9237,7 @@
        "Today,",
        0.0,
        0.68,
-       0.97
+       0.98
       ],
       [
        "the",
@@ -9315,7 +9261,7 @@
        "it",
        1.64,
        1.82,
-       0.99
+       1.0
       ],
       [
        "at",
@@ -9361,7 +9307,7 @@
       ],
       [
        "Remember",
-       4.64,
+       4.66,
        4.92,
        1.0
       ],
@@ -9398,12 +9344,12 @@
       [
        "not",
        6.68,
-       6.84,
+       6.86,
        1.0
       ],
       [
        "always",
-       6.84,
+       6.86,
        7.24,
        1.0
       ],
@@ -9411,7 +9357,7 @@
        "the",
        7.24,
        7.42,
-       0.99
+       1.0
       ],
       [
        "one",
@@ -9422,12 +9368,12 @@
       [
        "that",
        7.52,
-       7.66,
+       7.68,
        1.0
       ],
       [
        "moves",
-       7.66,
+       7.68,
        7.96,
        1.0
       ],
@@ -9459,386 +9405,386 @@
    "prise": {
     "prise": 1,
     "file": "en-10-00-p1.wav",
-    "seconds": 9.92,
-    "compute": 74,
-    "heard": "This morning in the terminal, no conviction of the day. No market had enough signals lined up, so we're standing aside. For us, doing nothing is a decision too.",
+    "seconds": 10.8,
+    "compute": 98,
+    "heard": "This morning in the terminal. No conviction of the day. No market had enough signals lined up. So we're standing aside. For us, doing nothing is a decision too.",
     "wer": 0.0,
     "extra": 0,
     "speech": [
      0.0,
-     9.8
+     10.62
     ],
-    "rate": 16.3,
+    "rate": 15.1,
     "mots": [
      [
       "This",
       0.0,
-      0.4,
-      0.83
+      0.66,
+      0.86
      ],
      [
       "morning",
-      0.4,
-      0.68,
-      1.0
-     ],
-     [
-      "in",
-      0.68,
-      0.84,
-      0.96
-     ],
-     [
-      "the",
-      0.84,
-      1.0,
-      1.0
-     ],
-     [
-      "terminal,",
-      1.0,
-      1.48,
-      0.98
-     ],
-     [
-      "no",
-      1.92,
-      2.1,
-      0.96
-     ],
-     [
-      "conviction",
-      2.1,
-      2.52,
+      0.66,
+      0.98,
       0.99
      ],
      [
+      "in",
+      0.98,
+      1.18,
+      0.95
+     ],
+     [
+      "the",
+      1.18,
+      1.38,
+      1.0
+     ],
+     [
+      "terminal.",
+      1.38,
+      1.88,
+      0.98
+     ],
+     [
+      "No",
+      2.28,
+      2.54,
+      0.99
+     ],
+     [
+      "conviction",
+      2.54,
+      2.98,
+      0.98
+     ],
+     [
       "of",
-      2.52,
-      2.72,
+      2.98,
+      3.2,
       1.0
      ],
      [
       "the",
-      2.72,
-      2.86,
+      3.2,
+      3.34,
       1.0
      ],
      [
       "day.",
-      2.86,
-      3.16,
+      3.34,
+      3.6,
       1.0
      ],
      [
       "No",
-      3.76,
-      3.96,
+      4.12,
+      4.28,
       1.0
      ],
      [
       "market",
-      3.96,
       4.28,
-      0.99
+      4.62,
+      0.97
      ],
      [
       "had",
-      4.28,
-      4.5,
+      4.62,
+      4.84,
       1.0
      ],
      [
       "enough",
-      4.5,
-      4.74,
+      4.84,
+      5.1,
       1.0
      ],
      [
       "signals",
-      4.74,
-      5.14,
+      5.1,
+      5.5,
       1.0
      ],
      [
       "lined",
-      5.14,
-      5.44,
+      5.5,
+      5.8,
       1.0
      ],
      [
-      "up,",
-      5.44,
+      "up.",
       5.8,
+      6.12,
       0.99
      ],
      [
-      "so",
-      5.94,
-      6.12,
+      "So",
+      6.36,
+      6.54,
       0.99
      ],
      [
       "we're",
-      6.12,
-      6.44,
+      6.54,
+      6.9,
       0.93
      ],
      [
       "standing",
-      6.44,
-      6.64,
+      6.9,
+      7.06,
       1.0
      ],
      [
       "aside.",
-      6.64,
-      7.16,
+      7.06,
+      7.6,
       1.0
      ],
      [
       "For",
-      7.62,
-      7.74,
+      8.1,
+      8.28,
       1.0
      ],
      [
       "us,",
-      7.74,
-      7.98,
+      8.28,
+      8.7,
       1.0
      ],
      [
       "doing",
-      7.98,
-      8.28,
-      1.0
+      8.96,
+      9.24,
+      0.97
      ],
      [
       "nothing",
-      8.28,
-      8.64,
+      9.24,
+      9.52,
       1.0
      ],
      [
       "is",
-      8.64,
-      9.04,
-      0.97
+      9.52,
+      9.78,
+      1.0
      ],
      [
       "a",
-      9.04,
-      9.24,
+      9.78,
+      10.0,
       1.0
      ],
      [
       "decision",
-      9.24,
-      9.48,
-      0.99
+      10.0,
+      10.28,
+      1.0
      ],
      [
       "too.",
-      9.48,
-      9.8,
-      0.72
+      10.28,
+      10.62,
+      0.7
      ]
     ],
-    "clarte": 0.72,
+    "clarte": 0.7,
     "ok": true
    },
    "toutes": [
     {
      "prise": 1,
      "file": "en-10-00-p1.wav",
-     "seconds": 9.92,
-     "compute": 74,
-     "heard": "This morning in the terminal, no conviction of the day. No market had enough signals lined up, so we're standing aside. For us, doing nothing is a decision too.",
+     "seconds": 10.8,
+     "compute": 98,
+     "heard": "This morning in the terminal. No conviction of the day. No market had enough signals lined up. So we're standing aside. For us, doing nothing is a decision too.",
      "wer": 0.0,
      "extra": 0,
      "speech": [
       0.0,
-      9.8
+      10.62
      ],
-     "rate": 16.3,
+     "rate": 15.1,
      "mots": [
       [
        "This",
        0.0,
-       0.4,
-       0.83
+       0.66,
+       0.86
       ],
       [
        "morning",
-       0.4,
-       0.68,
-       1.0
-      ],
-      [
-       "in",
-       0.68,
-       0.84,
-       0.96
-      ],
-      [
-       "the",
-       0.84,
-       1.0,
-       1.0
-      ],
-      [
-       "terminal,",
-       1.0,
-       1.48,
-       0.98
-      ],
-      [
-       "no",
-       1.92,
-       2.1,
-       0.96
-      ],
-      [
-       "conviction",
-       2.1,
-       2.52,
+       0.66,
+       0.98,
        0.99
       ],
       [
+       "in",
+       0.98,
+       1.18,
+       0.95
+      ],
+      [
+       "the",
+       1.18,
+       1.38,
+       1.0
+      ],
+      [
+       "terminal.",
+       1.38,
+       1.88,
+       0.98
+      ],
+      [
+       "No",
+       2.28,
+       2.54,
+       0.99
+      ],
+      [
+       "conviction",
+       2.54,
+       2.98,
+       0.98
+      ],
+      [
        "of",
-       2.52,
-       2.72,
+       2.98,
+       3.2,
        1.0
       ],
       [
        "the",
-       2.72,
-       2.86,
+       3.2,
+       3.34,
        1.0
       ],
       [
        "day.",
-       2.86,
-       3.16,
+       3.34,
+       3.6,
        1.0
       ],
       [
        "No",
-       3.76,
-       3.96,
+       4.12,
+       4.28,
        1.0
       ],
       [
        "market",
-       3.96,
        4.28,
-       0.99
+       4.62,
+       0.97
       ],
       [
        "had",
-       4.28,
-       4.5,
+       4.62,
+       4.84,
        1.0
       ],
       [
        "enough",
-       4.5,
-       4.74,
+       4.84,
+       5.1,
        1.0
       ],
       [
        "signals",
-       4.74,
-       5.14,
+       5.1,
+       5.5,
        1.0
       ],
       [
        "lined",
-       5.14,
-       5.44,
+       5.5,
+       5.8,
        1.0
       ],
       [
-       "up,",
-       5.44,
+       "up.",
        5.8,
+       6.12,
        0.99
       ],
       [
-       "so",
-       5.94,
-       6.12,
+       "So",
+       6.36,
+       6.54,
        0.99
       ],
       [
        "we're",
-       6.12,
-       6.44,
+       6.54,
+       6.9,
        0.93
       ],
       [
        "standing",
-       6.44,
-       6.64,
+       6.9,
+       7.06,
        1.0
       ],
       [
        "aside.",
-       6.64,
-       7.16,
+       7.06,
+       7.6,
        1.0
       ],
       [
        "For",
-       7.62,
-       7.74,
+       8.1,
+       8.28,
        1.0
       ],
       [
        "us,",
-       7.74,
-       7.98,
+       8.28,
+       8.7,
        1.0
       ],
       [
        "doing",
-       7.98,
-       8.28,
-       1.0
+       8.96,
+       9.24,
+       0.97
       ],
       [
        "nothing",
-       8.28,
-       8.64,
+       9.24,
+       9.52,
        1.0
       ],
       [
        "is",
-       8.64,
-       9.04,
-       0.97
+       9.52,
+       9.78,
+       1.0
       ],
       [
        "a",
-       9.04,
-       9.24,
+       9.78,
+       10.0,
        1.0
       ],
       [
        "decision",
-       9.24,
-       9.48,
-       0.99
+       10.0,
+       10.28,
+       1.0
       ],
       [
        "too.",
-       9.48,
-       9.8,
-       0.72
+       10.28,
+       10.62,
+       0.7
       ]
      ],
-     "clarte": 0.72,
+     "clarte": 0.7,
      "ok": true
     }
    ]
@@ -9853,302 +9799,302 @@
    "prise": {
     "prise": 1,
     "file": "en-10-01-p1.wav",
-    "seconds": 7.36,
-    "compute": 58,
-    "heard": "The full brief, the world calendar, and the radar are online, and Arsenal members can read the complete file on every stock.",
+    "seconds": 8.0,
+    "compute": 75,
+    "heard": "The full brief, the world calendar and the radar are online and Arsenal members can read the complete file on every stock.",
     "wer": 0.0,
     "extra": 0,
     "speech": [
      0.0,
-     7.28
+     7.6
     ],
-    "rate": 16.9,
+    "rate": 16.2,
     "mots": [
      [
       "The",
       0.0,
       0.24,
-      0.91
+      0.93
      ],
      [
       "full",
       0.24,
-      0.48,
+      0.46,
       0.99
      ],
      [
       "brief,",
-      0.48,
-      0.88,
-      0.97
+      0.46,
+      0.86,
+      0.98
      ],
      [
       "the",
-      1.2,
-      1.36,
-      0.99
+      1.22,
+      1.38,
+      0.98
      ],
      [
       "world",
-      1.36,
-      1.62,
-      0.87
+      1.38,
+      1.64,
+      0.78
      ],
      [
-      "calendar,",
-      1.62,
-      2.0,
+      "calendar",
+      1.64,
+      2.04,
       0.99
      ],
      [
       "and",
-      2.12,
-      2.32,
-      1.0
+      2.04,
+      2.38,
+      0.69
      ],
      [
       "the",
-      2.32,
-      2.44,
-      1.0
+      2.38,
+      2.56,
+      0.98
      ],
      [
       "radar",
-      2.44,
-      2.74,
-      0.94
+      2.56,
+      2.84,
+      0.96
      ],
      [
       "are",
-      2.74,
-      3.06,
-      0.99
+      2.84,
+      3.22,
+      0.94
      ],
      [
-      "online,",
-      3.06,
-      3.58,
+      "online",
+      3.22,
+      3.68,
       0.98
      ],
      [
       "and",
-      4.16,
-      4.32,
-      1.0
+      3.68,
+      4.4,
+      0.36
      ],
      [
       "Arsenal",
-      4.32,
-      4.64,
-      0.95
+      4.4,
+      4.78,
+      0.91
      ],
      [
       "members",
-      4.64,
-      5.04,
-      0.98
+      4.78,
+      5.2,
+      0.97
      ],
      [
       "can",
-      5.04,
-      5.28,
+      5.2,
+      5.46,
       1.0
      ],
      [
       "read",
-      5.28,
-      5.44,
+      5.46,
+      5.64,
       1.0
      ],
      [
       "the",
-      5.44,
-      5.76,
+      5.64,
+      6.02,
       1.0
      ],
      [
       "complete",
-      5.76,
       6.02,
+      6.26,
       1.0
      ],
      [
       "file",
-      6.02,
-      6.36,
+      6.26,
+      6.66,
       1.0
      ],
      [
       "on",
-      6.36,
-      6.72,
+      6.66,
+      7.02,
       1.0
      ],
      [
       "every",
-      6.72,
-      6.98,
+      7.02,
+      7.28,
       1.0
      ],
      [
       "stock.",
-      6.98,
       7.28,
-      0.98
+      7.6,
+      0.99
      ]
     ],
-    "clarte": 0.87,
+    "clarte": 0.36,
     "ok": true
    },
    "toutes": [
     {
      "prise": 1,
      "file": "en-10-01-p1.wav",
-     "seconds": 7.36,
-     "compute": 58,
-     "heard": "The full brief, the world calendar, and the radar are online, and Arsenal members can read the complete file on every stock.",
+     "seconds": 8.0,
+     "compute": 75,
+     "heard": "The full brief, the world calendar and the radar are online and Arsenal members can read the complete file on every stock.",
      "wer": 0.0,
      "extra": 0,
      "speech": [
       0.0,
-      7.28
+      7.6
      ],
-     "rate": 16.9,
+     "rate": 16.2,
      "mots": [
       [
        "The",
        0.0,
        0.24,
-       0.91
+       0.93
       ],
       [
        "full",
        0.24,
-       0.48,
+       0.46,
        0.99
       ],
       [
        "brief,",
-       0.48,
-       0.88,
-       0.97
+       0.46,
+       0.86,
+       0.98
       ],
       [
        "the",
-       1.2,
-       1.36,
-       0.99
+       1.22,
+       1.38,
+       0.98
       ],
       [
        "world",
-       1.36,
-       1.62,
-       0.87
+       1.38,
+       1.64,
+       0.78
       ],
       [
-       "calendar,",
-       1.62,
-       2.0,
+       "calendar",
+       1.64,
+       2.04,
        0.99
       ],
       [
        "and",
-       2.12,
-       2.32,
-       1.0
+       2.04,
+       2.38,
+       0.69
       ],
       [
        "the",
-       2.32,
-       2.44,
-       1.0
+       2.38,
+       2.56,
+       0.98
       ],
       [
        "radar",
-       2.44,
-       2.74,
-       0.94
+       2.56,
+       2.84,
+       0.96
       ],
       [
        "are",
-       2.74,
-       3.06,
-       0.99
+       2.84,
+       3.22,
+       0.94
       ],
       [
-       "online,",
-       3.06,
-       3.58,
+       "online",
+       3.22,
+       3.68,
        0.98
       ],
       [
        "and",
-       4.16,
-       4.32,
-       1.0
+       3.68,
+       4.4,
+       0.36
       ],
       [
        "Arsenal",
-       4.32,
-       4.64,
-       0.95
+       4.4,
+       4.78,
+       0.91
       ],
       [
        "members",
-       4.64,
-       5.04,
-       0.98
+       4.78,
+       5.2,
+       0.97
       ],
       [
        "can",
-       5.04,
-       5.28,
+       5.2,
+       5.46,
        1.0
       ],
       [
        "read",
-       5.28,
-       5.44,
+       5.46,
+       5.64,
        1.0
       ],
       [
        "the",
-       5.44,
-       5.76,
+       5.64,
+       6.02,
        1.0
       ],
       [
        "complete",
-       5.76,
        6.02,
+       6.26,
        1.0
       ],
       [
        "file",
-       6.02,
-       6.36,
+       6.26,
+       6.66,
        1.0
       ],
       [
        "on",
-       6.36,
-       6.72,
+       6.66,
+       7.02,
        1.0
       ],
       [
        "every",
-       6.72,
-       6.98,
+       7.02,
+       7.28,
        1.0
       ],
       [
        "stock.",
-       6.98,
        7.28,
-       0.98
+       7.6,
+       0.99
       ]
      ],
-     "clarte": 0.87,
+     "clarte": 0.36,
      "ok": true
     }
    ]
@@ -10163,266 +10109,266 @@
    "prise": {
     "prise": 1,
     "file": "en-11-00-p1.wav",
-    "seconds": 6.48,
-    "compute": 50,
+    "seconds": 7.2,
+    "compute": 68,
     "heard": "The market will still be there tomorrow, so will your capital if you protect it. This was Victor Castel.",
     "wer": 0.0,
     "extra": 0,
     "speech": [
      0.0,
-     6.36
+     7.04
     ],
-    "rate": 16.5,
+    "rate": 14.9,
     "mots": [
      [
       "The",
       0.0,
-      0.28,
-      0.78
+      0.64,
+      0.88
      ],
      [
       "market",
-      0.28,
-      0.52,
+      0.64,
+      0.96,
       0.99
      ],
      [
       "will",
-      0.52,
-      0.84,
+      0.96,
+      1.3,
       1.0
      ],
      [
       "still",
-      0.84,
-      1.04,
+      1.3,
+      1.5,
       0.99
      ],
      [
       "be",
-      1.04,
-      1.24,
+      1.5,
+      1.72,
       1.0
      ],
      [
       "there",
-      1.24,
-      1.44,
+      1.72,
+      1.96,
       1.0
      ],
      [
       "tomorrow,",
-      1.44,
-      1.88,
+      1.96,
+      2.46,
       1.0
      ],
      [
       "so",
-      2.46,
-      2.62,
-      0.99
+      3.06,
+      3.2,
+      0.98
      ],
      [
       "will",
-      2.62,
-      2.8,
+      3.2,
+      3.36,
       0.99
      ],
      [
       "your",
-      2.8,
-      3.0,
+      3.36,
+      3.58,
       1.0
      ],
      [
       "capital",
-      3.0,
-      3.44,
+      3.58,
+      4.02,
       0.96
      ],
      [
       "if",
-      3.44,
-      3.78,
-      0.81
+      4.02,
+      4.4,
+      0.93
      ],
      [
       "you",
-      3.78,
-      3.96,
+      4.4,
+      4.6,
       1.0
      ],
      [
       "protect",
-      3.96,
-      4.24,
+      4.6,
+      4.9,
       0.99
      ],
      [
       "it.",
-      4.24,
-      4.68,
+      4.9,
+      5.3,
       1.0
      ],
      [
       "This",
-      5.1,
-      5.34,
+      5.54,
+      5.84,
       0.99
      ],
      [
       "was",
-      5.34,
-      5.58,
+      5.84,
+      6.2,
       1.0
      ],
      [
       "Victor",
-      5.58,
-      5.92,
-      0.98
+      6.2,
+      6.58,
+      0.97
      ],
      [
       "Castel.",
-      5.92,
-      6.36,
-      0.53
+      6.58,
+      7.04,
+      0.6
      ]
     ],
-    "clarte": 0.53,
+    "clarte": 0.6,
     "ok": true
    },
    "toutes": [
     {
      "prise": 1,
      "file": "en-11-00-p1.wav",
-     "seconds": 6.48,
-     "compute": 50,
+     "seconds": 7.2,
+     "compute": 68,
      "heard": "The market will still be there tomorrow, so will your capital if you protect it. This was Victor Castel.",
      "wer": 0.0,
      "extra": 0,
      "speech": [
       0.0,
-      6.36
+      7.04
      ],
-     "rate": 16.5,
+     "rate": 14.9,
      "mots": [
       [
        "The",
        0.0,
-       0.28,
-       0.78
+       0.64,
+       0.88
       ],
       [
        "market",
-       0.28,
-       0.52,
+       0.64,
+       0.96,
        0.99
       ],
       [
        "will",
-       0.52,
-       0.84,
+       0.96,
+       1.3,
        1.0
       ],
       [
        "still",
-       0.84,
-       1.04,
+       1.3,
+       1.5,
        0.99
       ],
       [
        "be",
-       1.04,
-       1.24,
+       1.5,
+       1.72,
        1.0
       ],
       [
        "there",
-       1.24,
-       1.44,
+       1.72,
+       1.96,
        1.0
       ],
       [
        "tomorrow,",
-       1.44,
-       1.88,
+       1.96,
+       2.46,
        1.0
       ],
       [
        "so",
-       2.46,
-       2.62,
-       0.99
+       3.06,
+       3.2,
+       0.98
       ],
       [
        "will",
-       2.62,
-       2.8,
+       3.2,
+       3.36,
        0.99
       ],
       [
        "your",
-       2.8,
-       3.0,
+       3.36,
+       3.58,
        1.0
       ],
       [
        "capital",
-       3.0,
-       3.44,
+       3.58,
+       4.02,
        0.96
       ],
       [
        "if",
-       3.44,
-       3.78,
-       0.81
+       4.02,
+       4.4,
+       0.93
       ],
       [
        "you",
-       3.78,
-       3.96,
+       4.4,
+       4.6,
        1.0
       ],
       [
        "protect",
-       3.96,
-       4.24,
+       4.6,
+       4.9,
        0.99
       ],
       [
        "it.",
-       4.24,
-       4.68,
+       4.9,
+       5.3,
        1.0
       ],
       [
        "This",
-       5.1,
-       5.34,
+       5.54,
+       5.84,
        0.99
       ],
       [
        "was",
-       5.34,
-       5.58,
+       5.84,
+       6.2,
        1.0
       ],
       [
        "Victor",
-       5.58,
-       5.92,
-       0.98
+       6.2,
+       6.58,
+       0.97
       ],
       [
        "Castel.",
-       5.92,
-       6.36,
-       0.53
+       6.58,
+       7.04,
+       0.6
       ]
      ],
-     "clarte": 0.53,
+     "clarte": 0.6,
      "ok": true
     }
    ]
@@ -10437,110 +10383,110 @@
    "prise": {
     "prise": 1,
     "file": "en-11-01-p1.wav",
-    "seconds": 2.32,
-    "compute": 23,
+    "seconds": 2.64,
+    "compute": 28,
     "heard": "See you tomorrow morning, same time.",
     "wer": 0.0,
     "extra": 0,
     "speech": [
      0.0,
-     2.06
+     2.52
     ],
-    "rate": 17.5,
+    "rate": 14.3,
     "mots": [
      [
       "See",
       0.0,
-      0.4,
-      0.96
+      0.46,
+      0.93
      ],
      [
       "you",
-      0.4,
-      0.6,
+      0.46,
+      0.7,
       1.0
      ],
      [
       "tomorrow",
-      0.6,
-      0.9,
+      0.7,
+      1.06,
       1.0
      ],
      [
       "morning,",
-      0.9,
-      1.32,
+      1.06,
+      1.64,
       1.0
      ],
      [
       "same",
-      1.58,
-      1.76,
-      1.0
+      2.0,
+      2.18,
+      0.99
      ],
      [
       "time.",
-      1.76,
-      2.06,
+      2.18,
+      2.52,
       1.0
      ]
     ],
-    "clarte": 0.96,
+    "clarte": 0.93,
     "ok": true
    },
    "toutes": [
     {
      "prise": 1,
      "file": "en-11-01-p1.wav",
-     "seconds": 2.32,
-     "compute": 23,
+     "seconds": 2.64,
+     "compute": 28,
      "heard": "See you tomorrow morning, same time.",
      "wer": 0.0,
      "extra": 0,
      "speech": [
       0.0,
-      2.06
+      2.52
      ],
-     "rate": 17.5,
+     "rate": 14.3,
      "mots": [
       [
        "See",
        0.0,
-       0.4,
-       0.96
+       0.46,
+       0.93
       ],
       [
        "you",
-       0.4,
-       0.6,
+       0.46,
+       0.7,
        1.0
       ],
       [
        "tomorrow",
-       0.6,
-       0.9,
+       0.7,
+       1.06,
        1.0
       ],
       [
        "morning,",
-       0.9,
-       1.32,
+       1.06,
+       1.64,
        1.0
       ],
       [
        "same",
-       1.58,
-       1.76,
-       1.0
+       2.0,
+       2.18,
+       0.99
       ],
       [
        "time.",
-       1.76,
-       2.06,
+       2.18,
+       2.52,
        1.0
       ]
      ],
-     "clarte": 0.96,
+     "clarte": 0.93,
      "ok": true
     }
    ]
