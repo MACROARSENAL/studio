@@ -1,0 +1,138 @@
+{
+ "langue": "fr",
+ "part": 9,
+ "voix": "victor-fr",
+ "phrases": [
+  {
+   "id": "30-01",
+   "bloc": 30,
+   "ton": "vive",
+   "text": "Qu'est-ce qui vous attend ?",
+   "tts": "Qu'est-ce qui vous attend ?",
+   "gen": {},
+   "voix": "clara-fr",
+   "prises": [
+    {
+     "prise": 11,
+     "file": "fr-30-01-p11.wav",
+     "seconds": 1.12,
+     "compute": 16,
+     "heard": "Qu'est-ce qui vous attend ?",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      1.06
+     ],
+     "rate": 25.5,
+     "mots": [
+      [
+       "Qu",
+       0.0,
+       0.28,
+       0.82
+      ],
+      [
+       "'est",
+       0.28,
+       0.42,
+       1.0
+      ],
+      [
+       "-ce",
+       0.42,
+       0.44,
+       0.95
+      ],
+      [
+       "qui",
+       0.44,
+       0.54,
+       0.97
+      ],
+      [
+       "vous",
+       0.54,
+       0.76,
+       1.0
+      ],
+      [
+       "attend",
+       0.76,
+       0.92,
+       0.98
+      ],
+      [
+       "?",
+       0.92,
+       1.06,
+       0.86
+      ]
+     ],
+     "clarte": 0.82,
+     "ok": true
+    },
+    {
+     "prise": 12,
+     "file": "fr-30-01-p12.wav",
+     "seconds": 0.8,
+     "compute": 13,
+     "heard": "Qu'est-ce qui vous attend ?",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      0.78
+     ],
+     "rate": 34.6,
+     "mots": [
+      [
+       "Qu",
+       0.0,
+       0.16,
+       0.79
+      ],
+      [
+       "'est",
+       0.16,
+       0.26,
+       1.0
+      ],
+      [
+       "-ce",
+       0.26,
+       0.26,
+       0.9
+      ],
+      [
+       "qui",
+       0.26,
+       0.36,
+       0.97
+      ],
+      [
+       "vous",
+       0.36,
+       0.54,
+       1.0
+      ],
+      [
+       "attend",
+       0.54,
+       0.72,
+       0.98
+      ],
+      [
+       "?",
+       0.72,
+       0.78,
+       0.84
+      ]
+     ],
+     "clarte": 0.79,
+     "ok": false
+    }
+   ]
+  }
+ ]
+}

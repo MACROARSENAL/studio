@@ -1,0 +1,324 @@
+{
+ "langue": "fr",
+ "part": 14,
+ "voix": "victor-fr",
+ "phrases": [
+  {
+   "id": "47-00",
+   "bloc": 47,
+   "ton": "pose",
+   "text": "Et dans la salle, y avait un jeune trader… Il avait pas mis de stop. Il a perdu tout son compte.",
+   "tts": "Et dans la salle, y avait un jeune trader… Il avait pas mis de stop. Il a perdu tout son compte.",
+   "gen": {},
+   "voix": "victor-fr",
+   "prises": [
+    {
+     "prise": 13,
+     "file": "fr-47-00-p13.wav",
+     "seconds": 5.2,
+     "compute": 55,
+     "heard": "Et dans la salle, il y avait un jeune trader, il n'avait pas mis de stop, il a perdu tout son compte.",
+     "wer": 0.0,
+     "extra": 2,
+     "speech": [
+      0.0,
+      4.82
+     ],
+     "rate": 19.9,
+     "mots": [
+      [
+       "Et",
+       0.0,
+       0.44,
+       0.68
+      ],
+      [
+       "dans",
+       0.44,
+       0.54,
+       0.98
+      ],
+      [
+       "la",
+       0.54,
+       0.74,
+       1.0
+      ],
+      [
+       "salle,",
+       0.74,
+       1.12,
+       1.0
+      ],
+      [
+       "il",
+       1.22,
+       1.26,
+       0.9
+      ],
+      [
+       "y",
+       1.26,
+       1.3,
+       0.99
+      ],
+      [
+       "avait",
+       1.3,
+       1.42,
+       0.99
+      ],
+      [
+       "un",
+       1.42,
+       1.56,
+       1.0
+      ],
+      [
+       "jeune",
+       1.56,
+       1.72,
+       0.99
+      ],
+      [
+       "trader,",
+       1.72,
+       2.0,
+       0.98
+      ],
+      [
+       "il",
+       2.64,
+       2.72,
+       0.96
+      ],
+      [
+       "n",
+       2.72,
+       2.78,
+       0.41
+      ],
+      [
+       "'avait",
+       2.78,
+       2.9,
+       0.99
+      ],
+      [
+       "pas",
+       2.9,
+       2.98,
+       1.0
+      ],
+      [
+       "mis",
+       2.98,
+       3.12,
+       0.99
+      ],
+      [
+       "de",
+       3.12,
+       3.34,
+       1.0
+      ],
+      [
+       "stop,",
+       3.34,
+       3.5,
+       0.93
+      ],
+      [
+       "il",
+       3.9,
+       3.98,
+       0.99
+      ],
+      [
+       "a",
+       3.98,
+       4.12,
+       0.99
+      ],
+      [
+       "perdu",
+       4.12,
+       4.3,
+       1.0
+      ],
+      [
+       "tout",
+       4.3,
+       4.46,
+       0.98
+      ],
+      [
+       "son",
+       4.46,
+       4.62,
+       1.0
+      ],
+      [
+       "compte.",
+       4.62,
+       4.82,
+       1.0
+      ]
+     ],
+     "clarte": 0.41,
+     "ok": false
+    },
+    {
+     "prise": 14,
+     "file": "fr-47-00-p14.wav",
+     "seconds": 4.88,
+     "compute": 52,
+     "heard": "Et dans la salle, il y avait un jeune trader, il avait pas mis de stop, il a perdu tout son compte.",
+     "wer": 0.0,
+     "extra": 1,
+     "speech": [
+      0.0,
+      4.8
+     ],
+     "rate": 20.0,
+     "mots": [
+      [
+       "Et",
+       0.0,
+       0.2,
+       0.55
+      ],
+      [
+       "dans",
+       0.2,
+       0.3,
+       0.99
+      ],
+      [
+       "la",
+       0.3,
+       0.48,
+       1.0
+      ],
+      [
+       "salle,",
+       0.48,
+       0.92,
+       1.0
+      ],
+      [
+       "il",
+       1.08,
+       1.12,
+       0.88
+      ],
+      [
+       "y",
+       1.12,
+       1.2,
+       1.0
+      ],
+      [
+       "avait",
+       1.2,
+       1.32,
+       0.99
+      ],
+      [
+       "un",
+       1.32,
+       1.48,
+       1.0
+      ],
+      [
+       "jeune",
+       1.48,
+       1.66,
+       1.0
+      ],
+      [
+       "trader,",
+       1.66,
+       1.94,
+       0.95
+      ],
+      [
+       "il",
+       2.56,
+       2.66,
+       0.95
+      ],
+      [
+       "avait",
+       2.66,
+       2.84,
+       0.61
+      ],
+      [
+       "pas",
+       2.84,
+       2.98,
+       0.98
+      ],
+      [
+       "mis",
+       2.98,
+       3.12,
+       0.99
+      ],
+      [
+       "de",
+       3.12,
+       3.36,
+       1.0
+      ],
+      [
+       "stop,",
+       3.36,
+       3.52,
+       0.93
+      ],
+      [
+       "il",
+       3.78,
+       3.9,
+       0.99
+      ],
+      [
+       "a",
+       3.9,
+       4.04,
+       0.97
+      ],
+      [
+       "perdu",
+       4.04,
+       4.28,
+       1.0
+      ],
+      [
+       "tout",
+       4.28,
+       4.44,
+       0.98
+      ],
+      [
+       "son",
+       4.44,
+       4.62,
+       1.0
+      ],
+      [
+       "compte.",
+       4.62,
+       4.8,
+       1.0
+      ]
+     ],
+     "clarte": 0.55,
+     "ok": true
+    }
+   ]
+  }
+ ]
+}

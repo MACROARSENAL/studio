@@ -1,0 +1,1856 @@
+{
+ "langue": "fr",
+ "part": 20,
+ "voix": "victor-fr",
+ "phrases": [
+  {
+   "id": "70-00",
+   "bloc": 70,
+   "ton": "chaleureux",
+   "text": "Ici non plus.",
+   "tts": "Ici non plus.",
+   "gen": {},
+   "voix": "victor-fr",
+   "prises": [
+    {
+     "prise": 7,
+     "file": "fr-70-00-p7.wav",
+     "seconds": 0.8,
+     "compute": 15,
+     "heard": "Ici non plus.",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      0.66
+     ],
+     "rate": 19.7,
+     "mots": [
+      [
+       "Ici",
+       0.0,
+       0.38,
+       0.62
+      ],
+      [
+       "non",
+       0.38,
+       0.56,
+       0.98
+      ],
+      [
+       "plus.",
+       0.56,
+       0.66,
+       1.0
+      ]
+     ],
+     "clarte": 0.62,
+     "ok": true
+    },
+    {
+     "prise": 8,
+     "file": "fr-70-00-p8.wav",
+     "seconds": 0.72,
+     "compute": 13,
+     "heard": "Ici non plus.",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      0.66
+     ],
+     "rate": 19.7,
+     "mots": [
+      [
+       "Ici",
+       0.0,
+       0.36,
+       0.64
+      ],
+      [
+       "non",
+       0.36,
+       0.56,
+       0.98
+      ],
+      [
+       "plus.",
+       0.56,
+       0.66,
+       1.0
+      ]
+     ],
+     "clarte": 0.64,
+     "ok": true
+    },
+    {
+     "prise": 9,
+     "file": "fr-70-00-p9.wav",
+     "seconds": 0.8,
+     "compute": 13,
+     "heard": "Ici non plus.",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      0.72
+     ],
+     "rate": 18.1,
+     "mots": [
+      [
+       "Ici",
+       0.0,
+       0.44,
+       0.48
+      ],
+      [
+       "non",
+       0.44,
+       0.64,
+       0.95
+      ],
+      [
+       "plus.",
+       0.64,
+       0.72,
+       1.0
+      ]
+     ],
+     "clarte": 0.48,
+     "ok": true
+    },
+    {
+     "prise": 10,
+     "file": "fr-70-00-p10.wav",
+     "seconds": 0.64,
+     "compute": 12,
+     "heard": "Ici non plus.",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      0.58
+     ],
+     "rate": 22.4,
+     "mots": [
+      [
+       "Ici",
+       0.0,
+       0.34,
+       0.53
+      ],
+      [
+       "non",
+       0.34,
+       0.48,
+       0.99
+      ],
+      [
+       "plus.",
+       0.48,
+       0.58,
+       1.0
+      ]
+     ],
+     "clarte": 0.53,
+     "ok": true
+    }
+   ]
+  },
+  {
+   "id": "71-00",
+   "bloc": 71,
+   "ton": "vive",
+   "text": "MACROARSENAL. Le terminal qui change votre vision du trading.",
+   "tts": "Macro Arsenal. Le terminal qui change votre vision du trading.",
+   "gen": {},
+   "voix": "clara-fr",
+   "prises": [
+    {
+     "prise": 7,
+     "file": "fr-71-00-p7.wav",
+     "seconds": 3.44,
+     "compute": 41,
+     "heard": "MACROARSENAL, le terminal qui change votre vision du trading.",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.78,
+      3.3
+     ],
+     "rate": 24.6,
+     "mots": [
+      [
+       "MACROARSENAL,",
+       0.78,
+       1.22,
+       0.6
+      ],
+      [
+       "le",
+       1.44,
+       1.66,
+       0.96
+      ],
+      [
+       "terminal",
+       1.66,
+       2.0,
+       0.99
+      ],
+      [
+       "qui",
+       2.0,
+       2.26,
+       1.0
+      ],
+      [
+       "change",
+       2.26,
+       2.42,
+       1.0
+      ],
+      [
+       "votre",
+       2.42,
+       2.66,
+       0.99
+      ],
+      [
+       "vision",
+       2.66,
+       2.88,
+       1.0
+      ],
+      [
+       "du",
+       2.88,
+       3.08,
+       1.0
+      ],
+      [
+       "trading.",
+       3.08,
+       3.3,
+       0.93
+      ]
+     ],
+     "clarte": 0.6,
+     "ok": true
+    },
+    {
+     "prise": 8,
+     "file": "fr-71-00-p8.wav",
+     "seconds": 3.92,
+     "compute": 44,
+     "heard": "MACROARSENAL, le terminal qui change votre vision du trading.",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.8,
+      3.72
+     ],
+     "rate": 21.2,
+     "mots": [
+      [
+       "MACROARSENAL,",
+       0.8,
+       1.36,
+       0.59
+      ],
+      [
+       "le",
+       1.58,
+       1.86,
+       0.97
+      ],
+      [
+       "terminal",
+       1.86,
+       2.2,
+       0.99
+      ],
+      [
+       "qui",
+       2.2,
+       2.48,
+       1.0
+      ],
+      [
+       "change",
+       2.48,
+       2.68,
+       1.0
+      ],
+      [
+       "votre",
+       2.68,
+       2.9,
+       1.0
+      ],
+      [
+       "vision",
+       2.9,
+       3.22,
+       1.0
+      ],
+      [
+       "du",
+       3.22,
+       3.44,
+       1.0
+      ],
+      [
+       "trading.",
+       3.44,
+       3.72,
+       0.92
+      ]
+     ],
+     "clarte": 0.59,
+     "ok": true
+    },
+    {
+     "prise": 9,
+     "file": "fr-71-00-p9.wav",
+     "seconds": 3.92,
+     "compute": 45,
+     "heard": "MACROARSENAL, le terminal qui change votre vision du trading.",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.72,
+      3.74
+     ],
+     "rate": 20.5,
+     "mots": [
+      [
+       "MACROARSENAL,",
+       0.72,
+       1.28,
+       0.59
+      ],
+      [
+       "le",
+       1.64,
+       1.88,
+       0.95
+      ],
+      [
+       "terminal",
+       1.88,
+       2.24,
+       0.99
+      ],
+      [
+       "qui",
+       2.24,
+       2.52,
+       1.0
+      ],
+      [
+       "change",
+       2.52,
+       2.74,
+       1.0
+      ],
+      [
+       "votre",
+       2.74,
+       2.96,
+       1.0
+      ],
+      [
+       "vision",
+       2.96,
+       3.26,
+       1.0
+      ],
+      [
+       "du",
+       3.26,
+       3.46,
+       1.0
+      ],
+      [
+       "trading.",
+       3.46,
+       3.74,
+       0.9
+      ]
+     ],
+     "clarte": 0.59,
+     "ok": true
+    },
+    {
+     "prise": 10,
+     "file": "fr-71-00-p10.wav",
+     "seconds": 3.92,
+     "compute": 44,
+     "heard": "MACROARSENAL, le terminal qui change votre vision du trading.",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.9,
+      3.78
+     ],
+     "rate": 21.5,
+     "mots": [
+      [
+       "MACROARSENAL,",
+       0.9,
+       1.46,
+       0.6
+      ],
+      [
+       "le",
+       1.74,
+       2.0,
+       0.98
+      ],
+      [
+       "terminal",
+       2.0,
+       2.28,
+       1.0
+      ],
+      [
+       "qui",
+       2.28,
+       2.5,
+       1.0
+      ],
+      [
+       "change",
+       2.5,
+       2.78,
+       1.0
+      ],
+      [
+       "votre",
+       2.78,
+       3.02,
+       0.99
+      ],
+      [
+       "vision",
+       3.02,
+       3.34,
+       1.0
+      ],
+      [
+       "du",
+       3.34,
+       3.5,
+       1.0
+      ],
+      [
+       "trading.",
+       3.5,
+       3.78,
+       0.95
+      ]
+     ],
+     "clarte": 0.6,
+     "ok": true
+    }
+   ]
+  },
+  {
+   "id": "72-00",
+   "bloc": 72,
+   "ton": "pose",
+   "text": "Ne tradez plus jamais à l'aveugle.",
+   "tts": "Ne tradez plus jamais à l'aveugle.",
+   "gen": {},
+   "voix": "victor-fr",
+   "prises": [
+    {
+     "prise": 7,
+     "file": "fr-72-00-p7.wav",
+     "seconds": 1.84,
+     "compute": 24,
+     "heard": "Ne trader plus jamais à l'aveugle.",
+     "wer": 0.143,
+     "extra": 1,
+     "speech": [
+      0.0,
+      1.82
+     ],
+     "rate": 18.7,
+     "mots": [
+      [
+       "Ne",
+       0.0,
+       0.46,
+       0.54
+      ],
+      [
+       "trader",
+       0.46,
+       0.74,
+       0.05
+      ],
+      [
+       "plus",
+       0.74,
+       1.1,
+       0.98
+      ],
+      [
+       "jamais",
+       1.1,
+       1.34,
+       0.99
+      ],
+      [
+       "à",
+       1.34,
+       1.52,
+       1.0
+      ],
+      [
+       "l",
+       1.52,
+       1.56,
+       1.0
+      ],
+      [
+       "'aveugle.",
+       1.56,
+       1.82,
+       1.0
+      ]
+     ],
+     "clarte": 0.05,
+     "ok": false
+    },
+    {
+     "prise": 8,
+     "file": "fr-72-00-p8.wav",
+     "seconds": 1.52,
+     "compute": 20,
+     "heard": "Ne traidez plus jamais à l'aveugle.",
+     "wer": 0.143,
+     "extra": 1,
+     "speech": [
+      0.0,
+      1.5
+     ],
+     "rate": 22.7,
+     "mots": [
+      [
+       "Ne",
+       0.0,
+       0.4,
+       0.55
+      ],
+      [
+       "traidez",
+       0.4,
+       0.68,
+       0.57
+      ],
+      [
+       "plus",
+       0.68,
+       0.92,
+       0.99
+      ],
+      [
+       "jamais",
+       0.92,
+       1.08,
+       0.99
+      ],
+      [
+       "à",
+       1.08,
+       1.22,
+       1.0
+      ],
+      [
+       "l",
+       1.22,
+       1.28,
+       0.99
+      ],
+      [
+       "'aveugle.",
+       1.28,
+       1.5,
+       1.0
+      ]
+     ],
+     "clarte": 0.55,
+     "ok": false
+    },
+    {
+     "prise": 9,
+     "file": "fr-72-00-p9.wav",
+     "seconds": 1.52,
+     "compute": 20,
+     "heard": "Ne traidez plus jamais à l'aveugle.",
+     "wer": 0.143,
+     "extra": 1,
+     "speech": [
+      0.0,
+      1.5
+     ],
+     "rate": 22.7,
+     "mots": [
+      [
+       "Ne",
+       0.0,
+       0.26,
+       0.63
+      ],
+      [
+       "traidez",
+       0.26,
+       0.52,
+       0.56
+      ],
+      [
+       "plus",
+       0.52,
+       0.76,
+       0.99
+      ],
+      [
+       "jamais",
+       0.76,
+       1.0,
+       0.98
+      ],
+      [
+       "à",
+       1.0,
+       1.14,
+       1.0
+      ],
+      [
+       "l",
+       1.14,
+       1.2,
+       0.99
+      ],
+      [
+       "'aveugle.",
+       1.2,
+       1.5,
+       1.0
+      ]
+     ],
+     "clarte": 0.56,
+     "ok": false
+    },
+    {
+     "prise": 10,
+     "file": "fr-72-00-p10.wav",
+     "seconds": 1.52,
+     "compute": 20,
+     "heard": "Ne traidez plus jamais à l'aveugle.",
+     "wer": 0.143,
+     "extra": 1,
+     "speech": [
+      0.0,
+      1.5
+     ],
+     "rate": 22.7,
+     "mots": [
+      [
+       "Ne",
+       0.0,
+       0.3,
+       0.58
+      ],
+      [
+       "traidez",
+       0.3,
+       0.56,
+       0.58
+      ],
+      [
+       "plus",
+       0.56,
+       0.8,
+       0.98
+      ],
+      [
+       "jamais",
+       0.8,
+       1.0,
+       0.99
+      ],
+      [
+       "à",
+       1.0,
+       1.14,
+       1.0
+      ],
+      [
+       "l",
+       1.14,
+       1.2,
+       1.0
+      ],
+      [
+       "'aveugle.",
+       1.2,
+       1.5,
+       1.0
+      ]
+     ],
+     "clarte": 0.58,
+     "ok": false
+    }
+   ]
+  },
+  {
+   "id": "73-00",
+   "bloc": 73,
+   "ton": "posee",
+   "text": "MACROARSENAL est un outil d'information et d'éducation, pas un conseil en investissement personnalisé. Le trading comporte un risque de perte en capital.",
+   "tts": "Macro Arsenal est un outil d'information et d'éducation, pas un conseil en investissement personnalisé. Le trading comporte un risque de perte en capital.",
+   "gen": {},
+   "voix": "clara-fr",
+   "prises": [
+    {
+     "prise": 7,
+     "file": "fr-73-00-p7.wav",
+     "seconds": 8.24,
+     "compute": 88,
+     "heard": "Macro Arsenal est un outil d'information et d'éducation, pas un conseil en investissement personnalisé. Le trading comporte un risque de perte en capital.",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.64,
+      8.12
+     ],
+     "rate": 20.6,
+     "mots": [
+      [
+       "Macro",
+       0.64,
+       1.12,
+       0.81
+      ],
+      [
+       "Arsenal",
+       1.12,
+       1.44,
+       0.37
+      ],
+      [
+       "est",
+       1.44,
+       1.64,
+       1.0
+      ],
+      [
+       "un",
+       1.64,
+       1.76,
+       1.0
+      ],
+      [
+       "outil",
+       1.76,
+       2.02,
+       1.0
+      ],
+      [
+       "d",
+       2.02,
+       2.1,
+       1.0
+      ],
+      [
+       "'information",
+       2.1,
+       2.52,
+       1.0
+      ],
+      [
+       "et",
+       2.52,
+       2.66,
+       1.0
+      ],
+      [
+       "d",
+       2.66,
+       2.72,
+       1.0
+      ],
+      [
+       "'éducation,",
+       2.72,
+       3.28,
+       1.0
+      ],
+      [
+       "pas",
+       3.66,
+       3.7,
+       0.99
+      ],
+      [
+       "un",
+       3.7,
+       3.92,
+       1.0
+      ],
+      [
+       "conseil",
+       3.92,
+       4.18,
+       1.0
+      ],
+      [
+       "en",
+       4.18,
+       4.36,
+       0.99
+      ],
+      [
+       "investissement",
+       4.36,
+       4.82,
+       0.93
+      ],
+      [
+       "personnalisé.",
+       4.82,
+       5.52,
+       0.99
+      ],
+      [
+       "Le",
+       6.02,
+       6.14,
+       0.99
+      ],
+      [
+       "trading",
+       6.14,
+       6.42,
+       0.92
+      ],
+      [
+       "comporte",
+       6.42,
+       6.86,
+       0.99
+      ],
+      [
+       "un",
+       6.86,
+       7.0,
+       1.0
+      ],
+      [
+       "risque",
+       7.0,
+       7.2,
+       1.0
+      ],
+      [
+       "de",
+       7.2,
+       7.46,
+       1.0
+      ],
+      [
+       "perte",
+       7.46,
+       7.62,
+       0.98
+      ],
+      [
+       "en",
+       7.62,
+       7.82,
+       1.0
+      ],
+      [
+       "capital.",
+       7.82,
+       8.12,
+       0.99
+      ]
+     ],
+     "clarte": 0.37,
+     "ok": true
+    },
+    {
+     "prise": 8,
+     "file": "fr-73-00-p8.wav",
+     "seconds": 8.08,
+     "compute": 86,
+     "heard": "MACROARSENAL est un outil d'information et d'éducation, pas un conseil en investissement personnalisé. Le trading comporte un risque de perte en capital.",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.88,
+      7.76
+     ],
+     "rate": 22.4,
+     "mots": [
+      [
+       "MACROARSENAL",
+       0.88,
+       1.32,
+       0.57
+      ],
+      [
+       "est",
+       1.32,
+       1.48,
+       0.97
+      ],
+      [
+       "un",
+       1.48,
+       1.6,
+       1.0
+      ],
+      [
+       "outil",
+       1.6,
+       1.82,
+       1.0
+      ],
+      [
+       "d",
+       1.82,
+       1.92,
+       1.0
+      ],
+      [
+       "'information",
+       1.92,
+       2.34,
+       1.0
+      ],
+      [
+       "et",
+       2.34,
+       2.48,
+       1.0
+      ],
+      [
+       "d",
+       2.48,
+       2.52,
+       1.0
+      ],
+      [
+       "'éducation,",
+       2.52,
+       3.16,
+       1.0
+      ],
+      [
+       "pas",
+       3.5,
+       3.56,
+       0.95
+      ],
+      [
+       "un",
+       3.56,
+       3.74,
+       1.0
+      ],
+      [
+       "conseil",
+       3.74,
+       4.02,
+       0.99
+      ],
+      [
+       "en",
+       4.02,
+       4.18,
+       0.99
+      ],
+      [
+       "investissement",
+       4.18,
+       4.62,
+       0.95
+      ],
+      [
+       "personnalisé.",
+       4.62,
+       5.32,
+       0.99
+      ],
+      [
+       "Le",
+       5.72,
+       5.88,
+       0.98
+      ],
+      [
+       "trading",
+       5.88,
+       6.16,
+       0.92
+      ],
+      [
+       "comporte",
+       6.16,
+       6.56,
+       0.99
+      ],
+      [
+       "un",
+       6.56,
+       6.7,
+       1.0
+      ],
+      [
+       "risque",
+       6.7,
+       6.88,
+       1.0
+      ],
+      [
+       "de",
+       6.88,
+       7.14,
+       1.0
+      ],
+      [
+       "perte",
+       7.14,
+       7.3,
+       0.98
+      ],
+      [
+       "en",
+       7.3,
+       7.48,
+       1.0
+      ],
+      [
+       "capital.",
+       7.48,
+       7.76,
+       0.99
+      ]
+     ],
+     "clarte": 0.57,
+     "ok": true
+    },
+    {
+     "prise": 9,
+     "file": "fr-73-00-p9.wav",
+     "seconds": 8.16,
+     "compute": 88,
+     "heard": "MACROARSENAL est un outil d'information et d'éducation, pas un conseil en investissement personnalisé. Le trading comporte un risque de perte en capital.",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.82,
+      8.04
+     ],
+     "rate": 21.3,
+     "mots": [
+      [
+       "MACROARSENAL",
+       0.82,
+       1.22,
+       0.6
+      ],
+      [
+       "est",
+       1.22,
+       1.44,
+       0.97
+      ],
+      [
+       "un",
+       1.44,
+       1.58,
+       1.0
+      ],
+      [
+       "outil",
+       1.58,
+       1.78,
+       1.0
+      ],
+      [
+       "d",
+       1.78,
+       1.94,
+       1.0
+      ],
+      [
+       "'information",
+       1.94,
+       2.38,
+       1.0
+      ],
+      [
+       "et",
+       2.38,
+       2.54,
+       1.0
+      ],
+      [
+       "d",
+       2.54,
+       2.6,
+       1.0
+      ],
+      [
+       "'éducation,",
+       2.6,
+       3.2,
+       1.0
+      ],
+      [
+       "pas",
+       3.46,
+       3.52,
+       0.99
+      ],
+      [
+       "un",
+       3.52,
+       3.68,
+       1.0
+      ],
+      [
+       "conseil",
+       3.68,
+       3.94,
+       1.0
+      ],
+      [
+       "en",
+       3.94,
+       4.08,
+       0.99
+      ],
+      [
+       "investissement",
+       4.08,
+       4.54,
+       0.95
+      ],
+      [
+       "personnalisé.",
+       4.54,
+       5.34,
+       0.98
+      ],
+      [
+       "Le",
+       6.14,
+       6.26,
+       0.99
+      ],
+      [
+       "trading",
+       6.26,
+       6.52,
+       0.89
+      ],
+      [
+       "comporte",
+       6.52,
+       6.9,
+       0.98
+      ],
+      [
+       "un",
+       6.9,
+       7.02,
+       1.0
+      ],
+      [
+       "risque",
+       7.02,
+       7.24,
+       1.0
+      ],
+      [
+       "de",
+       7.24,
+       7.44,
+       1.0
+      ],
+      [
+       "perte",
+       7.44,
+       7.6,
+       0.98
+      ],
+      [
+       "en",
+       7.6,
+       7.78,
+       1.0
+      ],
+      [
+       "capital.",
+       7.78,
+       8.04,
+       0.99
+      ]
+     ],
+     "clarte": 0.6,
+     "ok": true
+    },
+    {
+     "prise": 10,
+     "file": "fr-73-00-p10.wav",
+     "seconds": 8.32,
+     "compute": 90,
+     "heard": "MACROARSENAL est un outil d'information et d'éducation, pas un conseil en investissement personnalisé. Le trading comporte un risque de perte en capital.",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.82,
+      8.18
+     ],
+     "rate": 20.9,
+     "mots": [
+      [
+       "MACROARSENAL",
+       0.82,
+       1.3,
+       0.6
+      ],
+      [
+       "est",
+       1.3,
+       1.48,
+       0.97
+      ],
+      [
+       "un",
+       1.48,
+       1.64,
+       1.0
+      ],
+      [
+       "outil",
+       1.64,
+       1.86,
+       1.0
+      ],
+      [
+       "d",
+       1.86,
+       1.94,
+       1.0
+      ],
+      [
+       "'information",
+       1.94,
+       2.36,
+       1.0
+      ],
+      [
+       "et",
+       2.36,
+       2.52,
+       1.0
+      ],
+      [
+       "d",
+       2.52,
+       2.56,
+       1.0
+      ],
+      [
+       "'éducation,",
+       2.56,
+       3.18,
+       1.0
+      ],
+      [
+       "pas",
+       3.5,
+       3.56,
+       0.99
+      ],
+      [
+       "un",
+       3.56,
+       3.72,
+       1.0
+      ],
+      [
+       "conseil",
+       3.72,
+       3.98,
+       0.99
+      ],
+      [
+       "en",
+       3.98,
+       4.16,
+       0.99
+      ],
+      [
+       "investissement",
+       4.16,
+       4.62,
+       0.97
+      ],
+      [
+       "personnalisé.",
+       4.62,
+       5.32,
+       0.98
+      ],
+      [
+       "Le",
+       5.84,
+       6.02,
+       0.99
+      ],
+      [
+       "trading",
+       6.02,
+       6.32,
+       0.89
+      ],
+      [
+       "comporte",
+       6.32,
+       6.74,
+       0.99
+      ],
+      [
+       "un",
+       6.74,
+       6.94,
+       1.0
+      ],
+      [
+       "risque",
+       6.94,
+       7.18,
+       1.0
+      ],
+      [
+       "de",
+       7.18,
+       7.46,
+       1.0
+      ],
+      [
+       "perte",
+       7.46,
+       7.7,
+       0.97
+      ],
+      [
+       "en",
+       7.7,
+       7.9,
+       1.0
+      ],
+      [
+       "capital.",
+       7.9,
+       8.18,
+       0.99
+      ]
+     ],
+     "clarte": 0.6,
+     "ok": true
+    }
+   ]
+  },
+  {
+   "id": "74-00",
+   "bloc": 74,
+   "ton": "chaleureux",
+   "text": "Le marché sera encore là demain. Votre capital aussi, si vous le protégez. À très vite !",
+   "tts": "Le marché sera encore là demain. Votre capital aussi, si vous le protégez. À très vite !",
+   "gen": {},
+   "voix": "victor-fr",
+   "prises": [
+    {
+     "prise": 7,
+     "file": "fr-74-00-p7.wav",
+     "seconds": 4.48,
+     "compute": 50,
+     "heard": "Le marché sera encore là demain. Votre capital aussi, si vous le protégez. À très vite.",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      4.34
+     ],
+     "rate": 20.3,
+     "mots": [
+      [
+       "Le",
+       0.0,
+       0.32,
+       0.66
+      ],
+      [
+       "marché",
+       0.32,
+       0.58,
+       1.0
+      ],
+      [
+       "sera",
+       0.58,
+       0.76,
+       0.98
+      ],
+      [
+       "encore",
+       0.76,
+       1.06,
+       1.0
+      ],
+      [
+       "là",
+       1.06,
+       1.24,
+       0.99
+      ],
+      [
+       "demain.",
+       1.24,
+       1.64,
+       0.97
+      ],
+      [
+       "Votre",
+       1.92,
+       2.14,
+       1.0
+      ],
+      [
+       "capital",
+       2.14,
+       2.42,
+       0.99
+      ],
+      [
+       "aussi,",
+       2.42,
+       2.76,
+       0.99
+      ],
+      [
+       "si",
+       2.96,
+       3.02,
+       1.0
+      ],
+      [
+       "vous",
+       3.02,
+       3.14,
+       1.0
+      ],
+      [
+       "le",
+       3.14,
+       3.32,
+       1.0
+      ],
+      [
+       "protégez.",
+       3.32,
+       3.8,
+       0.99
+      ],
+      [
+       "À",
+       3.88,
+       4.04,
+       0.82
+      ],
+      [
+       "très",
+       4.04,
+       4.22,
+       1.0
+      ],
+      [
+       "vite.",
+       4.22,
+       4.34,
+       1.0
+      ]
+     ],
+     "clarte": 0.66,
+     "ok": true
+    },
+    {
+     "prise": 8,
+     "file": "fr-74-00-p8.wav",
+     "seconds": 4.8,
+     "compute": 56,
+     "heard": "Le marché sera encore là demain. Votre capital aussi, si vous le protégez. À très vite !",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      4.78
+     ],
+     "rate": 18.4,
+     "mots": [
+      [
+       "Le",
+       0.0,
+       0.3,
+       0.82
+      ],
+      [
+       "marché",
+       0.3,
+       0.56,
+       1.0
+      ],
+      [
+       "sera",
+       0.56,
+       0.76,
+       0.99
+      ],
+      [
+       "encore",
+       0.76,
+       1.04,
+       1.0
+      ],
+      [
+       "là",
+       1.04,
+       1.24,
+       0.98
+      ],
+      [
+       "demain.",
+       1.24,
+       1.64,
+       0.98
+      ],
+      [
+       "Votre",
+       1.92,
+       2.16,
+       1.0
+      ],
+      [
+       "capital",
+       2.16,
+       2.46,
+       0.99
+      ],
+      [
+       "aussi,",
+       2.46,
+       2.8,
+       0.98
+      ],
+      [
+       "si",
+       3.0,
+       3.08,
+       1.0
+      ],
+      [
+       "vous",
+       3.08,
+       3.2,
+       1.0
+      ],
+      [
+       "le",
+       3.2,
+       3.38,
+       1.0
+      ],
+      [
+       "protégez.",
+       3.38,
+       4.1,
+       0.99
+      ],
+      [
+       "À",
+       4.28,
+       4.44,
+       0.77
+      ],
+      [
+       "très",
+       4.44,
+       4.6,
+       1.0
+      ],
+      [
+       "vite",
+       4.6,
+       4.72,
+       1.0
+      ],
+      [
+       "!",
+       4.72,
+       4.78,
+       0.65
+      ]
+     ],
+     "clarte": 0.65,
+     "ok": true
+    },
+    {
+     "prise": 9,
+     "file": "fr-74-00-p9.wav",
+     "seconds": 4.32,
+     "compute": 50,
+     "heard": "Le marché sera encore là demain. Votre capital aussi, si vous le protégez. À très vite !",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      4.3
+     ],
+     "rate": 20.5,
+     "mots": [
+      [
+       "Le",
+       0.0,
+       0.28,
+       0.92
+      ],
+      [
+       "marché",
+       0.28,
+       0.56,
+       1.0
+      ],
+      [
+       "sera",
+       0.56,
+       0.76,
+       0.99
+      ],
+      [
+       "encore",
+       0.76,
+       1.04,
+       1.0
+      ],
+      [
+       "là",
+       1.04,
+       1.2,
+       0.99
+      ],
+      [
+       "demain.",
+       1.2,
+       1.46,
+       0.99
+      ],
+      [
+       "Votre",
+       1.8,
+       2.04,
+       1.0
+      ],
+      [
+       "capital",
+       2.04,
+       2.32,
+       0.99
+      ],
+      [
+       "aussi,",
+       2.32,
+       2.64,
+       0.99
+      ],
+      [
+       "si",
+       2.84,
+       2.88,
+       1.0
+      ],
+      [
+       "vous",
+       2.88,
+       3.0,
+       1.0
+      ],
+      [
+       "le",
+       3.0,
+       3.2,
+       1.0
+      ],
+      [
+       "protégez.",
+       3.2,
+       3.7,
+       0.99
+      ],
+      [
+       "À",
+       3.84,
+       3.96,
+       0.79
+      ],
+      [
+       "très",
+       3.96,
+       4.1,
+       1.0
+      ],
+      [
+       "vite",
+       4.1,
+       4.22,
+       1.0
+      ],
+      [
+       "!",
+       4.22,
+       4.3,
+       0.63
+      ]
+     ],
+     "clarte": 0.63,
+     "ok": true
+    },
+    {
+     "prise": 10,
+     "file": "fr-74-00-p10.wav",
+     "seconds": 4.56,
+     "compute": 51,
+     "heard": "Le marché sera encore là demain. Votre capital aussi, si vous le protégez. À très vite.",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      4.5
+     ],
+     "rate": 19.6,
+     "mots": [
+      [
+       "Le",
+       0.0,
+       0.38,
+       0.88
+      ],
+      [
+       "marché",
+       0.38,
+       0.62,
+       1.0
+      ],
+      [
+       "sera",
+       0.62,
+       0.82,
+       1.0
+      ],
+      [
+       "encore",
+       0.82,
+       1.12,
+       1.0
+      ],
+      [
+       "là",
+       1.12,
+       1.3,
+       0.98
+      ],
+      [
+       "demain.",
+       1.3,
+       1.68,
+       0.98
+      ],
+      [
+       "Votre",
+       2.08,
+       2.34,
+       1.0
+      ],
+      [
+       "capital",
+       2.34,
+       2.64,
+       0.99
+      ],
+      [
+       "aussi,",
+       2.64,
+       2.96,
+       0.99
+      ],
+      [
+       "si",
+       3.12,
+       3.18,
+       1.0
+      ],
+      [
+       "vous",
+       3.18,
+       3.3,
+       1.0
+      ],
+      [
+       "le",
+       3.3,
+       3.5,
+       1.0
+      ],
+      [
+       "protégez.",
+       3.5,
+       3.96,
+       0.99
+      ],
+      [
+       "À",
+       4.08,
+       4.2,
+       0.69
+      ],
+      [
+       "très",
+       4.2,
+       4.36,
+       1.0
+      ],
+      [
+       "vite.",
+       4.36,
+       4.5,
+       1.0
+      ]
+     ],
+     "clarte": 0.69,
+     "ok": true
+    }
+   ]
+  }
+ ]
+}

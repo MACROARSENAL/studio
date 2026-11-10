@@ -1,0 +1,1324 @@
+{
+ "langue": "fr",
+ "part": 13,
+ "voix": "victor-fr",
+ "phrases": [
+  {
+   "id": "44-01",
+   "bloc": 44,
+   "ton": "net",
+   "text": "Avec Fondateur et Arsenal, Doji voit vert, orange… ou rouge. Mais c'est vous qui décidez.",
+   "tts": "Avec Fondateur et Arsenal, Doji voit vert, orange… ou rouge. Mais c'est vous qui décidez.",
+   "gen": {},
+   "voix": "victor-fr",
+   "prises": [
+    {
+     "prise": 7,
+     "file": "fr-44-01-p7.wav",
+     "seconds": 6.32,
+     "compute": 70,
+     "heard": "Avec fondateurs et arsenal, Doji voit vert, orange ou rouge, mais c'est vous qui décidez.",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      6.18
+     ],
+     "rate": 14.4,
+     "mots": [
+      [
+       "Avec",
+       0.0,
+       0.44,
+       0.1
+      ],
+      [
+       "fondateurs",
+       0.44,
+       1.04,
+       0.62
+      ],
+      [
+       "et",
+       1.04,
+       1.32,
+       0.99
+      ],
+      [
+       "arsenal,",
+       1.32,
+       1.78,
+       0.68
+      ],
+      [
+       "Doji",
+       2.26,
+       2.52,
+       0.43
+      ],
+      [
+       "voit",
+       2.52,
+       2.74,
+       0.8
+      ],
+      [
+       "vert,",
+       2.74,
+       3.14,
+       0.98
+      ],
+      [
+       "orange",
+       3.6,
+       4.0,
+       0.98
+      ],
+      [
+       "ou",
+       4.0,
+       4.44,
+       0.92
+      ],
+      [
+       "rouge,",
+       4.44,
+       4.78,
+       1.0
+      ],
+      [
+       "mais",
+       5.2,
+       5.36,
+       0.97
+      ],
+      [
+       "c",
+       5.36,
+       5.48,
+       0.99
+      ],
+      [
+       "'est",
+       5.48,
+       5.58,
+       1.0
+      ],
+      [
+       "vous",
+       5.58,
+       5.66,
+       0.99
+      ],
+      [
+       "qui",
+       5.66,
+       5.9,
+       1.0
+      ],
+      [
+       "décidez.",
+       5.9,
+       6.18,
+       0.99
+      ]
+     ],
+     "clarte": 0.1,
+     "ok": true
+    },
+    {
+     "prise": 8,
+     "file": "fr-44-01-p8.wav",
+     "seconds": 5.76,
+     "compute": 64,
+     "heard": "Avec fondateurs et arsenal, Doji voit vert, orange ou rouge, mais c'est vous qui décidez.",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      5.64
+     ],
+     "rate": 15.8,
+     "mots": [
+      [
+       "Avec",
+       0.0,
+       0.34,
+       0.94
+      ],
+      [
+       "fondateurs",
+       0.34,
+       0.84,
+       0.6
+      ],
+      [
+       "et",
+       0.84,
+       1.06,
+       1.0
+      ],
+      [
+       "arsenal,",
+       1.06,
+       1.64,
+       0.72
+      ],
+      [
+       "Doji",
+       2.12,
+       2.36,
+       0.56
+      ],
+      [
+       "voit",
+       2.36,
+       2.58,
+       0.93
+      ],
+      [
+       "vert,",
+       2.58,
+       3.0,
+       0.98
+      ],
+      [
+       "orange",
+       3.24,
+       3.56,
+       0.99
+      ],
+      [
+       "ou",
+       3.56,
+       3.96,
+       0.91
+      ],
+      [
+       "rouge,",
+       3.96,
+       4.26,
+       1.0
+      ],
+      [
+       "mais",
+       4.76,
+       4.9,
+       0.98
+      ],
+      [
+       "c",
+       4.9,
+       5.0,
+       0.99
+      ],
+      [
+       "'est",
+       5.0,
+       5.08,
+       1.0
+      ],
+      [
+       "vous",
+       5.08,
+       5.18,
+       1.0
+      ],
+      [
+       "qui",
+       5.18,
+       5.38,
+       0.99
+      ],
+      [
+       "décidez.",
+       5.38,
+       5.64,
+       0.99
+      ]
+     ],
+     "clarte": 0.56,
+     "ok": true
+    },
+    {
+     "prise": 9,
+     "file": "fr-44-01-p9.wav",
+     "seconds": 6.56,
+     "compute": 72,
+     "heard": "Avec fondateurs et arsenal, Doji voit vert, orange ou rouge, mais c'est vous qui décidez.",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      6.5
+     ],
+     "rate": 13.7,
+     "mots": [
+      [
+       "Avec",
+       0.0,
+       0.36,
+       0.3
+      ],
+      [
+       "fondateurs",
+       0.36,
+       0.86,
+       0.79
+      ],
+      [
+       "et",
+       0.86,
+       1.08,
+       1.0
+      ],
+      [
+       "arsenal,",
+       1.08,
+       1.58,
+       0.73
+      ],
+      [
+       "Doji",
+       2.12,
+       2.36,
+       0.54
+      ],
+      [
+       "voit",
+       2.36,
+       2.54,
+       0.66
+      ],
+      [
+       "vert,",
+       2.54,
+       2.98,
+       0.99
+      ],
+      [
+       "orange",
+       3.5,
+       3.88,
+       0.98
+      ],
+      [
+       "ou",
+       3.88,
+       4.44,
+       0.91
+      ],
+      [
+       "rouge,",
+       4.44,
+       4.84,
+       1.0
+      ],
+      [
+       "mais",
+       5.42,
+       5.58,
+       0.97
+      ],
+      [
+       "c",
+       5.58,
+       5.76,
+       0.99
+      ],
+      [
+       "'est",
+       5.76,
+       5.86,
+       1.0
+      ],
+      [
+       "vous",
+       5.86,
+       5.96,
+       0.99
+      ],
+      [
+       "qui",
+       5.96,
+       6.22,
+       0.99
+      ],
+      [
+       "décidez.",
+       6.22,
+       6.5,
+       0.99
+      ]
+     ],
+     "clarte": 0.3,
+     "ok": true
+    },
+    {
+     "prise": 10,
+     "file": "fr-44-01-p10.wav",
+     "seconds": 5.84,
+     "compute": 66,
+     "heard": "Avec fondateurs et arsenal, Doji voit vert, orange ou rouge. Mais c'est vous qui décidez.",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      5.72
+     ],
+     "rate": 15.6,
+     "mots": [
+      [
+       "Avec",
+       0.0,
+       0.36,
+       0.45
+      ],
+      [
+       "fondateurs",
+       0.36,
+       0.82,
+       0.7
+      ],
+      [
+       "et",
+       0.82,
+       1.04,
+       1.0
+      ],
+      [
+       "arsenal,",
+       1.04,
+       1.52,
+       0.67
+      ],
+      [
+       "Doji",
+       2.02,
+       2.28,
+       0.73
+      ],
+      [
+       "voit",
+       2.28,
+       2.48,
+       0.89
+      ],
+      [
+       "vert,",
+       2.48,
+       2.88,
+       0.99
+      ],
+      [
+       "orange",
+       3.26,
+       3.64,
+       0.99
+      ],
+      [
+       "ou",
+       3.64,
+       4.1,
+       0.94
+      ],
+      [
+       "rouge.",
+       4.1,
+       4.44,
+       1.0
+      ],
+      [
+       "Mais",
+       4.8,
+       4.92,
+       0.98
+      ],
+      [
+       "c",
+       4.92,
+       5.06,
+       0.99
+      ],
+      [
+       "'est",
+       5.06,
+       5.12,
+       1.0
+      ],
+      [
+       "vous",
+       5.12,
+       5.22,
+       1.0
+      ],
+      [
+       "qui",
+       5.22,
+       5.42,
+       1.0
+      ],
+      [
+       "décidez.",
+       5.42,
+       5.72,
+       0.99
+      ]
+     ],
+     "clarte": 0.45,
+     "ok": true
+    }
+   ]
+  },
+  {
+   "id": "45-00",
+   "bloc": 45,
+   "ton": "posee",
+   "text": "Tu insistes beaucoup sur ce moment-là. C'est ça, ton « presque jamais » ?",
+   "tts": "Tu insistes beaucoup sur ce moment-là. C'est ça, ton « presque jamais » ?",
+   "gen": {},
+   "voix": "clara-fr",
+   "prises": [
+    {
+     "prise": 7,
+     "file": "fr-45-00-p7.wav",
+     "seconds": 3.36,
+     "compute": 40,
+     "heard": "Tu insistes beaucoup sur ce moment-là, c'est ça ton presque jamais ?",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      3.34
+     ],
+     "rate": 21.9,
+     "mots": [
+      [
+       "Tu",
+       0.0,
+       0.3,
+       0.83
+      ],
+      [
+       "insistes",
+       0.3,
+       0.68,
+       0.9
+      ],
+      [
+       "beaucoup",
+       0.68,
+       0.9,
+       1.0
+      ],
+      [
+       "sur",
+       0.9,
+       1.1,
+       0.99
+      ],
+      [
+       "ce",
+       1.1,
+       1.2,
+       0.99
+      ],
+      [
+       "moment",
+       1.2,
+       1.42,
+       1.0
+      ],
+      [
+       "-là,",
+       1.42,
+       1.7,
+       0.81
+      ],
+      [
+       "c",
+       1.94,
+       1.96,
+       0.98
+      ],
+      [
+       "'est",
+       1.96,
+       2.08,
+       1.0
+      ],
+      [
+       "ça",
+       2.08,
+       2.18,
+       0.98
+      ],
+      [
+       "ton",
+       2.18,
+       2.44,
+       0.94
+      ],
+      [
+       "presque",
+       2.44,
+       2.96,
+       0.35
+      ],
+      [
+       "jamais",
+       2.96,
+       3.22,
+       0.95
+      ],
+      [
+       "?",
+       3.22,
+       3.34,
+       0.71
+      ]
+     ],
+     "clarte": 0.35,
+     "ok": true
+    },
+    {
+     "prise": 8,
+     "file": "fr-45-00-p8.wav",
+     "seconds": 4.24,
+     "compute": 49,
+     "heard": "Tu insistes beaucoup sur ce moment-là, c'est ça ton « presque jamais » ?",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      4.22
+     ],
+     "rate": 17.3,
+     "mots": [
+      [
+       "Tu",
+       0.0,
+       0.52,
+       0.87
+      ],
+      [
+       "insistes",
+       0.52,
+       1.1,
+       0.89
+      ],
+      [
+       "beaucoup",
+       1.1,
+       1.42,
+       1.0
+      ],
+      [
+       "sur",
+       1.42,
+       1.66,
+       1.0
+      ],
+      [
+       "ce",
+       1.66,
+       1.78,
+       1.0
+      ],
+      [
+       "moment",
+       1.78,
+       2.02,
+       1.0
+      ],
+      [
+       "-là,",
+       2.02,
+       2.4,
+       0.91
+      ],
+      [
+       "c",
+       2.74,
+       2.82,
+       0.97
+      ],
+      [
+       "'est",
+       2.82,
+       2.96,
+       1.0
+      ],
+      [
+       "ça",
+       2.96,
+       3.06,
+       0.97
+      ],
+      [
+       "ton",
+       3.06,
+       3.28,
+       0.97
+      ],
+      [
+       "«",
+       3.28,
+       3.52,
+       0.3
+      ],
+      [
+       "presque",
+       3.52,
+       3.8,
+       0.99
+      ],
+      [
+       "jamais",
+       3.8,
+       4.06,
+       0.99
+      ],
+      [
+       "»",
+       4.06,
+       4.22,
+       0.84
+      ],
+      [
+       "?",
+       4.22,
+       4.22,
+       0.7
+      ]
+     ],
+     "clarte": 0.3,
+     "ok": true
+    },
+    {
+     "prise": 9,
+     "file": "fr-45-00-p9.wav",
+     "seconds": 3.84,
+     "compute": 45,
+     "heard": "Tu insistes beaucoup sur ce moment-là, c'est ça, ton presque jamais ?",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      3.82
+     ],
+     "rate": 19.1,
+     "mots": [
+      [
+       "Tu",
+       0.0,
+       0.44,
+       0.84
+      ],
+      [
+       "insistes",
+       0.44,
+       0.86,
+       0.9
+      ],
+      [
+       "beaucoup",
+       0.86,
+       1.16,
+       1.0
+      ],
+      [
+       "sur",
+       1.16,
+       1.38,
+       0.99
+      ],
+      [
+       "ce",
+       1.38,
+       1.5,
+       0.99
+      ],
+      [
+       "moment",
+       1.5,
+       1.72,
+       1.0
+      ],
+      [
+       "-là,",
+       1.72,
+       2.08,
+       0.89
+      ],
+      [
+       "c",
+       2.38,
+       2.4,
+       0.92
+      ],
+      [
+       "'est",
+       2.4,
+       2.54,
+       1.0
+      ],
+      [
+       "ça,",
+       2.54,
+       2.82,
+       0.99
+      ],
+      [
+       "ton",
+       2.94,
+       3.06,
+       0.99
+      ],
+      [
+       "presque",
+       3.06,
+       3.52,
+       0.69
+      ],
+      [
+       "jamais",
+       3.52,
+       3.76,
+       0.95
+      ],
+      [
+       "?",
+       3.76,
+       3.82,
+       0.76
+      ]
+     ],
+     "clarte": 0.69,
+     "ok": true
+    },
+    {
+     "prise": 10,
+     "file": "fr-45-00-p10.wav",
+     "seconds": 4.24,
+     "compute": 48,
+     "heard": "Tu insistes beaucoup sur ce moment-là, c'est ça ton presque jamais ?",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      4.2
+     ],
+     "rate": 17.4,
+     "mots": [
+      [
+       "Tu",
+       0.0,
+       0.7,
+       0.84
+      ],
+      [
+       "insistes",
+       0.7,
+       1.1,
+       0.9
+      ],
+      [
+       "beaucoup",
+       1.1,
+       1.36,
+       1.0
+      ],
+      [
+       "sur",
+       1.36,
+       1.56,
+       0.99
+      ],
+      [
+       "ce",
+       1.56,
+       1.68,
+       1.0
+      ],
+      [
+       "moment",
+       1.68,
+       1.92,
+       1.0
+      ],
+      [
+       "-là,",
+       1.92,
+       2.36,
+       0.83
+      ],
+      [
+       "c",
+       2.64,
+       2.68,
+       0.94
+      ],
+      [
+       "'est",
+       2.68,
+       2.84,
+       1.0
+      ],
+      [
+       "ça",
+       2.84,
+       3.04,
+       0.99
+      ],
+      [
+       "ton",
+       3.04,
+       3.26,
+       0.96
+      ],
+      [
+       "presque",
+       3.26,
+       3.74,
+       0.57
+      ],
+      [
+       "jamais",
+       3.74,
+       3.98,
+       0.97
+      ],
+      [
+       "?",
+       3.98,
+       4.2,
+       0.66
+      ]
+     ],
+     "clarte": 0.57,
+     "ok": true
+    }
+   ]
+  },
+  {
+   "id": "46-00",
+   "bloc": 46,
+   "ton": "pose",
+   "text": "C'est ça. Quinze janvier deux mille quinze. La Banque nationale suisse abandonne son cours plancher.",
+   "tts": "C'est ça. Quinze janvier deux mille quinze. La Banque nationale suisse abandonne son cours plancher.",
+   "gen": {},
+   "voix": "victor-fr",
+   "prises": [
+    {
+     "prise": 7,
+     "file": "fr-46-00-p7.wav",
+     "seconds": 4.64,
+     "compute": 51,
+     "heard": "C'est ça, 15 janvier 2015, la Banque nationale suisse abandonne son cours plancher.",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      4.56
+     ],
+     "rate": 21.9,
+     "mots": [
+      [
+       "C",
+       0.0,
+       0.16,
+       0.9
+      ],
+      [
+       "'est",
+       0.16,
+       0.34,
+       1.0
+      ],
+      [
+       "ça,",
+       0.34,
+       0.76,
+       0.99
+      ],
+      [
+       "15",
+       1.0,
+       1.12,
+       0.98
+      ],
+      [
+       "janvier",
+       1.12,
+       1.5,
+       0.99
+      ],
+      [
+       "2015,",
+       1.5,
+       2.04,
+       1.0
+      ],
+      [
+       "la",
+       2.56,
+       2.64,
+       0.96
+      ],
+      [
+       "Banque",
+       2.64,
+       2.94,
+       0.95
+      ],
+      [
+       "nationale",
+       2.94,
+       3.28,
+       0.9
+      ],
+      [
+       "suisse",
+       3.28,
+       3.6,
+       0.83
+      ],
+      [
+       "abandonne",
+       3.6,
+       3.94,
+       0.97
+      ],
+      [
+       "son",
+       3.94,
+       4.1,
+       1.0
+      ],
+      [
+       "cours",
+       4.1,
+       4.26,
+       0.51
+      ],
+      [
+       "plancher.",
+       4.26,
+       4.56,
+       0.94
+      ]
+     ],
+     "clarte": 0.51,
+     "ok": true
+    },
+    {
+     "prise": 8,
+     "file": "fr-46-00-p8.wav",
+     "seconds": 4.88,
+     "compute": 53,
+     "heard": "C'est ça, 15 janvier 2015, la Banque nationale suisse abandonne son cours plancher.",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      4.8
+     ],
+     "rate": 20.8,
+     "mots": [
+      [
+       "C",
+       0.0,
+       0.4,
+       0.93
+      ],
+      [
+       "'est",
+       0.4,
+       0.56,
+       1.0
+      ],
+      [
+       "ça,",
+       0.56,
+       0.8,
+       0.98
+      ],
+      [
+       "15",
+       1.04,
+       1.14,
+       0.98
+      ],
+      [
+       "janvier",
+       1.14,
+       1.52,
+       0.99
+      ],
+      [
+       "2015,",
+       1.52,
+       2.08,
+       1.0
+      ],
+      [
+       "la",
+       2.72,
+       2.8,
+       0.92
+      ],
+      [
+       "Banque",
+       2.8,
+       3.14,
+       0.93
+      ],
+      [
+       "nationale",
+       3.14,
+       3.48,
+       0.88
+      ],
+      [
+       "suisse",
+       3.48,
+       3.82,
+       0.8
+      ],
+      [
+       "abandonne",
+       3.82,
+       4.2,
+       0.96
+      ],
+      [
+       "son",
+       4.2,
+       4.36,
+       1.0
+      ],
+      [
+       "cours",
+       4.36,
+       4.5,
+       0.69
+      ],
+      [
+       "plancher.",
+       4.5,
+       4.8,
+       0.96
+      ]
+     ],
+     "clarte": 0.69,
+     "ok": true
+    },
+    {
+     "prise": 9,
+     "file": "fr-46-00-p9.wav",
+     "seconds": 5.36,
+     "compute": 58,
+     "heard": "C'est ça, 15 janvier 2015, la Banque nationale suisse abandonne son cours plancher.",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      5.34
+     ],
+     "rate": 18.7,
+     "mots": [
+      [
+       "C",
+       0.0,
+       0.16,
+       0.93
+      ],
+      [
+       "'est",
+       0.16,
+       0.3,
+       1.0
+      ],
+      [
+       "ça,",
+       0.3,
+       0.72,
+       0.99
+      ],
+      [
+       "15",
+       1.02,
+       1.1,
+       0.99
+      ],
+      [
+       "janvier",
+       1.1,
+       1.48,
+       0.99
+      ],
+      [
+       "2015,",
+       1.48,
+       2.08,
+       1.0
+      ],
+      [
+       "la",
+       2.84,
+       2.92,
+       0.94
+      ],
+      [
+       "Banque",
+       2.92,
+       3.24,
+       0.95
+      ],
+      [
+       "nationale",
+       3.24,
+       3.58,
+       0.9
+      ],
+      [
+       "suisse",
+       3.58,
+       4.12,
+       0.83
+      ],
+      [
+       "abandonne",
+       4.12,
+       4.58,
+       0.97
+      ],
+      [
+       "son",
+       4.58,
+       4.78,
+       1.0
+      ],
+      [
+       "cours",
+       4.78,
+       4.98,
+       0.82
+      ],
+      [
+       "plancher.",
+       4.98,
+       5.34,
+       0.9
+      ]
+     ],
+     "clarte": 0.82,
+     "ok": true
+    },
+    {
+     "prise": 10,
+     "file": "fr-46-00-p10.wav",
+     "seconds": 4.56,
+     "compute": 50,
+     "heard": "C'est ça. 15 janvier 2015, la Banque nationale suisse abandonne son cours plancher.",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      4.54
+     ],
+     "rate": 22.0,
+     "mots": [
+      [
+       "C",
+       0.0,
+       0.22,
+       0.84
+      ],
+      [
+       "'est",
+       0.22,
+       0.44,
+       1.0
+      ],
+      [
+       "ça.",
+       0.44,
+       0.78,
+       0.99
+      ],
+      [
+       "15",
+       0.98,
+       1.14,
+       0.97
+      ],
+      [
+       "janvier",
+       1.14,
+       1.48,
+       0.99
+      ],
+      [
+       "2015,",
+       1.48,
+       2.02,
+       1.0
+      ],
+      [
+       "la",
+       2.34,
+       2.46,
+       0.98
+      ],
+      [
+       "Banque",
+       2.46,
+       2.74,
+       0.95
+      ],
+      [
+       "nationale",
+       2.74,
+       3.06,
+       0.93
+      ],
+      [
+       "suisse",
+       3.06,
+       3.48,
+       0.85
+      ],
+      [
+       "abandonne",
+       3.48,
+       3.9,
+       0.96
+      ],
+      [
+       "son",
+       3.9,
+       4.08,
+       1.0
+      ],
+      [
+       "cours",
+       4.08,
+       4.24,
+       0.73
+      ],
+      [
+       "plancher.",
+       4.24,
+       4.54,
+       0.95
+      ]
+     ],
+     "clarte": 0.73,
+     "ok": true
+    }
+   ]
+  }
+ ]
+}
