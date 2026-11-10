@@ -16,6 +16,9 @@
    "crash-test": "crache test"
   }
  },
+ "prises_min": {
+  "clara-fr": 15
+ },
  "blocs": {
   "fr": [
    {
@@ -28,9 +31,13 @@
    },
    {
     "voix": "clara-fr",
-    "ton": "posee",
+    "ton": "posee-calme",
     "jeu": "tendue, à voix basse",
     "texte": "Et là… un chiffre tombe.",
+    "reglages": {
+     "temperature": 0.8,
+     "subtalker_temperature": 0.8
+    },
     "gap": 0.3
    },
    {
@@ -42,9 +49,13 @@
    },
    {
     "voix": "clara-fr",
-    "ton": "posee",
+    "ton": "posee-calme",
     "jeu": "sérieuse, touchée",
     "texte": "Ça, c'est trader à l'aveugle. Et chaque jour, des milliers de traders le vivent.",
+    "reglages": {
+     "temperature": 0.8,
+     "subtalker_temperature": 0.8
+    },
     "gap": 0.45
    },
    {
@@ -55,9 +66,13 @@
    },
    {
     "voix": "clara-fr",
-    "ton": "sceptique",
+    "ton": "sceptique-calme",
     "jeu": "taquine, un sourire",
     "texte": "Et je vous préviens, je vais pas lui faire de cadeau.",
+    "reglages": {
+     "temperature": 0.8,
+     "subtalker_temperature": 0.8
+    },
     "gap": 0.3
    },
    {
@@ -79,15 +94,23 @@
    },
    {
     "voix": "clara-fr",
-    "ton": "vive",
+    "ton": "vive-calme",
     "jeu": "enthousiaste",
-    "texte": "Et moi, c'est Clara ! Je pose les questions que vous vous posez. Même celles qui fâchent."
+    "texte": "Et moi, c'est Clara ! Je pose les questions que vous vous posez. Même celles qui fâchent.",
+    "reglages": {
+     "temperature": 0.8,
+     "subtalker_temperature": 0.8
+    }
    },
    {
     "voix": "clara-fr",
-    "ton": "posee",
+    "ton": "posee-calme",
     "jeu": "sincère, posée",
     "texte": "Et on va être honnêtes avec vous tout de suite : Victor et moi, on est des personnages de MACROARSENAL, avec des voix de synthèse. Par contre, tout ce qu'on va vous dire, vous pouvez le vérifier.",
+    "reglages": {
+     "temperature": 0.8,
+     "subtalker_temperature": 0.8
+    },
     "gap": 0.4
    },
    {
@@ -98,9 +121,13 @@
    },
    {
     "voix": "clara-fr",
-    "ton": "curieuse",
+    "ton": "curieuse-calme",
     "jeu": "curieuse",
     "texte": "Chapitre un : à l'aveugle. Victor, toi, t'as passé dix-huit ans dans une salle de marchés, à Londres. Qu'est-ce que vous aviez là-bas, que les gens ont pas chez eux ?",
+    "reglages": {
+     "temperature": 0.8,
+     "subtalker_temperature": 0.8
+    },
     "chap": "Chapitre 1 · À l'aveugle",
     "son": "transition"
    },
@@ -112,9 +139,13 @@
    },
    {
     "voix": "clara-fr",
-    "ton": "complice",
+    "ton": "complice-calme",
     "jeu": "taquine, elle relève",
     "texte": "Presque, hein ?",
+    "reglages": {
+     "temperature": 0.8,
+     "subtalker_temperature": 0.8
+    },
     "gap": -0.2,
     "enchaine": "reaction"
    },
@@ -127,9 +158,13 @@
    },
    {
     "voix": "clara-fr",
-    "ton": "sceptique",
+    "ton": "sceptique-calme",
     "jeu": "provocatrice",
-    "texte": "D'accord. Mais soyons francs : encore un outil de trading ? Y en a un nouveau tous les matins !"
+    "texte": "D'accord. Mais soyons francs : encore un outil de trading ? Y en a un nouveau tous les matins !",
+    "reglages": {
+     "temperature": 0.8,
+     "subtalker_temperature": 0.8
+    }
    },
    {
     "voix": "victor-fr",
@@ -139,9 +174,13 @@
    },
    {
     "voix": "clara-fr",
-    "ton": "curieuse",
+    "ton": "curieuse-calme",
     "jeu": "curieuse",
     "texte": "Et MACROARSENAL, en une phrase ?",
+    "reglages": {
+     "temperature": 0.8,
+     "subtalker_temperature": 0.8
+    },
     "gap": 0.2
    },
    {
@@ -152,9 +191,13 @@
    },
    {
     "voix": "clara-fr",
-    "ton": "complice",
+    "ton": "complice-calme",
     "jeu": "taquine, rieuse",
     "texte": "Joli. Tu l'as répétée devant le miroir, celle-là ?",
+    "reglages": {
+     "temperature": 0.8,
+     "subtalker_temperature": 0.8
+    },
     "gap": 0.3
    },
    {
@@ -174,9 +217,13 @@
    },
    {
     "voix": "clara-fr",
-    "ton": "sceptique",
+    "ton": "sceptique-calme",
     "jeu": "faussement blasée",
     "texte": "Pfff… Ça, c'est la base.",
+    "reglages": {
+     "temperature": 0.8,
+     "subtalker_temperature": 0.8
+    },
     "gap": -0.1,
     "enchaine": "reaction"
    },
@@ -189,9 +236,13 @@
    },
    {
     "voix": "clara-fr",
-    "ton": "curieuse",
+    "ton": "curieuse-calme",
     "jeu": "impressionnée",
     "texte": "Une poignée ? Sur des centaines ?",
+    "reglages": {
+     "temperature": 0.8,
+     "subtalker_temperature": 0.8
+    },
     "gap": -0.1,
     "enchaine": "reaction"
    },
@@ -203,9 +254,13 @@
    },
    {
     "voix": "clara-fr",
-    "ton": "complice",
+    "ton": "complice-calme",
     "jeu": "rieuse, elle le coupe",
     "texte": "Respire, Victor !",
+    "reglages": {
+     "temperature": 0.8,
+     "subtalker_temperature": 0.8
+    },
     "gap": -0.18,
     "enchaine": "coupe"
    },
@@ -218,9 +273,13 @@
    },
    {
     "voix": "clara-fr",
-    "ton": "sceptique",
+    "ton": "sceptique-calme",
     "jeu": "objection, piquante",
-    "texte": "Bon, là, tu me donnes le vertige. Trop d'infos tue l'info !"
+    "texte": "Bon, là, tu me donnes le vertige. Trop d'infos tue l'info !",
+    "reglages": {
+     "temperature": 0.8,
+     "subtalker_temperature": 0.8
+    }
    },
    {
     "voix": "victor-fr",
@@ -230,9 +289,13 @@
    },
    {
     "voix": "clara-fr",
-    "ton": "vive",
+    "ton": "vive-calme",
     "jeu": "vive",
     "texte": "Chapitre trois : une journée dans le terminal. Bon, c'est le matin. Vous ouvrez le terminal… Qu'est-ce qui vous attend ?",
+    "reglages": {
+     "temperature": 0.8,
+     "subtalker_temperature": 0.8
+    },
     "chap": "Chapitre 3 · Une journée dans le terminal",
     "son": "transition"
    },
@@ -244,9 +307,13 @@
    },
    {
     "voix": "clara-fr",
-    "ton": "curieuse",
+    "ton": "curieuse-calme",
     "jeu": "surprise",
     "texte": "Oh ! Sans avis ? Vous avez le droit ?",
+    "reglages": {
+     "temperature": 0.8,
+     "subtalker_temperature": 0.8
+    },
     "gap": -0.1,
     "enchaine": "reaction"
    },
@@ -258,9 +325,13 @@
    },
    {
     "voix": "clara-fr",
-    "ton": "sceptique",
+    "ton": "sceptique-calme",
     "jeu": "sérieuse, l'objection qui compte",
     "texte": "Attends. Votre Biais, c'est un signal déguisé ? Vous me dites quoi acheter ?",
+    "reglages": {
+     "temperature": 0.8,
+     "subtalker_temperature": 0.8
+    },
     "gap": -0.15,
     "enchaine": "coupe"
    },
@@ -280,9 +351,13 @@
    },
    {
     "voix": "clara-fr",
-    "ton": "curieuse",
+    "ton": "curieuse-calme",
     "jeu": "étonnée",
     "texte": "Aucune ?",
+    "reglages": {
+     "temperature": 0.8,
+     "subtalker_temperature": 0.8
+    },
     "gap": 0.08
    },
    {
@@ -293,9 +368,13 @@
    },
    {
     "voix": "clara-fr",
-    "ton": "curieuse",
+    "ton": "curieuse-calme",
     "jeu": "elle fait avancer l'histoire",
     "texte": "Et quand un chiffre important tombe ?",
+    "reglages": {
+     "temperature": 0.8,
+     "subtalker_temperature": 0.8
+    },
     "gap": 0.3
    },
    {
@@ -306,9 +385,13 @@
    },
    {
     "voix": "clara-fr",
-    "ton": "vive",
+    "ton": "vive-calme",
     "jeu": "impatiente, joueuse",
     "texte": "Bon ! J'ai une idée de trade. Je clique.",
+    "reglages": {
+     "temperature": 0.8,
+     "subtalker_temperature": 0.8
+    },
     "gap": 0.3
    },
    {
@@ -321,9 +404,13 @@
    },
    {
     "voix": "clara-fr",
-    "ton": "complice",
+    "ton": "complice-calme",
     "jeu": "faussement agacée, rieuse",
     "texte": "Oh là là, ça commence…",
+    "reglages": {
+     "temperature": 0.8,
+     "subtalker_temperature": 0.8
+    },
     "gap": -0.15,
     "enchaine": "reaction"
    },
@@ -335,9 +422,13 @@
    },
    {
     "voix": "clara-fr",
-    "ton": "posee",
+    "ton": "posee-calme",
     "jeu": "plus douce, elle a compris quelque chose",
     "texte": "Tu insistes beaucoup sur ce moment-là. C'est ça, ton « presque jamais » ?",
+    "reglages": {
+     "temperature": 0.8,
+     "subtalker_temperature": 0.8
+    },
     "gap": 0.7
    },
    {
@@ -357,9 +448,13 @@
    },
    {
     "voix": "clara-fr",
-    "ton": "posee",
+    "ton": "posee-calme",
     "jeu": "touchée, presque un souffle",
     "texte": "Tout ?",
+    "reglages": {
+     "temperature": 0.8,
+     "subtalker_temperature": 0.8
+    },
     "gap": 0.6
    },
    {
@@ -371,9 +466,13 @@
    },
    {
     "voix": "clara-fr",
-    "ton": "posee",
+    "ton": "posee-calme",
     "jeu": "émue",
     "texte": "Et c'est pour ça que t'es là.",
+    "reglages": {
+     "temperature": 0.8,
+     "subtalker_temperature": 0.8
+    },
     "gap": 0.8
    },
    {
@@ -386,9 +485,13 @@
    },
    {
     "voix": "clara-fr",
-    "ton": "sceptique",
+    "ton": "sceptique-calme",
     "jeu": "directe, grave",
     "texte": "Chapitre quatre : la question qui fâche. Et si vous vous trompez ?",
+    "reglages": {
+     "temperature": 0.8,
+     "subtalker_temperature": 0.8
+    },
     "chap": "Chapitre 4 · Tout montrer",
     "son": "transition"
    },
@@ -400,9 +503,13 @@
    },
    {
     "voix": "clara-fr",
-    "ton": "complice",
+    "ton": "complice-calme",
     "jeu": "surprise, amusée",
     "texte": "Ah ben… ça a le mérite d'être clair !",
+    "reglages": {
+     "temperature": 0.8,
+     "subtalker_temperature": 0.8
+    },
     "gap": -0.15,
     "enchaine": "reaction"
    },
@@ -414,9 +521,13 @@
    },
    {
     "voix": "clara-fr",
-    "ton": "sceptique",
+    "ton": "sceptique-calme",
     "jeu": "la question qui pique",
     "texte": "Sauf que… vous avez pas encore de résultats. Alors pourquoi on vous croirait ?",
+    "reglages": {
+     "temperature": 0.8,
+     "subtalker_temperature": 0.8
+    },
     "gap": 0.3
    },
    {
@@ -435,9 +546,13 @@
    },
    {
     "voix": "clara-fr",
-    "ton": "posee",
+    "ton": "posee-calme",
     "jeu": "sincère, frappée",
     "texte": "D'habitude, on vous montre les gains. Ici, on vous promet de vous montrer les pertes.",
+    "reglages": {
+     "temperature": 0.8,
+     "subtalker_temperature": 0.8
+    },
     "gap": 0.4
    },
    {
@@ -448,9 +563,13 @@
    },
    {
     "voix": "clara-fr",
-    "ton": "sceptique",
+    "ton": "sceptique-calme",
     "jeu": "elle joue la débutante",
     "texte": "Chapitre cinq : le rendez-vous. Et là, je joue la débutante : franchement, tout ça, c'est pour les pros. Moi, je débute !",
+    "reglages": {
+     "temperature": 0.8,
+     "subtalker_temperature": 0.8
+    },
     "chap": "Chapitre 5 · Le rendez-vous",
     "son": "transition"
    },
@@ -462,9 +581,13 @@
    },
    {
     "voix": "clara-fr",
-    "ton": "curieuse",
+    "ton": "curieuse-calme",
     "jeu": "curieuse",
     "texte": "Et ça coûte combien ?",
+    "reglages": {
+     "temperature": 0.8,
+     "subtalker_temperature": 0.8
+    },
     "gap": 0.2
    },
    {
@@ -475,9 +598,13 @@
    },
    {
     "voix": "clara-fr",
-    "ton": "vive",
+    "ton": "vive-calme",
     "jeu": "impatiente",
     "texte": "Et on peut entrer quand ?",
+    "reglages": {
+     "temperature": 0.8,
+     "subtalker_temperature": 0.8
+    },
     "gap": 0.25
    },
    {
@@ -489,9 +616,13 @@
    },
    {
     "voix": "clara-fr",
-    "ton": "posee",
+    "ton": "posee-calme",
     "jeu": "touchée, plus lente",
     "texte": "Victor… un dernier mot, pour quelqu'un qui hésite ?",
+    "reglages": {
+     "temperature": 0.8,
+     "subtalker_temperature": 0.8
+    },
     "gap": 0.6,
     "fond": "fond-doux"
    },
@@ -504,9 +635,13 @@
    },
    {
     "voix": "clara-fr",
-    "ton": "posee",
+    "ton": "posee-calme",
     "jeu": "émue, doucement",
     "texte": "En salle, personne ne trade seul.",
+    "reglages": {
+     "temperature": 0.8,
+     "subtalker_temperature": 0.8
+    },
     "gap": 0.6
    },
    {
@@ -518,9 +653,13 @@
    },
    {
     "voix": "clara-fr",
-    "ton": "vive",
+    "ton": "vive-calme",
     "jeu": "enthousiaste, la signature",
     "texte": "MACROARSENAL. Le terminal qui change votre vision du trading.",
+    "reglages": {
+     "temperature": 0.8,
+     "subtalker_temperature": 0.8
+    },
     "gap": 0.6
    },
    {
@@ -533,9 +672,13 @@
    },
    {
     "voix": "clara-fr",
-    "ton": "posee",
+    "ton": "posee-calme",
     "jeu": "sincère, naturelle",
     "texte": "MACROARSENAL est un outil d'information et d'éducation, pas un conseil en investissement personnalisé. Le trading comporte un risque de perte en capital.",
+    "reglages": {
+     "temperature": 0.8,
+     "subtalker_temperature": 0.8
+    },
     "gap": 0.9,
     "son": "fin-debut"
    },
