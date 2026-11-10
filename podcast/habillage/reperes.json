@@ -1,0 +1,25 @@
+{
+ "bpm": 90,
+ "mesure": 2.6666666666666665,
+ "style": "lofi-chillhop",
+ "motif": "Mi-La (M et A en solfège)",
+ "generique_voix": 11.317,
+ "generique_duree": 14.567,
+ "transition-a_voix": 2.983,
+ "transition-a_duree": 5.117,
+ "transition-b_voix": 2.983,
+ "transition-b_duree": 5.117,
+ "transition-c_voix": 2.983,
+ "transition-c_duree": 5.117,
+ "fin_drop": 5.333,
+ "fin_duree": 20.5,
+ "fichiers": [
+  "generique",
+  "transition-a",
+  "transition-b",
+  "transition-c",
+  "fond",
+  "fond-doux",
+  "fin"
+ ]
+}

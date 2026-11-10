@@ -1,0 +1,181 @@
+name: Podcast — fabrication
+
+# Fabrique les voix d'un podcast à deux voix (radio/emission.py : champ « voix » par bloc), contrôle chaque passage par
+# transcription (radio/controle.py) avec reprises, range toutes les prises sur la branche « podcast-resultats »
+# (dossier prises/<id>/<numéro de la fabrication>/, en FLAC) puis mixe le podcast (podcast/mixage.py, dossier mix/<id>/).
+# Lancement : modifier podcast/fabrication-run.json sur la branche podcast-presentation et pousser.
+# Retouche : « phrases » dans fabrication-run.json (ex. ["12-00", "40-01"]) et des numéros de prises nouveaux (« prises »,
+# « reprises ») : seuls ces passages sont relus ; le mixage reprend les meilleures prises de toutes les fabrications rangées.
+on:
+  push:
+    branches: [podcast-presentation]
+    paths: ['podcast/fabrication-run.json']
+
+permissions:
+  contents: write
+
+concurrency:
+  group: podcast-fabrication
+  cancel-in-progress: false
+
+jobs:
+  plan:
+    runs-on: ubuntu-24.04
+    outputs:
+      matrix: ${{ steps.m.outputs.matrix }}
+      podcast: ${{ steps.m.outputs.podcast }}
+      id: ${{ steps.m.outputs.id }}
+      langue: ${{ steps.m.outputs.langue }}
+      prises: ${{ steps.m.outputs.prises }}
+      reprises: ${{ steps.m.outputs.reprises }}
+      phrases: ${{ steps.m.outputs.phrases }}
+    steps:
+      - uses: actions/checkout@v4
+      - id: m
+        run: |
+          python3 - <<'EOF' >> "$GITHUB_OUTPUT"
+          import json
+          R = json.load(open('podcast/fabrication-run.json'))
+          E = json.load(open(R['podcast']))
+          L = R.get('langue', 'fr')
+          n = int(R.get('parties') or E.get('parties', 10))
+          inc = [{'partie': p, 'parties': n, 'voix': E['voix'][L]} for p in range(1, n + 1)]
+          print('matrix=' + json.dumps({'include': inc}))
+          print('podcast=' + R['podcast'])
+          print('id=' + E['id'])
+          print('langue=' + L)
+          print('prises=' + R.get('prises', '1,2'))
+          print('reprises=' + ' '.join(R.get('reprises', ['3,4', '5,6'])))
+          print('phrases=' + ','.join(R.get('phrases', [])))
+          EOF
+
+  voix:
+    needs: plan
+    runs-on: ubuntu-24.04
+    timeout-minutes: 120
+    strategy:
+      fail-fast: false
+      matrix: ${{ fromJSON(needs.plan.outputs.matrix) }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - uses: actions/cache@v4
+        with:
+          path: |
+            ~/.cache/pip
+            ~/.cache/huggingface
+          key: qwen-tts-whisper-v1
+      - name: Outils
+        run: |
+          sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg sox > /dev/null
+          set -o pipefail
+          { pip install --index-url https://download.pytorch.org/whl/cpu torch torchaudio && pip install -U qwen-tts soundfile; } > /tmp/pip.log 2>&1 || { tail -40 /tmp/pip.log | tr '\n' ' ' | sed 's/^/::error title=pip::/'; echo; exit 1; }
+          python -m venv /tmp/asr && /tmp/asr/bin/pip install -q faster-whisper scipy > /tmp/pip2.log 2>&1 || { tail -20 /tmp/pip2.log | tr '\n' ' ' | sed 's/^/::error title=pip asr::/'; echo; exit 1; }
+      - name: Voix, contrôle et reprises
+        env:
+          EMI: ${{ needs.plan.outputs.podcast }}
+          L: ${{ needs.plan.outputs.langue }}
+          P: ${{ matrix.partie }}
+          N: ${{ matrix.parties }}
+          V: radio/voix/${{ matrix.voix }}
+          TAKES: ${{ needs.plan.outputs.prises }}
+          REDO: ${{ needs.plan.outputs.reprises }}
+          IDS: ${{ needs.plan.outputs.phrases }}
+          CONTROLE_PROMPT: "MACROARSENAL, Victor Castel, Clara, Doji, le Labo des edges, la Crypto zone, l'Academy, traders."
+        run: |
+          voix() {
+            python radio/emission.py "$EMI" "$L" "$P" "$N" "$V" /tmp/out "$@" > /tmp/v.log 2>&1; c=$?
+            grep -v -i -E 'warning|pci_bus|flash-attn' /tmp/v.log | tee -a /tmp/run.log || true
+            if [ $c -ne 0 ]; then
+              if ls /tmp/out/$L-partie$P*.json > /dev/null 2>&1 && grep -q "phrases," /tmp/v.log; then echo "::warning title=Voix $L $P::sortie $c après la fin du travail, prises gardées"; return 0; fi
+              grep -v -i -E 'warning|pci_bus|flash-attn' /tmp/v.log | tail -25 | tr '\n' ' ' | sed "s/^/::error title=Voix $L $P (code $c)::/"; echo; return 1
+            fi
+          }
+          controle() {
+            /tmp/asr/bin/python radio/controle.py /tmp/out "$L" > /tmp/q.log 2>&1; c=$?
+            tee -a /tmp/qa.log < /tmp/q.log
+            if [ $c -ne 0 ]; then grep -v -i -E 'warning|userwarning' /tmp/q.log | tail -25 | tr '\n' ' ' | sed "s/^/::error title=Contrôle $L $P (code $c)::/"; echo; return 1; fi
+          }
+          if [ -n "$IDS" ]; then voix "$TAKES" "$IDS" || exit 1; else voix "$TAKES" || exit 1; fi
+          controle || exit 1
+          for r in $REDO; do
+            ids=$(cat /tmp/out/$L-a-refaire.txt 2>/dev/null || true)
+            [ -z "$ids" ] && break
+            echo "::notice title=Reprises $L $P::$ids (prises $r)"
+            voix "$r" "$ids" || exit 1
+            controle || exit 1
+          done
+          rm -f /tmp/out/$L-choix.json /tmp/out/$L-a-refaire.txt
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: voix-${{ needs.plan.outputs.langue }}-${{ matrix.partie }}
+          path: /tmp/out
+          retention-days: 7
+
+  ranger:
+    needs: [plan, voix]
+    if: always() && needs.plan.result == 'success'
+    runs-on: ubuntu-24.04
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - uses: actions/download-artifact@v4
+        with:
+          pattern: voix-*
+          path: /tmp/in
+          merge-multiple: true
+      - name: Choix des prises (sans nouvelle transcription)
+        env:
+          L: ${{ needs.plan.outputs.langue }}
+        run: |
+          sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg > /dev/null
+          python -m venv /tmp/asr && /tmp/asr/bin/pip install -q faster-whisper scipy numpy > /dev/null
+          /tmp/asr/bin/python radio/controle.py /tmp/in "$L" | tail -3
+      - name: Ranger les prises sur la branche « podcast-resultats »
+        env:
+          ID: ${{ needs.plan.outputs.id }}
+        run: |
+          D="prises/$ID/${{ github.run_id }}"
+          mkdir -p /tmp/flac
+          for f in /tmp/in/*.wav; do ffmpeg -v error -i "$f" -c:a flac -compression_level 8 "/tmp/flac/$(basename "${f%.wav}").flac"; done
+          cp /tmp/in/*.json /tmp/in/*.txt /tmp/flac/ 2>/dev/null || true
+          git config --global user.name "studio-bot"; git config --global user.email "studio-bot@users.noreply.github.com"
+          URL="https://x-access-token:${{ github.token }}@github.com/${{ github.repository }}.git"
+          for i in 1 2 3 4 5; do
+            rm -rf /tmp/br
+            if git clone -q --depth 1 -b podcast-resultats "$URL" /tmp/br 2>/dev/null; then cd /tmp/br; else mkdir /tmp/br && cd /tmp/br && git init -q -b podcast-resultats; fi
+            mkdir -p "$D" && cp /tmp/flac/* "$D"/
+            git add -A && git commit -qm "Podcast $ID : prises de la fabrication ${{ github.run_id }}" || exit 0
+            git push -q "$URL" HEAD:podcast-resultats && break
+            cd /; sleep $((i * 7))
+          done
+          echo "::notice title=Prises rangées::$D ($(ls /tmp/flac/*.flac | wc -l) fichiers)"
+
+  mixage:
+    needs: [plan, ranger]
+    runs-on: ubuntu-24.04
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: podcast-presentation   # le mixage et l'habillage les plus récents de la branche (retouches de mixage sans refaire les voix)
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Mixage (meilleures prises de toutes les fabrications rangées)
+        env:
+          ID: ${{ needs.plan.outputs.id }}
+          EMI: ${{ needs.plan.outputs.podcast }}
+        run: |
+          sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg > /dev/null
+          pip install -q numpy scipy
+          git clone -q --depth 1 -b podcast-resultats "https://x-access-token:${{ github.token }}@github.com/${{ github.repository }}.git" /tmp/br
+          python podcast/mixage.py "$EMI" /tmp/br/prises/$ID podcast/habillage /tmp/mix
+          cd /tmp/br && mkdir -p mix/$ID && cp /tmp/mix/* mix/$ID/
+          git config --global user.name "studio-bot"; git config --global user.email "studio-bot@users.noreply.github.com"
+          git add -A && git commit -qm "Podcast $ID : mixage (fabrication ${{ github.run_id }})" && git push -q origin HEAD:podcast-resultats
+          ls -la mix/$ID

@@ -74,7 +74,9 @@ for b, bloc in enumerate(BLOCS):
     for k, p in enumerate(phrases(bloc['texte'])):
         # réglages de la voix (échantillonnage du modèle) : ceux de l'émission, précisés bloc par bloc si besoin
         gen = {**(E.get('reglages') or {}), **(bloc.get('reglages') or {})}
-        ALL.append({'id': f'{b:02d}-{k:02d}', 'bloc': b, 'ton': bloc.get('ton', 'net'), 'text': p, 'tts': a_lire(p), 'gen': gen})
+        # « voix » (facultatif) : autre dossier de voix, voisin de <dossier_voix> (dialogue à deux voix : podcasts)
+        ALL.append({'id': f'{b:02d}-{k:02d}', 'bloc': b, 'ton': bloc.get('ton', 'net'), 'text': p, 'tts': a_lire(p), 'gen': gen,
+                    **({'voix': bloc['voix']} if bloc.get('voix') else {})})
 # Répartition équilibrée (en caractères) entre les parties ; une phrase n'est jamais coupée en deux.
 total = sum(len(s['tts']) for s in ALL)
 acc, mine = 0, []
@@ -92,14 +94,23 @@ if not mine:
 
 # --- Profil de la voix : une référence par ton --------------------------------------------------------------------------
 P = json.load(open(os.path.join(VDIR, 'profil.json'), encoding='utf-8'))
+
+
+def vdir_of(voix):
+    """Dossier de la voix d'une phrase : celui de l'émission, ou un dossier voisin nommé par le bloc (« voix »)."""
+    return VDIR if not voix else os.path.join(os.path.dirname(os.path.normpath(VDIR)), voix)
+
+
 from qwen_tts import Qwen3TTSModel  # noqa: E402
 
 t0 = time.time()
 model = Qwen3TTSModel.from_pretrained('Qwen/Qwen3-TTS-12Hz-1.7B-Base', device_map='cpu', dtype=torch.float32, attn_implementation='sdpa')
 prompts = {}
-for ton in sorted({s['ton'] for s in mine}):
-    r = P['refs'].get(ton) or P['refs'][P.get('defaut', 'net')]
-    prompts[ton] = model.create_voice_clone_prompt(ref_audio=os.path.join(VDIR, r['wav']), ref_text=r['texte'])
+for voix, ton in sorted({(s.get('voix', ''), s['ton']) for s in mine}):
+    d = vdir_of(voix)
+    Pv = P if d == VDIR else json.load(open(os.path.join(d, 'profil.json'), encoding='utf-8'))
+    r = Pv['refs'].get(ton) or Pv['refs'][Pv.get('defaut', 'net')]
+    prompts[(voix, ton)] = model.create_voice_clone_prompt(ref_audio=os.path.join(d, r['wav']), ref_text=r['texte'])
 note('notice', 'Modèle', f"Base 1.7B chargé, {len(prompts)} ton(s) appris en {time.time() - t0:.0f} s")
 
 for s in mine:
@@ -107,7 +118,8 @@ for s in mine:
     for take in TAKES:
         torch.manual_seed(9000 + take * 131 + zlib.crc32(s['id'].encode()) % 997)
         t1 = time.time()
-        wavs, sr = model.generate_voice_clone(text=s['tts'], language=LANGUAGE, voice_clone_prompt=prompts[s['ton']], **s.get('gen', {}))
+        wavs, sr = model.generate_voice_clone(text=s['tts'], language=LANGUAGE, voice_clone_prompt=prompts[(s.get('voix', ''), s['ton'])],
+                                              **s.get('gen', {}))
         w = np.asarray(wavs[0], dtype=np.float32)
         f = f"{LANGUE}-{s['id']}-p{take}.wav"
         sf.write(os.path.join(OUT, f), w, sr)

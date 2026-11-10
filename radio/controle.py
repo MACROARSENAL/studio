@@ -24,8 +24,13 @@ def asr():
 
 PROMPT = {'fr': 'MACROARSENAL Radio, Victor Castel, traders, la salle.', 'en': 'MACROARSENAL Radio, Victor Castel, traders, the trading floor.',
           'es': 'MACROARSENAL Radio, Víctor Castel, traders, la sala de mercados.'}[LANGUE]
+# Vocabulaire propre à une émission (ex. podcasts : prénoms des voix, noms des rubriques), donné par le flux de fabrication
+PROMPT = os.environ.get('CONTROLE_PROMPT') or PROMPT
 # Écarts sans effet à l'oreille (chiffres écrits en lettres, nom de la marque en un mot ou deux)
-SAME = {'macroarsenal': 'macro arsenal', 'macro-arsenal': 'macro arsenal', 'vingts': 'vingt', 'cents': 'cent'}
+SAME = {'macroarsenal': 'macro arsenal', 'macro-arsenal': 'macro arsenal', 'vingts': 'vingt', 'cents': 'cent',
+        # interjections et rires (podcasts) : la transcription les écrit de plusieurs façons
+        'haha': 'ha ha', 'hahaha': 'ha ha ha', 'ah': 'ha', 'hmm': 'mmh', 'hum': 'mmh', 'mm': 'mmh', 'mmm': 'mmh', 'mh': 'mmh',
+        'pff': 'pfff', 'pf': 'pfff', 'pfiou': 'pfff', 'pfou': 'pfff', 'phew': 'pfff'}
 NUM = {'fr': {'1': 'un', '2': 'deux', '3': 'trois', '8': 'huit', '10': 'dix', '15': 'quinze', '30': 'trente', '2015': 'deux mille quinze'},
        'en': {'1': 'one', '2': 'two', '3': 'three', '8': 'eight', '10': 'ten', '15': 'fifteen', '30': 'thirty'},
        'es': {'1': 'uno', '2': 'dos', '3': 'tres', '8': 'ocho', '10': 'diez', '15': 'quince', '30': 'treinta'}}[LANGUE]

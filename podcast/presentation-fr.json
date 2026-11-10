@@ -1,0 +1,1329 @@
+{
+ "id": "presentation-fr",
+ "_": "Podcast de présentation de MACROARSENAL (FR), demandé par Kévin le 10/11/2026 : Victor Castel (voix de MACROARSENAL Radio) et Clara (co-animatrice, personnage MACROARSENAL), deux voix de synthèse. Faits tirés des textes du site (messages/fr.json) et des documents du projet ; aucune heure dite ; aucun chiffre de résultat.",
+ "date": "2026-11-10",
+ "voix": {
+  "fr": "victor-fr"
+ },
+ "parties": 20,
+ "prononciation": {
+  "fr": {
+   "edges": "èdjes",
+   "TradingView": "Trading Viou",
+   "macroarsenal.com": "macro arsenal point com",
+   "Times": "Taïmz",
+   "Academy": "Akadémi",
+   "crash-test": "crache test"
+  }
+ },
+ "blocs": {
+  "fr": [
+   {
+    "voix": "victor-fr",
+    "ton": "pose",
+    "jeu": "grave, intime : on plante le décor",
+    "texte": "Imaginez. Vous êtes chez vous. Trois écrans allumés, dix onglets ouverts, un fil d'infos qui défile en anglais.",
+    "chap": "Accroche",
+    "fond": "fond-doux"
+   },
+   {
+    "voix": "clara-fr",
+    "ton": "posee",
+    "jeu": "tendue, à voix basse",
+    "texte": "Et là… un chiffre tombe.",
+    "gap": 0.3
+   },
+   {
+    "voix": "victor-fr",
+    "ton": "pose",
+    "jeu": "grave",
+    "texte": "Le prix part dans tous les sens. Votre position avec. Et vous ne savez même pas pourquoi.",
+    "gap": 0.35
+   },
+   {
+    "voix": "clara-fr",
+    "ton": "posee",
+    "jeu": "sérieuse, touchée",
+    "texte": "Ça, c'est trader à l'aveugle. Et chaque jour, des milliers de traders le vivent.",
+    "gap": 0.45
+   },
+   {
+    "voix": "victor-fr",
+    "ton": "net",
+    "jeu": "décidé",
+    "texte": "Aujourd'hui, on vous présente le terminal qui a été construit pour que ça n'arrive plus."
+   },
+   {
+    "voix": "clara-fr",
+    "ton": "sceptique",
+    "jeu": "taquine, un sourire",
+    "texte": "Et je vous préviens : je ne vais pas lui faire de cadeau.",
+    "gap": 0.3
+   },
+   {
+    "voix": "victor-fr",
+    "ton": "complice",
+    "jeu": "amusé, petit rire",
+    "texte": "Ha ! Elle ne m'en fait jamais.",
+    "gap": 0.1,
+    "fond_fin": true
+   },
+   {
+    "voix": "victor-fr",
+    "ton": "energique",
+    "jeu": "énergique, sourire",
+    "texte": "Bonjour à toutes et à tous, et bienvenue dans le podcast de MACROARSENAL ! Je suis Victor Castel, la voix de MACROARSENAL Radio.",
+    "chap": "Ouverture",
+    "son": "generique"
+   },
+   {
+    "voix": "clara-fr",
+    "ton": "vive",
+    "jeu": "enthousiaste",
+    "texte": "Et moi, c'est Clara ! Mon rôle est simple : poser toutes les questions que vous vous posez. Toutes. Même celles qui fâchent."
+   },
+   {
+    "voix": "victor-fr",
+    "ton": "complice",
+    "jeu": "complice",
+    "texte": "Surtout celles qui fâchent.",
+    "gap": 0.12
+   },
+   {
+    "voix": "clara-fr",
+    "ton": "posee",
+    "jeu": "sincère, posée",
+    "texte": "Et pour être honnêtes avec vous dès la première minute : Victor et moi, nous sommes des personnages de MACROARSENAL, avec des voix de synthèse. Mais tout ce qu'on va vous dire, vous pourrez le vérifier.",
+    "gap": 0.45
+   },
+   {
+    "voix": "victor-fr",
+    "ton": "chaleureux",
+    "jeu": "chaleureux, convaincu",
+    "texte": "C'est même la règle de la maison. On ne vous demande pas de nous croire sur parole. On vous montre."
+   },
+   {
+    "voix": "clara-fr",
+    "ton": "vive",
+    "jeu": "vive, elle déroule le programme",
+    "texte": "Au programme, neuf chapitres. Le problème. La mission. L'ampleur du projet. Une journée entière dans le terminal, du matin jusqu'à la nuit. La transparence. L'Academy. Pour qui c'est fait, et à quel prix. Et enfin, comment nous rejoindre."
+   },
+   {
+    "voix": "victor-fr",
+    "ton": "energique",
+    "jeu": "énergique",
+    "texte": "Café serré, écrans allumés : on y va !",
+    "gap": 0.25
+   },
+   {
+    "voix": "clara-fr",
+    "ton": "curieuse",
+    "jeu": "curieuse",
+    "texte": "Chapitre un : à l'aveugle. Victor, tu as passé dix-huit ans dans une salle de marchés, à Londres. Qu'est-ce que les traders avaient là-bas, que les gens n'ont pas chez eux ?",
+    "chap": "Chapitre 1 · À l'aveugle",
+    "son": "transition"
+   },
+   {
+    "voix": "victor-fr",
+    "ton": "pose",
+    "jeu": "posé, il se souvient",
+    "texte": "Une chose, avant tout le reste : en salle, personne ne trade seul. Il y a quelqu'un qui lit les nouvelles à voix haute, quelqu'un qui explique le chiffre, quelqu'un qui surveille le risque et qui vous arrête avant la bêtise."
+   },
+   {
+    "voix": "clara-fr",
+    "ton": "sceptique",
+    "jeu": "taquine",
+    "texte": "Et toi, tu étais lequel ? Celui qui arrêtait les bêtises ?",
+    "gap": 0.15
+   },
+   {
+    "voix": "victor-fr",
+    "ton": "complice",
+    "jeu": "amusé, petit rire",
+    "texte": "Ha ! Non. Moi, j'étais la voix. Celui qui lisait les nouvelles. Dix-huit ans au micro, sans jamais trembler… enfin, presque jamais."
+   },
+   {
+    "voix": "clara-fr",
+    "ton": "complice",
+    "jeu": "taquine, elle relève",
+    "texte": "Presque, hein ?",
+    "gap": -0.12
+   },
+   {
+    "voix": "victor-fr",
+    "ton": "complice",
+    "jeu": "mystérieux, sourire",
+    "texte": "On en reparlera.",
+    "gap": 0.15
+   },
+   {
+    "voix": "clara-fr",
+    "ton": "curieuse",
+    "jeu": "curieuse",
+    "texte": "Et chez soi, alors ?",
+    "gap": 0.35
+   },
+   {
+    "voix": "victor-fr",
+    "ton": "pose",
+    "jeu": "grave",
+    "texte": "Chez soi, on est seul. Seul face à des milliers de chiffres, à des avis qui se contredisent, à des vidéos qui promettent la lune. Trop de chiffres. Trop de bruit. Trop d'avis."
+   },
+   {
+    "voix": "clara-fr",
+    "ton": "sceptique",
+    "jeu": "objection, franche",
+    "texte": "Attends. Soyons francs : de l'information, aujourd'hui, il y en a partout. Et gratuitement."
+   },
+   {
+    "voix": "victor-fr",
+    "ton": "net",
+    "jeu": "net, il recadre",
+    "texte": "De l'information, oui. Du tri, non. Le problème du trader particulier, ce n'est pas le manque d'information. C'est l'excès. Il ne sait pas ce qui compte ce matin, pour son marché à lui, ni pourquoi."
+   },
+   {
+    "voix": "clara-fr",
+    "ton": "posee",
+    "jeu": "pensive",
+    "texte": "Mmh. Et pendant ce temps, en face…",
+    "gap": 0.3
+   },
+   {
+    "voix": "victor-fr",
+    "ton": "pose",
+    "jeu": "grave",
+    "texte": "En face, il y a des professionnels, avec des équipes entières pour faire ce tri. C'est un combat inégal. Et c'est ce combat-là que MACROARSENAL veut rééquilibrer.",
+    "gap": 0.2
+   },
+   {
+    "voix": "clara-fr",
+    "ton": "curieuse",
+    "jeu": "relance, un brin moqueuse",
+    "texte": "D'accord, le constat est posé. Mais alors, c'est quoi, la réponse ? Parce que j'en entends déjà soupirer : encore un outil…"
+   },
+   {
+    "voix": "clara-fr",
+    "ton": "sceptique",
+    "jeu": "provocatrice",
+    "texte": "Chapitre deux : la mission. Et je commence fort. Encore un outil de trading de plus ? Il en sort un tous les matins !",
+    "chap": "Chapitre 2 · La mission",
+    "son": "transition"
+   },
+   {
+    "voix": "victor-fr",
+    "ton": "complice",
+    "jeu": "il concède en souriant",
+    "texte": "Tu as raison, et c'est justement le problème. Un site pour les graphiques, un autre pour l'actualité, un troisième pour le calendrier… Résultat : dix onglets, et toujours pas de réponse à la seule question qui compte."
+   },
+   {
+    "voix": "clara-fr",
+    "ton": "curieuse",
+    "jeu": "vive",
+    "texte": "Qui est ?",
+    "gap": 0.08
+   },
+   {
+    "voix": "victor-fr",
+    "ton": "pose",
+    "jeu": "posé, pédagogue",
+    "texte": "Pourquoi le marché bouge, et qu'est-ce que j'en fais, moi, ce matin ? MACROARSENAL, c'est le terminal macro qui explique pourquoi les marchés bougent. Tout au même endroit."
+   },
+   {
+    "voix": "clara-fr",
+    "ton": "curieuse",
+    "jeu": "curieuse",
+    "texte": "Et la mission, en une phrase ?"
+   },
+   {
+    "voix": "victor-fr",
+    "ton": "chaleureux",
+    "jeu": "chaleureux, sincère",
+    "texte": "Mettre des outils de pro entre les mains de tous les traders, chaque jour, pour qu'ils décident mieux. Toute la puissance des pros… sans leur prix."
+   },
+   {
+    "voix": "clara-fr",
+    "ton": "complice",
+    "jeu": "taquine, rieuse",
+    "texte": "Joli. Tu l'as répétée devant le miroir, celle-là ?",
+    "gap": 0.3
+   },
+   {
+    "voix": "victor-fr",
+    "ton": "complice",
+    "jeu": "amusé",
+    "texte": "Tous les matins. Avec mon café.",
+    "gap": 0.1
+   },
+   {
+    "voix": "clara-fr",
+    "ton": "curieuse",
+    "jeu": "curieuse",
+    "texte": "Et qui est derrière tout ça ?",
+    "gap": 0.3
+   },
+   {
+    "voix": "victor-fr",
+    "ton": "pose",
+    "jeu": "posé, respectueux",
+    "texte": "Un fondateur qui a passé dix ans dans le trading. Il le dit lui-même : ces années lui ont appris ce dont un trader a vraiment besoin chaque jour. Comprendre ce qui fait bouger les prix. Et viser la rentabilité avec méthode."
+   },
+   {
+    "voix": "clara-fr",
+    "ton": "sceptique",
+    "jeu": "objection, mi-sérieuse",
+    "texte": "Et j'imagine que tout ça, c'est en français seulement ?"
+   },
+   {
+    "voix": "victor-fr",
+    "ton": "complice",
+    "jeu": "fier, amusé",
+    "texte": "Pas du tout ! Français, anglais et espagnol. Tout le terminal, la radio comprise. Et moi, je parle les trois : ma mère est née à Séville.",
+    "gap": 0.15
+   },
+   {
+    "voix": "clara-fr",
+    "ton": "complice",
+    "jeu": "rire, aparté pour l'auditeur",
+    "texte": "Ha ha ! Il fallait qu'il la place, celle-là.",
+    "gap": 0.12
+   },
+   {
+    "voix": "victor-fr",
+    "ton": "net",
+    "jeu": "net",
+    "texte": "Les principes, eux, tiennent en quatre phrases. Rendre la macro lisible. Décider avec méthode, pas à l'instinct. Tout montrer, même ce qui perd. Et un terminal ouvert à tous, en trois langues.",
+    "gap": 0.3
+   },
+   {
+    "voix": "clara-fr",
+    "ton": "sceptique",
+    "jeu": "méfiante, elle prend note",
+    "texte": "Tout montrer, même ce qui perd… Je note. On y reviendra, parce que là, je vais vouloir des preuves. Mais d'abord : concrètement, c'est gros comment, MACROARSENAL ?"
+   },
+   {
+    "voix": "victor-fr",
+    "ton": "complice",
+    "jeu": "malicieux",
+    "texte": "Tu es bien assise ?",
+    "gap": 0.2
+   },
+   {
+    "voix": "victor-fr",
+    "ton": "energique",
+    "jeu": "énergique, il déballe",
+    "texte": "Chapitre trois : l'arsenal. Quarante marchés, les plus tradés au monde : devises, métaux, énergie, indices, cryptos et taux. Lus chaque matin.",
+    "chap": "Chapitre 3 · L'arsenal",
+    "son": "transition"
+   },
+   {
+    "voix": "clara-fr",
+    "ton": "curieuse",
+    "jeu": "impressionnée",
+    "texte": "Quarante. Chaque matin.",
+    "gap": 0.15
+   },
+   {
+    "voix": "victor-fr",
+    "ton": "energique",
+    "jeu": "énergique",
+    "texte": "Un fil d'actualité mondial, minute par minute, uniquement des sources officielles, traduit dans votre langue. Un calendrier économique en direct, avec le chiffre réel dès sa sortie."
+   },
+   {
+    "voix": "clara-fr",
+    "ton": "sceptique",
+    "jeu": "faussement blasée",
+    "texte": "Pfff… Bon, ça, c'est la base.",
+    "gap": 0.15
+   },
+   {
+    "voix": "victor-fr",
+    "ton": "energique",
+    "jeu": "il accélère, enthousiaste",
+    "texte": "Attends ! Le tableau de bord macro de onze pays, jusqu'à vingt ans d'historique. Les baromètres de peur et d'euphorie. L'horloge macro, la saison économique de chaque grand pays. Le positionnement des grands spéculateurs. L'analyse technique de trente et un marchés.",
+    "gap": 0.05
+   },
+   {
+    "voix": "clara-fr",
+    "ton": "complice",
+    "jeu": "rieuse, elle le coupe",
+    "texte": "Respire, Victor !",
+    "gap": -0.15
+   },
+   {
+    "voix": "victor-fr",
+    "ton": "complice",
+    "jeu": "lancé, amusé",
+    "texte": "Je n'ai pas fini ! Le Radar Actions et ses dix actions du moment. La Crypto zone. Un simulateur, un journal de trading, des alertes. Ma matinale à la radio. MACROARSENAL Times, trois fois par semaine. Un quiz et une leçon chaque jour. Et Doji, l'assistant, qui connaît tout ça par cœur.",
+    "gap": 0.1
+   },
+   {
+    "voix": "clara-fr",
+    "ton": "sceptique",
+    "jeu": "objection, piquante",
+    "texte": "Bon. Là, tu viens de me donner le vertige. Tu connais la formule : trop d'infos tue l'info. Tu viens de me décrire exactement le bruit dont tu te plaignais au chapitre un !"
+   },
+   {
+    "voix": "victor-fr",
+    "ton": "complice",
+    "jeu": "beau joueur",
+    "texte": "Touché ! C'est la bonne objection. Et la réponse tient en une phrase : vous ne voyez pas tout. Vous voyez ce qui vous concerne."
+   },
+   {
+    "voix": "clara-fr",
+    "ton": "curieuse",
+    "jeu": "curieuse",
+    "texte": "C'est-à-dire ?",
+    "gap": 0.15
+   },
+   {
+    "voix": "victor-fr",
+    "ton": "net",
+    "jeu": "clair, concret",
+    "texte": "À la première connexion, Doji fait connaissance : votre niveau, vos marchés. Ensuite, Mon terminal : votre page, avec les blocs qui vous servent vraiment. Avec Fondateur et Arsenal, vous composez tout votre terminal, bloc par bloc."
+   },
+   {
+    "voix": "clara-fr",
+    "ton": "curieuse",
+    "jeu": "curieuse",
+    "texte": "Et Doji, dans tout ça ?"
+   },
+   {
+    "voix": "victor-fr",
+    "ton": "chaleureux",
+    "jeu": "tendre, il parle de « notre petit gardien »",
+    "texte": "Doji fait le tri. Une question, un doute ? Vous cliquez sur lui. Il vous emmène à la bonne page, et il vous explique n'importe quel chiffre, d'un clic."
+   },
+   {
+    "voix": "clara-fr",
+    "ton": "complice",
+    "jeu": "amusée",
+    "texte": "Donc tout l'arsenal est là… mais on ne vous le jette pas à la figure."
+   },
+   {
+    "voix": "victor-fr",
+    "ton": "complice",
+    "jeu": "satisfait",
+    "texte": "Exactement. Un arsenal, ça se range.",
+    "gap": 0.15
+   },
+   {
+    "voix": "clara-fr",
+    "ton": "vive",
+    "jeu": "enthousiaste",
+    "texte": "Bon, assez de catalogue ! Moi, je veux vivre une vraie journée là-dedans. Du réveil jusqu'à la nuit."
+   },
+   {
+    "voix": "victor-fr",
+    "ton": "chaleureux",
+    "jeu": "chaleureux",
+    "texte": "Alors on commence au lever du jour.",
+    "gap": 0.2
+   },
+   {
+    "voix": "clara-fr",
+    "ton": "vive",
+    "jeu": "vive",
+    "texte": "Chapitre quatre : une journée dans le terminal. C'est le matin. Vous ouvrez MACROARSENAL. Qu'est-ce qui vous attend ?",
+    "chap": "Chapitre 4 · Une journée dans le terminal",
+    "son": "transition"
+   },
+   {
+    "voix": "victor-fr",
+    "ton": "pose",
+    "jeu": "posé, il installe la scène",
+    "texte": "Mon matin : votre journée, réglée sur votre profil. Et en haut de la pile, le Biais du jour : pour chacun des quarante marchés, le sens de fond. Haussier, baissier… ou sans avis."
+   },
+   {
+    "voix": "clara-fr",
+    "ton": "curieuse",
+    "jeu": "surprise",
+    "texte": "Oh ! Sans avis ? Vous avez le droit de dire ça ?",
+    "gap": 0.1
+   },
+   {
+    "voix": "victor-fr",
+    "ton": "complice",
+    "jeu": "complice",
+    "texte": "C'est même ce que je préfère. Quand les signaux se contredisent, on ne force pas : on dit sans avis. Un avis forcé, c'est pire que pas d'avis du tout."
+   },
+   {
+    "voix": "clara-fr",
+    "ton": "sceptique",
+    "jeu": "sérieuse, l'objection qui compte",
+    "texte": "Attends, soyons clairs, parce que c'est là que beaucoup vont tiquer. Votre Biais, c'est un signal déguisé ? Vous me dites quoi acheter ?",
+    "gap": 0.3
+   },
+   {
+    "voix": "victor-fr",
+    "ton": "net",
+    "jeu": "ferme, sans hésiter",
+    "texte": "Non. Et c'est important. Le Biais, c'est une lecture : le sens de fond d'un marché, sur quelques jours à quelques semaines, et pourquoi. Un point de départ pour réfléchir. Jamais un ordre.",
+    "gap": 0.15
+   },
+   {
+    "voix": "clara-fr",
+    "ton": "posee",
+    "jeu": "elle vérifie, sérieuse",
+    "texte": "Donc c'est moi qui décide.",
+    "gap": 0.2
+   },
+   {
+    "voix": "victor-fr",
+    "ton": "pose",
+    "jeu": "posé",
+    "texte": "Toujours. Une nouvelle, c'est une information, pas un ordre. Le Biais, c'est pareil. Et il est le même pour tout le monde : pas de conseil sur mesure, pas de promesse."
+   },
+   {
+    "voix": "clara-fr",
+    "ton": "curieuse",
+    "jeu": "curieuse",
+    "texte": "Et derrière, il y a quoi ? Une intuition ?"
+   },
+   {
+    "voix": "victor-fr",
+    "ton": "net",
+    "jeu": "précis",
+    "texte": "Des indicateurs : les banques centrales, les chiffres et leurs surprises, l'analyse technique, la position des gros fonds, le Labo des edges, le calendrier. Quand ils vont dans le même sens, la lecture est claire. Quand ils se contredisent : sans avis."
+   },
+   {
+    "voix": "victor-fr",
+    "ton": "net",
+    "jeu": "il enchaîne",
+    "texte": "Et quand un marché offre une vraie opportunité, on va plus loin : ce sont nos Convictions, pour les membres Arsenal. Le sens, la zone d'entrée, le stop, les objectifs : tout est donné à l'avance. Il peut y en avoir une, trois… ou aucune.",
+    "gap": 0.45
+   },
+   {
+    "voix": "clara-fr",
+    "ton": "curieuse",
+    "jeu": "étonnée",
+    "texte": "Aucune ?",
+    "gap": 0.1
+   },
+   {
+    "voix": "victor-fr",
+    "ton": "pose",
+    "jeu": "posé, assumé",
+    "texte": "Aucune. On ne publie que les vraies opportunités. Chez nous, ne rien faire, c'est aussi une décision."
+   },
+   {
+    "voix": "clara-fr",
+    "ton": "curieuse",
+    "jeu": "elle fait avancer l'histoire",
+    "texte": "D'accord. On avance dans la journée. Un chiffre important approche : l'inflation américaine, par exemple.",
+    "gap": 0.35
+   },
+   {
+    "voix": "victor-fr",
+    "ton": "net",
+    "jeu": "net, un peu de suspense",
+    "texte": "Le calendrier vous prévient, avec un compte à rebours. Le précédent, le consensus, puis le chiffre réel, dès sa sortie. Et surtout…"
+   },
+   {
+    "voix": "clara-fr",
+    "ton": "curieuse",
+    "jeu": "pendue à ses lèvres",
+    "texte": "Surtout ?",
+    "gap": 0.05
+   },
+   {
+    "voix": "victor-fr",
+    "ton": "complice",
+    "jeu": "fier de son effet",
+    "texte": "Quand un chiffre tombe, vous savez déjà comment le marché a réagi, les fois d'avant. Le terminal garde la mémoire des réactions passées, annonce par annonce."
+   },
+   {
+    "voix": "clara-fr",
+    "ton": "complice",
+    "jeu": "admirative",
+    "texte": "Ça, c'est malin. Parce que le jour de l'annonce, d'habitude, c'est la panique."
+   },
+   {
+    "voix": "victor-fr",
+    "ton": "pose",
+    "jeu": "calme, une maxime",
+    "texte": "La panique est contagieuse. Le calme aussi. Préparez-vous avant, et le jour venu, vous n'aurez plus à deviner."
+   },
+   {
+    "voix": "clara-fr",
+    "ton": "vive",
+    "jeu": "impatiente, joueuse",
+    "texte": "Bon ! J'ai une idée de trade. Je suis prête, je clique.",
+    "gap": 0.3
+   },
+   {
+    "voix": "victor-fr",
+    "ton": "net",
+    "jeu": "il l'arrête, ferme et drôle",
+    "texte": "Stop ! Avant de cliquer : trente secondes.",
+    "gap": -0.12
+   },
+   {
+    "voix": "clara-fr",
+    "ton": "complice",
+    "jeu": "faussement agacée, rieuse",
+    "texte": "Ha ha ! Ça commence…",
+    "gap": 0.1
+   },
+   {
+    "voix": "victor-fr",
+    "ton": "net",
+    "jeu": "concret",
+    "texte": "Sur la fiche de chaque marché, il y a Avant d'entrer : une checklist. L'annonce qui arrive, le Biais du jour, les niveaux clés, la taille de position. Et pour aller plus loin, il y a Vérifier un trade."
+   },
+   {
+    "voix": "clara-fr",
+    "ton": "curieuse",
+    "jeu": "curieuse",
+    "texte": "Qui fait quoi ?",
+    "gap": 0.12
+   },
+   {
+    "voix": "victor-fr",
+    "ton": "net",
+    "jeu": "concret",
+    "texte": "Vous entrez votre capital, votre risque et votre stop : le calculateur vous donne la taille de position exacte, pour ne jamais perdre plus que prévu. Gratuit pour tout le monde. Et puis il y a le regard de Doji."
+   },
+   {
+    "voix": "clara-fr",
+    "ton": "curieuse",
+    "jeu": "intriguée",
+    "texte": "Le regard de Doji ?",
+    "gap": 0.1
+   },
+   {
+    "voix": "victor-fr",
+    "ton": "pose",
+    "jeu": "posé",
+    "texte": "Doji vérifie le calendrier, les niveaux, votre risque. Et avec Fondateur et Arsenal, il vous le dit en couleur : Doji voit vert, orange… ou rouge."
+   },
+   {
+    "voix": "clara-fr",
+    "ton": "sceptique",
+    "jeu": "taquine",
+    "texte": "Et s'il voit rouge, il m'empêche de trader ?"
+   },
+   {
+    "voix": "victor-fr",
+    "ton": "pose",
+    "jeu": "posé, rassurant",
+    "texte": "Non. Il vous aide à voir ce que vous n'avez peut-être pas vu. Mais la décision reste la vôtre. Toujours."
+   },
+   {
+    "voix": "clara-fr",
+    "ton": "posee",
+    "jeu": "plus douce, elle a compris quelque chose",
+    "texte": "Tu insistes beaucoup sur ce moment-là. Le moment juste avant d'entrer. C'est ça, ton « presque jamais » ?",
+    "gap": 0.7
+   },
+   {
+    "voix": "victor-fr",
+    "ton": "pose",
+    "jeu": "grave, lent : le souvenir",
+    "texte": "C'est ça. Quinze janvier deux mille quinze. La Banque nationale suisse abandonne son cours plancher. En quelques minutes, le franc bondit de près de trente pour cent face à l'euro.",
+    "gap": 0.8,
+    "fond": "fond-doux"
+   },
+   {
+    "voix": "clara-fr",
+    "ton": "posee",
+    "jeu": "à voix basse",
+    "texte": "Le jour où le franc suisse a tout emporté.",
+    "gap": 0.4
+   },
+   {
+    "voix": "victor-fr",
+    "ton": "pose",
+    "jeu": "grave",
+    "texte": "Ce matin-là, dans la salle, il y avait un jeune trader. Brillant. Il n'avait pas mis de stop. En quelques minutes, il a perdu tout son compte.",
+    "gap": 0.5
+   },
+   {
+    "voix": "clara-fr",
+    "ton": "posee",
+    "jeu": "touchée, presque un souffle",
+    "texte": "Tout ?",
+    "gap": 0.6
+   },
+   {
+    "voix": "victor-fr",
+    "ton": "pose",
+    "jeu": "ému, retenu",
+    "texte": "Tout. Je le revois encore, debout devant son écran, sans un mot. Ce soir-là, je me suis fait une promesse : plus personne ne devrait apprendre ça seul.",
+    "gap": 0.5
+   },
+   {
+    "voix": "clara-fr",
+    "ton": "posee",
+    "jeu": "émue",
+    "texte": "Et c'est pour ça que tu es là.",
+    "gap": 0.8
+   },
+   {
+    "voix": "victor-fr",
+    "ton": "chaleureux",
+    "jeu": "chaleureux, la voix qui se pose",
+    "texte": "C'est pour ça que je suis là. Ce n'est pas la nouvelle qui fait sauter un compte. C'est l'absence de plan.",
+    "gap": 0.3,
+    "fond_fin": true
+   },
+   {
+    "voix": "clara-fr",
+    "ton": "sceptique",
+    "jeu": "elle reprend le dessus, souriante puis piquante",
+    "texte": "Pfiou… Bon. Tu m'as eue. Mais je ne lâche rien. Il reste ce fameux Labo des edges. Des stratégies testées sur vingt-cinq ans… Pardon, mais ça sent le marketing.",
+    "gap": 1.1
+   },
+   {
+    "voix": "victor-fr",
+    "ton": "complice",
+    "jeu": "ravi, petit rire",
+    "texte": "Ha ! Je l'attendais, celle-là. Je t'explique comment ça marche, et tu me diras si c'est du marketing."
+   },
+   {
+    "voix": "clara-fr",
+    "ton": "curieuse",
+    "jeu": "bras croisés",
+    "texte": "Je t'écoute.",
+    "gap": 0.12
+   },
+   {
+    "voix": "victor-fr",
+    "ton": "net",
+    "jeu": "pédagogue, précis",
+    "texte": "Un edge, c'est un avantage statistique : une situation de marché qui, dans le passé, a été suivie d'un mouvement dans le même sens plus souvent que le hasard ne l'expliquerait. Le Labo a passé des centaines de recettes au crible de vingt-cinq ans de marché. Frais compris."
+   },
+   {
+    "voix": "clara-fr",
+    "ton": "sceptique",
+    "jeu": "objection",
+    "texte": "Sauf que n'importe qui peut trouver une recette qui a marché dans le passé."
+   },
+   {
+    "voix": "victor-fr",
+    "ton": "net",
+    "jeu": "il rebondit, vif",
+    "texte": "Exactement ! C'est tout le piège. Alors la règle est dure. Une recette doit gagner avant deux mille dix-huit, puis continuer à gagner sur des années qu'elle n'a jamais vues. Et on tient compte du nombre de recettes essayées, pour ne pas confondre la chance et un vrai avantage.",
+    "gap": 0.1
+   },
+   {
+    "voix": "clara-fr",
+    "ton": "curieuse",
+    "jeu": "curieuse",
+    "texte": "Et combien passent le test ?"
+   },
+   {
+    "voix": "victor-fr",
+    "ton": "pose",
+    "jeu": "posé, il laisse tomber le chiffre",
+    "texte": "Une poignée. Des centaines testées, une poignée gardées. Ce sont les seules qu'on vous propose.",
+    "gap": 0.3
+   },
+   {
+    "voix": "clara-fr",
+    "ton": "sceptique",
+    "jeu": "piquante",
+    "texte": "Et si l'une d'elles se met à perdre ?"
+   },
+   {
+    "voix": "victor-fr",
+    "ton": "net",
+    "jeu": "net",
+    "texte": "Elle reste dans le compteur. La liste est figée : rien n'est retiré après coup. Et on l'écrit noir sur blanc : un edge ne gagne pas à chaque fois. C'est un argument en plus. Jamais seul."
+   },
+   {
+    "voix": "clara-fr",
+    "ton": "complice",
+    "jeu": "elle rend les armes en riant",
+    "texte": "Ha ha ! D'accord, ce n'est pas du marketing. C'est presque vexant d'honnêteté."
+   },
+   {
+    "voix": "victor-fr",
+    "ton": "complice",
+    "jeu": "amusé",
+    "texte": "Je prends ça comme un compliment.",
+    "gap": 0.15
+   },
+   {
+    "voix": "clara-fr",
+    "ton": "vive",
+    "jeu": "vive",
+    "texte": "Bon. La journée se termine. Et c'est là que ça devient intéressant, non ?",
+    "gap": 0.3
+   },
+   {
+    "voix": "victor-fr",
+    "ton": "pose",
+    "jeu": "posé, un peu solennel",
+    "texte": "C'est là qu'on rend des comptes.",
+    "gap": 0.25
+   },
+   {
+    "voix": "clara-fr",
+    "ton": "curieuse",
+    "jeu": "curieuse",
+    "texte": "Chapitre cinq : le soir et la nuit. Alors, le soir, il se passe quoi ?",
+    "chap": "Chapitre 5 · Le soir et la nuit",
+    "son": "transition"
+   },
+   {
+    "voix": "victor-fr",
+    "ton": "net",
+    "jeu": "net",
+    "texte": "Le verdict. Chaque soir, notre Biais du matin est confronté au marché. Haussier ? Juste si le prix a monté. Baissier ? Juste s'il a baissé. Et le verdict est publié. Erreurs comprises."
+   },
+   {
+    "voix": "clara-fr",
+    "ton": "sceptique",
+    "jeu": "incrédule",
+    "texte": "Même quand vous avez tort ?",
+    "gap": 0.12
+   },
+   {
+    "voix": "victor-fr",
+    "ton": "complice",
+    "jeu": "complice",
+    "texte": "Surtout quand on a tort. Et vous aussi, vous passez au verdict : le soir, vous savez si votre pronostic du jour était le bon."
+   },
+   {
+    "voix": "clara-fr",
+    "ton": "curieuse",
+    "jeu": "curieuse",
+    "texte": "Et la nuit ? Parce qu'un trader, ça ne dort pas beaucoup.",
+    "gap": 0.35
+   },
+   {
+    "voix": "victor-fr",
+    "ton": "pose",
+    "jeu": "posé, un peu mystérieux",
+    "texte": "La nuit, la crypto prend le relais.",
+    "gap": 0.2
+   },
+   {
+    "voix": "clara-fr",
+    "ton": "sceptique",
+    "jeu": "méfiante",
+    "texte": "Ah. La crypto. Pour beaucoup de gens, la crypto, c'est le casino.",
+    "gap": 0.25
+   },
+   {
+    "voix": "victor-fr",
+    "ton": "pose",
+    "jeu": "honnête, posé",
+    "texte": "Et ils n'ont pas complètement tort, quand on y va sans plan. Les cryptos sont très volatiles : on peut perdre tout ou partie de sa mise. On le dit clairement, sur chaque page."
+   },
+   {
+    "voix": "clara-fr",
+    "ton": "curieuse",
+    "jeu": "curieuse",
+    "texte": "Alors pourquoi en parler ?",
+    "gap": 0.2
+   },
+   {
+    "voix": "victor-fr",
+    "ton": "net",
+    "jeu": "convaincu",
+    "texte": "Parce que la Crypto zone, ce n'est pas une table de jeu. C'est un outil de plan et de lecture. Vous décidez à l'avance de vos paliers, à l'entrée comme à la sortie. Et avec Arsenal, votre plan passe au crash-test, rejoué sur les cycles de deux mille dix-sept et de deux mille vingt et un."
+   },
+   {
+    "voix": "clara-fr",
+    "ton": "curieuse",
+    "jeu": "curieuse",
+    "texte": "Et pour lire le marché ?"
+   },
+   {
+    "voix": "victor-fr",
+    "ton": "net",
+    "jeu": "fasciné",
+    "texte": "Les Rayons X. Le carnet d'ordres en direct, expliqué simplement : où attendent les grosses sommes, et qui pousse le prix en ce moment. Des indices pour comprendre. Pas des signaux."
+   },
+   {
+    "voix": "clara-fr",
+    "ton": "posee",
+    "jeu": "attendrie, elle confie",
+    "texte": "Et il y a un truc que j'adore, dans la Crypto zone : la lettre à soi-même.",
+    "gap": 0.4
+   },
+   {
+    "voix": "victor-fr",
+    "ton": "chaleureux",
+    "jeu": "chaleureux",
+    "texte": "Raconte.",
+    "gap": 0.12
+   },
+   {
+    "voix": "clara-fr",
+    "ton": "posee",
+    "jeu": "touchée, douce",
+    "texte": "Quand vous faites votre plan, au calme, vous écrivez un mot à votre futur vous. Celui qui paniquera pendant une chute… ou qui s'emballera pendant une euphorie. Et les jours de tempête, on vous renvoie vos propres mots."
+   },
+   {
+    "voix": "victor-fr",
+    "ton": "chaleureux",
+    "jeu": "chaleureux",
+    "texte": "Le meilleur garde-fou, c'est vous. À tête reposée.",
+    "gap": 0.5
+   },
+   {
+    "voix": "clara-fr",
+    "ton": "posee",
+    "jeu": "elle change de ton, sérieuse",
+    "texte": "Bon. Tout ça, c'est beau. Mais il y a une question que tout le monde se pose. Et je vais la poser.",
+    "gap": 0.4
+   },
+   {
+    "voix": "victor-fr",
+    "ton": "pose",
+    "jeu": "posé, prêt",
+    "texte": "Pose-la.",
+    "gap": 0.2
+   },
+   {
+    "voix": "clara-fr",
+    "ton": "sceptique",
+    "jeu": "directe, grave",
+    "texte": "Et si vous vous trompez ?",
+    "gap": 0.35
+   },
+   {
+    "voix": "victor-fr",
+    "ton": "net",
+    "jeu": "franc, sans détour",
+    "texte": "Chapitre six : la transparence. Et je réponds tout de suite : on se trompera. Forcément. Personne n'a raison à chaque fois.",
+    "chap": "Chapitre 6 · La transparence",
+    "son": "transition"
+   },
+   {
+    "voix": "clara-fr",
+    "ton": "complice",
+    "jeu": "surprise, amusée",
+    "texte": "Ha ! Ça a le mérite d'être clair.",
+    "gap": 0.12
+   },
+   {
+    "voix": "victor-fr",
+    "ton": "pose",
+    "jeu": "posé, solennel",
+    "texte": "Alors notre règle tient en trois phrases. On publie avant. On compte tout. Même les pertes."
+   },
+   {
+    "voix": "clara-fr",
+    "ton": "curieuse",
+    "jeu": "curieuse",
+    "texte": "Développe.",
+    "gap": 0.2
+   },
+   {
+    "voix": "victor-fr",
+    "ton": "net",
+    "jeu": "net",
+    "texte": "On publie avant : chaque idée est publiée à l'avance, datée, avec son plan. On compte tout : chaque Conviction, chaque signal du Labo, chaque action du mois, jusqu'au bout. Et même les pertes : tout est dans Nos résultats, ouvert à tous. Rien n'est trié."
+   },
+   {
+    "voix": "clara-fr",
+    "ton": "sceptique",
+    "jeu": "la question qui pique",
+    "texte": "D'accord. Mais là, je dois poser la question qui pique. Pourquoi vous croire ? Vous n'avez pas encore de résultats.",
+    "gap": 0.3
+   },
+   {
+    "voix": "victor-fr",
+    "ton": "pose",
+    "jeu": "honnête, après un temps",
+    "texte": "Tu as raison. Pas encore. Et on ne va pas faire semblant.",
+    "gap": 0.6
+   },
+   {
+    "voix": "clara-fr",
+    "ton": "curieuse",
+    "jeu": "désarmée",
+    "texte": "Ah. Au moins, c'est honnête.",
+    "gap": 0.25
+   },
+   {
+    "voix": "victor-fr",
+    "ton": "net",
+    "jeu": "concret",
+    "texte": "Les publications reprennent le onze décembre. À partir de là, tout sera daté, public, vérifiable. Le Biais face au marché, chaque soir. Les Convictions, les signaux du Labo, les actions du mois. Et le compte réel de MACROARSENAL publiera, lui aussi, ses chiffres."
+   },
+   {
+    "voix": "clara-fr",
+    "ton": "posee",
+    "jeu": "elle résume, sérieuse",
+    "texte": "Donc concrètement, vous dites : ne nous croyez pas sur parole."
+   },
+   {
+    "voix": "victor-fr",
+    "ton": "chaleureux",
+    "jeu": "chaleureux, convaincu",
+    "texte": "Exactement. Ne nous croyez pas sur parole. Regardez, et jugez. On vous donne même le repère : cinquante pour cent, c'est ce que donnerait le hasard. Pile ou face."
+   },
+   {
+    "voix": "clara-fr",
+    "ton": "sceptique",
+    "jeu": "taquine, elle cherche la faille",
+    "texte": "Et les jours sans avis ? Vous ne les comptez pas. C'est pratique, ça…",
+    "gap": 0.3
+   },
+   {
+    "voix": "victor-fr",
+    "ton": "complice",
+    "jeu": "beau joueur",
+    "texte": "Bien vu ! Non, on ne les compte pas, et c'est écrit. On ne se note que quand on prend position. On ne va pas se donner des points pour s'être abstenu."
+   },
+   {
+    "voix": "clara-fr",
+    "ton": "posee",
+    "jeu": "sincère",
+    "texte": "Tu sais ce qui me frappe ? D'habitude, on vous montre les gains. Ici, on vous promet de vous montrer les pertes.",
+    "gap": 0.4
+   },
+   {
+    "voix": "victor-fr",
+    "ton": "pose",
+    "jeu": "grave, sincère",
+    "texte": "Parce que c'est la seule façon de mériter votre confiance. Et MACROARSENAL ne reçoit aucune rémunération d'un courtier, d'une plateforme ou d'un émetteur. Aucune position n'est prise sur une idée avant sa publication."
+   },
+   {
+    "voix": "clara-fr",
+    "ton": "posee",
+    "jeu": "elle pense aux débutants",
+    "texte": "Tout ça parle à ceux qui tradent déjà. Mais moi, je pense à ceux qui n'ont jamais passé un ordre de leur vie…",
+    "gap": 0.4
+   },
+   {
+    "voix": "victor-fr",
+    "ton": "chaleureux",
+    "jeu": "chaleureux",
+    "texte": "Alors parlons d'école.",
+    "gap": 0.2
+   },
+   {
+    "voix": "clara-fr",
+    "ton": "sceptique",
+    "jeu": "elle joue la débutante",
+    "texte": "Chapitre sept : l'Academy. Et je joue mon rôle jusqu'au bout : tout ça, c'est pour les pros. Moi, je débute.",
+    "chap": "Chapitre 7 · L'Academy",
+    "son": "transition"
+   },
+   {
+    "voix": "victor-fr",
+    "ton": "chaleureux",
+    "jeu": "chaleureux, accueillant",
+    "texte": "Alors tu es exactement au bon endroit. Vous dites votre niveau : je découvre, je trade déjà un peu, ou je trade régulièrement. Le quiz et la leçon du jour s'adaptent à vous : deux minutes par jour. Et Doji vous fait visiter, page par page."
+   },
+   {
+    "voix": "clara-fr",
+    "ton": "curieuse",
+    "jeu": "curieuse",
+    "texte": "Et pour apprendre vraiment ? Pas juste un quiz ?"
+   },
+   {
+    "voix": "victor-fr",
+    "ton": "net",
+    "jeu": "net",
+    "texte": "Il y a l'Arsenal Academy, l'école de trading de MACROARSENAL. Elle commence par un module gratuit pour maîtriser tout le terminal, avec un certificat à la clé. Puis trois modules, en préparation : Fondations, pour débuter. Maîtrise, pour progresser. Élite, pour viser une pratique professionnelle."
+   },
+   {
+    "voix": "clara-fr",
+    "ton": "vive",
+    "jeu": "enthousiaste",
+    "texte": "Du débutant au pro, donc !",
+    "gap": 0.15
+   },
+   {
+    "voix": "victor-fr",
+    "ton": "net",
+    "jeu": "net",
+    "texte": "Du premier ordre jusqu'au plan d'activité. Et pour la crypto, la Crypto Academy : seize modules, en quatre niveaux, jusqu'à l'examen final."
+   },
+   {
+    "voix": "clara-fr",
+    "ton": "posee",
+    "jeu": "sérieuse, elle a été frappée",
+    "texte": "Tu sais ce que j'ai lu sur la page de l'Academy ? Une phrase qu'on ne voit jamais ailleurs.",
+    "gap": 0.35
+   },
+   {
+    "voix": "victor-fr",
+    "ton": "complice",
+    "jeu": "curieux",
+    "texte": "Laquelle ?",
+    "gap": 0.12
+   },
+   {
+    "voix": "clara-fr",
+    "ton": "posee",
+    "jeu": "elle cite, lentement",
+    "texte": "Aucune formation ne garantit de gagner de l'argent, et la plupart des traders particuliers en perdent. Écrit noir sur blanc.",
+    "gap": 0.2
+   },
+   {
+    "voix": "victor-fr",
+    "ton": "pose",
+    "jeu": "grave, après un temps",
+    "texte": "Parce que c'est vrai. On vous donne une méthode, des outils, de la discipline. Le reste dépend de votre pratique, de votre gestion du risque, et des marchés. Et pour pratiquer sans risque, il y a le simulateur : de l'argent fictif, sur les cours en direct.",
+    "gap": 0.5
+   },
+   {
+    "voix": "clara-fr",
+    "ton": "complice",
+    "jeu": "amusée",
+    "texte": "Le meilleur endroit pour faire ses erreurs."
+   },
+   {
+    "voix": "victor-fr",
+    "ton": "complice",
+    "jeu": "complice, du tac au tac",
+    "texte": "Le seul où elles sont gratuites.",
+    "gap": 0.08
+   },
+   {
+    "voix": "clara-fr",
+    "ton": "curieuse",
+    "jeu": "elle enchaîne les questions",
+    "texte": "Bon. Le débutant, j'ai compris. Mais le trader qui démarre ? Et le pro, qui a déjà tous ses outils ? Et surtout… combien ça coûte ?",
+    "gap": 0.3
+   },
+   {
+    "voix": "victor-fr",
+    "ton": "complice",
+    "jeu": "amusé, il la connaît",
+    "texte": "On y vient. Et je sens que tu as préparé ta question.",
+    "gap": 0.15
+   },
+   {
+    "voix": "clara-fr",
+    "ton": "vive",
+    "jeu": "vive",
+    "texte": "Chapitre huit : pour qui, et à quel prix. Commençons par le trader qui démarre.",
+    "chap": "Chapitre 8 · Pour qui, et à quel prix",
+    "son": "transition"
+   },
+   {
+    "voix": "victor-fr",
+    "ton": "net",
+    "jeu": "net",
+    "texte": "Lui, il a besoin de méthode. Comprendre chaque matin ce qui fait bouger ses marchés. Préparer chaque trade. Et tenir son journal de trading : ses vrais trades, le contexte du jour ajouté tout seul, ses statistiques, et les erreurs qui lui coûtent."
+   },
+   {
+    "voix": "clara-fr",
+    "ton": "curieuse",
+    "jeu": "curieuse",
+    "texte": "Et le pro ?",
+    "gap": 0.1
+   },
+   {
+    "voix": "victor-fr",
+    "ton": "net",
+    "jeu": "net, rapide",
+    "texte": "Le pro veut de la profondeur, sans détour. Les quarante analyses complètes du Biais. Les Convictions, dès leur publication. Les edges actifs. Les alertes. Et son trade comparé à notre analyse : aligné, neutre ou opposé. Et pourquoi."
+   },
+   {
+    "voix": "clara-fr",
+    "ton": "sceptique",
+    "jeu": "provocatrice, la question qui fâche",
+    "texte": "Alors maintenant, la question qui fâche vraiment. Pourquoi payer, quand TradingView ou les infos sont gratuits ?",
+    "gap": 0.3
+   },
+   {
+    "voix": "victor-fr",
+    "ton": "complice",
+    "jeu": "désarmant, il sourit",
+    "texte": "D'abord : gardez TradingView ! C'est un excellent outil de graphiques. MACROARSENAL ne le remplace pas."
+   },
+   {
+    "voix": "clara-fr",
+    "ton": "curieuse",
+    "jeu": "surprise",
+    "texte": "Ah bon ?",
+    "gap": 0.08
+   },
+   {
+    "voix": "victor-fr",
+    "ton": "net",
+    "jeu": "convaincu",
+    "texte": "Un graphique vous montre ce que fait le prix. MACROARSENAL vous dit pourquoi il le fait, ce qui arrive aujourd'hui, et il vérifie votre trade avant que vous entriez. Puis il vous montre ses propres résultats. L'information gratuite, il y en a partout. Le tri, la méthode et la preuve, beaucoup moins."
+   },
+   {
+    "voix": "clara-fr",
+    "ton": "curieuse",
+    "jeu": "elle insiste",
+    "texte": "Et donc, combien ?",
+    "gap": 0.25
+   },
+   {
+    "voix": "victor-fr",
+    "ton": "net",
+    "jeu": "net",
+    "texte": "D'abord, rien du tout. Il y a trois façons d'entrer. Découverte, c'est gratuit, sans limite de durée : je vois, le constat. Fondateur : je comprends, le pourquoi. Arsenal : je décide, l'action."
+   },
+   {
+    "voix": "clara-fr",
+    "ton": "sceptique",
+    "jeu": "méfiante",
+    "texte": "Gratuit pour toujours… c'est une version au rabais, non ?"
+   },
+   {
+    "voix": "victor-fr",
+    "ton": "net",
+    "jeu": "il énumère, sûr de lui",
+    "texte": "Jugez vous-même : l'actualité mondiale, la radio, le calendrier, trois marchés du Biais offerts chaque jour, le simulateur, le Calculateur Arsenal, le quiz du jour et la Crypto zone sur Solana."
+   },
+   {
+    "voix": "clara-fr",
+    "ton": "curieuse",
+    "jeu": "curieuse",
+    "texte": "Et les packs payants, en euros ?",
+    "gap": 0.25
+   },
+   {
+    "voix": "victor-fr",
+    "ton": "net",
+    "jeu": "net",
+    "texte": "Fondateur revient à moins d'un euro par jour, en moyenne. Arsenal à l'année, à un euro dix-huit par jour."
+   },
+   {
+    "voix": "clara-fr",
+    "ton": "complice",
+    "jeu": "amusée",
+    "texte": "Moins qu'un café en terrasse.",
+    "gap": 0.15
+   },
+   {
+    "voix": "victor-fr",
+    "ton": "complice",
+    "jeu": "pince-sans-rire",
+    "texte": "Moins que mon café serré, en tout cas. Et lui, il ne vérifie pas mes trades.",
+    "gap": 0.12
+   },
+   {
+    "voix": "clara-fr",
+    "ton": "complice",
+    "jeu": "éclat de rire",
+    "texte": "Ha ha ! Pauvre café.",
+    "gap": 0.05
+   },
+   {
+    "voix": "clara-fr",
+    "ton": "curieuse",
+    "jeu": "elle se reprend",
+    "texte": "Et pour essayer avant de payer ?",
+    "gap": 0.35
+   },
+   {
+    "voix": "victor-fr",
+    "ton": "chaleureux",
+    "jeu": "chaleureux, rassurant",
+    "texte": "Sept jours d'essai gratuit sur tout Arsenal, sans carte bancaire. À la fin, vous repassez simplement en Découverte : aucune carte, donc aucun prélèvement surprise. Et le mensuel est sans engagement."
+   },
+   {
+    "voix": "clara-fr",
+    "ton": "vive",
+    "jeu": "impatiente",
+    "texte": "Bon. Alors, Victor, la vraie question. Quand est-ce qu'on peut entrer ?",
+    "gap": 0.3
+   },
+   {
+    "voix": "victor-fr",
+    "ton": "complice",
+    "jeu": "malicieux",
+    "texte": "Bientôt. Très bientôt.",
+    "gap": 0.2
+   },
+   {
+    "voix": "clara-fr",
+    "ton": "posee",
+    "jeu": "posée, l'heure du rendez-vous",
+    "texte": "Dernier chapitre : le rendez-vous. Victor, quand ouvre MACROARSENAL ?",
+    "chap": "Chapitre 9 · Le rendez-vous",
+    "son": "transition"
+   },
+   {
+    "voix": "victor-fr",
+    "ton": "energique",
+    "jeu": "énergique, il annonce",
+    "texte": "Le lundi onze janvier deux mille vingt-sept.",
+    "gap": 0.25
+   },
+   {
+    "voix": "clara-fr",
+    "ton": "curieuse",
+    "jeu": "curieuse",
+    "texte": "Et d'ici là ?",
+    "gap": 0.12
+   },
+   {
+    "voix": "victor-fr",
+    "ton": "chaleureux",
+    "jeu": "chaleureux, invitant",
+    "texte": "Rendez-vous sur macroarsenal.com. Laissez votre adresse : vous serez prévenu le jour de l'ouverture. Et dès l'ouverture, sept jours d'essai gratuit, sans carte bancaire."
+   },
+   {
+    "voix": "clara-fr",
+    "ton": "posee",
+    "jeu": "touchée, plus lente",
+    "texte": "Victor… si tu devais convaincre quelqu'un qui hésite encore, tu lui dirais quoi ?",
+    "gap": 0.6,
+    "fond": "fond-doux"
+   },
+   {
+    "voix": "victor-fr",
+    "ton": "pose",
+    "jeu": "ému, retenu",
+    "texte": "Je lui dirais : pendant dix-huit ans, j'ai vu des traders gagner, perdre, recommencer. Ceux qui ont tenu n'étaient pas les plus malins. C'étaient ceux qui avaient un plan… et quelqu'un à côté d'eux.",
+    "gap": 0.7
+   },
+   {
+    "voix": "victor-fr",
+    "ton": "chaleureux",
+    "jeu": "chaleureux, la voix qui sourit",
+    "texte": "MACROARSENAL, c'est ce quelqu'un. Chaque matin, une lecture claire. Avant chaque trade, un second regard. Et chaque soir, la vérité. Même quand elle fait mal.",
+    "gap": 0.45
+   },
+   {
+    "voix": "clara-fr",
+    "ton": "posee",
+    "jeu": "émue, doucement",
+    "texte": "En salle, personne ne trade seul.",
+    "gap": 0.6
+   },
+   {
+    "voix": "victor-fr",
+    "ton": "chaleureux",
+    "jeu": "chaleureux",
+    "texte": "Ici non plus.",
+    "gap": 0.3
+   },
+   {
+    "voix": "clara-fr",
+    "ton": "vive",
+    "jeu": "enthousiaste, la signature",
+    "texte": "MACROARSENAL. Le terminal qui change votre vision du trading.",
+    "gap": 0.6
+   },
+   {
+    "voix": "victor-fr",
+    "ton": "pose",
+    "jeu": "posé, la signature",
+    "texte": "Ne tradez plus jamais à l'aveugle.",
+    "gap": 0.5,
+    "fond_fin": true
+   },
+   {
+    "voix": "clara-fr",
+    "ton": "posee",
+    "jeu": "sincère, naturelle",
+    "texte": "Et comme promis, on termine honnêtement : MACROARSENAL est un outil d'information et d'éducation, pas un conseil en investissement personnalisé. Le trading comporte un risque de perte en capital.",
+    "gap": 0.9,
+    "son": "fin-debut"
+   },
+   {
+    "voix": "victor-fr",
+    "ton": "chaleureux",
+    "jeu": "chaleureux, au revoir",
+    "texte": "Le marché sera encore là demain. Votre capital aussi, si vous le protégez. À très vite !",
+    "fin": true
+   }
+  ]
+ }
+}
