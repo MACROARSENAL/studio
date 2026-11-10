@@ -1,0 +1,57 @@
+{
+ "voice": "clara-c",
+ "langue": "fr",
+ "label": "Clara C, posée et veloutée",
+ "take": 2,
+ "acts": [
+  "casting"
+ ],
+ "engine": "Qwen3-TTS 1.7B VoiceDesign (Apache-2.0)",
+ "design": "A French woman in her mid-thirties, podcast co-host and experienced financial journalist. Low, velvety, calm and confident voice, thoughtful and precise, with warmth and gentle humor; she asks sharp, skeptical questions without any aggression. Natural conversational delivery, relaxed pace, natural breathing. Native French accent from Paris. Intimate close-microphone podcast studio sound. Never an advertisement voice-over, never theatrical, never robotic.",
+ "acting": "A natural, spontaneous podcast conversation between two hosts around a table: varied intonation, genuine reactions (curiosity, surprise, doubt, amusement, emotion), as if talking to a colleague she likes, never reading a script, never selling anything.",
+ "sr": 24000,
+ "seconds": 36.08,
+ "compute": 362,
+ "text": "Bonjour à toutes et à tous ! Moi, c'est Clara. Et aujourd'hui, Victor, on ouvre enfin les portes de Macro Arsenal. Attendez, attendez. Vous êtes en train de me dire que tout ça tient dans un seul terminal ? Expliquez-moi, parce que j'ai du mal à y croire. Honnêtement, Victor ? Des outils de trading, il en sort un tous les matins. Pourquoi est-ce que celui-là serait différent ? Alors celle-là, je ne l'avais pas vue venir ! Bon, d'accord, vous marquez un point. Je crois que c'est ça qui me touche le plus. Ne plus être seul, le soir, face à ses écrans. Savoir que quelqu'un a fait le travail avec vous.",
+ "lines": [
+  {
+   "id": "vive",
+   "text": "Bonjour à toutes et à tous ! Moi, c'est Clara. Et aujourd'hui, Victor, on ouvre enfin les portes de MACROARSENAL.",
+   "tts": "Bonjour à toutes et à tous ! Moi, c'est Clara. Et aujourd'hui, Victor, on ouvre enfin les portes de Macro Arsenal.",
+   "start": 0.0,
+   "end": 6.7
+  },
+  {
+   "id": "curieuse",
+   "text": "Attendez, attendez. Vous êtes en train de me dire que tout ça tient dans un seul terminal ? Expliquez-moi, parce que j'ai du mal à y croire.",
+   "tts": "Attendez, attendez. Vous êtes en train de me dire que tout ça tient dans un seul terminal ? Expliquez-moi, parce que j'ai du mal à y croire.",
+   "start": 7.9,
+   "end": 14.6
+  },
+  {
+   "id": "sceptique",
+   "text": "Honnêtement, Victor ? Des outils de trading, il en sort un tous les matins. Pourquoi est-ce que celui-là serait différent ?",
+   "tts": "Honnêtement, Victor ? Des outils de trading, il en sort un tous les matins. Pourquoi est-ce que celui-là serait différent ?",
+   "start": 15.18,
+   "end": 21.66
+  },
+  {
+   "id": "complice",
+   "text": "Alors celle-là, je ne l'avais pas vue venir ! Bon, d'accord, vous marquez un point.",
+   "tts": "Alors celle-là, je ne l'avais pas vue venir ! Bon, d'accord, vous marquez un point.",
+   "start": 22.38,
+   "end": 26.74
+  },
+  {
+   "id": "posee",
+   "text": "Je crois que c'est ça qui me touche le plus. Ne plus être seul, le soir, face à ses écrans. Savoir que quelqu'un a fait le travail avec vous.",
+   "tts": "Je crois que c'est ça qui me touche le plus. Ne plus être seul, le soir, face à ses écrans. Savoir que quelqu'un a fait le travail avec vous.",
+   "start": 27.36,
+   "end": 35.88
+  }
+ ],
+ "heard": "Bonjour à toutes et à tous, moi c'est Clara, et aujourd'hui, Victor, on ouvre enfin les portes de macro-arsenal. Attendez, attendez, vous êtes en train de me dire que tout ça tient dans un seul terminal ? Expliquez-moi, parce que j'ai du mal à y croire. Honnêtement, Victor, des outils de trading, il en sort un tous les matins. Pourquoi est-ce que celui-là serait différent ? Alors celle-là, je ne l'avais pas vu venir. Bon, d'accord, vous marquez un point, je crois que c'est ça qui me touche le plus. Ne plus être seul, le soir, face à ces écrans. Savoir que quelqu'un a fait le travail avec vous.",
+ "wer": 0.076,
+ "extra": 16,
+ "ok": false
+}
