@@ -175,6 +175,8 @@ jobs:
           pip install -q numpy scipy
           git clone -q --depth 1 -b podcast-resultats "https://x-access-token:${{ github.token }}@github.com/${{ github.repository }}.git" /tmp/br
           python podcast/mixage.py "$EMI" /tmp/br/prises/$ID podcast/habillage /tmp/mix
+          # le WAV de travail dépasse la limite de 100 Mo de GitHub : on range une copie FLAC (sans perte) à sa place
+          for f in /tmp/mix/*.wav; do ffmpeg -v error -i "$f" -c:a flac -compression_level 8 "${f%.wav}.flac" && rm "$f"; done
           cd /tmp/br && mkdir -p mix/$ID && cp /tmp/mix/* mix/$ID/
           git config --global user.name "studio-bot"; git config --global user.email "studio-bot@users.noreply.github.com"
           git add -A && git commit -qm "Podcast $ID : mixage (fabrication ${{ github.run_id }})" && git push -q origin HEAD:podcast-resultats
