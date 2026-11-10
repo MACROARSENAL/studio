@@ -1,0 +1,20 @@
+name: Transcrire
+
+# Vérification rapide : transcrit les fichiers audio donnés (radio/transcrire.py).
+on:
+  workflow_dispatch:
+    inputs:
+      langue: { required: true, default: 'fr' }
+      fichiers: { description: 'Chemins séparés par des espaces', required: true }
+
+jobs:
+  transcrire:
+    runs-on: ubuntu-24.04
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: sudo apt-get install -y -qq ffmpeg > /dev/null && python -m venv /tmp/asr && /tmp/asr/bin/pip install -q faster-whisper numpy
+      - env: { L: '${{ inputs.langue }}', F: '${{ inputs.fichiers }}' }
+        run: /tmp/asr/bin/python radio/transcrire.py "$L" $F
