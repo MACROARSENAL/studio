@@ -87,6 +87,9 @@ for d in sorted({os.path.dirname(m) for m in glob.glob(os.path.join(PRISES, '**'
 
 VIF = {'energique', 'complice', 'net', 'vive', 'curieuse', 'sceptique'}
 POSE = {'clara-fr': 0.94}   # Clara un tout petit peu plus posée (Kévin, 10/11/2026) : débit visé 6 % plus calme
+# La fabrication posée (références ralenties, expressivité plus basse) n'a calmé son débit que de 2 % environ : complément
+# très léger, sans changer la hauteur, pour arriver vers −5 % (au-delà, on toucherait au timbre).
+ETIRE = {'clara-fr': 0.965}
 
 
 def base(ton):
@@ -197,6 +200,15 @@ def etirer(x, tempo):
     raise RuntimeError('étirement impossible')
 
 
+def debut_voix(x):
+    """Première trame voisée (la voix elle-même, pas le souffle ni la consonne qui la précèdent), en s."""
+    from scipy.signal import resample_poly
+    m = resample_poly(x.mean(1), naturel.SRA, SR).astype(np.float32)
+    f0, _ = naturel.hauteur(m)
+    v = np.nonzero(f0 > 0)[0]
+    return v[0] * 0.01 if len(v) else None
+
+
 def decoupe(p):
     """La prise coupée autour de la parole : l'inspiration qui la précède est gardée, la fin s'arrête un peu après le
     dernier mot (jamais de coupe sèche ni de traîne). Renvoie le son, le début et la fin de la parole dans ce son, le
@@ -206,8 +218,10 @@ def decoupe(p):
     emax = e.max()
     voix = np.nonzero(e > emax - 30)[0]
     on, off = int(voix[0]), int(voix[-1])
-    b0 = on
-    while b0 > 0 and on - b0 < 70 and e[b0 - 1] > emax - 48:
+    vo = debut_voix(x)
+    von = max(on, int(round(vo / 0.01))) if vo is not None else on
+    b0 = von
+    while b0 > 0 and von - b0 < 80 and e[b0 - 1] > emax - 48:
         b0 -= 1
     a = max(0, b0 - 3) * 0.01
     mots = p['prise'].get('mots') or []
@@ -217,7 +231,13 @@ def decoupe(p):
     y = fade(y, 0.012, 0.06)
     y = y * db(-20 - niveau_parole(y))
     dernier = float(mots[-1][1]) - a if mots else (off + 1) * 0.01 - a - 0.3
-    return y, on * 0.01 - a, (off + 1) * 0.01 - a, max(0.0, dernier), (on - b0) * 0.01
+    # début de la parole : la première consonne (énergie), l'inspiration est ce qui précède de plus de 0,15 s la voix
+    insp = (von - b0) * 0.01
+    if insp >= 0.15:
+        s0 = von * 0.01 - a - 0.08          # la parole commence avec sa première consonne, juste avant la voix
+    else:
+        s0 = on * 0.01 - a
+    return y, max(0.0, s0), (off + 1) * 0.01 - a, max(0.0, dernier), insp if insp >= 0.15 else 0.0
 
 
 def chaine(x, voix):
@@ -253,12 +273,16 @@ def souffle(voix):
             for p in c:
                 if p['nat'].get('inspiration') and len(lib) < 12:
                     x = load(p['path']); e = enveloppe(x); emax = e.max()
-                    on = int(np.nonzero(e > emax - 30)[0][0]); b0 = on
-                    while b0 > 0 and on - b0 < 70 and e[b0 - 1] > emax - 48:
+                    vo = debut_voix(x)
+                    if vo is None:
+                        continue
+                    von = int(round(vo / 0.01)); b0 = von
+                    while b0 > 0 and von - b0 < 80 and e[b0 - 1] > emax - 48:
                         b0 -= 1
-                    if on - b0 >= 15:
-                        seg = x[(b0 - 2) * int(0.01 * SR): (on - 2) * int(0.01 * SR)]
-                        lib.append(fade(seg * db(-20 - niveau_parole(x)), 0.04, 0.05))
+                    if von - b0 >= 25:                  # au moins 0,25 s de souffle avant la voix
+                        seg = x[max(0, b0 - 2) * int(0.01 * SR): (von - 10) * int(0.01 * SR)]
+                        if len(seg) > int(0.15 * SR):
+                            lib.append(fade(seg * db(-20 - niveau_parole(x)), 0.04, 0.05))
         SOUFFLES[voix] = lib
     lib = SOUFFLES[voix]
     return lib[len(lib) // 2] if lib else None
@@ -294,7 +318,7 @@ for b, bloc in enumerate(BLOCS):
         start = tg + REP[f'{name}_voix']
     elif gap < 0 and ench in ('reaction', 'coupe') and last['voix'] and last['voix'] != voix:
         mot = max(0.05, last['fin'] - last['dernier_mot'])
-        ov = max(0.06, min(-gap, (0.4 if ench == 'reaction' else 0.6) * mot, 0.3))
+        ov = max(0.1, min(max(-gap, 0.12), (0.5 if ench == 'reaction' else 0.7) * mot, 0.3))
         start = last['fin'] - ov
     else:
         start = last['fin'] + max(gap, 0.08)
@@ -308,7 +332,7 @@ for b, bloc in enumerate(BLOCS):
         x, s0, s1, dern, insp = decoupe(p)
         r = p['prise'].get('rate') or 18.0
         # débit : un léger coup de pouce pour Victor seulement (±4 %) ; Clara est posée à la fabrication, jamais étirée
-        tempo = 1.0 if voix in POSE else float(np.clip(debit(p['ton'], voix) / r, 0.96, 1.04))
+        tempo = ETIRE.get(voix) or float(np.clip(debit(p['ton'], voix) / r, 0.94, 1.05))
         tempo = 1.0 if abs(tempo - 1) < 0.025 else tempo
         if tempo != 1.0:
             x = etirer(x, tempo); s0, s1, dern, insp = s0 / tempo, s1 / tempo, dern / tempo, insp / tempo
