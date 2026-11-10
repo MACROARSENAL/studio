@@ -1,0 +1,27 @@
+name: Écoute de contrôle
+
+# Transcrit une émission finie (voix + musique) mot par mot et signale ce qu'on entend autour de chaque changement de rubrique.
+on:
+  workflow_dispatch:
+    inputs:
+      emission: { description: 'Identifiant, ex. 2026-11-10-matinale', required: true }
+      langue: { description: 'fr, en ou es', required: true, default: 'fr' }
+
+jobs:
+  ecoute:
+    runs-on: ubuntu-24.04
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/checkout@v4
+        with:
+          ref: emissions
+          path: emissions
+          sparse-checkout: ${{ inputs.emission }}
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Outils
+        run: python -m venv /tmp/asr && /tmp/asr/bin/pip install -q faster-whisper
+      - name: Écoute
+        env: { E: '${{ inputs.emission }}', L: '${{ inputs.langue }}' }
+        run: /tmp/asr/bin/python radio/ecoute.py "emissions/$E/$E-$L.mp3" "emissions/$E/$E-$L-minutage.json" "$L"
