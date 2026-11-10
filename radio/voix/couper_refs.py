@@ -31,8 +31,9 @@ for lang, tons in COUPES.items():
         hit = [w for w in words if mot in w.word.lower()]
         if not hit:
             print(f'::error title={lang} {ton}::mot repère « {mot} » introuvable : ' + ' '.join(w.word for w in words)); continue
-        end = hit[-1].end + 0.12
-        subprocess.run(['ffmpeg', '-v', 'error', '-y', '-i', orig, '-t', f'{end:.2f}', '-af', f'afade=t=out:st={max(0, end - 0.08):.2f}:d=0.08', src], check=True)
+        # « net » : le mot suivant (« de », « at », « del ») suit sans pause, on coupe au ras du mot repère ; ailleurs, une petite marge.
+        end = hit[-1].end + (0.02 if ton == 'net' else 0.12)
+        subprocess.run(['ffmpeg', '-v', 'error', '-y', '-i', orig, '-t', f'{end:.2f}', '-af', f'afade=t=out:st={max(0, end - 0.05):.2f}:d=0.05', src], check=True)
         r['texte'] = texte; r['secondes'] = round(end, 2); r['coupe'] = f'10/11/2026 : coupée après « {hit[-1].word.strip()} » ({end:.2f} s), original : {os.path.basename(orig)}'
         print(f'::notice title={lang} {ton}::coupée à {end:.2f} s après « {hit[-1].word.strip()} » (entendu : ' + ' '.join(w.word.strip() for w in words) + ')')
     json.dump(prof, open(f'{d}/profil.json', 'w', encoding='utf-8'), ensure_ascii=False)
