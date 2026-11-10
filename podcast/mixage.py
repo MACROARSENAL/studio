@@ -225,6 +225,9 @@ def decoupe(p):
         b0 -= 1
     a = max(0, b0 - 3) * 0.01
     mots = p['prise'].get('mots') or []
+    w0 = float(mots[0][1]) if mots else None          # début du premier mot (transcription) : la consonne initiale,
+    if w0 is not None:                                 # même douce (« Ch », « S », « P »), est toujours gardée
+        a = max(0.0, min(a, w0 - 0.15))
     fin_mots = float(mots[-1][2]) if mots else (off + 1) * 0.01
     z = min(len(x) / SR, max(fin_mots + 0.25, (off + 1) * 0.01 + 0.10))
     y = x[int(a * SR): int(z * SR)].copy()
@@ -326,7 +329,7 @@ for b, bloc in enumerate(BLOCS):
         start = tg + REP[f'{name}_voix'] + 0.3          # la dernière note du motif sonne, puis la voix
     elif gap < 0 and ench in ('reaction', 'coupe') and last['voix'] and last['voix'] != voix:
         mot = max(0.05, last['fin'] - last['dernier_mot'])
-        ov = max(0.1, min(max(-gap, 0.12), (0.5 if ench == 'reaction' else 0.7) * mot, 0.3))
+        ov = max(0.08, min(max(-gap, 0.1), (0.5 if ench == 'reaction' else 0.7) * mot, 0.12 if ench == 'reaction' else 0.15))
         start = last['fin'] - ov
     else:
         start = last['fin'] + max(gap, 0.08)
@@ -344,7 +347,7 @@ for b, bloc in enumerate(BLOCS):
         tempo = 1.0 if abs(tempo - 1) < 0.025 else tempo
         if tempo != 1.0:
             x = etirer(x, tempo); s0, s1, dern, insp = s0 / tempo, s1 / tempo, dern / tempo, insp / tempo
-        g = db(-2.5) if ench == 'reaction' and i == 0 and len(p['text']) <= 24 else 1.0   # « Mmh », « Aucune ? » : un peu plus bas
+        g = db(-1.5) if ench == 'reaction' and i == 0 and len(p['text']) <= 24 else 1.0   # « Mmh », « Aucune ? » : un peu plus bas
         if i == 0 and insp < 0.12 and len(bloc['texte']) >= 140 and (start - last['fin']) >= 0.3:
             br = souffle(voix)                     # une vraie inspiration de cette voix, avant une longue réplique
             if br is not None:

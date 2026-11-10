@@ -1,62 +1,72 @@
 {
- "_": "Écoute de contrôle du mix final (v2) : transcription intégrale et fenêtres courtes autour des réactions, interruptions, mots isolés et entrées après la musique.",
- "mp3": "final/presentation-fr-v2/presentation-fr.mp3",
+ "_": "Écoute de contrôle du mix final v3 (consonnes initiales gardées) : transcription intégrale et fenêtres courtes.",
+ "mp3": "final/presentation-fr-v3/presentation-fr.mp3",
  "podcast": "podcast/presentation-fr.json",
- "nom": "presentation-fr-final-v2",
+ "nom": "presentation-fr-final-v3",
  "fenetres": [
   [
    23.65,
-   26.83,
-   "réaction « Ah ça… » sur la fin de « cadeau »"
+   27.72,
+   "réaction « Ah ça… »"
   ],
   [
-   70.71,
-   75.71,
+   71.59,
+   76.59,
    "entrée après la transition : « Chapitre un »"
   ],
   [
-   93.01,
-   95.97,
+   142.37,
+   146.87,
+   "entrée après la transition : « Chapitre deux »"
+  ],
+  [
+   210.03,
+   214.53,
+   "entrée après la transition : « Chapitre trois »"
+  ],
+  [
+   325.97,
+   330.47,
+   "entrée après la transition : « Chapitre quatre »"
+  ],
+  [
+   382.17,
+   386.67,
+   "entrée après la transition : « Chapitre cinq »"
+  ],
+  [
+   94.04,
+   97.0,
    "réaction « Presque, hein ? »"
   ],
   [
-   153.15,
-   156.96,
-   "réaction « Pfff… Ça, c'est la base »"
-  ],
-  [
-   183.81,
-   187.16,
+   185.06,
+   188.41,
    "interruption « Respire, Victor ! »"
   ],
   [
-   200.79,
-   206.29,
-   "« Il vous emmène à la bonne page »"
+   228.69,
+   235.12,
+   "interruption « Attends… »"
   ],
   [
-   227.42,
-   233.82,
-   "interruption « Attends. Votre Biais… »"
-  ],
-  [
-   270.09,
-   275.46,
+   271.6,
+   277.1,
    "interruption « Stop ! » et réaction « Oh là là »"
   ],
   [
-   309.49,
-   317.71,
+   312.0,
+   320.23,
    "« Tout ? » / « Tout. »"
   ],
   [
-   329.57,
-   334.06,
+   332.08,
+   336.59,
    "réaction « Ah ben… »"
   ],
   [
-   449.24,
-   463.74,
+   451.77,
+   466.28,
    "phrase de risque et dernière réplique"
   ]
  ]
