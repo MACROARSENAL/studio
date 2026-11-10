@@ -1,0 +1,61 @@
+::notice title=Écoute::1278/1416 mots du texte retrouvés (90.2%), 131 écarts, heures dites : aucune, passages doublés : 2
+   5.56 s  replace  attendu « d' » entendu « d ' »
+  14.84 s  replace  attendu « c' » entendu « c ' »
+  15.44 s  replace  attendu « l' » entendu « l ' »
+  18.54 s  replace  attendu « aujourd' » entendu « aujourd ' »
+  20.80 s  replace  attendu « qu' » entendu « qu ' »
+  22.68 s  replace  attendu « n' » entendu « n ' »
+  25.62 s  delete   attendu « ha ca » entendu «  »
+  25.78 s  replace  attendu « m' » entendu « m ' »
+  46.14 s  replace  attendu « c' » entendu « c ' »
+  58.94 s  replace  attendu « qu' » entendu « qu ' »
+  61.04 s  replace  attendu « c' » entendu « c ' »
+  71.40 s  replace  attendu « chapitre » entendu « pitre »
+  72.34 s  replace  attendu « l' » entendu « l ' »
+  74.00 s  replace  attendu « t' » entendu « t ' »
+  74.40 s  replace  attendu « dix huit » entendu « 18 »
+  77.12 s  replace  attendu « qu' » entendu « qu ' »
+  82.42 s  replace  attendu « trade » entendu « traite »
+  83.64 s  replace  attendu « quelqu' » entendu « quelqu ' »
+  85.24 s  replace  attendu « quelqu' » entendu « quelqu ' »
+  86.56 s  replace  attendu « quelqu' » entendu « quelqu ' »
+  90.20 s  replace  attendu « j' » entendu « j ' »
+  91.54 s  replace  attendu « dix huit » entendu « 18 »
+ 101.36 s  replace  attendu « d' » entendu « d ' »
+ 101.78 s  replace  attendu « d' » entendu « d ' »
+ 105.64 s  insert   attendu «  » entendu « ' »
+ 109.84 s  replace  attendu « l' » entendu « l ' »
+ 116.18 s  delete   attendu « a la » entendu «  »
+ 118.98 s  replace  attendu « qu' » entendu « qu ' »
+ 119.28 s  replace  attendu « j' » entendu « j ' »
+ 134.88 s  replace  attendu « l' » entendu « l ' »
+ 135.06 s  replace  attendu « repetee » entendu « repete »
+ 141.40 s  insert   attendu «  » entendu « c ' est la »
+ 143.00 s  replace  attendu « l' » entendu « l ' »
+ 145.80 s  replace  attendu « quarante » entendu « 40 »
+ 149.56 s  replace  attendu « d' » entendu « d ' »
+ 154.56 s  delete   attendu « pfff » entendu «  »
+ 155.20 s  replace  attendu « c' » entendu « c ' »
+ 157.74 s  replace  attendu « edge » entendu « edg »
+ 160.70 s  replace  attendu « vingt cinq » entendu « 25 »
+ 164.64 s  replace  attendu « deu mille dix huit » entendu « 2018 »
+ 166.96 s  replace  attendu « qu' » entendu « qu ' »
+ 168.40 s  insert   attendu «  » entendu « ' »
+ 168.62 s  replace  attendu « qu' » entendu « qu ' »
+ 169.62 s  replace  attendu « tiennent » entendu « tienne »
+ 170.44 s  replace  attendu « c' » entendu « c ' »
+ 171.16 s  replace  attendu « qu' » entendu « qu ' »
+ 175.34 s  replace  attendu « c' » entendu « c ' »
+ 177.00 s  replace  attendu « crypto zone » entendu « cryptozone »
+ 179.44 s  replace  attendu « l' academy » entendu « l ' academie »
+ 191.82 s  replace  attendu « d' » entendu « d ' »
+ 192.24 s  replace  attendu « tue l' » entendu « tu l ' »
+ 193.24 s  replace  attendu « qu' » entendu « qu ' »
+ 202.28 s  delete   attendu « page » entendu «  »
+ 203.38 s  replace  attendu « n' » entendu « n ' »
+ 211.80 s  replace  attendu « c' » entendu « c ' »
+ 214.06 s  replace  attendu « qu' » entendu « qu ' »
+ 217.08 s  replace  attendu « quarante » entendu « 40 »
+ 219.44 s  replace  attendu « haussier » entendu « aussi et »
+ 225.56 s  insert   attendu «  » entendu « ne »
+ 227.42 s  replace  attendu « c' » entendu « c ' »
