@@ -1,0 +1,274 @@
+{
+ "id": "2026-11-10-matinale",
+ "_": "Matinale du mardi 10 novembre 2026 (visite du papa de Kévin), préparée le 10/11 vers 7 h 45 (Paris) à partir du contenu publié du jour : brief du 10/11 (src/content/briefs.json : Wall Street du 9/11, séance asiatique, Nvidia, pétrole, Chine, agenda, banques centrales), Radar du 10/11 (pulse, entrées AMD et Legrand, Eli Lilly en tête ; aucune pépite citée), Biais du 10/11 (seulement les 5 marchés offerts : DXY, USDMXN, USDCAD, NZDUSD, ETHUSD ; cités : dollar, kiwi, ether), calendrier du 10/11. Aucune Conviction publiée ce jour (aucune à 50 % au feu vert). Aucune heure dite, sauf les signatures. Mardi : « Le mot de la salle » (inflation sous-jacente).",
+ "date": "2026-11-10",
+ "site": {
+  "genre": "matinale",
+  "titre": {
+   "fr": "L'inflation américaine en ligne de mire",
+   "en": "All eyes on US inflation",
+   "es": "Todas las miradas en la inflación estadounidense"
+  },
+  "resume": {
+   "fr": "Wall Street signe sa meilleure séance depuis avril, le Nikkei passe les 60 000 points, le pétrole se détend, et l'inflation américaine d'octobre tombe cet après-midi.",
+   "en": "Wall Street posts its best session since April, the Nikkei tops 60,000, oil eases, and October US inflation is out this afternoon.",
+   "es": "Wall Street firma su mejor sesión desde abril, el Nikkei supera los 60.000 puntos, el petróleo se relaja y la inflación estadounidense de octubre se publica esta tarde."
+  }
+ },
+ "voix": {
+  "fr": "victor-fr",
+  "en": "victor-en",
+  "es": "victor-es"
+ },
+ "parties": 5,
+ "prononciation": {
+  "fr": {
+   "la Fed ": "la Fède ",
+   "S&P": "S et P",
+   "SoftBank": "Softe Bank",
+   "CoreWeave": "Core Wive",
+   "Eli Lilly": "Éli Lili",
+   "Broadcom": "Brodcom",
+   "STMicro": "S T Micro",
+   "Nvidia": "Ènvidia"
+  },
+  "en": {
+   "S&P": "S and P",
+   "STMicro": "S T Micro",
+   "CoreWeave": "Core Weave"
+  },
+  "es": {
+   "S&P": "ese y pe",
+   "SoftBank": "Sof Bank",
+   "CoreWeave": "Cor Uiv",
+   "Eli Lilly": "Eli Lili",
+   "Broadcom": "Brodcom",
+   "STMicro": "ese te Micro",
+   "Nvidia": "Envidia"
+  }
+ },
+ "blocs": {
+  "fr": [
+   {
+    "son": "intro",
+    "rubrique": "ouverture",
+    "ton": "energique",
+    "texte": "Huit heures, les marchés se réveillent. Bonjour la salle ! Ici Victor Castel, et vous écoutez MACROARSENAL Radio. Café serré, écrans allumés : on fait le tour du monde en trois minutes. Mardi dix novembre, et tous les regards sont tournés vers l'inflation américaine."
+   },
+   {
+    "son": "carillon",
+    "rubrique": "ecrans",
+    "ton": "net",
+    "texte": "Wall Street, d'abord. Hier, New York a signé sa meilleure séance depuis avril : le S&P cinq cents gagne deux virgule trois pour cent, le Nasdaq deux virgule sept. Les puces mènent la danse, avec AMD et Broadcom. Seule ombre : Nvidia recule d'environ quatre pour cent. Son conseil d'administration enquête sur des informations selon lesquelles son patron aurait été visé par un service de renseignement étranger. Pékin parle de calomnies."
+   },
+   {
+    "son": "carillon",
+    "rubrique": "ecrans",
+    "ton": "net",
+    "texte": "Cette nuit, l'Asie prolonge le mouvement. À Tokyo, le Nikkei passe au-dessus des soixante mille points, en hausse d'environ deux virgule six pour cent. À Séoul, le Kospi bondit d'environ quatre pour cent : l'ouverture a été si forte qu'un mécanisme de pause s'est déclenché. Et SoftBank s'envole d'environ quinze pour cent avant ses résultats."
+   },
+   {
+    "son": "carillon",
+    "rubrique": "ecrans",
+    "ton": "net",
+    "texte": "Le pétrole, lui, se détend. Le Brent revient vers quatre-vingt-douze dollars le baril, après une chute de plus de quatre pour cent hier. Donald Trump juge très improbables de nouvelles frappes sur l'Iran si les négociations avancent. Mais de nouveaux incidents sont signalés dans le détroit d'Ormuz."
+   },
+   {
+    "son": "carillon",
+    "rubrique": "ecrans",
+    "ton": "net",
+    "texte": "Côté commerce, Pékin prolonge de deux mois la suspension d'un droit de douane supplémentaire sur certains produits américains. La trêve tient."
+   },
+   {
+    "son": "virgule",
+    "rubrique": "chiffre",
+    "ton": "pose",
+    "texte": "Le chiffre du matin : trente-cinq virgule deux pour cent. C'est la hausse des exportations chinoises en octobre, sur un an. Depuis janvier, l'excédent commercial de la Chine dépasse déjà les mille milliards de dollars."
+   },
+   {
+    "son": "virgule",
+    "rubrique": "biais",
+    "ton": "net",
+    "texte": "Le Biais du jour. Cinq marchés sont offerts à tous ce matin. Le dollar est vu en hausse, porté par une Réserve fédérale qui reste ferme. Le dollar néo-zélandais est vu en baisse : il vient de passer sous son plus bas d'un an. Côté cryptos, le bitcoin se tient vers soixante-quinze mille dollars, et l'ether est vu en baisse, pénalisé par des sorties record de ses fonds cotés. Les quarante lectures complètes vous attendent dans le terminal."
+   },
+   {
+    "son": "virgule",
+    "rubrique": "actions",
+    "ton": "net",
+    "texte": "Le monde des actions. En Europe aussi, la séance d'hier a été solide : le CAC quarante gagne un virgule deux pour cent, emmené par STMicro, et l'Ibex près de deux pour cent avec les banques. Au Radar, deux entrées ce matin : AMD et Legrand. Eli Lilly prend la tête de la liste. Et ce soir, après la clôture de Wall Street, CoreWeave publie ses résultats."
+   },
+   {
+    "son": "virgule",
+    "rubrique": "rendez-vous",
+    "ton": "pose",
+    "texte": "Le rendez-vous du jour : l'inflation américaine d'octobre, en début d'après-midi, une heure avant l'ouverture de Wall Street. Le marché attend trois virgule neuf pour cent sur un an, après trois virgule sept. C'est le dernier grand chiffre d'inflation avant la réunion de la Fed du neuf décembre. Un chiffre plus fort que prévu soutient habituellement le dollar et pèse sur l'or ; un chiffre plus faible fait plutôt l'inverse."
+   },
+   {
+    "son": "virgule",
+    "rubrique": "mot",
+    "ton": "complice",
+    "texte": "Le mot de la salle : l'inflation sous-jacente. C'est la hausse des prix sans l'énergie ni l'alimentation, deux postes qui font le yoyo. Les banquiers centraux la regardent de près, parce qu'elle montre la tendance de fond. Aujourd'hui, le marché l'attend à deux virgule huit pour cent sur un an. Retenez-le : le chiffre qui fait la une n'est pas toujours celui qui fait bouger les taux."
+   },
+   {
+    "son": "virgule",
+    "rubrique": "terminal",
+    "ton": "chaleureux",
+    "texte": "Ce matin dans le terminal : pas de Conviction du jour. Aucun marché ne réunissait assez de signaux alignés, alors on s'abstient. Chez nous, ne rien faire est aussi une décision. Le brief complet, le calendrier mondial et le Radar sont en ligne, et les membres Arsenal retrouvent les fiches complètes de chaque action."
+   },
+   {
+    "son": "fin",
+    "rubrique": "cloture",
+    "ton": "chaleureux",
+    "texte": "Le marché sera encore là demain. Votre capital aussi, si vous le protégez. C'était Victor Castel. À demain matin, même heure."
+   }
+  ],
+  "en": [
+   {
+    "son": "intro",
+    "rubrique": "ouverture",
+    "ton": "energique",
+    "texte": "Eight o'clock, and the markets are waking up. Good morning, trading floor! This is Victor Castel, and you're listening to MACROARSENAL Radio. Strong coffee, screens on: three minutes around the world. Tuesday the tenth of November, and all eyes are on US inflation."
+   },
+   {
+    "son": "carillon",
+    "rubrique": "ecrans",
+    "ton": "net",
+    "texte": "Wall Street first. Yesterday, New York had its best session since April: the S&P five hundred gained two point three percent, the Nasdaq two point seven. Chipmakers led the way, with AMD and Broadcom. The one shadow: Nvidia fell about four percent. Its board is looking into reports that its chief executive was targeted by a foreign intelligence service. Beijing calls the claims slander."
+   },
+   {
+    "son": "carillon",
+    "rubrique": "ecrans",
+    "ton": "net",
+    "texte": "Overnight, Asia kept the rally going. In Tokyo, the Nikkei climbed above sixty thousand points, up about two point six percent. In Seoul, the Kospi jumped about four percent: the open was so strong that a trading pause kicked in. And SoftBank soared about fifteen percent ahead of its results."
+   },
+   {
+    "son": "carillon",
+    "rubrique": "ecrans",
+    "ton": "net",
+    "texte": "Oil, meanwhile, is easing. Brent is back near ninety-two dollars a barrel, after falling more than four percent yesterday. Donald Trump says new strikes on Iran are highly unlikely if talks make progress. But fresh incidents are reported in the Strait of Hormuz."
+   },
+   {
+    "son": "carillon",
+    "rubrique": "ecrans",
+    "ton": "net",
+    "texte": "On trade, Beijing is extending by two months its suspension of an extra tariff on some American goods. The truce is holding."
+   },
+   {
+    "son": "virgule",
+    "rubrique": "chiffre",
+    "ton": "pose",
+    "texte": "The number of the morning: thirty-five point two percent. That's the rise in Chinese exports in October, from a year earlier. Since January, China's trade surplus has already passed one trillion dollars."
+   },
+   {
+    "son": "virgule",
+    "rubrique": "biais",
+    "ton": "net",
+    "texte": "Today's Bias. Five markets are free for everyone this morning. The dollar is seen higher, backed by a Federal Reserve that is standing firm. The New Zealand dollar is seen lower: it has just slipped below its one-year low. In crypto, bitcoin is holding near seventy-five thousand dollars, and ether is seen lower, weighed down by record outflows from its exchange-traded funds. All forty full readings are waiting for you in the terminal."
+   },
+   {
+    "son": "virgule",
+    "rubrique": "actions",
+    "ton": "net",
+    "texte": "The world of stocks. Europe had a solid session too: the CAC forty gained one point two percent, led by STMicro, and Spain's Ibex nearly two percent, on the back of the banks. On the Radar, two new names this morning: AMD and Legrand. Eli Lilly takes the top spot. And this evening, after the Wall Street close, CoreWeave reports its results."
+   },
+   {
+    "son": "virgule",
+    "rubrique": "rendez-vous",
+    "ton": "pose",
+    "texte": "Today's big event: US inflation for October, early this afternoon in Europe, an hour before Wall Street opens. The market expects three point nine percent over a year, after three point seven. It's the last major inflation reading before the Fed meeting on the ninth of December. A stronger number than expected usually supports the dollar and weighs on gold; a weaker one tends to do the opposite."
+   },
+   {
+    "son": "virgule",
+    "rubrique": "mot",
+    "ton": "complice",
+    "texte": "Floor talk: core inflation. It's the rise in prices without energy and food, two items that bounce up and down. Central bankers watch it closely, because it shows the underlying trend. Today, the market expects it at two point eight percent over a year. Remember this: the headline number is not always the one that moves interest rates."
+   },
+   {
+    "son": "virgule",
+    "rubrique": "terminal",
+    "ton": "chaleureux",
+    "texte": "This morning in the terminal: no Conviction of the day. No market had enough signals lined up, so we're standing aside. For us, doing nothing is a decision too. The full brief, the world calendar and the Radar are online, and Arsenal members can read the complete file on every stock."
+   },
+   {
+    "son": "fin",
+    "rubrique": "cloture",
+    "ton": "chaleureux",
+    "texte": "The market will still be there tomorrow. So will your capital, if you protect it. This was Victor Castel. See you tomorrow morning, same time."
+   }
+  ],
+  "es": [
+   {
+    "son": "intro",
+    "rubrique": "ouverture",
+    "ton": "energique",
+    "texte": "Son las ocho, los mercados se despiertan. ¡Buenos días, sala de mercados! Les habla Víctor Castel y esto es MACROARSENAL Radio. Café cargado, pantallas encendidas: la vuelta al mundo en tres minutos. Martes diez de noviembre, y todas las miradas están puestas en la inflación estadounidense."
+   },
+   {
+    "son": "carillon",
+    "rubrique": "ecrans",
+    "ton": "net",
+    "texte": "Wall Street, primero. Ayer, Nueva York firmó su mejor sesión desde abril: el S&P quinientos sube dos coma tres por ciento, el Nasdaq dos coma siete. Los chips marcan el paso, con AMD y Broadcom. La única sombra: Nvidia cae alrededor de un cuatro por ciento. Su consejo de administración investiga informaciones según las cuales su consejero delegado habría sido objetivo de un servicio de inteligencia extranjero. Pekín habla de calumnias."
+   },
+   {
+    "son": "carillon",
+    "rubrique": "ecrans",
+    "ton": "net",
+    "texte": "Esta noche, Asia prolonga el movimiento. En Tokio, el Nikkei supera los sesenta mil puntos, con una subida de alrededor de dos coma seis por ciento. En Seúl, el Kospi salta cerca de un cuatro por ciento: la apertura fue tan fuerte que se activó un mecanismo de pausa. Y SoftBank se dispara alrededor de un quince por ciento antes de sus resultados."
+   },
+   {
+    "son": "carillon",
+    "rubrique": "ecrans",
+    "ton": "net",
+    "texte": "El petróleo, en cambio, se relaja. El Brent vuelve hacia los noventa y dos dólares por barril, tras caer más de un cuatro por ciento ayer. Donald Trump considera muy improbables nuevos ataques contra Irán si avanzan las negociaciones. Pero se señalan nuevos incidentes en el estrecho de Ormuz."
+   },
+   {
+    "son": "carillon",
+    "rubrique": "ecrans",
+    "ton": "net",
+    "texte": "En el frente comercial, Pekín prolonga dos meses la suspensión de un arancel adicional sobre algunos productos estadounidenses. La tregua se mantiene."
+   },
+   {
+    "son": "virgule",
+    "rubrique": "chiffre",
+    "ton": "pose",
+    "texte": "La cifra de la mañana: treinta y cinco coma dos por ciento. Es la subida de las exportaciones chinas en octubre, en un año. Desde enero, el superávit comercial de China ya supera el billón de dólares."
+   },
+   {
+    "son": "virgule",
+    "rubrique": "biais",
+    "ton": "net",
+    "texte": "El Sesgo del día. Cinco mercados se ofrecen a todos esta mañana. El dólar se ve al alza, apoyado por una Reserva Federal que se mantiene firme. El dólar neozelandés se ve a la baja: acaba de caer por debajo de su mínimo de un año. En criptomonedas, el bitcoin se mantiene cerca de los setenta y cinco mil dólares, y el ether se ve a la baja, lastrado por salidas récord de sus fondos cotizados. Las cuarenta lecturas completas les esperan en el terminal."
+   },
+   {
+    "son": "virgule",
+    "rubrique": "actions",
+    "ton": "net",
+    "texte": "El mundo de las acciones. En Europa, la sesión de ayer también fue sólida: el CAC cuarenta gana uno coma dos por ciento, liderado por STMicro, y el Ibex casi un dos por ciento, gracias a la banca. En el Radar, dos entradas esta mañana: AMD y Legrand. Eli Lilly toma la cabeza de la lista. Y esta tarde, tras el cierre de Wall Street, CoreWeave publica sus resultados."
+   },
+   {
+    "son": "virgule",
+    "rubrique": "rendez-vous",
+    "ton": "pose",
+    "texte": "La cita del día: la inflación estadounidense de octubre, a primera hora de la tarde en Europa, una hora antes de la apertura de Wall Street. El mercado espera un tres coma nueve por ciento en un año, tras un tres coma siete. Es el último gran dato de inflación antes de la reunión de la Fed del nueve de diciembre. Un dato más fuerte de lo previsto suele apoyar al dólar y pesar sobre el oro; uno más débil suele hacer lo contrario."
+   },
+   {
+    "son": "virgule",
+    "rubrique": "mot",
+    "ton": "complice",
+    "texte": "Palabra de sala: la inflación subyacente. Es la subida de los precios sin la energía ni los alimentos, dos partidas que suben y bajan sin parar. Los banqueros centrales la vigilan de cerca, porque muestra la tendencia de fondo. Hoy, el mercado la espera en un dos coma ocho por ciento en un año. Recuérdenlo: el dato que sale en los titulares no siempre es el que mueve los tipos."
+   },
+   {
+    "son": "virgule",
+    "rubrique": "terminal",
+    "ton": "chaleureux",
+    "texte": "Esta mañana en el terminal: no hay Convicción del día. Ningún mercado reunía suficientes señales alineadas, así que nos abstenemos. Para nosotros, no hacer nada también es una decisión. El brief completo, el calendario mundial y el Radar están en línea, y los miembros Arsenal encuentran la ficha completa de cada acción."
+   },
+   {
+    "son": "fin",
+    "rubrique": "cloture",
+    "ton": "chaleureux",
+    "texte": "El mercado seguirá ahí mañana. Su capital también, si lo protegen. Les habló Víctor Castel. Hasta mañana, a la misma hora."
+   }
+  ]
+ }
+}
