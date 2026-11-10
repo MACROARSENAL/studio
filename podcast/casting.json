@@ -1,0 +1,50 @@
+{
+ "_": "Casting de la co-animatrice des podcasts MACROARSENAL (10/11/2026) : Clara, personnage MACROARSENAL (fiction, voix de synthèse), qui reçoit Victor Castel dans le podcast de présentation. Trois candidates créées par Qwen3-TTS VoiceDesign (Apache-2.0) à partir d'une description : aucune personne réelle n'est imitée. Chaque phrase du texte sert ensuite de référence de ton pour le clonage (vive, curieuse, sceptique, complice, posee).",
+ "langue": "fr",
+ "acting": "A natural, spontaneous podcast conversation between two hosts around a table: varied intonation, genuine reactions (curiosity, surprise, doubt, amusement, emotion), as if talking to a colleague she likes, never reading a script, never selling anything.",
+ "acts": [
+  {
+   "id": "casting",
+   "lines": [
+    {
+     "id": "vive",
+     "text": "Bonjour à toutes et à tous ! Moi, c'est Clara. Et aujourd'hui, Victor, on ouvre enfin les portes de MACROARSENAL.",
+     "tts": "Bonjour à toutes et à tous ! Moi, c'est Clara. Et aujourd'hui, Victor, on ouvre enfin les portes de Macro Arsenal."
+    },
+    {
+     "id": "curieuse",
+     "text": "Attendez, attendez. Vous êtes en train de me dire que tout ça tient dans un seul terminal ? Expliquez-moi, parce que j'ai du mal à y croire."
+    },
+    {
+     "id": "sceptique",
+     "text": "Honnêtement, Victor ? Des outils de trading, il en sort un tous les matins. Pourquoi est-ce que celui-là serait différent ?"
+    },
+    {
+     "id": "complice",
+     "text": "Alors celle-là, je ne l'avais pas vue venir ! Bon, d'accord, vous marquez un point."
+    },
+    {
+     "id": "posee",
+     "text": "Je crois que c'est ça qui me touche le plus. Ne plus être seul, le soir, face à ses écrans. Savoir que quelqu'un a fait le travail avec vous."
+    }
+   ]
+  }
+ ],
+ "voices": [
+  {
+   "id": "clara-a",
+   "label": "Clara A, chaleureuse et complice",
+   "design": "A French woman in her early thirties, co-host of a popular finance podcast. Warm, natural mid-range voice with a light grain and a smile in it; lively, curious and quick-witted, she reacts genuinely and laughs easily. Sharp and credible on financial markets, like a seasoned market journalist who is also a friend. Natural conversational delivery with varied rhythm and natural breathing. Standard native French accent from Paris. Close-microphone podcast studio sound. Never an advertisement voice-over, never theatrical, never robotic, never shouting."
+  },
+  {
+   "id": "clara-b",
+   "label": "Clara B, vive et lumineuse",
+   "design": "A French woman around thirty, co-host of a modern business podcast. Bright, clear and grounded voice, quick and lively speech, playful energy, spontaneous reactions and surprise, an easy natural laugh. Smart and credible about markets and trading. Spontaneous and conversational, as if talking across a table to a friend. Native French accent from Paris. Close microphone, natural breathing. Not a radio announcer, not an advertisement voice, never robotic, never shouting."
+  },
+  {
+   "id": "clara-c",
+   "label": "Clara C, posée et veloutée",
+   "design": "A French woman in her mid-thirties, podcast co-host and experienced financial journalist. Low, velvety, calm and confident voice, thoughtful and precise, with warmth and gentle humor; she asks sharp, skeptical questions without any aggression. Natural conversational delivery, relaxed pace, natural breathing. Native French accent from Paris. Intimate close-microphone podcast studio sound. Never an advertisement voice-over, never theatrical, never robotic."
+  }
+ ]
+}

@@ -1,0 +1,12 @@
+{
+ "_": "Casting de Clara, co-animatrice du podcast de présentation (10/11/2026) : 3 candidates × 2 prises, contrôlées par transcription.",
+ "dossier": "casting",
+ "jobs": [
+  {"langue": "fr", "voix": "clara-a", "prise": 1, "texte": "podcast/casting.json", "actes": "casting"},
+  {"langue": "fr", "voix": "clara-a", "prise": 2, "texte": "podcast/casting.json", "actes": "casting"},
+  {"langue": "fr", "voix": "clara-b", "prise": 1, "texte": "podcast/casting.json", "actes": "casting"},
+  {"langue": "fr", "voix": "clara-b", "prise": 2, "texte": "podcast/casting.json", "actes": "casting"},
+  {"langue": "fr", "voix": "clara-c", "prise": 1, "texte": "podcast/casting.json", "actes": "casting"},
+  {"langue": "fr", "voix": "clara-c", "prise": 2, "texte": "podcast/casting.json", "actes": "casting"}
+ ]
+}
