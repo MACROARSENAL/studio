@@ -163,6 +163,7 @@ for b, bloc in enumerate(BLOCS):
     if b == 0:
         gap = 0.0
     start = last_end + gap
+    tg = None
     if son == 'generique':
         tg = last_end + 0.45
         place(stings, H['generique'], tg)
@@ -177,7 +178,7 @@ for b, bloc in enumerate(BLOCS):
     if bloc.get('fond'):
         bed_on = (bloc['fond'], start - 1.2)
     if bloc.get('chap'):
-        chapitres.append({'titre': bloc['chap'], 'debut': round(max(0.0, (start - REP['transition-a_voix'] - 0.1) if son == 'transition' else start - 0.3), 2)})
+        chapitres.append({'titre': bloc['chap'], 'debut': round(max(0.0, tg - 0.1 if tg is not None else start - 0.3), 2)})
     t = start
     seg = [p for p in PLAN if p['bloc'] == b]
     for i, p in enumerate(seg):
@@ -203,7 +204,7 @@ if not EXTRAIT:
     place(stings, H['fin'], tf)
     end = tf + REP['fin_duree'] + 0.3
 else:
-    end = min(last_end + 1.5, EXTRAIT + 2.0)
+    end = last_end + 1.8                      # l'extrait finit sur une réplique entière
 for name, a, z in beds:
     n = int((z - a) * SR)
     f = H[name]
@@ -252,7 +253,9 @@ i, tp, lra = loudness(mix)
 
 name = E['id'] + ('-extrait' if EXTRAIT else '')
 base = os.path.join(OUT, name)
-save(base + '.wav', mix)
+save(base + '-f32.wav', mix)
+subprocess.run(['ffmpeg', '-loglevel', 'error', '-y', '-i', base + '-f32.wav', '-c:a', 'pcm_s24le', base + '.wav'], check=True)
+os.remove(base + '-f32.wav')
 meta = [';FFMETADATA1', f'title=MACROARSENAL - le podcast de presentation', 'artist=MACROARSENAL', 'album=MACROARSENAL Podcast',
         'comment=Victor Castel et Clara sont des personnages de MACROARSENAL, voix de synthese. Information et education, pas un conseil en investissement personnalise.']
 for k, c in enumerate(chapitres):

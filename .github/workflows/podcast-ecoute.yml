@@ -1,0 +1,38 @@
+name: Podcast — écoute de contrôle
+
+# Transcrit un podcast fini (podcast/ecoute.py) et le compare au texte ; range le résultat sur « podcast-resultats »
+# (dossier ecoute/). Lancement : modifier podcast/ecoute-run.json sur la branche podcast-presentation et pousser.
+on:
+  push:
+    branches: [podcast-presentation]
+    paths: ['podcast/ecoute-run.json']
+
+permissions:
+  contents: write
+
+jobs:
+  ecoute:
+    runs-on: ubuntu-24.04
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - uses: actions/cache@v4
+        with:
+          path: ~/.cache/huggingface
+          key: whisper-medium-v1
+      - name: Outils
+        run: sudo apt-get install -y -qq ffmpeg > /dev/null && python -m venv /tmp/asr && /tmp/asr/bin/pip install -q faster-whisper numpy
+      - name: Écoute
+        run: |
+          R=podcast/ecoute-run.json
+          MP3=$(python3 -c "import json; print(json.load(open('$R'))['mp3'])")
+          EMI=$(python3 -c "import json; print(json.load(open('$R'))['podcast'])")
+          NOM=$(python3 -c "import json; print(json.load(open('$R'))['nom'])")
+          URL="https://x-access-token:${{ github.token }}@github.com/${{ github.repository }}.git"
+          git clone -q --depth 1 -b podcast-resultats "$URL" /tmp/br
+          /tmp/asr/bin/python podcast/ecoute.py "/tmp/br/$MP3" "$EMI" "/tmp/$NOM.json" | tee /tmp/ecoute.log
+          cd /tmp/br && mkdir -p ecoute && cp "/tmp/$NOM.json" ecoute/ && cp /tmp/ecoute.log "ecoute/$NOM.txt"
+          git config --global user.name "studio-bot"; git config --global user.email "studio-bot@users.noreply.github.com"
+          git add -A && git commit -qm "Podcast : écoute de contrôle $NOM" && git push -q origin HEAD:podcast-resultats
