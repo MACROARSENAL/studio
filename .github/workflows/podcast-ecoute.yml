@@ -32,6 +32,7 @@ jobs:
           NOM=$(python3 -c "import json; print(json.load(open('$R'))['nom'])")
           URL="https://x-access-token:${{ github.token }}@github.com/${{ github.repository }}.git"
           git clone -q --depth 1 -b podcast-resultats "$URL" /tmp/br
+          export FENETRES=$(python3 -c "import json; print(json.dumps(json.load(open('$R')).get('fenetres', [])))")
           /tmp/asr/bin/python podcast/ecoute.py "/tmp/br/$MP3" "$EMI" "/tmp/$NOM.json" | tee /tmp/ecoute.log
           cd /tmp/br && mkdir -p ecoute && cp "/tmp/$NOM.json" ecoute/ && cp /tmp/ecoute.log "ecoute/$NOM.txt"
           git config --global user.name "studio-bot"; git config --global user.email "studio-bot@users.noreply.github.com"

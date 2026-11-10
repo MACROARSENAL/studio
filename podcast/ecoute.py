@@ -69,6 +69,15 @@ for i in range(len(got) - 6):
 R = {'mp3': mp3, 'mots_attendus': len(exp), 'mots_entendus': len(got), 'mots_retrouves': matched,
      'taux_retrouve': round(matched / max(1, len(exp)), 4), 'ecarts': ecarts, 'heures_dites': heures, 'doubles': doubles[:30],
      'transcription': heard, 'mots': [[w.word.strip(), round(float(w.start), 2), round(float(w.end), 2), round(float(w.probability), 2)] for w in words]}
+# Fenêtres courtes autour des endroits délicats (réactions, interruptions, mots isolés, entrées après la musique) :
+# transcrites seules, sans le contexte qui pousse la transcription à « lisser » les mots courts.
+import os  # noqa: E402
+R['fenetres'] = []
+for a, z, quoi in json.loads(os.environ.get('FENETRES') or '[]'):
+    seg = audio[int(a * 16000): int(z * 16000)]
+    ss, _ = model.transcribe(seg, language=L, word_timestamps=True, vad_filter=False, condition_on_previous_text=False, beam_size=5)
+    R['fenetres'].append({'de': a, 'a': z, 'quoi': quoi, 'entendu': ' '.join(w.word.strip() for x in ss for w in (x.words or []))})
+    print(f"::notice title=Fenêtre {a:.1f}-{z:.1f} s::{quoi} → « {R['fenetres'][-1]['entendu']} »")
 json.dump(R, open(out, 'w', encoding='utf-8'), ensure_ascii=False, indent=1)
 print(f"::notice title=Écoute::{matched}/{len(exp)} mots du texte retrouvés ({R['taux_retrouve']:.1%}), {len(ecarts)} écarts, "
       f"heures dites : {heures or 'aucune'}, passages doublés : {len(doubles)}")

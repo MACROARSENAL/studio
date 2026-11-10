@@ -265,24 +265,32 @@ SOUFFLES = {}
 
 
 def souffle(voix):
+    """Une vraie inspiration de cette voix : le souffle qui précède la parole dans une autre prise, seulement s'il finit
+    bien avant le premier mot transcrit, qu'il est nettement plus bas que la voix et qu'il a le spectre d'un souffle
+    (jamais un morceau de mot)."""
     if voix not in SOUFFLES:
         lib = []
         for (v, _), c in cands.items():
             if v != voix:
                 continue
             for p in c:
-                if p['nat'].get('inspiration') and len(lib) < 12:
-                    x = load(p['path']); e = enveloppe(x); emax = e.max()
-                    vo = debut_voix(x)
-                    if vo is None:
-                        continue
-                    von = int(round(vo / 0.01)); b0 = von
-                    while b0 > 0 and von - b0 < 80 and e[b0 - 1] > emax - 48:
-                        b0 -= 1
-                    if von - b0 >= 25:                  # au moins 0,25 s de souffle avant la voix
-                        seg = x[max(0, b0 - 2) * int(0.01 * SR): (von - 10) * int(0.01 * SR)]
-                        if len(seg) > int(0.15 * SR):
-                            lib.append(fade(seg * db(-20 - niveau_parole(x)), 0.04, 0.05))
+                mots = p.get('mots') or []
+                if not (p['nat'].get('inspiration') and mots) or len(lib) >= 12:
+                    continue
+                x = load(p['path']); e = enveloppe(x); emax = e.max()
+                premier = int(float(mots[0][1]) / 0.01)            # début du premier mot (transcription)
+                z = premier - 15                                     # le souffle s'arrête 0,15 s avant le mot
+                b0 = z
+                while b0 > 0 and z - b0 < 70 and emax - 50 < e[b0 - 1] < emax - 22:
+                    b0 -= 1
+                if z - b0 < 20 or e[b0:z].max() > emax - 22:
+                    continue
+                seg = x[b0 * int(0.01 * SR): z * int(0.01 * SR)].mean(1)
+                sp = np.abs(np.fft.rfft(seg * np.hanning(len(seg)))) + 1e-9
+                if np.exp(np.log(sp).mean()) / sp.mean() < 0.25:     # pas un souffle (trop tonal) : on n'en veut pas
+                    continue
+                y = x[b0 * int(0.01 * SR): z * int(0.01 * SR)]
+                lib.append(fade(y * db(-20 - niveau_parole(x)), 0.04, 0.06))
         SOUFFLES[voix] = lib
     lib = SOUFFLES[voix]
     return lib[len(lib) // 2] if lib else None
@@ -315,7 +323,7 @@ for b, bloc in enumerate(BLOCS):
         name = TRANS[ntrans % len(TRANS)]; ntrans += 1
         tg = last['fin'] + 0.7
         place(stings, H[name], tg, db(GAIN[name]))
-        start = tg + REP[f'{name}_voix']
+        start = tg + REP[f'{name}_voix'] + 0.3          # la dernière note du motif sonne, puis la voix
     elif gap < 0 and ench in ('reaction', 'coupe') and last['voix'] and last['voix'] != voix:
         mot = max(0.05, last['fin'] - last['dernier_mot'])
         ov = max(0.1, min(max(-gap, 0.12), (0.5 if ench == 'reaction' else 0.7) * mot, 0.3))
@@ -336,7 +344,7 @@ for b, bloc in enumerate(BLOCS):
         tempo = 1.0 if abs(tempo - 1) < 0.025 else tempo
         if tempo != 1.0:
             x = etirer(x, tempo); s0, s1, dern, insp = s0 / tempo, s1 / tempo, dern / tempo, insp / tempo
-        g = db(-2.5) if ench == 'reaction' and i == 0 else 1.0
+        g = db(-2.5) if ench == 'reaction' and i == 0 and len(p['text']) <= 24 else 1.0   # « Mmh », « Aucune ? » : un peu plus bas
         if i == 0 and insp < 0.12 and len(bloc['texte']) >= 140 and (start - last['fin']) >= 0.3:
             br = souffle(voix)                     # une vraie inspiration de cette voix, avant une longue réplique
             if br is not None:
