@@ -1,0 +1,280 @@
+{
+ "id": "2026-11-11-matinale",
+ "_": "Matinale du mercredi 11 novembre 2026 (visite du papa de Kévin), préparée le 11/11 vers 8 h 30 (Paris), en retard : les tâches du matin (brief, Radar, Biais, calendrier) n'avaient pas encore publié. Matière : nouvelles publiques vérifiées (AP / ClickOnDetroit et TheStreet pour Wall Street et le CPI d'octobre du 10/11 ; Kuwait Times / AFP et investingLive pour l'Asie du 11/11 ; Nation Thailand / Reuters pour l'or et FedWatch ; MoneyVox et qz.com pour le CAC 40 ; Fox pour Veterans Day) ; calendrier publié (discours de Christine Lagarde). Biais du jour évoqué sans citer de marché (pas encore publié), aucun nom du Radar. Arsenal Scan : collecte du 11/11 (1 figure D1, 2 H4, 0 H1). Souvenir de salle (mercredi) : 13/09/2022 (Kiplinger, NBC). Aucune heure dite, sauf les signatures.",
+ "date": "2026-11-11",
+ "site": {
+  "genre": "matinale",
+  "titre": {
+   "fr": "L'inflation américaine réveille les taux",
+   "en": "US inflation wakes up yields",
+   "es": "La inflación estadounidense despierta a los tipos"
+  },
+  "resume": {
+   "fr": "L'inflation d'octobre surprend à la hausse, Wall Street recule, l'or chute, le Brent passe sous 90 dollars, et Christine Lagarde parle ce matin.",
+   "en": "October inflation surprises to the upside, Wall Street slips, gold drops, Brent dips below 90 dollars, and Christine Lagarde speaks this morning.",
+   "es": "La inflación de octubre sorprende al alza, Wall Street retrocede, el oro cae, el Brent baja de 90 dólares y Christine Lagarde habla esta mañana."
+  }
+ },
+ "voix": {
+  "fr": "victor-fr",
+  "en": "victor-en",
+  "es": "victor-es"
+ },
+ "parties": 5,
+ "prononciation": {
+  "fr": {
+   "la Fed ": "la Fède ",
+   "S&P": "S et P",
+   "Nvidia": "Ènvidia",
+   "Waller": "Wôleur",
+   "Safran": "Safran"
+  },
+  "en": {
+   "S&P": "S and P"
+  },
+  "es": {
+   "S&P": "ese y pe",
+   "Nvidia": "Envidia",
+   "Waller": "Uóler"
+  }
+ },
+ "blocs": {
+  "fr": [
+   {
+    "son": "intro",
+    "rubrique": "ouverture",
+    "ton": "energique",
+    "texte": "Huit heures, les marchés se réveillent. Bonjour la salle ! Ici Victor Castel, et vous écoutez MACROARSENAL Radio. Café serré, écrans allumés : on fait le tour du monde en trois minutes. Mercredi onze novembre : jour férié en France et aux États-Unis, mais les bourses, elles, travaillent."
+   },
+   {
+    "son": "carillon",
+    "rubrique": "ecrans",
+    "ton": "net",
+    "texte": "Wall Street, d'abord. Hier, l'inflation américaine d'octobre est sortie plus forte que prévu : plus zéro virgule quatre pour cent sur le mois, pour zéro virgule trois attendu. Le S&P cinq cents recule de zéro virgule quatre pour cent, le Nasdaq de zéro virgule sept. Le taux américain à dix ans monte à un cheveu des cinq pour cent. Et Nvidia perd encore cinq virgule cinq pour cent, toujours pénalisée par l'enquête interne qui vise son patron."
+   },
+   {
+    "son": "carillon",
+    "rubrique": "ecrans",
+    "ton": "net",
+    "texte": "Dans la foulée, l'or chute de près de trois pour cent, vers quatre mille vingt dollars l'once. Le dollar, lui, se raffermit."
+   },
+   {
+    "son": "carillon",
+    "rubrique": "ecrans",
+    "ton": "net",
+    "texte": "Cette nuit, l'Asie est partagée. À Tokyo, le Nikkei gagne près d'un pour cent, troisième hausse d'affilée, porté par une confiance des industriels japonais au plus haut depuis plus de cinq ans. Séoul monte aussi, avec les puces. Hong Kong recule. Et les contrats à terme sur le Nasdaq remontent ce matin."
+   },
+   {
+    "son": "carillon",
+    "rubrique": "ecrans",
+    "ton": "net",
+    "texte": "Le pétrole reste sous pression. Le Brent est passé brièvement sous quatre-vingt-dix dollars, une première depuis août, avant de revenir vers quatre-vingt-douze. Le marché parie sur un accord entre Washington et Téhéran."
+   },
+   {
+    "son": "virgule",
+    "rubrique": "chiffre",
+    "ton": "pose",
+    "texte": "Le chiffre du matin : zéro virgule trois pour cent. C'est la hausse de l'inflation sous-jacente américaine en octobre. Et c'est précisément le seuil qu'un gouverneur de la Fed, Christopher Waller, avait fixé pour envisager une hausse des taux plus forte. Il évoque désormais un demi-point en décembre."
+   },
+   {
+    "son": "virgule",
+    "rubrique": "biais",
+    "ton": "net",
+    "texte": "Le Biais du jour arrive ce matin dans le terminal, avec ses trois marchés offerts à tous. Un fil rouge à surveiller : après cette inflation, le dollar et les taux restent au centre du jeu, et l'or encaisse. Les quarante lectures complètes attendent les membres."
+   },
+   {
+    "son": "virgule",
+    "rubrique": "actions",
+    "ton": "net",
+    "texte": "Le monde des actions. Hier à Paris, le CAC quarante gagne zéro virgule cinq pour cent, soutenu par la baisse du pétrole. Safran et Renault mènent la danse, tous deux poussés par des analystes. Et malgré le jour férié, la Bourse de Paris est ouverte aujourd'hui."
+   },
+   {
+    "son": "virgule",
+    "rubrique": "rendez-vous",
+    "ton": "pose",
+    "texte": "Le rendez-vous du jour : Christine Lagarde prend la parole en fin de matinée. Après la surprise américaine, chaque mot sur l'inflation en Europe comptera. Un ton ferme de la BCE soutient habituellement l'euro. Et attention : Wall Street ouvre normalement, mais le marché obligataire américain est fermé. Moins d'acteurs, c'est parfois des mouvements plus brusques."
+   },
+   {
+    "son": "souvenir",
+    "rubrique": "souvenir",
+    "ton": "complice",
+    "texte": "Souvenir de salle. Treize septembre deux mille vingt-deux, un mardi. Ce matin-là, tout le monde espérait voir l'inflation américaine ralentir. Le chiffre principal ralentit, oui. Mais l'inflation sous-jacente grimpe de zéro virgule six pour cent sur le mois, le double du mois précédent. En une séance, le Nasdaq perd cinq virgule deux pour cent, le S&P cinq cents quatre virgule trois. La pire journée depuis juin deux mille vingt."
+   },
+   {
+    "rubrique": "souvenir",
+    "ton": "pose",
+    "texte": "La leçon : le chiffre qui fait la une n'est pas toujours celui qui fait bouger les taux. Et le jour d'un grand chiffre, le marché peut bouger en une minute plus qu'en une semaine. Alors avant la publication, on décide de sa taille de position et de son stop. Pas après."
+   },
+   {
+    "son": "virgule",
+    "rubrique": "terminal",
+    "ton": "chaleureux",
+    "texte": "Ce matin dans le terminal, une nouveauté : Arsenal Scan, notre scanner de figures chartistes. Vingt-quatre marchés passés au crible, sur trois unités de temps, de la bougie journalière à la bougie horaire. Une figure n'est retenue que si elle est nette, avec une cassure confirmée par le volume. Au moindre doute, on ne l'annonce pas. Ce matin, trois figures sont en cours. Le guide des douze figures est ouvert à tous, et les membres Arsenal reçoivent chaque figure et ses alertes."
+   },
+   {
+    "son": "fin",
+    "rubrique": "cloture",
+    "ton": "chaleureux",
+    "texte": "Le marché sera encore là demain. Votre capital aussi, si vous le protégez. C'était Victor Castel. À demain matin, même heure."
+   }
+  ],
+  "en": [
+   {
+    "son": "intro",
+    "rubrique": "ouverture",
+    "ton": "energique",
+    "texte": "Eight o'clock, and the markets are waking up. Good morning, trading floor! This is Victor Castel, and you're listening to MACROARSENAL Radio. Strong coffee, screens on: three minutes around the world. Wednesday the eleventh of November: a public holiday in France and in the United States, but the exchanges are open for business."
+   },
+   {
+    "son": "carillon",
+    "rubrique": "ecrans",
+    "ton": "net",
+    "texte": "Wall Street first. Yesterday, US inflation for October came in hotter than expected: up zero point four per cent on the month, against zero point three forecast. The S and P five hundred slipped zero point four per cent, the Nasdaq zero point seven. The US ten-year yield climbed to within a whisker of five per cent. And Nvidia lost another five point five per cent, still weighed down by the internal inquiry into its chief executive."
+   },
+   {
+    "son": "carillon",
+    "rubrique": "ecrans",
+    "ton": "net",
+    "texte": "Gold took the hit, falling almost three per cent, to around four thousand and twenty dollars an ounce. The dollar firmed."
+   },
+   {
+    "son": "carillon",
+    "rubrique": "ecrans",
+    "ton": "net",
+    "texte": "Overnight, Asia is split. In Tokyo, the Nikkei is up almost one per cent, a third straight gain, helped by Japanese manufacturers' confidence at its highest in more than five years. Seoul is higher too, led by chipmakers. Hong Kong is lower. And Nasdaq futures are bouncing this morning."
+   },
+   {
+    "son": "carillon",
+    "rubrique": "ecrans",
+    "ton": "net",
+    "texte": "Oil is still under pressure. Brent briefly dipped below ninety dollars, for the first time since August, before recovering towards ninety-two. The market is betting on a deal between Washington and Tehran."
+   },
+   {
+    "son": "virgule",
+    "rubrique": "chiffre",
+    "ton": "pose",
+    "texte": "Number of the morning: zero point three per cent. That's the rise in US core inflation in October. And it's exactly the threshold a Fed governor, Christopher Waller, had set for considering a bigger rate rise. He now talks about half a point in December."
+   },
+   {
+    "son": "virgule",
+    "rubrique": "biais",
+    "ton": "net",
+    "texte": "The Bias of the day lands in the terminal this morning, with three markets free for everyone. One thread to watch: after this inflation number, the dollar and yields stay centre stage, and gold is taking the strain. All forty full readings are waiting for members."
+   },
+   {
+    "son": "virgule",
+    "rubrique": "actions",
+    "ton": "net",
+    "texte": "The world of stocks. Yesterday in Paris, the CAC forty gained zero point five per cent, helped by lower oil prices. Safran and Renault led the way, both lifted by analysts. And despite the holiday, the Paris Bourse is open today."
+   },
+   {
+    "son": "virgule",
+    "rubrique": "rendez-vous",
+    "ton": "pose",
+    "texte": "Today's big moment: Christine Lagarde speaks late this morning. After the US surprise, every word on European inflation will count. A firm tone from the ECB usually supports the euro. And note: Wall Street opens as normal, but the US bond market is closed. Fewer players can sometimes mean sharper moves."
+   },
+   {
+    "son": "souvenir",
+    "rubrique": "souvenir",
+    "ton": "complice",
+    "texte": "From the floor. The thirteenth of September, twenty twenty-two, a Tuesday. That morning, everyone was hoping to see US inflation slow down. The headline figure did slow, yes. But core inflation jumped zero point six per cent on the month, double the month before. In one session, the Nasdaq lost five point two per cent, the S and P five hundred four point three. The worst day since June twenty twenty."
+   },
+   {
+    "rubrique": "souvenir",
+    "ton": "pose",
+    "texte": "The lesson: the headline number isn't always the one that moves rates. And on the day of a big release, the market can move more in one minute than in a week. So before the release, you decide your position size and your stop. Not after."
+   },
+   {
+    "son": "virgule",
+    "rubrique": "terminal",
+    "ton": "chaleureux",
+    "texte": "This morning in the terminal, something new: Arsenal Scan, our chart-pattern scanner. Twenty-four markets screened, on three timeframes, from daily candles down to hourly ones. A pattern only makes the cut if it's clean, with a breakout confirmed by volume. At the slightest doubt, we don't announce it. This morning, three patterns are in play. The guide to all twelve patterns is open to everyone, and Arsenal members get every pattern and its alerts."
+   },
+   {
+    "son": "fin",
+    "rubrique": "cloture",
+    "ton": "chaleureux",
+    "texte": "The market will still be there tomorrow. So will your capital, if you protect it. This was Victor Castel. See you tomorrow morning, same time."
+   }
+  ],
+  "es": [
+   {
+    "son": "intro",
+    "rubrique": "ouverture",
+    "ton": "energique",
+    "texte": "Son las ocho, los mercados se despiertan. ¡Buenos días, sala de mercados! Les habla Víctor Castel y esto es MACROARSENAL Radio. Café cargado, pantallas encendidas: la vuelta al mundo en tres minutos. Miércoles once de noviembre: festivo en Francia y en Estados Unidos, pero las bolsas abren con normalidad."
+   },
+   {
+    "son": "carillon",
+    "rubrique": "ecrans",
+    "ton": "net",
+    "texte": "Primero, Wall Street. Ayer, la inflación estadounidense de octubre salió más alta de lo previsto: un cero coma cuatro por ciento en el mes, frente al cero coma tres esperado. El S&P quinientos cede un cero coma cuatro por ciento y el Nasdaq un cero coma siete. El bono estadounidense a diez años roza el cinco por ciento. Y Nvidia pierde otro cinco coma cinco por ciento, todavía lastrada por la investigación interna sobre su consejero delegado."
+   },
+   {
+    "son": "carillon",
+    "rubrique": "ecrans",
+    "ton": "net",
+    "texte": "El oro acusa el golpe: cae casi un tres por ciento, hacia los cuatro mil veinte dólares la onza. El dólar, por su parte, se fortalece."
+   },
+   {
+    "son": "carillon",
+    "rubrique": "ecrans",
+    "ton": "net",
+    "texte": "Esta noche, Asia va dividida. En Tokio, el Nikkei sube casi un uno por ciento, tercera alza seguida, impulsado por una confianza de los industriales japoneses en máximos de más de cinco años. Seúl también sube, con los fabricantes de chips. Hong Kong retrocede. Y los futuros del Nasdaq repuntan esta mañana."
+   },
+   {
+    "son": "carillon",
+    "rubrique": "ecrans",
+    "ton": "net",
+    "texte": "El petróleo sigue bajo presión. El Brent llegó a bajar de los noventa dólares, por primera vez desde agosto, antes de volver hacia los noventa y dos. El mercado apuesta por un acuerdo entre Washington y Teherán."
+   },
+   {
+    "son": "virgule",
+    "rubrique": "chiffre",
+    "ton": "pose",
+    "texte": "La cifra de la mañana: cero coma tres por ciento. Es la subida de la inflación subyacente estadounidense en octubre. Y es justo el umbral que un gobernador de la Fed, Christopher Waller, había fijado para plantear una subida de tipos mayor. Ahora habla de medio punto en diciembre."
+   },
+   {
+    "son": "virgule",
+    "rubrique": "biais",
+    "ton": "net",
+    "texte": "El Sesgo del día llega esta mañana al terminal, con sus tres mercados abiertos a todos. Un hilo conductor a vigilar: tras esta inflación, el dólar y los tipos siguen en el centro del juego, y el oro acusa el golpe. Las cuarenta lecturas completas esperan a los miembros."
+   },
+   {
+    "son": "virgule",
+    "rubrique": "actions",
+    "ton": "net",
+    "texte": "El mundo de las acciones. Ayer en París, el CAC cuarenta ganó un cero coma cinco por ciento, apoyado por la bajada del petróleo. Safran y Renault encabezaron las subidas, ambas impulsadas por analistas. Y pese al festivo, la Bolsa de París abre hoy."
+   },
+   {
+    "son": "virgule",
+    "rubrique": "rendez-vous",
+    "ton": "pose",
+    "texte": "La cita del día: Christine Lagarde interviene a media mañana. Tras la sorpresa estadounidense, cada palabra sobre la inflación en Europa contará. Un tono firme del BCE suele apoyar al euro. Y atención: Wall Street abre con normalidad, pero el mercado de bonos estadounidense está cerrado. Menos participantes pueden traer movimientos más bruscos."
+   },
+   {
+    "son": "souvenir",
+    "rubrique": "souvenir",
+    "ton": "complice",
+    "texte": "Recuerdo de la sala. Trece de septiembre de dos mil veintidós, un martes. Aquella mañana, todo el mundo esperaba ver frenarse la inflación estadounidense. La cifra general frenó, sí. Pero la subyacente subió un cero coma seis por ciento en el mes, el doble que el mes anterior. En una sola sesión, el Nasdaq perdió un cinco coma dos por ciento y el S&P quinientos un cuatro coma tres. El peor día desde junio de dos mil veinte."
+   },
+   {
+    "rubrique": "souvenir",
+    "ton": "pose",
+    "texte": "La lección: la cifra que abre los titulares no siempre es la que mueve los tipos. Y el día de un gran dato, el mercado puede moverse más en un minuto que en una semana. Así que antes de la publicación, uno decide el tamaño de su posición y su stop. No después."
+   },
+   {
+    "son": "virgule",
+    "rubrique": "terminal",
+    "ton": "chaleureux",
+    "texte": "Esta mañana en el terminal, una novedad: Arsenal Scan, nuestro escáner de figuras chartistas. Veinticuatro mercados analizados, en tres unidades de tiempo, de las velas diarias a las horarias. Una figura solo se retiene si es nítida, con una ruptura confirmada por el volumen. Ante la mínima duda, no la anunciamos. Esta mañana hay tres figuras en curso. La guía de las doce figuras está abierta a todos, y los miembros Arsenal reciben cada figura y sus alertas."
+   },
+   {
+    "son": "fin",
+    "rubrique": "cloture",
+    "ton": "chaleureux",
+    "texte": "El mercado seguirá ahí mañana. Su capital también, si lo protegen. Les habló Víctor Castel. Hasta mañana, a la misma hora."
+   }
+  ]
+ }
+}
