@@ -1,0 +1,87 @@
+{
+ "id": "2026-11-11-matinale",
+ "langue": "en",
+ "seconds": 258.25,
+ "lufs": -16.1,
+ "peak_dbtp": -1.0,
+ "blocs": [
+  {
+   "bloc": 0,
+   "rubrique": "ouverture",
+   "start": 3.65,
+   "end": 22.77
+  },
+  {
+   "bloc": 1,
+   "rubrique": "ecrans",
+   "start": 23.67,
+   "end": 51.81
+  },
+  {
+   "bloc": 2,
+   "rubrique": "ecrans",
+   "start": 52.71,
+   "end": 60.42
+  },
+  {
+   "bloc": 3,
+   "rubrique": "ecrans",
+   "start": 61.32,
+   "end": 81.64
+  },
+  {
+   "bloc": 4,
+   "rubrique": "ecrans",
+   "start": 82.54,
+   "end": 94.3
+  },
+  {
+   "bloc": 5,
+   "rubrique": "chiffre",
+   "start": 95.73,
+   "end": 112.88
+  },
+  {
+   "bloc": 6,
+   "rubrique": "biais",
+   "start": 114.31,
+   "end": 130.29
+  },
+  {
+   "bloc": 7,
+   "rubrique": "actions",
+   "start": 131.72,
+   "end": 147.0
+  },
+  {
+   "bloc": 8,
+   "rubrique": "rendez-vous",
+   "start": 148.43,
+   "end": 168.56
+  },
+  {
+   "bloc": 9,
+   "rubrique": "souvenir",
+   "start": 170.56,
+   "end": 196.88
+  },
+  {
+   "bloc": 10,
+   "rubrique": "souvenir",
+   "start": 197.43,
+   "end": 211.13
+  },
+  {
+   "bloc": 11,
+   "rubrique": "terminal",
+   "start": 212.56,
+   "end": 241.07
+  },
+  {
+   "bloc": 12,
+   "rubrique": "cloture",
+   "start": 241.62,
+   "end": 250.79
+  }
+ ]
+}
