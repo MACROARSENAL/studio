@@ -1,0 +1,9429 @@
+{
+ "langue": "fr",
+ "phrases": {
+  "00-00": {
+   "id": "00-00",
+   "bloc": 0,
+   "ton": "energique",
+   "text": "Huit heures, les marchés se réveillent. Bonjour la salle ! Ici Victor Castel, et vous écoutez MACROARSENAL Radio.",
+   "tts": "Huit heures, les marchés se réveillent. Bonjour la salle ! Ici Victor Castel, et vous écoutez Macro Arsenal Radio.",
+   "gen": {},
+   "prise": {
+    "prise": 1,
+    "file": "fr-00-00-p1.wav",
+    "seconds": 6.88,
+    "compute": 74,
+    "heard": "Huit heures, les marchés se réveillent. Bonjour la salle, ici Victor Castel et vous écoutez MACROARSENAL Radio.",
+    "wer": 0.0,
+    "extra": 0,
+    "speech": [
+     0.0,
+     6.78
+    ],
+    "rate": 16.8,
+    "mots": [
+     [
+      "Huit",
+      0.0,
+      0.36,
+      0.65
+     ],
+     [
+      "heures,",
+      0.36,
+      0.64,
+      0.99
+     ],
+     [
+      "les",
+      0.72,
+      0.84,
+      0.98
+     ],
+     [
+      "marchés",
+      0.84,
+      1.08,
+      0.97
+     ],
+     [
+      "se",
+      1.08,
+      1.26,
+      1.0
+     ],
+     [
+      "réveillent.",
+      1.26,
+      2.08,
+      0.99
+     ],
+     [
+      "Bonjour",
+      2.3,
+      2.44,
+      0.96
+     ],
+     [
+      "la",
+      2.44,
+      2.72,
+      0.91
+     ],
+     [
+      "salle,",
+      2.72,
+      3.26,
+      0.94
+     ],
+     [
+      "ici",
+      3.6,
+      3.8,
+      0.98
+     ],
+     [
+      "Victor",
+      3.8,
+      4.24,
+      0.98
+     ],
+     [
+      "Castel",
+      4.24,
+      4.7,
+      0.95
+     ],
+     [
+      "et",
+      4.7,
+      5.2,
+      0.73
+     ],
+     [
+      "vous",
+      5.2,
+      5.38,
+      1.0
+     ],
+     [
+      "écoutez",
+      5.38,
+      5.72,
+      0.99
+     ],
+     [
+      "MACROARSENAL",
+      5.72,
+      6.56,
+      0.59
+     ],
+     [
+      "Radio.",
+      6.56,
+      6.78,
+      0.02
+     ]
+    ],
+    "clarte": 0.02,
+    "heure": {
+     "texte": "Huit heures",
+     "duree": 0.64,
+     "mini": 0.34,
+     "confiance": 0.65,
+     "nette": true
+    },
+    "ok": true
+   },
+   "toutes": [
+    {
+     "prise": 1,
+     "file": "fr-00-00-p1.wav",
+     "seconds": 6.88,
+     "compute": 74,
+     "heard": "Huit heures, les marchés se réveillent. Bonjour la salle, ici Victor Castel et vous écoutez MACROARSENAL Radio.",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      6.78
+     ],
+     "rate": 16.8,
+     "mots": [
+      [
+       "Huit",
+       0.0,
+       0.36,
+       0.65
+      ],
+      [
+       "heures,",
+       0.36,
+       0.64,
+       0.99
+      ],
+      [
+       "les",
+       0.72,
+       0.84,
+       0.98
+      ],
+      [
+       "marchés",
+       0.84,
+       1.08,
+       0.97
+      ],
+      [
+       "se",
+       1.08,
+       1.26,
+       1.0
+      ],
+      [
+       "réveillent.",
+       1.26,
+       2.08,
+       0.99
+      ],
+      [
+       "Bonjour",
+       2.3,
+       2.44,
+       0.96
+      ],
+      [
+       "la",
+       2.44,
+       2.72,
+       0.91
+      ],
+      [
+       "salle,",
+       2.72,
+       3.26,
+       0.94
+      ],
+      [
+       "ici",
+       3.6,
+       3.8,
+       0.98
+      ],
+      [
+       "Victor",
+       3.8,
+       4.24,
+       0.98
+      ],
+      [
+       "Castel",
+       4.24,
+       4.7,
+       0.95
+      ],
+      [
+       "et",
+       4.7,
+       5.2,
+       0.73
+      ],
+      [
+       "vous",
+       5.2,
+       5.38,
+       1.0
+      ],
+      [
+       "écoutez",
+       5.38,
+       5.72,
+       0.99
+      ],
+      [
+       "MACROARSENAL",
+       5.72,
+       6.56,
+       0.59
+      ],
+      [
+       "Radio.",
+       6.56,
+       6.78,
+       0.02
+      ]
+     ],
+     "clarte": 0.02,
+     "heure": {
+      "texte": "Huit heures",
+      "duree": 0.64,
+      "mini": 0.34,
+      "confiance": 0.65,
+      "nette": true
+     },
+     "ok": true
+    }
+   ]
+  },
+  "00-01": {
+   "id": "00-01",
+   "bloc": 0,
+   "ton": "energique",
+   "text": "Café serré, écrans allumés : on fait le tour du monde en trois minutes. Jeudi douze novembre : une nuit agitée pour les puces, et le marché obligataire américain rouvre après son jour férié.",
+   "tts": "Café serré, écrans allumés : on fait le tour du monde en trois minutes. Jeudi douze novembre : une nuit agitée pour les puces, et le marché obligataire américain rouvre après son jour férié.",
+   "gen": {},
+   "prise": {
+    "prise": 1,
+    "file": "fr-00-01-p1.wav",
+    "seconds": 10.8,
+    "compute": 110,
+    "heard": "Café serré, écran allumé, on fait le tour du monde en 3 minutes. Jeudi 12 novembre, une nuit agitée pour les puces, et le marché obligataire américain rouvra après son jour férié.",
+    "wer": 0.031,
+    "extra": 1,
+    "speech": [
+     0.0,
+     10.78
+    ],
+    "rate": 17.6,
+    "mots": [
+     [
+      "Café",
+      0.0,
+      0.52,
+      0.61
+     ],
+     [
+      "serré,",
+      0.52,
+      0.98,
+      0.96
+     ],
+     [
+      "écran",
+      1.26,
+      1.56,
+      0.92
+     ],
+     [
+      "allumé,",
+      1.56,
+      2.1,
+      1.0
+     ],
+     [
+      "on",
+      2.32,
+      2.42,
+      0.97
+     ],
+     [
+      "fait",
+      2.42,
+      2.56,
+      1.0
+     ],
+     [
+      "le",
+      2.56,
+      2.76,
+      0.99
+     ],
+     [
+      "tour",
+      2.76,
+      2.88,
+      0.91
+     ],
+     [
+      "du",
+      2.88,
+      3.04,
+      1.0
+     ],
+     [
+      "monde",
+      3.04,
+      3.2,
+      0.99
+     ],
+     [
+      "en",
+      3.2,
+      3.52,
+      0.99
+     ],
+     [
+      "3",
+      3.52,
+      3.7,
+      0.66
+     ],
+     [
+      "minutes.",
+      3.7,
+      4.26,
+      0.93
+     ],
+     [
+      "Jeudi",
+      4.66,
+      4.9,
+      0.99
+     ],
+     [
+      "12",
+      4.9,
+      5.2,
+      0.94
+     ],
+     [
+      "novembre,",
+      5.2,
+      5.74,
+      0.95
+     ],
+     [
+      "une",
+      6.1,
+      6.14,
+      0.98
+     ],
+     [
+      "nuit",
+      6.14,
+      6.4,
+      0.99
+     ],
+     [
+      "agitée",
+      6.4,
+      6.84,
+      0.97
+     ],
+     [
+      "pour",
+      6.84,
+      6.98,
+      1.0
+     ],
+     [
+      "les",
+      6.98,
+      7.16,
+      0.91
+     ],
+     [
+      "puces,",
+      7.16,
+      7.5,
+      0.95
+     ],
+     [
+      "et",
+      7.74,
+      7.84,
+      0.97
+     ],
+     [
+      "le",
+      7.84,
+      7.98,
+      1.0
+     ],
+     [
+      "marché",
+      7.98,
+      8.2,
+      1.0
+     ],
+     [
+      "obligataire",
+      8.2,
+      8.86,
+      0.99
+     ],
+     [
+      "américain",
+      8.86,
+      9.48,
+      1.0
+     ],
+     [
+      "rouvra",
+      9.48,
+      9.94,
+      0.79
+     ],
+     [
+      "après",
+      9.94,
+      10.16,
+      0.99
+     ],
+     [
+      "son",
+      10.16,
+      10.28,
+      1.0
+     ],
+     [
+      "jour",
+      10.28,
+      10.44,
+      1.0
+     ],
+     [
+      "férié.",
+      10.44,
+      10.78,
+      0.88
+     ]
+    ],
+    "clarte": 0.61,
+    "ok": true
+   },
+   "toutes": [
+    {
+     "prise": 1,
+     "file": "fr-00-01-p1.wav",
+     "seconds": 10.8,
+     "compute": 110,
+     "heard": "Café serré, écran allumé, on fait le tour du monde en 3 minutes. Jeudi 12 novembre, une nuit agitée pour les puces, et le marché obligataire américain rouvra après son jour férié.",
+     "wer": 0.031,
+     "extra": 1,
+     "speech": [
+      0.0,
+      10.78
+     ],
+     "rate": 17.6,
+     "mots": [
+      [
+       "Café",
+       0.0,
+       0.52,
+       0.61
+      ],
+      [
+       "serré,",
+       0.52,
+       0.98,
+       0.96
+      ],
+      [
+       "écran",
+       1.26,
+       1.56,
+       0.92
+      ],
+      [
+       "allumé,",
+       1.56,
+       2.1,
+       1.0
+      ],
+      [
+       "on",
+       2.32,
+       2.42,
+       0.97
+      ],
+      [
+       "fait",
+       2.42,
+       2.56,
+       1.0
+      ],
+      [
+       "le",
+       2.56,
+       2.76,
+       0.99
+      ],
+      [
+       "tour",
+       2.76,
+       2.88,
+       0.91
+      ],
+      [
+       "du",
+       2.88,
+       3.04,
+       1.0
+      ],
+      [
+       "monde",
+       3.04,
+       3.2,
+       0.99
+      ],
+      [
+       "en",
+       3.2,
+       3.52,
+       0.99
+      ],
+      [
+       "3",
+       3.52,
+       3.7,
+       0.66
+      ],
+      [
+       "minutes.",
+       3.7,
+       4.26,
+       0.93
+      ],
+      [
+       "Jeudi",
+       4.66,
+       4.9,
+       0.99
+      ],
+      [
+       "12",
+       4.9,
+       5.2,
+       0.94
+      ],
+      [
+       "novembre,",
+       5.2,
+       5.74,
+       0.95
+      ],
+      [
+       "une",
+       6.1,
+       6.14,
+       0.98
+      ],
+      [
+       "nuit",
+       6.14,
+       6.4,
+       0.99
+      ],
+      [
+       "agitée",
+       6.4,
+       6.84,
+       0.97
+      ],
+      [
+       "pour",
+       6.84,
+       6.98,
+       1.0
+      ],
+      [
+       "les",
+       6.98,
+       7.16,
+       0.91
+      ],
+      [
+       "puces,",
+       7.16,
+       7.5,
+       0.95
+      ],
+      [
+       "et",
+       7.74,
+       7.84,
+       0.97
+      ],
+      [
+       "le",
+       7.84,
+       7.98,
+       1.0
+      ],
+      [
+       "marché",
+       7.98,
+       8.2,
+       1.0
+      ],
+      [
+       "obligataire",
+       8.2,
+       8.86,
+       0.99
+      ],
+      [
+       "américain",
+       8.86,
+       9.48,
+       1.0
+      ],
+      [
+       "rouvra",
+       9.48,
+       9.94,
+       0.79
+      ],
+      [
+       "après",
+       9.94,
+       10.16,
+       0.99
+      ],
+      [
+       "son",
+       10.16,
+       10.28,
+       1.0
+      ],
+      [
+       "jour",
+       10.28,
+       10.44,
+       1.0
+      ],
+      [
+       "férié.",
+       10.44,
+       10.78,
+       0.88
+      ]
+     ],
+     "clarte": 0.61,
+     "ok": true
+    }
+   ]
+  },
+  "01-00": {
+   "id": "01-00",
+   "bloc": 1,
+   "ton": "net",
+   "text": "Wall Street, d'abord. Hier, belle reprise : le S&P cinq cents gagne un virgule trois pour cent, le Nasdaq un virgule six, le Dow Jones zéro virgule cinq.",
+   "tts": "Wall Street, d'abord. Hier, belle reprise : le S et P cinq cents gagne un virgule trois pour cent, le Nasdaq un virgule six, le Dow Jones zéro virgule cinq.",
+   "gen": {},
+   "prise": {
+    "prise": 2,
+    "file": "fr-01-00-p2.wav",
+    "seconds": 10.8,
+    "compute": 104,
+    "heard": "Wall Street d'abord, hier belle reprise, le S&P 500 gagne 1,3%, le NASDAQ 1,6%, le Dow Jones 0,5%.",
+    "wer": 0.0,
+    "extra": 4,
+    "speech": [
+     0.0,
+     10.78
+    ],
+    "rate": 14.5,
+    "mots": [
+     [
+      "Wall",
+      0.0,
+      0.42,
+      0.68
+     ],
+     [
+      "Street",
+      0.42,
+      0.82,
+      0.93
+     ],
+     [
+      "d",
+      0.82,
+      1.16,
+      0.62
+     ],
+     [
+      "'abord,",
+      1.16,
+      1.56,
+      1.0
+     ],
+     [
+      "hier",
+      2.18,
+      2.42,
+      0.56
+     ],
+     [
+      "belle",
+      2.42,
+      2.8,
+      0.85
+     ],
+     [
+      "reprise,",
+      2.8,
+      3.56,
+      1.0
+     ],
+     [
+      "le",
+      3.86,
+      4.02,
+      0.98
+     ],
+     [
+      "S",
+      4.02,
+      4.4,
+      0.98
+     ],
+     [
+      "&P",
+      4.4,
+      4.84,
+      0.7
+     ],
+     [
+      "500",
+      4.84,
+      5.34,
+      0.92
+     ],
+     [
+      "gagne",
+      5.34,
+      5.7,
+      0.97
+     ],
+     [
+      "1",
+      5.7,
+      5.92,
+      0.95
+     ],
+     [
+      ",3%,",
+      5.92,
+      7.18,
+      0.89
+     ],
+     [
+      "le",
+      7.18,
+      7.5,
+      0.99
+     ],
+     [
+      "NASDAQ",
+      7.5,
+      7.94,
+      0.81
+     ],
+     [
+      "1",
+      7.94,
+      8.1,
+      0.98
+     ],
+     [
+      ",6%,",
+      8.1,
+      9.04,
+      0.85
+     ],
+     [
+      "le",
+      9.04,
+      9.24,
+      0.99
+     ],
+     [
+      "Dow",
+      9.24,
+      9.44,
+      0.98
+     ],
+     [
+      "Jones",
+      9.44,
+      9.8,
+      1.0
+     ],
+     [
+      "0",
+      9.8,
+      10.24,
+      0.99
+     ],
+     [
+      ",5%.",
+      10.24,
+      10.78,
+      0.86
+     ]
+    ],
+    "clarte": 0.56,
+    "ok": false
+   },
+   "toutes": [
+    {
+     "prise": 2,
+     "file": "fr-01-00-p2.wav",
+     "seconds": 10.8,
+     "compute": 104,
+     "heard": "Wall Street d'abord, hier belle reprise, le S&P 500 gagne 1,3%, le NASDAQ 1,6%, le Dow Jones 0,5%.",
+     "wer": 0.0,
+     "extra": 4,
+     "speech": [
+      0.0,
+      10.78
+     ],
+     "rate": 14.5,
+     "mots": [
+      [
+       "Wall",
+       0.0,
+       0.42,
+       0.68
+      ],
+      [
+       "Street",
+       0.42,
+       0.82,
+       0.93
+      ],
+      [
+       "d",
+       0.82,
+       1.16,
+       0.62
+      ],
+      [
+       "'abord,",
+       1.16,
+       1.56,
+       1.0
+      ],
+      [
+       "hier",
+       2.18,
+       2.42,
+       0.56
+      ],
+      [
+       "belle",
+       2.42,
+       2.8,
+       0.85
+      ],
+      [
+       "reprise,",
+       2.8,
+       3.56,
+       1.0
+      ],
+      [
+       "le",
+       3.86,
+       4.02,
+       0.98
+      ],
+      [
+       "S",
+       4.02,
+       4.4,
+       0.98
+      ],
+      [
+       "&P",
+       4.4,
+       4.84,
+       0.7
+      ],
+      [
+       "500",
+       4.84,
+       5.34,
+       0.92
+      ],
+      [
+       "gagne",
+       5.34,
+       5.7,
+       0.97
+      ],
+      [
+       "1",
+       5.7,
+       5.92,
+       0.95
+      ],
+      [
+       ",3%,",
+       5.92,
+       7.18,
+       0.89
+      ],
+      [
+       "le",
+       7.18,
+       7.5,
+       0.99
+      ],
+      [
+       "NASDAQ",
+       7.5,
+       7.94,
+       0.81
+      ],
+      [
+       "1",
+       7.94,
+       8.1,
+       0.98
+      ],
+      [
+       ",6%,",
+       8.1,
+       9.04,
+       0.85
+      ],
+      [
+       "le",
+       9.04,
+       9.24,
+       0.99
+      ],
+      [
+       "Dow",
+       9.24,
+       9.44,
+       0.98
+      ],
+      [
+       "Jones",
+       9.44,
+       9.8,
+       1.0
+      ],
+      [
+       "0",
+       9.8,
+       10.24,
+       0.99
+      ],
+      [
+       ",5%.",
+       10.24,
+       10.78,
+       0.86
+      ]
+     ],
+     "clarte": 0.56,
+     "ok": false
+    },
+    {
+     "prise": 3,
+     "file": "fr-01-00-p3.wav",
+     "seconds": 11.2,
+     "compute": 107,
+     "heard": "Wall Street, d'abord. Hier, belle reprise. Le S et P500 gagnent 1,3%, le Nasdaq 1,6%, le Dow Jones 0,5%.",
+     "wer": 0.1,
+     "extra": 6,
+     "speech": [
+      0.0,
+      11.18
+     ],
+     "rate": 14.0,
+     "mots": [
+      [
+       "Wall",
+       0.0,
+       0.4,
+       0.9
+      ],
+      [
+       "Street,",
+       0.4,
+       0.76,
+       0.92
+      ],
+      [
+       "d",
+       1.06,
+       1.06,
+       0.98
+      ],
+      [
+       "'abord.",
+       1.06,
+       1.44,
+       1.0
+      ],
+      [
+       "Hier,",
+       2.02,
+       2.18,
+       0.97
+      ],
+      [
+       "belle",
+       2.64,
+       2.8,
+       0.97
+      ],
+      [
+       "reprise.",
+       2.8,
+       3.34,
+       1.0
+      ],
+      [
+       "Le",
+       3.72,
+       3.9,
+       0.99
+      ],
+      [
+       "S",
+       3.9,
+       4.28,
+       0.99
+      ],
+      [
+       "et",
+       4.28,
+       4.48,
+       0.72
+      ],
+      [
+       "P500",
+       4.48,
+       5.14,
+       0.86
+      ],
+      [
+       "gagnent",
+       5.14,
+       5.58,
+       0.98
+      ],
+      [
+       "1",
+       5.58,
+       5.74,
+       0.98
+      ],
+      [
+       ",3%,",
+       5.74,
+       7.06,
+       0.76
+      ],
+      [
+       "le",
+       7.06,
+       7.4,
+       0.95
+      ],
+      [
+       "Nasdaq",
+       7.4,
+       7.92,
+       0.92
+      ],
+      [
+       "1",
+       7.92,
+       8.14,
+       0.91
+      ],
+      [
+       ",6%,",
+       8.14,
+       9.18,
+       0.92
+      ],
+      [
+       "le",
+       9.18,
+       9.38,
+       0.99
+      ],
+      [
+       "Dow",
+       9.38,
+       9.62,
+       1.0
+      ],
+      [
+       "Jones",
+       9.62,
+       10.02,
+       1.0
+      ],
+      [
+       "0",
+       10.02,
+       10.52,
+       0.98
+      ],
+      [
+       ",5%.",
+       10.52,
+       11.18,
+       0.88
+      ]
+     ],
+     "clarte": 0.72,
+     "ok": false
+    },
+    {
+     "prise": 4,
+     "file": "fr-01-00-p4.wav",
+     "seconds": 10.16,
+     "compute": 97,
+     "heard": "Wall Street d'abord, hier belle reprise. Le SCP 500 gagne 1,3%, le NASDAQ 1,6%, le Dow Jones 0,5%.",
+     "wer": 0.069,
+     "extra": 5,
+     "speech": [
+      0.0,
+      10.14
+     ],
+     "rate": 15.4,
+     "mots": [
+      [
+       "Wall",
+       0.0,
+       0.42,
+       0.83
+      ],
+      [
+       "Street",
+       0.42,
+       0.76,
+       0.88
+      ],
+      [
+       "d",
+       0.76,
+       1.06,
+       0.53
+      ],
+      [
+       "'abord,",
+       1.06,
+       1.58,
+       1.0
+      ],
+      [
+       "hier",
+       1.94,
+       2.18,
+       0.76
+      ],
+      [
+       "belle",
+       2.18,
+       2.5,
+       0.86
+      ],
+      [
+       "reprise.",
+       2.5,
+       3.2,
+       1.0
+      ],
+      [
+       "Le",
+       3.54,
+       3.76,
+       0.98
+      ],
+      [
+       "SCP",
+       3.76,
+       4.14,
+       0.28
+      ],
+      [
+       "500",
+       4.14,
+       4.72,
+       0.59
+      ],
+      [
+       "gagne",
+       4.72,
+       5.04,
+       1.0
+      ],
+      [
+       "1",
+       5.04,
+       5.26,
+       0.97
+      ],
+      [
+       ",3%,",
+       5.26,
+       6.4,
+       0.84
+      ],
+      [
+       "le",
+       6.4,
+       6.74,
+       0.98
+      ],
+      [
+       "NASDAQ",
+       6.74,
+       7.18,
+       0.84
+      ],
+      [
+       "1",
+       7.18,
+       7.36,
+       0.98
+      ],
+      [
+       ",6%,",
+       7.36,
+       8.36,
+       0.86
+      ],
+      [
+       "le",
+       8.36,
+       8.54,
+       0.99
+      ],
+      [
+       "Dow",
+       8.54,
+       8.74,
+       0.92
+      ],
+      [
+       "Jones",
+       8.74,
+       9.1,
+       1.0
+      ],
+      [
+       "0",
+       9.1,
+       9.52,
+       0.99
+      ],
+      [
+       ",5%.",
+       9.52,
+       10.14,
+       0.87
+      ]
+     ],
+     "clarte": 0.28,
+     "ok": false
+    },
+    {
+     "prise": 5,
+     "file": "fr-01-00-p5.wav",
+     "seconds": 10.24,
+     "compute": 101,
+     "heard": "Wall Street, d'abord. Hier, belle reprise. Le SCP-500 gagne 1,3%, le NASDAQ 1,6%, le Dow Jones 0,5%.",
+     "wer": 0.069,
+     "extra": 5,
+     "speech": [
+      0.0,
+      10.22
+     ],
+     "rate": 15.3,
+     "mots": [
+      [
+       "Wall",
+       0.0,
+       0.4,
+       0.8
+      ],
+      [
+       "Street,",
+       0.4,
+       0.76,
+       0.92
+      ],
+      [
+       "d",
+       1.0,
+       1.0,
+       0.99
+      ],
+      [
+       "'abord.",
+       1.0,
+       1.58,
+       1.0
+      ],
+      [
+       "Hier,",
+       1.88,
+       2.08,
+       0.91
+      ],
+      [
+       "belle",
+       2.4,
+       2.4,
+       0.98
+      ],
+      [
+       "reprise.",
+       2.4,
+       3.0,
+       1.0
+      ],
+      [
+       "Le",
+       3.38,
+       3.64,
+       0.98
+      ],
+      [
+       "SCP",
+       3.64,
+       4.02,
+       0.47
+      ],
+      [
+       "-500",
+       4.02,
+       4.74,
+       0.82
+      ],
+      [
+       "gagne",
+       4.74,
+       5.06,
+       0.99
+      ],
+      [
+       "1",
+       5.06,
+       5.22,
+       0.95
+      ],
+      [
+       ",3%,",
+       5.22,
+       6.42,
+       0.76
+      ],
+      [
+       "le",
+       6.42,
+       6.72,
+       0.98
+      ],
+      [
+       "NASDAQ",
+       6.72,
+       7.18,
+       0.83
+      ],
+      [
+       "1",
+       7.18,
+       7.4,
+       0.93
+      ],
+      [
+       ",6%,",
+       7.4,
+       8.36,
+       0.92
+      ],
+      [
+       "le",
+       8.36,
+       8.56,
+       0.99
+      ],
+      [
+       "Dow",
+       8.56,
+       8.8,
+       0.98
+      ],
+      [
+       "Jones",
+       8.8,
+       9.16,
+       1.0
+      ],
+      [
+       "0",
+       9.16,
+       9.66,
+       0.99
+      ],
+      [
+       ",5%.",
+       9.66,
+       10.22,
+       0.89
+      ]
+     ],
+     "clarte": 0.47,
+     "ok": false
+    },
+    {
+     "prise": 1,
+     "file": "fr-01-00-p1.wav",
+     "seconds": 9.2,
+     "compute": 90,
+     "heard": "Wall Street d'abord, hier belle reprise, le S&P 500 gagne 1,3%, le NASDAQ 1,6%, le Dow Jones 0,5%.",
+     "wer": 0.0,
+     "extra": 4,
+     "speech": [
+      0.0,
+      9.18
+     ],
+     "rate": 17.0,
+     "mots": [
+      [
+       "Wall",
+       0.0,
+       0.46,
+       0.77
+      ],
+      [
+       "Street",
+       0.46,
+       0.76,
+       0.91
+      ],
+      [
+       "d",
+       0.76,
+       1.0,
+       0.71
+      ],
+      [
+       "'abord,",
+       1.0,
+       1.42,
+       1.0
+      ],
+      [
+       "hier",
+       1.76,
+       1.92,
+       0.75
+      ],
+      [
+       "belle",
+       1.92,
+       2.16,
+       0.95
+      ],
+      [
+       "reprise,",
+       2.16,
+       2.68,
+       1.0
+      ],
+      [
+       "le",
+       2.98,
+       3.12,
+       0.97
+      ],
+      [
+       "S",
+       3.12,
+       3.42,
+       0.98
+      ],
+      [
+       "&P",
+       3.42,
+       3.78,
+       0.7
+      ],
+      [
+       "500",
+       3.78,
+       4.14,
+       0.91
+      ],
+      [
+       "gagne",
+       4.14,
+       4.4,
+       0.99
+      ],
+      [
+       "1",
+       4.4,
+       4.58,
+       0.93
+      ],
+      [
+       ",3%,",
+       4.58,
+       5.72,
+       0.9
+      ],
+      [
+       "le",
+       5.72,
+       6.04,
+       0.99
+      ],
+      [
+       "NASDAQ",
+       6.04,
+       6.46,
+       0.81
+      ],
+      [
+       "1",
+       6.46,
+       6.68,
+       0.96
+      ],
+      [
+       ",6%,",
+       6.68,
+       7.62,
+       0.92
+      ],
+      [
+       "le",
+       7.62,
+       7.8,
+       0.99
+      ],
+      [
+       "Dow",
+       7.8,
+       8.08,
+       0.99
+      ],
+      [
+       "Jones",
+       8.08,
+       8.34,
+       1.0
+      ],
+      [
+       "0",
+       8.34,
+       8.68,
+       0.99
+      ],
+      [
+       ",5%.",
+       8.68,
+       9.18,
+       0.88
+      ]
+     ],
+     "clarte": 0.7,
+     "ok": false
+    }
+   ]
+  },
+  "01-01": {
+   "id": "01-01",
+   "bloc": 1,
+   "ton": "net",
+   "text": "La vedette de la séance s'appelle CoreWeave : plus vingt-quatre virgule sept pour cent, après des pertes moins lourdes que prévu.",
+   "tts": "La vedette de la séance s'appelle Core Wive : plus vingt-quatre virgule sept pour cent, après des pertes moins lourdes que prévu.",
+   "gen": {},
+   "prise": {
+    "prise": 2,
+    "file": "fr-01-01-p2.wav",
+    "seconds": 7.36,
+    "compute": 72,
+    "heard": "La vedette de la séance s'appelle CoreWive, plus 24,7% après des pertes moins lourdes que prévues.",
+    "wer": 0.091,
+    "extra": 2,
+    "speech": [
+     0.0,
+     7.34
+    ],
+    "rate": 17.6,
+    "mots": [
+     [
+      "La",
+      0.0,
+      0.46,
+      0.92
+     ],
+     [
+      "vedette",
+      0.46,
+      0.74,
+      1.0
+     ],
+     [
+      "de",
+      0.74,
+      0.9,
+      1.0
+     ],
+     [
+      "la",
+      0.9,
+      1.08,
+      1.0
+     ],
+     [
+      "séance",
+      1.08,
+      1.38,
+      1.0
+     ],
+     [
+      "s",
+      1.38,
+      1.66,
+      1.0
+     ],
+     [
+      "'appelle",
+      1.66,
+      1.88,
+      1.0
+     ],
+     [
+      "CoreWive,",
+      1.88,
+      2.82,
+      0.78
+     ],
+     [
+      "plus",
+      3.14,
+      3.26,
+      0.51
+     ],
+     [
+      "24",
+      3.26,
+      3.8,
+      0.98
+     ],
+     [
+      ",7",
+      3.8,
+      4.54,
+      0.98
+     ],
+     [
+      "%",
+      4.54,
+      5.26,
+      0.57
+     ],
+     [
+      "après",
+      5.26,
+      5.68,
+      0.99
+     ],
+     [
+      "des",
+      5.68,
+      5.9,
+      0.99
+     ],
+     [
+      "pertes",
+      5.9,
+      6.22,
+      0.99
+     ],
+     [
+      "moins",
+      6.22,
+      6.48,
+      1.0
+     ],
+     [
+      "lourdes",
+      6.48,
+      6.8,
+      0.99
+     ],
+     [
+      "que",
+      6.8,
+      7.02,
+      1.0
+     ],
+     [
+      "prévues.",
+      7.02,
+      7.34,
+      0.94
+     ]
+    ],
+    "clarte": 0.51,
+    "ok": false
+   },
+   "toutes": [
+    {
+     "prise": 2,
+     "file": "fr-01-01-p2.wav",
+     "seconds": 7.36,
+     "compute": 72,
+     "heard": "La vedette de la séance s'appelle CoreWive, plus 24,7% après des pertes moins lourdes que prévues.",
+     "wer": 0.091,
+     "extra": 2,
+     "speech": [
+      0.0,
+      7.34
+     ],
+     "rate": 17.6,
+     "mots": [
+      [
+       "La",
+       0.0,
+       0.46,
+       0.92
+      ],
+      [
+       "vedette",
+       0.46,
+       0.74,
+       1.0
+      ],
+      [
+       "de",
+       0.74,
+       0.9,
+       1.0
+      ],
+      [
+       "la",
+       0.9,
+       1.08,
+       1.0
+      ],
+      [
+       "séance",
+       1.08,
+       1.38,
+       1.0
+      ],
+      [
+       "s",
+       1.38,
+       1.66,
+       1.0
+      ],
+      [
+       "'appelle",
+       1.66,
+       1.88,
+       1.0
+      ],
+      [
+       "CoreWive,",
+       1.88,
+       2.82,
+       0.78
+      ],
+      [
+       "plus",
+       3.14,
+       3.26,
+       0.51
+      ],
+      [
+       "24",
+       3.26,
+       3.8,
+       0.98
+      ],
+      [
+       ",7",
+       3.8,
+       4.54,
+       0.98
+      ],
+      [
+       "%",
+       4.54,
+       5.26,
+       0.57
+      ],
+      [
+       "après",
+       5.26,
+       5.68,
+       0.99
+      ],
+      [
+       "des",
+       5.68,
+       5.9,
+       0.99
+      ],
+      [
+       "pertes",
+       5.9,
+       6.22,
+       0.99
+      ],
+      [
+       "moins",
+       6.22,
+       6.48,
+       1.0
+      ],
+      [
+       "lourdes",
+       6.48,
+       6.8,
+       0.99
+      ],
+      [
+       "que",
+       6.8,
+       7.02,
+       1.0
+      ],
+      [
+       "prévues.",
+       7.02,
+       7.34,
+       0.94
+      ]
+     ],
+     "clarte": 0.51,
+     "ok": false
+    },
+    {
+     "prise": 3,
+     "file": "fr-01-01-p3.wav",
+     "seconds": 6.4,
+     "compute": 64,
+     "heard": "La vedette de la séance s'appelle CoreWive, plus 24,7% après des pertes moins lourdes que prévues.",
+     "wer": 0.091,
+     "extra": 2,
+     "speech": [
+      0.0,
+      6.38
+     ],
+     "rate": 20.2,
+     "mots": [
+      [
+       "La",
+       0.0,
+       0.28,
+       0.92
+      ],
+      [
+       "vedette",
+       0.28,
+       0.56,
+       1.0
+      ],
+      [
+       "de",
+       0.56,
+       0.72,
+       1.0
+      ],
+      [
+       "la",
+       0.72,
+       0.9,
+       1.0
+      ],
+      [
+       "séance",
+       0.9,
+       1.32,
+       1.0
+      ],
+      [
+       "s",
+       1.32,
+       1.6,
+       0.99
+      ],
+      [
+       "'appelle",
+       1.6,
+       1.78,
+       1.0
+      ],
+      [
+       "CoreWive,",
+       1.78,
+       2.56,
+       0.79
+      ],
+      [
+       "plus",
+       2.9,
+       3.0,
+       0.32
+      ],
+      [
+       "24",
+       3.0,
+       3.48,
+       0.98
+      ],
+      [
+       ",7",
+       3.48,
+       4.16,
+       0.98
+      ],
+      [
+       "%",
+       4.16,
+       4.62,
+       0.72
+      ],
+      [
+       "après",
+       4.62,
+       4.92,
+       1.0
+      ],
+      [
+       "des",
+       4.92,
+       5.12,
+       0.99
+      ],
+      [
+       "pertes",
+       5.12,
+       5.4,
+       0.99
+      ],
+      [
+       "moins",
+       5.4,
+       5.58,
+       1.0
+      ],
+      [
+       "lourdes",
+       5.58,
+       5.88,
+       0.99
+      ],
+      [
+       "que",
+       5.88,
+       6.04,
+       1.0
+      ],
+      [
+       "prévues.",
+       6.04,
+       6.38,
+       0.89
+      ]
+     ],
+     "clarte": 0.32,
+     "ok": false
+    },
+    {
+     "prise": 4,
+     "file": "fr-01-01-p4.wav",
+     "seconds": 6.72,
+     "compute": 69,
+     "heard": "La vedette de la séance s'appelle CoreWive, plus 24,7%, après des pertes moins lourdes que prévues.",
+     "wer": 0.091,
+     "extra": 2,
+     "speech": [
+      0.0,
+      6.68
+     ],
+     "rate": 19.3,
+     "mots": [
+      [
+       "La",
+       0.0,
+       0.3,
+       0.92
+      ],
+      [
+       "vedette",
+       0.3,
+       0.64,
+       1.0
+      ],
+      [
+       "de",
+       0.64,
+       0.82,
+       1.0
+      ],
+      [
+       "la",
+       0.82,
+       1.0,
+       1.0
+      ],
+      [
+       "séance",
+       1.0,
+       1.3,
+       1.0
+      ],
+      [
+       "s",
+       1.3,
+       1.54,
+       1.0
+      ],
+      [
+       "'appelle",
+       1.54,
+       1.74,
+       1.0
+      ],
+      [
+       "CoreWive,",
+       1.74,
+       2.64,
+       0.78
+      ],
+      [
+       "plus",
+       2.92,
+       3.02,
+       0.53
+      ],
+      [
+       "24",
+       3.02,
+       3.56,
+       0.96
+      ],
+      [
+       ",7%,",
+       3.56,
+       4.92,
+       0.77
+      ],
+      [
+       "après",
+       4.92,
+       5.24,
+       1.0
+      ],
+      [
+       "des",
+       5.24,
+       5.46,
+       0.99
+      ],
+      [
+       "pertes",
+       5.46,
+       5.74,
+       0.99
+      ],
+      [
+       "moins",
+       5.74,
+       5.9,
+       1.0
+      ],
+      [
+       "lourdes",
+       5.9,
+       6.2,
+       0.99
+      ],
+      [
+       "que",
+       6.2,
+       6.36,
+       1.0
+      ],
+      [
+       "prévues.",
+       6.36,
+       6.68,
+       0.91
+      ]
+     ],
+     "clarte": 0.53,
+     "ok": false
+    },
+    {
+     "prise": 5,
+     "file": "fr-01-01-p5.wav",
+     "seconds": 6.64,
+     "compute": 68,
+     "heard": "La vedette de la séance s'appelle CoreWive, plus 24,7% après des pertes moins lourdes que prévues.",
+     "wer": 0.091,
+     "extra": 2,
+     "speech": [
+      0.0,
+      6.62
+     ],
+     "rate": 19.5,
+     "mots": [
+      [
+       "La",
+       0.0,
+       0.26,
+       0.9
+      ],
+      [
+       "vedette",
+       0.26,
+       0.52,
+       1.0
+      ],
+      [
+       "de",
+       0.52,
+       0.7,
+       1.0
+      ],
+      [
+       "la",
+       0.7,
+       0.86,
+       1.0
+      ],
+      [
+       "séance",
+       0.86,
+       1.16,
+       1.0
+      ],
+      [
+       "s",
+       1.16,
+       1.42,
+       1.0
+      ],
+      [
+       "'appelle",
+       1.42,
+       1.66,
+       1.0
+      ],
+      [
+       "CoreWive,",
+       1.66,
+       2.66,
+       0.82
+      ],
+      [
+       "plus",
+       3.02,
+       3.12,
+       0.43
+      ],
+      [
+       "24",
+       3.12,
+       3.58,
+       0.97
+      ],
+      [
+       ",7",
+       3.58,
+       4.22,
+       0.97
+      ],
+      [
+       "%",
+       4.22,
+       4.74,
+       0.55
+      ],
+      [
+       "après",
+       4.74,
+       5.08,
+       0.99
+      ],
+      [
+       "des",
+       5.08,
+       5.32,
+       0.99
+      ],
+      [
+       "pertes",
+       5.32,
+       5.6,
+       0.99
+      ],
+      [
+       "moins",
+       5.6,
+       5.82,
+       1.0
+      ],
+      [
+       "lourdes",
+       5.82,
+       6.14,
+       0.99
+      ],
+      [
+       "que",
+       6.14,
+       6.32,
+       1.0
+      ],
+      [
+       "prévues.",
+       6.32,
+       6.62,
+       0.92
+      ]
+     ],
+     "clarte": 0.43,
+     "ok": false
+    },
+    {
+     "prise": 1,
+     "file": "fr-01-01-p1.wav",
+     "seconds": 7.36,
+     "compute": 73,
+     "heard": "La vedette de la séance s'appelle CoreWive, plus 24,7%, après des pertes moins lourdes que prévues.",
+     "wer": 0.091,
+     "extra": 2,
+     "speech": [
+      0.0,
+      7.28
+     ],
+     "rate": 17.7,
+     "mots": [
+      [
+       "La",
+       0.0,
+       0.36,
+       0.95
+      ],
+      [
+       "vedette",
+       0.36,
+       0.68,
+       1.0
+      ],
+      [
+       "de",
+       0.68,
+       0.84,
+       0.99
+      ],
+      [
+       "la",
+       0.84,
+       1.02,
+       1.0
+      ],
+      [
+       "séance",
+       1.02,
+       1.3,
+       1.0
+      ],
+      [
+       "s",
+       1.3,
+       1.58,
+       1.0
+      ],
+      [
+       "'appelle",
+       1.58,
+       1.78,
+       1.0
+      ],
+      [
+       "CoreWive,",
+       1.78,
+       2.8,
+       0.82
+      ],
+      [
+       "plus",
+       3.14,
+       3.26,
+       0.43
+      ],
+      [
+       "24",
+       3.26,
+       3.78,
+       0.98
+      ],
+      [
+       ",7%,",
+       3.78,
+       5.28,
+       0.77
+      ],
+      [
+       "après",
+       5.28,
+       5.7,
+       0.99
+      ],
+      [
+       "des",
+       5.7,
+       5.9,
+       0.99
+      ],
+      [
+       "pertes",
+       5.9,
+       6.18,
+       0.99
+      ],
+      [
+       "moins",
+       6.18,
+       6.38,
+       1.0
+      ],
+      [
+       "lourdes",
+       6.38,
+       6.72,
+       0.99
+      ],
+      [
+       "que",
+       6.72,
+       6.9,
+       1.0
+      ],
+      [
+       "prévues.",
+       6.9,
+       7.28,
+       0.92
+      ]
+     ],
+     "clarte": 0.43,
+     "ok": false
+    }
+   ]
+  },
+  "02-00": {
+   "id": "02-00",
+   "bloc": 2,
+   "ton": "net",
+   "text": "Mais après la clôture, Nvidia décroche de plus de huit pour cent. Selon le Wall Street Journal, son conseil d'administration prépare le départ de son patron, Jensen Huang.",
+   "tts": "Mais après la clôture, Ènvidia décroche de plus de huit pour cent. Selon le Wall Street Journal, son conseil d'administration prépare le départ de son patron, Jennsène Houang.",
+   "gen": {},
+   "prise": {
+    "prise": 1,
+    "file": "fr-02-00-p1.wav",
+    "seconds": 9.12,
+    "compute": 88,
+    "heard": "Mais après la clôture, NVIDIA décroche de plus de 8%. Selon le Wall Street Journal, son conseil d'administration prépare le départ de son patron, Jensen Wong.",
+    "wer": 0.034,
+    "extra": 1,
+    "speech": [
+     0.0,
+     9.02
+    ],
+    "rate": 19.4,
+    "mots": [
+     [
+      "Mais",
+      0.0,
+      0.34,
+      0.89
+     ],
+     [
+      "après",
+      0.34,
+      0.66,
+      0.86
+     ],
+     [
+      "la",
+      0.66,
+      0.84,
+      0.99
+     ],
+     [
+      "clôture,",
+      0.84,
+      1.42,
+      0.99
+     ],
+     [
+      "NVIDIA",
+      1.66,
+      2.0,
+      0.72
+     ],
+     [
+      "décroche",
+      2.0,
+      2.46,
+      1.0
+     ],
+     [
+      "de",
+      2.46,
+      2.64,
+      1.0
+     ],
+     [
+      "plus",
+      2.64,
+      2.76,
+      0.97
+     ],
+     [
+      "de",
+      2.76,
+      3.0,
+      0.99
+     ],
+     [
+      "8%.",
+      3.0,
+      3.78,
+      0.75
+     ],
+     [
+      "Selon",
+      3.78,
+      4.14,
+      1.0
+     ],
+     [
+      "le",
+      4.14,
+      4.34,
+      0.94
+     ],
+     [
+      "Wall",
+      4.34,
+      4.54,
+      0.97
+     ],
+     [
+      "Street",
+      4.54,
+      4.76,
+      0.97
+     ],
+     [
+      "Journal,",
+      4.76,
+      5.14,
+      0.99
+     ],
+     [
+      "son",
+      5.52,
+      5.64,
+      0.99
+     ],
+     [
+      "conseil",
+      5.64,
+      5.96,
+      0.97
+     ],
+     [
+      "d",
+      5.96,
+      6.0,
+      1.0
+     ],
+     [
+      "'administration",
+      6.0,
+      6.72,
+      1.0
+     ],
+     [
+      "prépare",
+      6.72,
+      7.14,
+      1.0
+     ],
+     [
+      "le",
+      7.14,
+      7.34,
+      1.0
+     ],
+     [
+      "départ",
+      7.34,
+      7.5,
+      1.0
+     ],
+     [
+      "de",
+      7.5,
+      7.74,
+      1.0
+     ],
+     [
+      "son",
+      7.74,
+      7.82,
+      1.0
+     ],
+     [
+      "patron,",
+      7.82,
+      8.18,
+      1.0
+     ],
+     [
+      "Jensen",
+      8.44,
+      8.74,
+      0.93
+     ],
+     [
+      "Wong.",
+      8.74,
+      9.02,
+      0.41
+     ]
+    ],
+    "clarte": 0.41,
+    "ok": true
+   },
+   "toutes": [
+    {
+     "prise": 1,
+     "file": "fr-02-00-p1.wav",
+     "seconds": 9.12,
+     "compute": 88,
+     "heard": "Mais après la clôture, NVIDIA décroche de plus de 8%. Selon le Wall Street Journal, son conseil d'administration prépare le départ de son patron, Jensen Wong.",
+     "wer": 0.034,
+     "extra": 1,
+     "speech": [
+      0.0,
+      9.02
+     ],
+     "rate": 19.4,
+     "mots": [
+      [
+       "Mais",
+       0.0,
+       0.34,
+       0.89
+      ],
+      [
+       "après",
+       0.34,
+       0.66,
+       0.86
+      ],
+      [
+       "la",
+       0.66,
+       0.84,
+       0.99
+      ],
+      [
+       "clôture,",
+       0.84,
+       1.42,
+       0.99
+      ],
+      [
+       "NVIDIA",
+       1.66,
+       2.0,
+       0.72
+      ],
+      [
+       "décroche",
+       2.0,
+       2.46,
+       1.0
+      ],
+      [
+       "de",
+       2.46,
+       2.64,
+       1.0
+      ],
+      [
+       "plus",
+       2.64,
+       2.76,
+       0.97
+      ],
+      [
+       "de",
+       2.76,
+       3.0,
+       0.99
+      ],
+      [
+       "8%.",
+       3.0,
+       3.78,
+       0.75
+      ],
+      [
+       "Selon",
+       3.78,
+       4.14,
+       1.0
+      ],
+      [
+       "le",
+       4.14,
+       4.34,
+       0.94
+      ],
+      [
+       "Wall",
+       4.34,
+       4.54,
+       0.97
+      ],
+      [
+       "Street",
+       4.54,
+       4.76,
+       0.97
+      ],
+      [
+       "Journal,",
+       4.76,
+       5.14,
+       0.99
+      ],
+      [
+       "son",
+       5.52,
+       5.64,
+       0.99
+      ],
+      [
+       "conseil",
+       5.64,
+       5.96,
+       0.97
+      ],
+      [
+       "d",
+       5.96,
+       6.0,
+       1.0
+      ],
+      [
+       "'administration",
+       6.0,
+       6.72,
+       1.0
+      ],
+      [
+       "prépare",
+       6.72,
+       7.14,
+       1.0
+      ],
+      [
+       "le",
+       7.14,
+       7.34,
+       1.0
+      ],
+      [
+       "départ",
+       7.34,
+       7.5,
+       1.0
+      ],
+      [
+       "de",
+       7.5,
+       7.74,
+       1.0
+      ],
+      [
+       "son",
+       7.74,
+       7.82,
+       1.0
+      ],
+      [
+       "patron,",
+       7.82,
+       8.18,
+       1.0
+      ],
+      [
+       "Jensen",
+       8.44,
+       8.74,
+       0.93
+      ],
+      [
+       "Wong.",
+       8.74,
+       9.02,
+       0.41
+      ]
+     ],
+     "clarte": 0.41,
+     "ok": true
+    }
+   ]
+  },
+  "02-01": {
+   "id": "02-01",
+   "bloc": 2,
+   "ton": "net",
+   "text": "D'après Reuters, le conseil s'est réuni mercredi soir pour en décider. Rien n'est officiel pour l'instant. Une nouvelle, c'est une information.",
+   "tts": "D'après Reuters, le conseil s'est réuni mercredi soir pour en décider. Rien n'est officiel pour l'instant. Une nouvelle, c'est une information.",
+   "gen": {},
+   "prise": {
+    "prise": 1,
+    "file": "fr-02-01-p1.wav",
+    "seconds": 7.28,
+    "compute": 51,
+    "heard": "D'après Rotheurs, le Conseil s'est réuni mercredi soir pour en décider. Rien n'est officiel pour l'instant. Une nouvelle, c'est une information.",
+    "wer": 0.038,
+    "extra": 1,
+    "speech": [
+     0.0,
+     7.16
+    ],
+    "rate": 20.0,
+    "mots": [
+     [
+      "D",
+      0.0,
+      0.24,
+      0.93
+     ],
+     [
+      "'après",
+      0.24,
+      0.42,
+      1.0
+     ],
+     [
+      "Rotheurs,",
+      0.42,
+      0.9,
+      0.5
+     ],
+     [
+      "le",
+      1.18,
+      1.32,
+      0.99
+     ],
+     [
+      "Conseil",
+      1.32,
+      1.6,
+      0.81
+     ],
+     [
+      "s",
+      1.6,
+      1.7,
+      1.0
+     ],
+     [
+      "'est",
+      1.7,
+      1.84,
+      1.0
+     ],
+     [
+      "réuni",
+      1.84,
+      2.06,
+      0.97
+     ],
+     [
+      "mercredi",
+      2.06,
+      2.66,
+      0.99
+     ],
+     [
+      "soir",
+      2.66,
+      2.92,
+      1.0
+     ],
+     [
+      "pour",
+      2.92,
+      3.1,
+      0.98
+     ],
+     [
+      "en",
+      3.1,
+      3.28,
+      1.0
+     ],
+     [
+      "décider.",
+      3.28,
+      3.8,
+      1.0
+     ],
+     [
+      "Rien",
+      4.04,
+      4.16,
+      0.98
+     ],
+     [
+      "n",
+      4.16,
+      4.18,
+      0.99
+     ],
+     [
+      "'est",
+      4.18,
+      4.4,
+      1.0
+     ],
+     [
+      "officiel",
+      4.4,
+      4.74,
+      1.0
+     ],
+     [
+      "pour",
+      4.74,
+      4.92,
+      1.0
+     ],
+     [
+      "l",
+      4.92,
+      4.98,
+      1.0
+     ],
+     [
+      "'instant.",
+      4.98,
+      5.32,
+      1.0
+     ],
+     [
+      "Une",
+      5.76,
+      5.84,
+      0.99
+     ],
+     [
+      "nouvelle,",
+      5.84,
+      6.16,
+      1.0
+     ],
+     [
+      "c",
+      6.54,
+      6.54,
+      1.0
+     ],
+     [
+      "'est",
+      6.54,
+      6.66,
+      1.0
+     ],
+     [
+      "une",
+      6.66,
+      6.76,
+      1.0
+     ],
+     [
+      "information.",
+      6.76,
+      7.16,
+      1.0
+     ]
+    ],
+    "clarte": 0.5,
+    "ok": true
+   },
+   "toutes": [
+    {
+     "prise": 1,
+     "file": "fr-02-01-p1.wav",
+     "seconds": 7.28,
+     "compute": 51,
+     "heard": "D'après Rotheurs, le Conseil s'est réuni mercredi soir pour en décider. Rien n'est officiel pour l'instant. Une nouvelle, c'est une information.",
+     "wer": 0.038,
+     "extra": 1,
+     "speech": [
+      0.0,
+      7.16
+     ],
+     "rate": 20.0,
+     "mots": [
+      [
+       "D",
+       0.0,
+       0.24,
+       0.93
+      ],
+      [
+       "'après",
+       0.24,
+       0.42,
+       1.0
+      ],
+      [
+       "Rotheurs,",
+       0.42,
+       0.9,
+       0.5
+      ],
+      [
+       "le",
+       1.18,
+       1.32,
+       0.99
+      ],
+      [
+       "Conseil",
+       1.32,
+       1.6,
+       0.81
+      ],
+      [
+       "s",
+       1.6,
+       1.7,
+       1.0
+      ],
+      [
+       "'est",
+       1.7,
+       1.84,
+       1.0
+      ],
+      [
+       "réuni",
+       1.84,
+       2.06,
+       0.97
+      ],
+      [
+       "mercredi",
+       2.06,
+       2.66,
+       0.99
+      ],
+      [
+       "soir",
+       2.66,
+       2.92,
+       1.0
+      ],
+      [
+       "pour",
+       2.92,
+       3.1,
+       0.98
+      ],
+      [
+       "en",
+       3.1,
+       3.28,
+       1.0
+      ],
+      [
+       "décider.",
+       3.28,
+       3.8,
+       1.0
+      ],
+      [
+       "Rien",
+       4.04,
+       4.16,
+       0.98
+      ],
+      [
+       "n",
+       4.16,
+       4.18,
+       0.99
+      ],
+      [
+       "'est",
+       4.18,
+       4.4,
+       1.0
+      ],
+      [
+       "officiel",
+       4.4,
+       4.74,
+       1.0
+      ],
+      [
+       "pour",
+       4.74,
+       4.92,
+       1.0
+      ],
+      [
+       "l",
+       4.92,
+       4.98,
+       1.0
+      ],
+      [
+       "'instant.",
+       4.98,
+       5.32,
+       1.0
+      ],
+      [
+       "Une",
+       5.76,
+       5.84,
+       0.99
+      ],
+      [
+       "nouvelle,",
+       5.84,
+       6.16,
+       1.0
+      ],
+      [
+       "c",
+       6.54,
+       6.54,
+       1.0
+      ],
+      [
+       "'est",
+       6.54,
+       6.66,
+       1.0
+      ],
+      [
+       "une",
+       6.66,
+       6.76,
+       1.0
+      ],
+      [
+       "information.",
+       6.76,
+       7.16,
+       1.0
+      ]
+     ],
+     "clarte": 0.5,
+     "ok": true
+    }
+   ]
+  },
+  "02-02": {
+   "id": "02-02",
+   "bloc": 2,
+   "ton": "net",
+   "text": "Pas un ordre.",
+   "tts": "Pas un ordre.",
+   "gen": {},
+   "prise": {
+    "prise": 2,
+    "file": "fr-02-02-p2.wav",
+    "seconds": 0.88,
+    "compute": 10,
+    "heard": "Pas un ordre.",
+    "wer": 0.0,
+    "extra": 0,
+    "speech": [
+     0.0,
+     0.78
+    ],
+    "rate": 16.7,
+    "mots": [
+     [
+      "Pas",
+      0.0,
+      0.3,
+      0.52
+     ],
+     [
+      "un",
+      0.3,
+      0.54,
+      0.97
+     ],
+     [
+      "ordre.",
+      0.54,
+      0.78,
+      1.0
+     ]
+    ],
+    "clarte": 0.52,
+    "ok": true
+   },
+   "toutes": [
+    {
+     "prise": 2,
+     "file": "fr-02-02-p2.wav",
+     "seconds": 0.88,
+     "compute": 10,
+     "heard": "Pas un ordre.",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      0.78
+     ],
+     "rate": 16.7,
+     "mots": [
+      [
+       "Pas",
+       0.0,
+       0.3,
+       0.52
+      ],
+      [
+       "un",
+       0.3,
+       0.54,
+       0.97
+      ],
+      [
+       "ordre.",
+       0.54,
+       0.78,
+       1.0
+      ]
+     ],
+     "clarte": 0.52,
+     "ok": true
+    },
+    {
+     "prise": 3,
+     "file": "fr-02-02-p3.wav",
+     "seconds": 0.72,
+     "compute": 9,
+     "heard": "Pas un ordre.",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      0.66
+     ],
+     "rate": 19.7,
+     "mots": [
+      [
+       "Pas",
+       0.0,
+       0.2,
+       0.06
+      ],
+      [
+       "un",
+       0.2,
+       0.44,
+       0.91
+      ],
+      [
+       "ordre.",
+       0.44,
+       0.66,
+       1.0
+      ]
+     ],
+     "clarte": 0.06,
+     "ok": true
+    },
+    {
+     "prise": 1,
+     "file": "fr-02-02-p1.wav",
+     "seconds": 0.88,
+     "compute": 11,
+     "heard": "Pas en ordre !",
+     "wer": 0.333,
+     "extra": 1,
+     "speech": [
+      0.0,
+      0.86
+     ],
+     "rate": 15.1,
+     "mots": [
+      [
+       "Pas",
+       0.0,
+       0.34,
+       0.79
+      ],
+      [
+       "en",
+       0.34,
+       0.58,
+       0.52
+      ],
+      [
+       "ordre",
+       0.58,
+       0.8,
+       0.99
+      ],
+      [
+       "!",
+       0.8,
+       0.86,
+       0.57
+      ]
+     ],
+     "clarte": 0.52,
+     "ok": false
+    }
+   ]
+  },
+  "03-00": {
+   "id": "03-00",
+   "bloc": 3,
+   "ton": "net",
+   "text": "Cette nuit, l'Asie encaisse. Taipei, la place des fabricants de puces, recule de plus de deux pour cent. Hong Kong perd un virgule deux pour cent, Tokyo zéro virgule sept.",
+   "tts": "Cette nuit, l'Asie encaisse. Taipei, la place des fabricants de puces, recule de plus de deux pour cent. Hong Kong perd un virgule deux pour cent, Tokyo zéro virgule sept.",
+   "gen": {},
+   "prise": {
+    "prise": 1,
+    "file": "fr-03-00-p1.wav",
+    "seconds": 9.12,
+    "compute": 63,
+    "heard": "Cette nuit, l'Asie en caisse. Taipei, la place des fabricants de puces recule de plus de 2%. Hong Kong perd 1,2%, Tokyo 0,7.",
+    "wer": 0.032,
+    "extra": 2,
+    "speech": [
+     0.0,
+     9.1
+    ],
+    "rate": 18.8,
+    "mots": [
+     [
+      "Cette",
+      0.0,
+      0.46,
+      0.68
+     ],
+     [
+      "nuit,",
+      0.46,
+      0.76,
+      1.0
+     ],
+     [
+      "l",
+      1.0,
+      1.08,
+      0.92
+     ],
+     [
+      "'Asie",
+      1.08,
+      1.2,
+      0.97
+     ],
+     [
+      "en",
+      1.2,
+      1.42,
+      0.14
+     ],
+     [
+      "caisse.",
+      1.42,
+      1.88,
+      0.99
+     ],
+     [
+      "Taipei,",
+      2.1,
+      2.52,
+      0.97
+     ],
+     [
+      "la",
+      2.82,
+      2.94,
+      0.98
+     ],
+     [
+      "place",
+      2.94,
+      3.08,
+      1.0
+     ],
+     [
+      "des",
+      3.08,
+      3.28,
+      1.0
+     ],
+     [
+      "fabricants",
+      3.28,
+      3.68,
+      0.99
+     ],
+     [
+      "de",
+      3.68,
+      3.9,
+      1.0
+     ],
+     [
+      "puces",
+      3.9,
+      4.22,
+      0.78
+     ],
+     [
+      "recule",
+      4.22,
+      4.62,
+      0.84
+     ],
+     [
+      "de",
+      4.62,
+      4.82,
+      1.0
+     ],
+     [
+      "plus",
+      4.82,
+      4.94,
+      0.93
+     ],
+     [
+      "de",
+      4.94,
+      5.22,
+      0.99
+     ],
+     [
+      "2%.",
+      5.22,
+      5.9,
+      0.77
+     ],
+     [
+      "Hong",
+      5.9,
+      6.22,
+      0.99
+     ],
+     [
+      "Kong",
+      6.22,
+      6.4,
+      0.86
+     ],
+     [
+      "perd",
+      6.4,
+      6.56,
+      0.95
+     ],
+     [
+      "1",
+      6.56,
+      6.76,
+      0.93
+     ],
+     [
+      ",2%,",
+      6.76,
+      7.9,
+      0.78
+     ],
+     [
+      "Tokyo",
+      7.9,
+      8.24,
+      0.99
+     ],
+     [
+      "0",
+      8.24,
+      8.56,
+      0.96
+     ],
+     [
+      ",7.",
+      8.56,
+      9.1,
+      0.96
+     ]
+    ],
+    "clarte": 0.14,
+    "ok": true
+   },
+   "toutes": [
+    {
+     "prise": 1,
+     "file": "fr-03-00-p1.wav",
+     "seconds": 9.12,
+     "compute": 63,
+     "heard": "Cette nuit, l'Asie en caisse. Taipei, la place des fabricants de puces recule de plus de 2%. Hong Kong perd 1,2%, Tokyo 0,7.",
+     "wer": 0.032,
+     "extra": 2,
+     "speech": [
+      0.0,
+      9.1
+     ],
+     "rate": 18.8,
+     "mots": [
+      [
+       "Cette",
+       0.0,
+       0.46,
+       0.68
+      ],
+      [
+       "nuit,",
+       0.46,
+       0.76,
+       1.0
+      ],
+      [
+       "l",
+       1.0,
+       1.08,
+       0.92
+      ],
+      [
+       "'Asie",
+       1.08,
+       1.2,
+       0.97
+      ],
+      [
+       "en",
+       1.2,
+       1.42,
+       0.14
+      ],
+      [
+       "caisse.",
+       1.42,
+       1.88,
+       0.99
+      ],
+      [
+       "Taipei,",
+       2.1,
+       2.52,
+       0.97
+      ],
+      [
+       "la",
+       2.82,
+       2.94,
+       0.98
+      ],
+      [
+       "place",
+       2.94,
+       3.08,
+       1.0
+      ],
+      [
+       "des",
+       3.08,
+       3.28,
+       1.0
+      ],
+      [
+       "fabricants",
+       3.28,
+       3.68,
+       0.99
+      ],
+      [
+       "de",
+       3.68,
+       3.9,
+       1.0
+      ],
+      [
+       "puces",
+       3.9,
+       4.22,
+       0.78
+      ],
+      [
+       "recule",
+       4.22,
+       4.62,
+       0.84
+      ],
+      [
+       "de",
+       4.62,
+       4.82,
+       1.0
+      ],
+      [
+       "plus",
+       4.82,
+       4.94,
+       0.93
+      ],
+      [
+       "de",
+       4.94,
+       5.22,
+       0.99
+      ],
+      [
+       "2%.",
+       5.22,
+       5.9,
+       0.77
+      ],
+      [
+       "Hong",
+       5.9,
+       6.22,
+       0.99
+      ],
+      [
+       "Kong",
+       6.22,
+       6.4,
+       0.86
+      ],
+      [
+       "perd",
+       6.4,
+       6.56,
+       0.95
+      ],
+      [
+       "1",
+       6.56,
+       6.76,
+       0.93
+      ],
+      [
+       ",2%,",
+       6.76,
+       7.9,
+       0.78
+      ],
+      [
+       "Tokyo",
+       7.9,
+       8.24,
+       0.99
+      ],
+      [
+       "0",
+       8.24,
+       8.56,
+       0.96
+      ],
+      [
+       ",7.",
+       8.56,
+       9.1,
+       0.96
+      ]
+     ],
+     "clarte": 0.14,
+     "ok": true
+    }
+   ]
+  },
+  "04-00": {
+   "id": "04-00",
+   "bloc": 4,
+   "ton": "net",
+   "text": "Le dollar, lui, poursuit sa route : au plus haut depuis dix-neuf mois face aux grandes devises, selon Reuters. L'or repasse sous les quatre mille dollars l'once, au plus bas depuis le quatre novembre.",
+   "tts": "Le dollar, lui, poursuit sa route : au plus haut depuis dix-neuf mois face aux grandes devises, selon Reuters. L'or repasse sous les quatre mille dollars l'once, au plus bas depuis le quatre novembre.",
+   "gen": {},
+   "prise": {
+    "prise": 1,
+    "file": "fr-04-00-p1.wav",
+    "seconds": 10.48,
+    "compute": 69,
+    "heard": "Le dollar, lui, poursuit sa route, au plus haut depuis 19 mois face aux grandes devises, selon Reuters. L'or repasse sous les 4000 dollars l'once, au plus bas depuis le 4 novembre.",
+    "wer": 0.0,
+    "extra": 0,
+    "speech": [
+     0.0,
+     10.46
+    ],
+    "rate": 19.1,
+    "mots": [
+     [
+      "Le",
+      0.0,
+      0.44,
+      0.93
+     ],
+     [
+      "dollar,",
+      0.44,
+      0.82,
+      0.93
+     ],
+     [
+      "lui,",
+      0.86,
+      1.2,
+      0.99
+     ],
+     [
+      "poursuit",
+      1.5,
+      1.72,
+      0.99
+     ],
+     [
+      "sa",
+      1.72,
+      1.88,
+      1.0
+     ],
+     [
+      "route,",
+      1.88,
+      2.14,
+      1.0
+     ],
+     [
+      "au",
+      2.72,
+      2.72,
+      0.99
+     ],
+     [
+      "plus",
+      2.72,
+      2.9,
+      1.0
+     ],
+     [
+      "haut",
+      2.9,
+      3.06,
+      0.98
+     ],
+     [
+      "depuis",
+      3.06,
+      3.4,
+      0.99
+     ],
+     [
+      "19",
+      3.4,
+      3.76,
+      0.94
+     ],
+     [
+      "mois",
+      3.76,
+      4.0,
+      1.0
+     ],
+     [
+      "face",
+      4.0,
+      4.24,
+      0.98
+     ],
+     [
+      "aux",
+      4.24,
+      4.38,
+      0.98
+     ],
+     [
+      "grandes",
+      4.38,
+      4.6,
+      0.88
+     ],
+     [
+      "devises,",
+      4.6,
+      5.1,
+      0.99
+     ],
+     [
+      "selon",
+      5.34,
+      5.5,
+      1.0
+     ],
+     [
+      "Reuters.",
+      5.5,
+      6.08,
+      0.82
+     ],
+     [
+      "L",
+      6.66,
+      6.74,
+      1.0
+     ],
+     [
+      "'or",
+      6.74,
+      6.82,
+      0.98
+     ],
+     [
+      "repasse",
+      6.82,
+      7.26,
+      0.99
+     ],
+     [
+      "sous",
+      7.26,
+      7.42,
+      0.99
+     ],
+     [
+      "les",
+      7.42,
+      7.6,
+      0.99
+     ],
+     [
+      "4000",
+      7.6,
+      7.92,
+      0.73
+     ],
+     [
+      "dollars",
+      7.92,
+      8.32,
+      0.44
+     ],
+     [
+      "l",
+      8.32,
+      8.48,
+      0.84
+     ],
+     [
+      "'once,",
+      8.48,
+      8.68,
+      0.85
+     ],
+     [
+      "au",
+      9.08,
+      9.16,
+      1.0
+     ],
+     [
+      "plus",
+      9.16,
+      9.32,
+      1.0
+     ],
+     [
+      "bas",
+      9.32,
+      9.46,
+      1.0
+     ],
+     [
+      "depuis",
+      9.46,
+      9.7,
+      0.99
+     ],
+     [
+      "le",
+      9.7,
+      9.86,
+      0.99
+     ],
+     [
+      "4",
+      9.86,
+      10.06,
+      0.99
+     ],
+     [
+      "novembre.",
+      10.06,
+      10.46,
+      0.98
+     ]
+    ],
+    "clarte": 0.44,
+    "ok": true
+   },
+   "toutes": [
+    {
+     "prise": 1,
+     "file": "fr-04-00-p1.wav",
+     "seconds": 10.48,
+     "compute": 69,
+     "heard": "Le dollar, lui, poursuit sa route, au plus haut depuis 19 mois face aux grandes devises, selon Reuters. L'or repasse sous les 4000 dollars l'once, au plus bas depuis le 4 novembre.",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      10.46
+     ],
+     "rate": 19.1,
+     "mots": [
+      [
+       "Le",
+       0.0,
+       0.44,
+       0.93
+      ],
+      [
+       "dollar,",
+       0.44,
+       0.82,
+       0.93
+      ],
+      [
+       "lui,",
+       0.86,
+       1.2,
+       0.99
+      ],
+      [
+       "poursuit",
+       1.5,
+       1.72,
+       0.99
+      ],
+      [
+       "sa",
+       1.72,
+       1.88,
+       1.0
+      ],
+      [
+       "route,",
+       1.88,
+       2.14,
+       1.0
+      ],
+      [
+       "au",
+       2.72,
+       2.72,
+       0.99
+      ],
+      [
+       "plus",
+       2.72,
+       2.9,
+       1.0
+      ],
+      [
+       "haut",
+       2.9,
+       3.06,
+       0.98
+      ],
+      [
+       "depuis",
+       3.06,
+       3.4,
+       0.99
+      ],
+      [
+       "19",
+       3.4,
+       3.76,
+       0.94
+      ],
+      [
+       "mois",
+       3.76,
+       4.0,
+       1.0
+      ],
+      [
+       "face",
+       4.0,
+       4.24,
+       0.98
+      ],
+      [
+       "aux",
+       4.24,
+       4.38,
+       0.98
+      ],
+      [
+       "grandes",
+       4.38,
+       4.6,
+       0.88
+      ],
+      [
+       "devises,",
+       4.6,
+       5.1,
+       0.99
+      ],
+      [
+       "selon",
+       5.34,
+       5.5,
+       1.0
+      ],
+      [
+       "Reuters.",
+       5.5,
+       6.08,
+       0.82
+      ],
+      [
+       "L",
+       6.66,
+       6.74,
+       1.0
+      ],
+      [
+       "'or",
+       6.74,
+       6.82,
+       0.98
+      ],
+      [
+       "repasse",
+       6.82,
+       7.26,
+       0.99
+      ],
+      [
+       "sous",
+       7.26,
+       7.42,
+       0.99
+      ],
+      [
+       "les",
+       7.42,
+       7.6,
+       0.99
+      ],
+      [
+       "4000",
+       7.6,
+       7.92,
+       0.73
+      ],
+      [
+       "dollars",
+       7.92,
+       8.32,
+       0.44
+      ],
+      [
+       "l",
+       8.32,
+       8.48,
+       0.84
+      ],
+      [
+       "'once,",
+       8.48,
+       8.68,
+       0.85
+      ],
+      [
+       "au",
+       9.08,
+       9.16,
+       1.0
+      ],
+      [
+       "plus",
+       9.16,
+       9.32,
+       1.0
+      ],
+      [
+       "bas",
+       9.32,
+       9.46,
+       1.0
+      ],
+      [
+       "depuis",
+       9.46,
+       9.7,
+       0.99
+      ],
+      [
+       "le",
+       9.7,
+       9.86,
+       0.99
+      ],
+      [
+       "4",
+       9.86,
+       10.06,
+       0.99
+      ],
+      [
+       "novembre.",
+       10.06,
+       10.46,
+       0.98
+      ]
+     ],
+     "clarte": 0.44,
+     "ok": true
+    }
+   ]
+  },
+  "04-01": {
+   "id": "04-01",
+   "bloc": 4,
+   "ton": "net",
+   "text": "Les marchés intègrent désormais pleinement une hausse des taux de la Fed en décembre.",
+   "tts": "Les marchés intègrent désormais pleinement une hausse des taux de la Fède en décembre.",
+   "gen": {},
+   "prise": {
+    "prise": 1,
+    "file": "fr-04-01-p1.wav",
+    "seconds": 4.4,
+    "compute": 31,
+    "heard": "Les marchés intègrent désormais pleinement une hausse des taux de la Fed en décembre.",
+    "wer": 0.0,
+    "extra": 0,
+    "speech": [
+     0.0,
+     4.2
+    ],
+    "rate": 20.5,
+    "mots": [
+     [
+      "Les",
+      0.0,
+      0.32,
+      0.93
+     ],
+     [
+      "marchés",
+      0.32,
+      0.78,
+      0.99
+     ],
+     [
+      "intègrent",
+      0.78,
+      1.24,
+      0.98
+     ],
+     [
+      "désormais",
+      1.24,
+      1.8,
+      1.0
+     ],
+     [
+      "pleinement",
+      1.8,
+      2.22,
+      1.0
+     ],
+     [
+      "une",
+      2.22,
+      2.48,
+      1.0
+     ],
+     [
+      "hausse",
+      2.48,
+      2.82,
+      1.0
+     ],
+     [
+      "des",
+      2.82,
+      2.92,
+      0.99
+     ],
+     [
+      "taux",
+      2.92,
+      3.02,
+      1.0
+     ],
+     [
+      "de",
+      3.02,
+      3.2,
+      1.0
+     ],
+     [
+      "la",
+      3.2,
+      3.38,
+      0.99
+     ],
+     [
+      "Fed",
+      3.38,
+      3.5,
+      0.84
+     ],
+     [
+      "en",
+      3.5,
+      3.76,
+      0.99
+     ],
+     [
+      "décembre.",
+      3.76,
+      4.2,
+      0.99
+     ]
+    ],
+    "clarte": 0.84,
+    "ok": true
+   },
+   "toutes": [
+    {
+     "prise": 1,
+     "file": "fr-04-01-p1.wav",
+     "seconds": 4.4,
+     "compute": 31,
+     "heard": "Les marchés intègrent désormais pleinement une hausse des taux de la Fed en décembre.",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      4.2
+     ],
+     "rate": 20.5,
+     "mots": [
+      [
+       "Les",
+       0.0,
+       0.32,
+       0.93
+      ],
+      [
+       "marchés",
+       0.32,
+       0.78,
+       0.99
+      ],
+      [
+       "intègrent",
+       0.78,
+       1.24,
+       0.98
+      ],
+      [
+       "désormais",
+       1.24,
+       1.8,
+       1.0
+      ],
+      [
+       "pleinement",
+       1.8,
+       2.22,
+       1.0
+      ],
+      [
+       "une",
+       2.22,
+       2.48,
+       1.0
+      ],
+      [
+       "hausse",
+       2.48,
+       2.82,
+       1.0
+      ],
+      [
+       "des",
+       2.82,
+       2.92,
+       0.99
+      ],
+      [
+       "taux",
+       2.92,
+       3.02,
+       1.0
+      ],
+      [
+       "de",
+       3.02,
+       3.2,
+       1.0
+      ],
+      [
+       "la",
+       3.2,
+       3.38,
+       0.99
+      ],
+      [
+       "Fed",
+       3.38,
+       3.5,
+       0.84
+      ],
+      [
+       "en",
+       3.5,
+       3.76,
+       0.99
+      ],
+      [
+       "décembre.",
+       3.76,
+       4.2,
+       0.99
+      ]
+     ],
+     "clarte": 0.84,
+     "ok": true
+    }
+   ]
+  },
+  "05-00": {
+   "id": "05-00",
+   "bloc": 5,
+   "ton": "pose",
+   "text": "Le chiffre du matin : zéro virgule sept pour cent. C'est la croissance du Royaume-Uni au troisième trimestre, publiée ce matin.",
+   "tts": "Le chiffre du matin : zéro virgule sept pour cent. C'est la croissance du Royaume-Uni au troisième trimestre, publiée ce matin.",
+   "gen": {},
+   "prise": {
+    "prise": 1,
+    "file": "fr-05-00-p1.wav",
+    "seconds": 6.48,
+    "compute": 44,
+    "heard": "Le chiffre du matin, 0,7 %, c'est la croissance du Royaume-Uni au troisième trimestre publié ce matin.",
+    "wer": 0.045,
+    "extra": 1,
+    "speech": [
+     0.0,
+     6.38
+    ],
+    "rate": 19.9,
+    "mots": [
+     [
+      "Le",
+      0.0,
+      0.54,
+      0.78
+     ],
+     [
+      "chiffre",
+      0.54,
+      0.8,
+      1.0
+     ],
+     [
+      "du",
+      0.8,
+      0.96,
+      1.0
+     ],
+     [
+      "matin,",
+      0.96,
+      1.18,
+      1.0
+     ],
+     [
+      "0",
+      1.6,
+      1.78,
+      0.99
+     ],
+     [
+      ",7",
+      1.78,
+      2.26,
+      0.98
+     ],
+     [
+      "%,",
+      2.26,
+      3.3,
+      0.5
+     ],
+     [
+      "c",
+      3.3,
+      3.56,
+      0.94
+     ],
+     [
+      "'est",
+      3.56,
+      3.62,
+      1.0
+     ],
+     [
+      "la",
+      3.62,
+      3.74,
+      0.99
+     ],
+     [
+      "croissance",
+      3.74,
+      4.02,
+      1.0
+     ],
+     [
+      "du",
+      4.02,
+      4.2,
+      1.0
+     ],
+     [
+      "Royaume",
+      4.2,
+      4.46,
+      1.0
+     ],
+     [
+      "-Uni",
+      4.46,
+      4.66,
+      0.98
+     ],
+     [
+      "au",
+      4.66,
+      4.86,
+      0.99
+     ],
+     [
+      "troisième",
+      4.86,
+      5.12,
+      0.63
+     ],
+     [
+      "trimestre",
+      5.12,
+      5.58,
+      1.0
+     ],
+     [
+      "publié",
+      5.58,
+      6.06,
+      0.79
+     ],
+     [
+      "ce",
+      6.06,
+      6.24,
+      0.99
+     ],
+     [
+      "matin.",
+      6.24,
+      6.38,
+      1.0
+     ]
+    ],
+    "clarte": 0.5,
+    "ok": true
+   },
+   "toutes": [
+    {
+     "prise": 1,
+     "file": "fr-05-00-p1.wav",
+     "seconds": 6.48,
+     "compute": 44,
+     "heard": "Le chiffre du matin, 0,7 %, c'est la croissance du Royaume-Uni au troisième trimestre publié ce matin.",
+     "wer": 0.045,
+     "extra": 1,
+     "speech": [
+      0.0,
+      6.38
+     ],
+     "rate": 19.9,
+     "mots": [
+      [
+       "Le",
+       0.0,
+       0.54,
+       0.78
+      ],
+      [
+       "chiffre",
+       0.54,
+       0.8,
+       1.0
+      ],
+      [
+       "du",
+       0.8,
+       0.96,
+       1.0
+      ],
+      [
+       "matin,",
+       0.96,
+       1.18,
+       1.0
+      ],
+      [
+       "0",
+       1.6,
+       1.78,
+       0.99
+      ],
+      [
+       ",7",
+       1.78,
+       2.26,
+       0.98
+      ],
+      [
+       "%,",
+       2.26,
+       3.3,
+       0.5
+      ],
+      [
+       "c",
+       3.3,
+       3.56,
+       0.94
+      ],
+      [
+       "'est",
+       3.56,
+       3.62,
+       1.0
+      ],
+      [
+       "la",
+       3.62,
+       3.74,
+       0.99
+      ],
+      [
+       "croissance",
+       3.74,
+       4.02,
+       1.0
+      ],
+      [
+       "du",
+       4.02,
+       4.2,
+       1.0
+      ],
+      [
+       "Royaume",
+       4.2,
+       4.46,
+       1.0
+      ],
+      [
+       "-Uni",
+       4.46,
+       4.66,
+       0.98
+      ],
+      [
+       "au",
+       4.66,
+       4.86,
+       0.99
+      ],
+      [
+       "troisième",
+       4.86,
+       5.12,
+       0.63
+      ],
+      [
+       "trimestre",
+       5.12,
+       5.58,
+       1.0
+      ],
+      [
+       "publié",
+       5.58,
+       6.06,
+       0.79
+      ],
+      [
+       "ce",
+       6.06,
+       6.24,
+       0.99
+      ],
+      [
+       "matin.",
+       6.24,
+       6.38,
+       1.0
+      ]
+     ],
+     "clarte": 0.5,
+     "ok": true
+    }
+   ]
+  },
+  "05-01": {
+   "id": "05-01",
+   "bloc": 5,
+   "ton": "pose",
+   "text": "Sa meilleure performance depuis début deux mille vingt-quatre, tirée par les services, et notamment par la programmation informatique liée à l'intelligence artificielle.",
+   "tts": "Sa meilleure performance depuis début deux mille vingt-quatre, tirée par les services, et notamment par la programmation informatique liée à l'intelligence artificielle.",
+   "gen": {},
+   "prise": {
+    "prise": 1,
+    "file": "fr-05-01-p1.wav",
+    "seconds": 7.04,
+    "compute": 68,
+    "heard": "Sa meilleure performance depuis début 2024 tirée par les services et notamment par la programmation informatique liée à l'intelligence artificielle.",
+    "wer": 0.0,
+    "extra": 0,
+    "speech": [
+     0.0,
+     7.02
+    ],
+    "rate": 24.1,
+    "mots": [
+     [
+      "Sa",
+      0.0,
+      0.34,
+      0.21
+     ],
+     [
+      "meilleure",
+      0.34,
+      0.62,
+      0.99
+     ],
+     [
+      "performance",
+      0.62,
+      1.0,
+      1.0
+     ],
+     [
+      "depuis",
+      1.0,
+      1.3,
+      0.99
+     ],
+     [
+      "début",
+      1.3,
+      1.54,
+      0.97
+     ],
+     [
+      "2024",
+      1.54,
+      2.28,
+      0.99
+     ],
+     [
+      "tirée",
+      2.28,
+      2.74,
+      0.91
+     ],
+     [
+      "par",
+      2.74,
+      2.9,
+      1.0
+     ],
+     [
+      "les",
+      2.9,
+      3.04,
+      0.99
+     ],
+     [
+      "services",
+      3.04,
+      3.42,
+      0.98
+     ],
+     [
+      "et",
+      3.42,
+      3.82,
+      0.49
+     ],
+     [
+      "notamment",
+      3.82,
+      4.16,
+      0.99
+     ],
+     [
+      "par",
+      4.16,
+      4.34,
+      1.0
+     ],
+     [
+      "la",
+      4.34,
+      4.56,
+      1.0
+     ],
+     [
+      "programmation",
+      4.56,
+      5.0,
+      1.0
+     ],
+     [
+      "informatique",
+      5.0,
+      5.6,
+      0.99
+     ],
+     [
+      "liée",
+      5.6,
+      5.96,
+      0.96
+     ],
+     [
+      "à",
+      5.96,
+      6.04,
+      1.0
+     ],
+     [
+      "l",
+      6.04,
+      6.14,
+      1.0
+     ],
+     [
+      "'intelligence",
+      6.14,
+      6.5,
+      0.98
+     ],
+     [
+      "artificielle.",
+      6.5,
+      7.02,
+      1.0
+     ]
+    ],
+    "clarte": 0.21,
+    "ok": true
+   },
+   "toutes": [
+    {
+     "prise": 1,
+     "file": "fr-05-01-p1.wav",
+     "seconds": 7.04,
+     "compute": 68,
+     "heard": "Sa meilleure performance depuis début 2024 tirée par les services et notamment par la programmation informatique liée à l'intelligence artificielle.",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      7.02
+     ],
+     "rate": 24.1,
+     "mots": [
+      [
+       "Sa",
+       0.0,
+       0.34,
+       0.21
+      ],
+      [
+       "meilleure",
+       0.34,
+       0.62,
+       0.99
+      ],
+      [
+       "performance",
+       0.62,
+       1.0,
+       1.0
+      ],
+      [
+       "depuis",
+       1.0,
+       1.3,
+       0.99
+      ],
+      [
+       "début",
+       1.3,
+       1.54,
+       0.97
+      ],
+      [
+       "2024",
+       1.54,
+       2.28,
+       0.99
+      ],
+      [
+       "tirée",
+       2.28,
+       2.74,
+       0.91
+      ],
+      [
+       "par",
+       2.74,
+       2.9,
+       1.0
+      ],
+      [
+       "les",
+       2.9,
+       3.04,
+       0.99
+      ],
+      [
+       "services",
+       3.04,
+       3.42,
+       0.98
+      ],
+      [
+       "et",
+       3.42,
+       3.82,
+       0.49
+      ],
+      [
+       "notamment",
+       3.82,
+       4.16,
+       0.99
+      ],
+      [
+       "par",
+       4.16,
+       4.34,
+       1.0
+      ],
+      [
+       "la",
+       4.34,
+       4.56,
+       1.0
+      ],
+      [
+       "programmation",
+       4.56,
+       5.0,
+       1.0
+      ],
+      [
+       "informatique",
+       5.0,
+       5.6,
+       0.99
+      ],
+      [
+       "liée",
+       5.6,
+       5.96,
+       0.96
+      ],
+      [
+       "à",
+       5.96,
+       6.04,
+       1.0
+      ],
+      [
+       "l",
+       6.04,
+       6.14,
+       1.0
+      ],
+      [
+       "'intelligence",
+       6.14,
+       6.5,
+       0.98
+      ],
+      [
+       "artificielle.",
+       6.5,
+       7.02,
+       1.0
+      ]
+     ],
+     "clarte": 0.21,
+     "ok": true
+    }
+   ]
+  },
+  "06-00": {
+   "id": "06-00",
+   "bloc": 6,
+   "ton": "net",
+   "text": "Le Biais du jour. Celui de ce jeudi arrive dans le terminal ; voici le dernier Biais publié, celui de mercredi, avec ses trois marchés offerts à tous.",
+   "tts": "Le Biais du jour. Celui de ce jeudi arrive dans le terminal ; voici le dernier Biais publié, celui de mercredi, avec ses trois marchés offerts à tous.",
+   "gen": {},
+   "prise": {
+    "prise": 1,
+    "file": "fr-06-00-p1.wav",
+    "seconds": 8.8,
+    "compute": 86,
+    "heard": "Le biais du jour, celui de ce jeudi arrive dans le terminal. Voici le dernier biais publié, celui de mercredi, avec ses trois marchés offerts à tous.",
+    "wer": 0.0,
+    "extra": 0,
+    "speech": [
+     0.0,
+     8.62
+    ],
+    "rate": 17.4,
+    "mots": [
+     [
+      "Le",
+      0.0,
+      0.26,
+      0.86
+     ],
+     [
+      "biais",
+      0.26,
+      0.46,
+      0.93
+     ],
+     [
+      "du",
+      0.46,
+      0.64,
+      1.0
+     ],
+     [
+      "jour,",
+      0.64,
+      1.02,
+      1.0
+     ],
+     [
+      "celui",
+      1.58,
+      1.68,
+      0.99
+     ],
+     [
+      "de",
+      1.68,
+      1.9,
+      1.0
+     ],
+     [
+      "ce",
+      1.9,
+      2.02,
+      1.0
+     ],
+     [
+      "jeudi",
+      2.02,
+      2.36,
+      0.97
+     ],
+     [
+      "arrive",
+      2.36,
+      2.66,
+      0.82
+     ],
+     [
+      "dans",
+      2.66,
+      2.8,
+      1.0
+     ],
+     [
+      "le",
+      2.8,
+      3.0,
+      1.0
+     ],
+     [
+      "terminal.",
+      3.0,
+      3.4,
+      0.82
+     ],
+     [
+      "Voici",
+      4.02,
+      4.24,
+      0.99
+     ],
+     [
+      "le",
+      4.24,
+      4.4,
+      1.0
+     ],
+     [
+      "dernier",
+      4.4,
+      4.68,
+      1.0
+     ],
+     [
+      "biais",
+      4.68,
+      4.94,
+      1.0
+     ],
+     [
+      "publié,",
+      4.94,
+      5.68,
+      0.99
+     ],
+     [
+      "celui",
+      5.88,
+      6.0,
+      1.0
+     ],
+     [
+      "de",
+      6.0,
+      6.18,
+      1.0
+     ],
+     [
+      "mercredi,",
+      6.18,
+      6.98,
+      0.99
+     ],
+     [
+      "avec",
+      7.22,
+      7.36,
+      1.0
+     ],
+     [
+      "ses",
+      7.36,
+      7.58,
+      0.83
+     ],
+     [
+      "trois",
+      7.58,
+      7.72,
+      0.73
+     ],
+     [
+      "marchés",
+      7.72,
+      8.04,
+      0.99
+     ],
+     [
+      "offerts",
+      8.04,
+      8.3,
+      0.97
+     ],
+     [
+      "à",
+      8.3,
+      8.46,
+      1.0
+     ],
+     [
+      "tous.",
+      8.46,
+      8.62,
+      1.0
+     ]
+    ],
+    "clarte": 0.73,
+    "ok": true
+   },
+   "toutes": [
+    {
+     "prise": 1,
+     "file": "fr-06-00-p1.wav",
+     "seconds": 8.8,
+     "compute": 86,
+     "heard": "Le biais du jour, celui de ce jeudi arrive dans le terminal. Voici le dernier biais publié, celui de mercredi, avec ses trois marchés offerts à tous.",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      8.62
+     ],
+     "rate": 17.4,
+     "mots": [
+      [
+       "Le",
+       0.0,
+       0.26,
+       0.86
+      ],
+      [
+       "biais",
+       0.26,
+       0.46,
+       0.93
+      ],
+      [
+       "du",
+       0.46,
+       0.64,
+       1.0
+      ],
+      [
+       "jour,",
+       0.64,
+       1.02,
+       1.0
+      ],
+      [
+       "celui",
+       1.58,
+       1.68,
+       0.99
+      ],
+      [
+       "de",
+       1.68,
+       1.9,
+       1.0
+      ],
+      [
+       "ce",
+       1.9,
+       2.02,
+       1.0
+      ],
+      [
+       "jeudi",
+       2.02,
+       2.36,
+       0.97
+      ],
+      [
+       "arrive",
+       2.36,
+       2.66,
+       0.82
+      ],
+      [
+       "dans",
+       2.66,
+       2.8,
+       1.0
+      ],
+      [
+       "le",
+       2.8,
+       3.0,
+       1.0
+      ],
+      [
+       "terminal.",
+       3.0,
+       3.4,
+       0.82
+      ],
+      [
+       "Voici",
+       4.02,
+       4.24,
+       0.99
+      ],
+      [
+       "le",
+       4.24,
+       4.4,
+       1.0
+      ],
+      [
+       "dernier",
+       4.4,
+       4.68,
+       1.0
+      ],
+      [
+       "biais",
+       4.68,
+       4.94,
+       1.0
+      ],
+      [
+       "publié,",
+       4.94,
+       5.68,
+       0.99
+      ],
+      [
+       "celui",
+       5.88,
+       6.0,
+       1.0
+      ],
+      [
+       "de",
+       6.0,
+       6.18,
+       1.0
+      ],
+      [
+       "mercredi,",
+       6.18,
+       6.98,
+       0.99
+      ],
+      [
+       "avec",
+       7.22,
+       7.36,
+       1.0
+      ],
+      [
+       "ses",
+       7.36,
+       7.58,
+       0.83
+      ],
+      [
+       "trois",
+       7.58,
+       7.72,
+       0.73
+      ],
+      [
+       "marchés",
+       7.72,
+       8.04,
+       0.99
+      ],
+      [
+       "offerts",
+       8.04,
+       8.3,
+       0.97
+      ],
+      [
+       "à",
+       8.3,
+       8.46,
+       1.0
+      ],
+      [
+       "tous.",
+       8.46,
+       8.62,
+       1.0
+      ]
+     ],
+     "clarte": 0.73,
+     "ok": true
+    }
+   ]
+  },
+  "06-01": {
+   "id": "06-01",
+   "bloc": 6,
+   "ton": "net",
+   "text": "L'or est vu en baisse, pénalisé par la perspective d'une hausse des taux de la Fed. L'indice dollar est vu en hausse, porté par la même idée. Et le taux américain à dix ans est vu en hausse, lui aussi.",
+   "tts": "L'or est vu en baisse, pénalisé par la perspective d'une hausse des taux de la Fed. L'indice dollar est vu en hausse, porté par la même idée. Et le taux américain à dix ans est vu en hausse, lui aussi.",
+   "gen": {},
+   "prise": {
+    "prise": 1,
+    "file": "fr-06-01-p1.wav",
+    "seconds": 10.96,
+    "compute": 104,
+    "heard": "L'or est vu en baisse, pénalisé par la perspective d'une hausse des taux de la Fed. L'indice dollar est vu en hausse, porté par la même idée. Et le taux américain à 10 ans est vu en hausse, lui aussi.",
+    "wer": 0.0,
+    "extra": 0,
+    "speech": [
+     0.0,
+     10.88
+    ],
+    "rate": 18.5,
+    "mots": [
+     [
+      "L",
+      0.0,
+      0.3,
+      0.83
+     ],
+     [
+      "'or",
+      0.3,
+      0.4,
+      0.96
+     ],
+     [
+      "est",
+      0.4,
+      0.68,
+      0.99
+     ],
+     [
+      "vu",
+      0.68,
+      0.8,
+      0.99
+     ],
+     [
+      "en",
+      0.8,
+      1.08,
+      0.99
+     ],
+     [
+      "baisse,",
+      1.08,
+      1.46,
+      1.0
+     ],
+     [
+      "pénalisé",
+      1.72,
+      2.12,
+      0.95
+     ],
+     [
+      "par",
+      2.12,
+      2.28,
+      1.0
+     ],
+     [
+      "la",
+      2.28,
+      2.44,
+      1.0
+     ],
+     [
+      "perspective",
+      2.44,
+      2.9,
+      0.99
+     ],
+     [
+      "d",
+      2.9,
+      3.08,
+      1.0
+     ],
+     [
+      "'une",
+      3.08,
+      3.26,
+      1.0
+     ],
+     [
+      "hausse",
+      3.26,
+      3.58,
+      1.0
+     ],
+     [
+      "des",
+      3.58,
+      3.64,
+      0.99
+     ],
+     [
+      "taux",
+      3.64,
+      3.72,
+      1.0
+     ],
+     [
+      "de",
+      3.72,
+      3.86,
+      1.0
+     ],
+     [
+      "la",
+      3.86,
+      4.06,
+      0.97
+     ],
+     [
+      "Fed.",
+      4.06,
+      4.26,
+      0.87
+     ],
+     [
+      "L",
+      4.7,
+      4.82,
+      0.99
+     ],
+     [
+      "'indice",
+      4.82,
+      5.1,
+      0.99
+     ],
+     [
+      "dollar",
+      5.1,
+      5.36,
+      0.61
+     ],
+     [
+      "est",
+      5.36,
+      5.62,
+      0.99
+     ],
+     [
+      "vu",
+      5.62,
+      5.72,
+      0.99
+     ],
+     [
+      "en",
+      5.72,
+      6.06,
+      1.0
+     ],
+     [
+      "hausse,",
+      6.06,
+      6.6,
+      1.0
+     ],
+     [
+      "porté",
+      6.76,
+      6.9,
+      0.99
+     ],
+     [
+      "par",
+      6.9,
+      7.06,
+      1.0
+     ],
+     [
+      "la",
+      7.06,
+      7.18,
+      1.0
+     ],
+     [
+      "même",
+      7.18,
+      7.32,
+      1.0
+     ],
+     [
+      "idée.",
+      7.32,
+      7.54,
+      1.0
+     ],
+     [
+      "Et",
+      7.96,
+      8.06,
+      0.98
+     ],
+     [
+      "le",
+      8.06,
+      8.22,
+      1.0
+     ],
+     [
+      "taux",
+      8.22,
+      8.34,
+      0.99
+     ],
+     [
+      "américain",
+      8.34,
+      8.8,
+      0.98
+     ],
+     [
+      "à",
+      8.8,
+      8.92,
+      0.97
+     ],
+     [
+      "10",
+      8.92,
+      9.12,
+      0.91
+     ],
+     [
+      "ans",
+      9.12,
+      9.3,
+      0.99
+     ],
+     [
+      "est",
+      9.3,
+      9.54,
+      0.97
+     ],
+     [
+      "vu",
+      9.54,
+      9.64,
+      0.99
+     ],
+     [
+      "en",
+      9.64,
+      9.92,
+      1.0
+     ],
+     [
+      "hausse,",
+      9.92,
+      10.38,
+      1.0
+     ],
+     [
+      "lui",
+      10.48,
+      10.6,
+      1.0
+     ],
+     [
+      "aussi.",
+      10.6,
+      10.88,
+      1.0
+     ]
+    ],
+    "clarte": 0.61,
+    "ok": true
+   },
+   "toutes": [
+    {
+     "prise": 1,
+     "file": "fr-06-01-p1.wav",
+     "seconds": 10.96,
+     "compute": 104,
+     "heard": "L'or est vu en baisse, pénalisé par la perspective d'une hausse des taux de la Fed. L'indice dollar est vu en hausse, porté par la même idée. Et le taux américain à 10 ans est vu en hausse, lui aussi.",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      10.88
+     ],
+     "rate": 18.5,
+     "mots": [
+      [
+       "L",
+       0.0,
+       0.3,
+       0.83
+      ],
+      [
+       "'or",
+       0.3,
+       0.4,
+       0.96
+      ],
+      [
+       "est",
+       0.4,
+       0.68,
+       0.99
+      ],
+      [
+       "vu",
+       0.68,
+       0.8,
+       0.99
+      ],
+      [
+       "en",
+       0.8,
+       1.08,
+       0.99
+      ],
+      [
+       "baisse,",
+       1.08,
+       1.46,
+       1.0
+      ],
+      [
+       "pénalisé",
+       1.72,
+       2.12,
+       0.95
+      ],
+      [
+       "par",
+       2.12,
+       2.28,
+       1.0
+      ],
+      [
+       "la",
+       2.28,
+       2.44,
+       1.0
+      ],
+      [
+       "perspective",
+       2.44,
+       2.9,
+       0.99
+      ],
+      [
+       "d",
+       2.9,
+       3.08,
+       1.0
+      ],
+      [
+       "'une",
+       3.08,
+       3.26,
+       1.0
+      ],
+      [
+       "hausse",
+       3.26,
+       3.58,
+       1.0
+      ],
+      [
+       "des",
+       3.58,
+       3.64,
+       0.99
+      ],
+      [
+       "taux",
+       3.64,
+       3.72,
+       1.0
+      ],
+      [
+       "de",
+       3.72,
+       3.86,
+       1.0
+      ],
+      [
+       "la",
+       3.86,
+       4.06,
+       0.97
+      ],
+      [
+       "Fed.",
+       4.06,
+       4.26,
+       0.87
+      ],
+      [
+       "L",
+       4.7,
+       4.82,
+       0.99
+      ],
+      [
+       "'indice",
+       4.82,
+       5.1,
+       0.99
+      ],
+      [
+       "dollar",
+       5.1,
+       5.36,
+       0.61
+      ],
+      [
+       "est",
+       5.36,
+       5.62,
+       0.99
+      ],
+      [
+       "vu",
+       5.62,
+       5.72,
+       0.99
+      ],
+      [
+       "en",
+       5.72,
+       6.06,
+       1.0
+      ],
+      [
+       "hausse,",
+       6.06,
+       6.6,
+       1.0
+      ],
+      [
+       "porté",
+       6.76,
+       6.9,
+       0.99
+      ],
+      [
+       "par",
+       6.9,
+       7.06,
+       1.0
+      ],
+      [
+       "la",
+       7.06,
+       7.18,
+       1.0
+      ],
+      [
+       "même",
+       7.18,
+       7.32,
+       1.0
+      ],
+      [
+       "idée.",
+       7.32,
+       7.54,
+       1.0
+      ],
+      [
+       "Et",
+       7.96,
+       8.06,
+       0.98
+      ],
+      [
+       "le",
+       8.06,
+       8.22,
+       1.0
+      ],
+      [
+       "taux",
+       8.22,
+       8.34,
+       0.99
+      ],
+      [
+       "américain",
+       8.34,
+       8.8,
+       0.98
+      ],
+      [
+       "à",
+       8.8,
+       8.92,
+       0.97
+      ],
+      [
+       "10",
+       8.92,
+       9.12,
+       0.91
+      ],
+      [
+       "ans",
+       9.12,
+       9.3,
+       0.99
+      ],
+      [
+       "est",
+       9.3,
+       9.54,
+       0.97
+      ],
+      [
+       "vu",
+       9.54,
+       9.64,
+       0.99
+      ],
+      [
+       "en",
+       9.64,
+       9.92,
+       1.0
+      ],
+      [
+       "hausse,",
+       9.92,
+       10.38,
+       1.0
+      ],
+      [
+       "lui",
+       10.48,
+       10.6,
+       1.0
+      ],
+      [
+       "aussi.",
+       10.6,
+       10.88,
+       1.0
+      ]
+     ],
+     "clarte": 0.61,
+     "ok": true
+    }
+   ]
+  },
+  "06-02": {
+   "id": "06-02",
+   "bloc": 6,
+   "ton": "net",
+   "text": "Les quarante lectures complètes attendent les membres.",
+   "tts": "Les quarante lectures complètes attendent les membres.",
+   "gen": {},
+   "prise": {
+    "prise": 1,
+    "file": "fr-06-02-p1.wav",
+    "seconds": 2.64,
+    "compute": 31,
+    "heard": "Les 40 lectures complètes attendent les membres.",
+    "wer": 0.0,
+    "extra": 0,
+    "speech": [
+     0.0,
+     2.62
+    ],
+    "rate": 20.6,
+    "mots": [
+     [
+      "Les",
+      0.0,
+      0.3,
+      0.89
+     ],
+     [
+      "40",
+      0.3,
+      0.6,
+      0.69
+     ],
+     [
+      "lectures",
+      0.6,
+      1.08,
+      0.98
+     ],
+     [
+      "complètes",
+      1.08,
+      1.78,
+      0.98
+     ],
+     [
+      "attendent",
+      1.78,
+      2.18,
+      0.96
+     ],
+     [
+      "les",
+      2.18,
+      2.32,
+      1.0
+     ],
+     [
+      "membres.",
+      2.32,
+      2.62,
+      1.0
+     ]
+    ],
+    "clarte": 0.69,
+    "ok": true
+   },
+   "toutes": [
+    {
+     "prise": 1,
+     "file": "fr-06-02-p1.wav",
+     "seconds": 2.64,
+     "compute": 31,
+     "heard": "Les 40 lectures complètes attendent les membres.",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      2.62
+     ],
+     "rate": 20.6,
+     "mots": [
+      [
+       "Les",
+       0.0,
+       0.3,
+       0.89
+      ],
+      [
+       "40",
+       0.3,
+       0.6,
+       0.69
+      ],
+      [
+       "lectures",
+       0.6,
+       1.08,
+       0.98
+      ],
+      [
+       "complètes",
+       1.08,
+       1.78,
+       0.98
+      ],
+      [
+       "attendent",
+       1.78,
+       2.18,
+       0.96
+      ],
+      [
+       "les",
+       2.18,
+       2.32,
+       1.0
+      ],
+      [
+       "membres.",
+       2.32,
+       2.62,
+       1.0
+      ]
+     ],
+     "clarte": 0.69,
+     "ok": true
+    }
+   ]
+  },
+  "07-00": {
+   "id": "07-00",
+   "bloc": 7,
+   "ton": "net",
+   "text": "Le monde des actions. Hier à Paris, le CAC quarante gagne zéro virgule sept pour cent, porté par la technologie : STMicro prend cinq virgule deux pour cent, Soitec près de douze pour cent.",
+   "tts": "Le monde des actions. Hier à Paris, le CAC quarante gagne zéro virgule sept pour cent, porté par la technologie : S T Micro prend cinq virgule deux pour cent, Soitec près de douze pour cent.",
+   "gen": {},
+   "prise": {
+    "prise": 1,
+    "file": "fr-07-00-p1.wav",
+    "seconds": 10.24,
+    "compute": 97,
+    "heard": "Le monde des actions. Hier à Paris, le CAC 40 gagne 0,7%, porté par la technologie, STMicro prend 5,2%, Swatec près de 12%.",
+    "wer": 0.03,
+    "extra": 1,
+    "speech": [
+     0.0,
+     10.22
+    ],
+    "rate": 18.6,
+    "mots": [
+     [
+      "Le",
+      0.0,
+      0.22,
+      0.93
+     ],
+     [
+      "monde",
+      0.22,
+      0.44,
+      0.97
+     ],
+     [
+      "des",
+      0.44,
+      0.62,
+      0.99
+     ],
+     [
+      "actions.",
+      0.62,
+      1.02,
+      0.99
+     ],
+     [
+      "Hier",
+      1.44,
+      1.56,
+      0.96
+     ],
+     [
+      "à",
+      1.56,
+      1.76,
+      0.75
+     ],
+     [
+      "Paris,",
+      1.76,
+      2.04,
+      0.99
+     ],
+     [
+      "le",
+      2.44,
+      2.58,
+      0.99
+     ],
+     [
+      "CAC",
+      2.58,
+      2.76,
+      0.85
+     ],
+     [
+      "40",
+      2.76,
+      3.16,
+      0.61
+     ],
+     [
+      "gagne",
+      3.16,
+      3.52,
+      1.0
+     ],
+     [
+      "0",
+      3.52,
+      3.8,
+      0.99
+     ],
+     [
+      ",7%,",
+      3.8,
+      4.88,
+      0.78
+     ],
+     [
+      "porté",
+      4.88,
+      5.18,
+      0.97
+     ],
+     [
+      "par",
+      5.18,
+      5.38,
+      1.0
+     ],
+     [
+      "la",
+      5.38,
+      5.6,
+      1.0
+     ],
+     [
+      "technologie,",
+      5.6,
+      6.06,
+      0.94
+     ],
+     [
+      "STMicro",
+      6.62,
+      7.22,
+      0.81
+     ],
+     [
+      "prend",
+      7.22,
+      7.42,
+      0.99
+     ],
+     [
+      "5",
+      7.42,
+      7.74,
+      0.99
+     ],
+     [
+      ",2%,",
+      7.74,
+      8.88,
+      0.93
+     ],
+     [
+      "Swatec",
+      8.88,
+      9.3,
+      0.85
+     ],
+     [
+      "près",
+      9.3,
+      9.48,
+      0.88
+     ],
+     [
+      "de",
+      9.48,
+      9.7,
+      1.0
+     ],
+     [
+      "12%.",
+      9.7,
+      10.22,
+      0.93
+     ]
+    ],
+    "clarte": 0.61,
+    "ok": true
+   },
+   "toutes": [
+    {
+     "prise": 1,
+     "file": "fr-07-00-p1.wav",
+     "seconds": 10.24,
+     "compute": 97,
+     "heard": "Le monde des actions. Hier à Paris, le CAC 40 gagne 0,7%, porté par la technologie, STMicro prend 5,2%, Swatec près de 12%.",
+     "wer": 0.03,
+     "extra": 1,
+     "speech": [
+      0.0,
+      10.22
+     ],
+     "rate": 18.6,
+     "mots": [
+      [
+       "Le",
+       0.0,
+       0.22,
+       0.93
+      ],
+      [
+       "monde",
+       0.22,
+       0.44,
+       0.97
+      ],
+      [
+       "des",
+       0.44,
+       0.62,
+       0.99
+      ],
+      [
+       "actions.",
+       0.62,
+       1.02,
+       0.99
+      ],
+      [
+       "Hier",
+       1.44,
+       1.56,
+       0.96
+      ],
+      [
+       "à",
+       1.56,
+       1.76,
+       0.75
+      ],
+      [
+       "Paris,",
+       1.76,
+       2.04,
+       0.99
+      ],
+      [
+       "le",
+       2.44,
+       2.58,
+       0.99
+      ],
+      [
+       "CAC",
+       2.58,
+       2.76,
+       0.85
+      ],
+      [
+       "40",
+       2.76,
+       3.16,
+       0.61
+      ],
+      [
+       "gagne",
+       3.16,
+       3.52,
+       1.0
+      ],
+      [
+       "0",
+       3.52,
+       3.8,
+       0.99
+      ],
+      [
+       ",7%,",
+       3.8,
+       4.88,
+       0.78
+      ],
+      [
+       "porté",
+       4.88,
+       5.18,
+       0.97
+      ],
+      [
+       "par",
+       5.18,
+       5.38,
+       1.0
+      ],
+      [
+       "la",
+       5.38,
+       5.6,
+       1.0
+      ],
+      [
+       "technologie,",
+       5.6,
+       6.06,
+       0.94
+      ],
+      [
+       "STMicro",
+       6.62,
+       7.22,
+       0.81
+      ],
+      [
+       "prend",
+       7.22,
+       7.42,
+       0.99
+      ],
+      [
+       "5",
+       7.42,
+       7.74,
+       0.99
+      ],
+      [
+       ",2%,",
+       7.74,
+       8.88,
+       0.93
+      ],
+      [
+       "Swatec",
+       8.88,
+       9.3,
+       0.85
+      ],
+      [
+       "près",
+       9.3,
+       9.48,
+       0.88
+      ],
+      [
+       "de",
+       9.48,
+       9.7,
+       1.0
+      ],
+      [
+       "12%.",
+       9.7,
+       10.22,
+       0.93
+      ]
+     ],
+     "clarte": 0.61,
+     "ok": true
+    }
+   ]
+  },
+  "07-01": {
+   "id": "07-01",
+   "bloc": 7,
+   "ton": "net",
+   "text": "Et ce matin à Londres, Burberry annonce des ventes semestrielles meilleures qu'attendu.",
+   "tts": "Et ce matin à Londres, Beurbeuri annonce des ventes semestrielles meilleures qu'attendu.",
+   "gen": {},
+   "prise": {
+    "prise": 1,
+    "file": "fr-07-01-p1.wav",
+    "seconds": 4.48,
+    "compute": 47,
+    "heard": "Et ce matin à Londres, Burberry annonce des ventes semestrielles meilleures qu'attendues.",
+    "wer": 0.077,
+    "extra": 1,
+    "speech": [
+     0.0,
+     4.42
+    ],
+    "rate": 19.9,
+    "mots": [
+     [
+      "Et",
+      0.0,
+      0.3,
+      0.8
+     ],
+     [
+      "ce",
+      0.3,
+      0.46,
+      0.97
+     ],
+     [
+      "matin",
+      0.46,
+      0.7,
+      1.0
+     ],
+     [
+      "à",
+      0.7,
+      0.86,
+      0.88
+     ],
+     [
+      "Londres,",
+      0.86,
+      1.52,
+      1.0
+     ],
+     [
+      "Burberry",
+      1.74,
+      2.1,
+      0.9
+     ],
+     [
+      "annonce",
+      2.1,
+      2.48,
+      0.99
+     ],
+     [
+      "des",
+      2.48,
+      2.66,
+      0.99
+     ],
+     [
+      "ventes",
+      2.66,
+      3.0,
+      0.98
+     ],
+     [
+      "semestrielles",
+      3.0,
+      3.56,
+      0.85
+     ],
+     [
+      "meilleures",
+      3.56,
+      3.94,
+      0.93
+     ],
+     [
+      "qu",
+      3.94,
+      4.04,
+      1.0
+     ],
+     [
+      "'attendues.",
+      4.04,
+      4.42,
+      0.98
+     ]
+    ],
+    "clarte": 0.8,
+    "ok": true
+   },
+   "toutes": [
+    {
+     "prise": 1,
+     "file": "fr-07-01-p1.wav",
+     "seconds": 4.48,
+     "compute": 47,
+     "heard": "Et ce matin à Londres, Burberry annonce des ventes semestrielles meilleures qu'attendues.",
+     "wer": 0.077,
+     "extra": 1,
+     "speech": [
+      0.0,
+      4.42
+     ],
+     "rate": 19.9,
+     "mots": [
+      [
+       "Et",
+       0.0,
+       0.3,
+       0.8
+      ],
+      [
+       "ce",
+       0.3,
+       0.46,
+       0.97
+      ],
+      [
+       "matin",
+       0.46,
+       0.7,
+       1.0
+      ],
+      [
+       "à",
+       0.7,
+       0.86,
+       0.88
+      ],
+      [
+       "Londres,",
+       0.86,
+       1.52,
+       1.0
+      ],
+      [
+       "Burberry",
+       1.74,
+       2.1,
+       0.9
+      ],
+      [
+       "annonce",
+       2.1,
+       2.48,
+       0.99
+      ],
+      [
+       "des",
+       2.48,
+       2.66,
+       0.99
+      ],
+      [
+       "ventes",
+       2.66,
+       3.0,
+       0.98
+      ],
+      [
+       "semestrielles",
+       3.0,
+       3.56,
+       0.85
+      ],
+      [
+       "meilleures",
+       3.56,
+       3.94,
+       0.93
+      ],
+      [
+       "qu",
+       3.94,
+       4.04,
+       1.0
+      ],
+      [
+       "'attendues.",
+       4.04,
+       4.42,
+       0.98
+      ]
+     ],
+     "clarte": 0.8,
+     "ok": true
+    }
+   ]
+  },
+  "08-00": {
+   "id": "08-00",
+   "bloc": 8,
+   "ton": "pose",
+   "text": "Le rendez-vous du jour : le marché obligataire américain rouvre après Veterans Day. Après une journée de pause, le taux à dix ans, tout près de cinq pour cent, sera scruté.",
+   "tts": "Le rendez-vous du jour : le marché obligataire américain rouvre après Veterans Day. Après une journée de pause, le taux à dix ans, tout près de cinq pour cent, sera scruté.",
+   "gen": {},
+   "prise": {
+    "prise": 1,
+    "file": "fr-08-00-p1.wav",
+    "seconds": 8.48,
+    "compute": 81,
+    "heard": "Le rendez-vous du jour. Le marché obligataire américain rouvre après V-Trans Day. Après une journée de pause, le taux à 10 ans, tout près de 5%, sera scruté.",
+    "wer": 0.032,
+    "extra": 2,
+    "speech": [
+     0.0,
+     8.4
+    ],
+    "rate": 20.5,
+    "mots": [
+     [
+      "Le",
+      0.0,
+      0.24,
+      0.42
+     ],
+     [
+      "rendez",
+      0.24,
+      0.44,
+      0.92
+     ],
+     [
+      "-vous",
+      0.44,
+      0.56,
+      0.98
+     ],
+     [
+      "du",
+      0.56,
+      0.74,
+      1.0
+     ],
+     [
+      "jour.",
+      0.74,
+      0.94,
+      1.0
+     ],
+     [
+      "Le",
+      1.44,
+      1.56,
+      0.99
+     ],
+     [
+      "marché",
+      1.56,
+      1.8,
+      1.0
+     ],
+     [
+      "obligataire",
+      1.8,
+      2.32,
+      0.97
+     ],
+     [
+      "américain",
+      2.32,
+      2.8,
+      1.0
+     ],
+     [
+      "rouvre",
+      2.8,
+      3.12,
+      0.77
+     ],
+     [
+      "après",
+      3.12,
+      3.38,
+      0.99
+     ],
+     [
+      "V",
+      3.38,
+      3.56,
+      0.56
+     ],
+     [
+      "-Trans",
+      3.56,
+      3.74,
+      0.47
+     ],
+     [
+      "Day.",
+      3.74,
+      4.08,
+      0.7
+     ],
+     [
+      "Après",
+      4.36,
+      4.54,
+      1.0
+     ],
+     [
+      "une",
+      4.54,
+      4.7,
+      1.0
+     ],
+     [
+      "journée",
+      4.7,
+      4.88,
+      1.0
+     ],
+     [
+      "de",
+      4.88,
+      5.12,
+      1.0
+     ],
+     [
+      "pause,",
+      5.12,
+      5.32,
+      0.95
+     ],
+     [
+      "le",
+      5.7,
+      5.78,
+      1.0
+     ],
+     [
+      "taux",
+      5.78,
+      5.88,
+      1.0
+     ],
+     [
+      "à",
+      5.88,
+      6.02,
+      0.98
+     ],
+     [
+      "10",
+      6.02,
+      6.2,
+      0.9
+     ],
+     [
+      "ans,",
+      6.2,
+      6.4,
+      0.99
+     ],
+     [
+      "tout",
+      6.52,
+      6.64,
+      0.98
+     ],
+     [
+      "près",
+      6.64,
+      6.78,
+      1.0
+     ],
+     [
+      "de",
+      6.78,
+      6.98,
+      1.0
+     ],
+     [
+      "5%,",
+      6.98,
+      7.82,
+      0.86
+     ],
+     [
+      "sera",
+      7.82,
+      8.04,
+      0.99
+     ],
+     [
+      "scruté.",
+      8.04,
+      8.4,
+      0.95
+     ]
+    ],
+    "clarte": 0.42,
+    "ok": true
+   },
+   "toutes": [
+    {
+     "prise": 1,
+     "file": "fr-08-00-p1.wav",
+     "seconds": 8.48,
+     "compute": 81,
+     "heard": "Le rendez-vous du jour. Le marché obligataire américain rouvre après V-Trans Day. Après une journée de pause, le taux à 10 ans, tout près de 5%, sera scruté.",
+     "wer": 0.032,
+     "extra": 2,
+     "speech": [
+      0.0,
+      8.4
+     ],
+     "rate": 20.5,
+     "mots": [
+      [
+       "Le",
+       0.0,
+       0.24,
+       0.42
+      ],
+      [
+       "rendez",
+       0.24,
+       0.44,
+       0.92
+      ],
+      [
+       "-vous",
+       0.44,
+       0.56,
+       0.98
+      ],
+      [
+       "du",
+       0.56,
+       0.74,
+       1.0
+      ],
+      [
+       "jour.",
+       0.74,
+       0.94,
+       1.0
+      ],
+      [
+       "Le",
+       1.44,
+       1.56,
+       0.99
+      ],
+      [
+       "marché",
+       1.56,
+       1.8,
+       1.0
+      ],
+      [
+       "obligataire",
+       1.8,
+       2.32,
+       0.97
+      ],
+      [
+       "américain",
+       2.32,
+       2.8,
+       1.0
+      ],
+      [
+       "rouvre",
+       2.8,
+       3.12,
+       0.77
+      ],
+      [
+       "après",
+       3.12,
+       3.38,
+       0.99
+      ],
+      [
+       "V",
+       3.38,
+       3.56,
+       0.56
+      ],
+      [
+       "-Trans",
+       3.56,
+       3.74,
+       0.47
+      ],
+      [
+       "Day.",
+       3.74,
+       4.08,
+       0.7
+      ],
+      [
+       "Après",
+       4.36,
+       4.54,
+       1.0
+      ],
+      [
+       "une",
+       4.54,
+       4.7,
+       1.0
+      ],
+      [
+       "journée",
+       4.7,
+       4.88,
+       1.0
+      ],
+      [
+       "de",
+       4.88,
+       5.12,
+       1.0
+      ],
+      [
+       "pause,",
+       5.12,
+       5.32,
+       0.95
+      ],
+      [
+       "le",
+       5.7,
+       5.78,
+       1.0
+      ],
+      [
+       "taux",
+       5.78,
+       5.88,
+       1.0
+      ],
+      [
+       "à",
+       5.88,
+       6.02,
+       0.98
+      ],
+      [
+       "10",
+       6.02,
+       6.2,
+       0.9
+      ],
+      [
+       "ans,",
+       6.2,
+       6.4,
+       0.99
+      ],
+      [
+       "tout",
+       6.52,
+       6.64,
+       0.98
+      ],
+      [
+       "près",
+       6.64,
+       6.78,
+       1.0
+      ],
+      [
+       "de",
+       6.78,
+       6.98,
+       1.0
+      ],
+      [
+       "5%,",
+       6.98,
+       7.82,
+       0.86
+      ],
+      [
+       "sera",
+       7.82,
+       8.04,
+       0.99
+      ],
+      [
+       "scruté.",
+       8.04,
+       8.4,
+       0.95
+      ]
+     ],
+     "clarte": 0.42,
+     "ok": true
+    }
+   ]
+  },
+  "08-01": {
+   "id": "08-01",
+   "bloc": 8,
+   "ton": "pose",
+   "text": "En début d'après-midi, les inscriptions hebdomadaires au chômage aux États-Unis : cent quatre-vingt-neuf mille la semaine dernière. Des inscriptions basses soutiennent habituellement le dollar et les taux.",
+   "tts": "En début d'après-midi, les inscriptions hebdomadaires au chômage aux États-Unis : cent quatre-vingt-neuf mille la semaine dernière. Des inscriptions basses soutiennent habituellement le dollar et les taux.",
+   "gen": {},
+   "prise": {
+    "prise": 1,
+    "file": "fr-08-01-p1.wav",
+    "seconds": 9.12,
+    "compute": 87,
+    "heard": "En début d'après-midi, les inscriptions hebdomadaires au chômage aux Etats-Unis. 189 000 la semaine dernière. Des inscriptions basses soutiennent habituellement le dollar et les taux.",
+    "wer": 0.032,
+    "extra": 1,
+    "speech": [
+     0.0,
+     8.96
+    ],
+    "rate": 22.9,
+    "mots": [
+     [
+      "En",
+      0.0,
+      0.4,
+      0.79
+     ],
+     [
+      "début",
+      0.4,
+      0.54,
+      1.0
+     ],
+     [
+      "d",
+      0.54,
+      0.68,
+      1.0
+     ],
+     [
+      "'après",
+      0.68,
+      0.84,
+      1.0
+     ],
+     [
+      "-midi,",
+      0.84,
+      1.2,
+      0.99
+     ],
+     [
+      "les",
+      1.42,
+      1.56,
+      0.97
+     ],
+     [
+      "inscriptions",
+      1.56,
+      1.96,
+      1.0
+     ],
+     [
+      "hebdomadaires",
+      1.96,
+      2.54,
+      0.99
+     ],
+     [
+      "au",
+      2.54,
+      2.68,
+      0.49
+     ],
+     [
+      "chômage",
+      2.68,
+      3.02,
+      1.0
+     ],
+     [
+      "aux",
+      3.02,
+      3.14,
+      0.99
+     ],
+     [
+      "Etats",
+      3.14,
+      3.4,
+      0.7
+     ],
+     [
+      "-Unis.",
+      3.4,
+      3.62,
+      0.99
+     ],
+     [
+      "189",
+      4.4,
+      4.84,
+      0.94
+     ],
+     [
+      "000",
+      4.84,
+      4.98,
+      0.95
+     ],
+     [
+      "la",
+      4.98,
+      5.18,
+      0.95
+     ],
+     [
+      "semaine",
+      5.18,
+      5.34,
+      1.0
+     ],
+     [
+      "dernière.",
+      5.34,
+      5.82,
+      1.0
+     ],
+     [
+      "Des",
+      6.16,
+      6.3,
+      0.86
+     ],
+     [
+      "inscriptions",
+      6.3,
+      6.68,
+      1.0
+     ],
+     [
+      "basses",
+      6.68,
+      7.26,
+      0.98
+     ],
+     [
+      "soutiennent",
+      7.26,
+      7.6,
+      0.97
+     ],
+     [
+      "habituellement",
+      7.6,
+      8.08,
+      0.99
+     ],
+     [
+      "le",
+      8.08,
+      8.3,
+      0.99
+     ],
+     [
+      "dollar",
+      8.3,
+      8.56,
+      0.98
+     ],
+     [
+      "et",
+      8.56,
+      8.72,
+      1.0
+     ],
+     [
+      "les",
+      8.72,
+      8.86,
+      0.99
+     ],
+     [
+      "taux.",
+      8.86,
+      8.96,
+      1.0
+     ]
+    ],
+    "clarte": 0.49,
+    "ok": true
+   },
+   "toutes": [
+    {
+     "prise": 1,
+     "file": "fr-08-01-p1.wav",
+     "seconds": 9.12,
+     "compute": 87,
+     "heard": "En début d'après-midi, les inscriptions hebdomadaires au chômage aux Etats-Unis. 189 000 la semaine dernière. Des inscriptions basses soutiennent habituellement le dollar et les taux.",
+     "wer": 0.032,
+     "extra": 1,
+     "speech": [
+      0.0,
+      8.96
+     ],
+     "rate": 22.9,
+     "mots": [
+      [
+       "En",
+       0.0,
+       0.4,
+       0.79
+      ],
+      [
+       "début",
+       0.4,
+       0.54,
+       1.0
+      ],
+      [
+       "d",
+       0.54,
+       0.68,
+       1.0
+      ],
+      [
+       "'après",
+       0.68,
+       0.84,
+       1.0
+      ],
+      [
+       "-midi,",
+       0.84,
+       1.2,
+       0.99
+      ],
+      [
+       "les",
+       1.42,
+       1.56,
+       0.97
+      ],
+      [
+       "inscriptions",
+       1.56,
+       1.96,
+       1.0
+      ],
+      [
+       "hebdomadaires",
+       1.96,
+       2.54,
+       0.99
+      ],
+      [
+       "au",
+       2.54,
+       2.68,
+       0.49
+      ],
+      [
+       "chômage",
+       2.68,
+       3.02,
+       1.0
+      ],
+      [
+       "aux",
+       3.02,
+       3.14,
+       0.99
+      ],
+      [
+       "Etats",
+       3.14,
+       3.4,
+       0.7
+      ],
+      [
+       "-Unis.",
+       3.4,
+       3.62,
+       0.99
+      ],
+      [
+       "189",
+       4.4,
+       4.84,
+       0.94
+      ],
+      [
+       "000",
+       4.84,
+       4.98,
+       0.95
+      ],
+      [
+       "la",
+       4.98,
+       5.18,
+       0.95
+      ],
+      [
+       "semaine",
+       5.18,
+       5.34,
+       1.0
+      ],
+      [
+       "dernière.",
+       5.34,
+       5.82,
+       1.0
+      ],
+      [
+       "Des",
+       6.16,
+       6.3,
+       0.86
+      ],
+      [
+       "inscriptions",
+       6.3,
+       6.68,
+       1.0
+      ],
+      [
+       "basses",
+       6.68,
+       7.26,
+       0.98
+      ],
+      [
+       "soutiennent",
+       7.26,
+       7.6,
+       0.97
+      ],
+      [
+       "habituellement",
+       7.6,
+       8.08,
+       0.99
+      ],
+      [
+       "le",
+       8.08,
+       8.3,
+       0.99
+      ],
+      [
+       "dollar",
+       8.3,
+       8.56,
+       0.98
+      ],
+      [
+       "et",
+       8.56,
+       8.72,
+       1.0
+      ],
+      [
+       "les",
+       8.72,
+       8.86,
+       0.99
+      ],
+      [
+       "taux.",
+       8.86,
+       8.96,
+       1.0
+      ]
+     ],
+     "clarte": 0.49,
+     "ok": true
+    }
+   ]
+  },
+  "08-02": {
+   "id": "08-02",
+   "bloc": 8,
+   "ton": "pose",
+   "text": "Et ce soir, Christine Lagarde reprend la parole.",
+   "tts": "Et ce soir, Christine Lagarde reprend la parole.",
+   "gen": {},
+   "prise": {
+    "prise": 1,
+    "file": "fr-08-02-p1.wav",
+    "seconds": 2.8,
+    "compute": 32,
+    "heard": "Et ce soir, Christine Lagarde reprend la parole.",
+    "wer": 0.0,
+    "extra": 0,
+    "speech": [
+     0.0,
+     2.66
+    ],
+    "rate": 18.0,
+    "mots": [
+     [
+      "Et",
+      0.0,
+      0.42,
+      0.65
+     ],
+     [
+      "ce",
+      0.42,
+      0.6,
+      0.99
+     ],
+     [
+      "soir,",
+      0.6,
+      0.98,
+      1.0
+     ],
+     [
+      "Christine",
+      1.3,
+      1.44,
+      0.99
+     ],
+     [
+      "Lagarde",
+      1.44,
+      1.94,
+      0.99
+     ],
+     [
+      "reprend",
+      1.94,
+      2.28,
+      1.0
+     ],
+     [
+      "la",
+      2.28,
+      2.5,
+      1.0
+     ],
+     [
+      "parole.",
+      2.5,
+      2.66,
+      1.0
+     ]
+    ],
+    "clarte": 0.65,
+    "ok": true
+   },
+   "toutes": [
+    {
+     "prise": 1,
+     "file": "fr-08-02-p1.wav",
+     "seconds": 2.8,
+     "compute": 32,
+     "heard": "Et ce soir, Christine Lagarde reprend la parole.",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      2.66
+     ],
+     "rate": 18.0,
+     "mots": [
+      [
+       "Et",
+       0.0,
+       0.42,
+       0.65
+      ],
+      [
+       "ce",
+       0.42,
+       0.6,
+       0.99
+      ],
+      [
+       "soir,",
+       0.6,
+       0.98,
+       1.0
+      ],
+      [
+       "Christine",
+       1.3,
+       1.44,
+       0.99
+      ],
+      [
+       "Lagarde",
+       1.44,
+       1.94,
+       0.99
+      ],
+      [
+       "reprend",
+       1.94,
+       2.28,
+       1.0
+      ],
+      [
+       "la",
+       2.28,
+       2.5,
+       1.0
+      ],
+      [
+       "parole.",
+       2.5,
+       2.66,
+       1.0
+      ]
+     ],
+     "clarte": 0.65,
+     "ok": true
+    }
+   ]
+  },
+  "09-00": {
+   "id": "09-00",
+   "bloc": 9,
+   "ton": "complice",
+   "text": "Le mot de la salle : l'adjudication. C'est la vente aux enchères par laquelle un État emprunte. Ce soir, le Trésor américain place vingt-cinq milliards de dollars d'obligations à trente ans.",
+   "tts": "Le mot de la salle : l'adjudication. C'est la vente aux enchères par laquelle un État emprunte. Ce soir, le Trésor américain place vingt-cinq milliards de dollars d'obligations à trente ans.",
+   "gen": {},
+   "prise": {
+    "prise": 1,
+    "file": "fr-09-00-p1.wav",
+    "seconds": 11.12,
+    "compute": 110,
+    "heard": "Le mot de la salle, l'adjudication. C'est la vente aux enchères par laquelle un État emprunte. Ce soir, le trésor américain place 25 milliards de dollars d'obligations à 30 ans.",
+    "wer": 0.0,
+    "extra": 0,
+    "speech": [
+     0.0,
+     11.1
+    ],
+    "rate": 17.1,
+    "mots": [
+     [
+      "Le",
+      0.0,
+      0.6,
+      0.69
+     ],
+     [
+      "mot",
+      0.6,
+      0.76,
+      0.97
+     ],
+     [
+      "de",
+      0.76,
+      0.94,
+      1.0
+     ],
+     [
+      "la",
+      0.94,
+      1.16,
+      0.99
+     ],
+     [
+      "salle,",
+      1.16,
+      1.64,
+      0.9
+     ],
+     [
+      "l",
+      1.96,
+      2.1,
+      0.93
+     ],
+     [
+      "'adjudication.",
+      2.1,
+      2.76,
+      0.99
+     ],
+     [
+      "C",
+      3.48,
+      3.54,
+      0.98
+     ],
+     [
+      "'est",
+      3.54,
+      3.62,
+      1.0
+     ],
+     [
+      "la",
+      3.62,
+      3.76,
+      1.0
+     ],
+     [
+      "vente",
+      3.76,
+      3.9,
+      1.0
+     ],
+     [
+      "aux",
+      3.9,
+      4.08,
+      1.0
+     ],
+     [
+      "enchères",
+      4.08,
+      4.42,
+      0.99
+     ],
+     [
+      "par",
+      4.42,
+      4.6,
+      1.0
+     ],
+     [
+      "laquelle",
+      4.6,
+      4.86,
+      0.99
+     ],
+     [
+      "un",
+      4.86,
+      5.14,
+      1.0
+     ],
+     [
+      "État",
+      5.14,
+      5.38,
+      0.7
+     ],
+     [
+      "emprunte.",
+      5.38,
+      6.2,
+      0.96
+     ],
+     [
+      "Ce",
+      6.7,
+      6.88,
+      0.99
+     ],
+     [
+      "soir,",
+      6.88,
+      7.18,
+      1.0
+     ],
+     [
+      "le",
+      7.68,
+      7.84,
+      0.96
+     ],
+     [
+      "trésor",
+      7.84,
+      8.12,
+      0.9
+     ],
+     [
+      "américain",
+      8.12,
+      8.6,
+      0.99
+     ],
+     [
+      "place",
+      8.6,
+      8.84,
+      0.99
+     ],
+     [
+      "25",
+      8.84,
+      9.32,
+      0.99
+     ],
+     [
+      "milliards",
+      9.32,
+      9.64,
+      0.98
+     ],
+     [
+      "de",
+      9.64,
+      9.82,
+      0.96
+     ],
+     [
+      "dollars",
+      9.82,
+      10.0,
+      0.98
+     ],
+     [
+      "d",
+      10.0,
+      10.08,
+      1.0
+     ],
+     [
+      "'obligations",
+      10.08,
+      10.64,
+      0.86
+     ],
+     [
+      "à",
+      10.64,
+      10.86,
+      0.99
+     ],
+     [
+      "30",
+      10.86,
+      11.0,
+      0.94
+     ],
+     [
+      "ans.",
+      11.0,
+      11.1,
+      0.99
+     ]
+    ],
+    "clarte": 0.69,
+    "ok": true
+   },
+   "toutes": [
+    {
+     "prise": 1,
+     "file": "fr-09-00-p1.wav",
+     "seconds": 11.12,
+     "compute": 110,
+     "heard": "Le mot de la salle, l'adjudication. C'est la vente aux enchères par laquelle un État emprunte. Ce soir, le trésor américain place 25 milliards de dollars d'obligations à 30 ans.",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      11.1
+     ],
+     "rate": 17.1,
+     "mots": [
+      [
+       "Le",
+       0.0,
+       0.6,
+       0.69
+      ],
+      [
+       "mot",
+       0.6,
+       0.76,
+       0.97
+      ],
+      [
+       "de",
+       0.76,
+       0.94,
+       1.0
+      ],
+      [
+       "la",
+       0.94,
+       1.16,
+       0.99
+      ],
+      [
+       "salle,",
+       1.16,
+       1.64,
+       0.9
+      ],
+      [
+       "l",
+       1.96,
+       2.1,
+       0.93
+      ],
+      [
+       "'adjudication.",
+       2.1,
+       2.76,
+       0.99
+      ],
+      [
+       "C",
+       3.48,
+       3.54,
+       0.98
+      ],
+      [
+       "'est",
+       3.54,
+       3.62,
+       1.0
+      ],
+      [
+       "la",
+       3.62,
+       3.76,
+       1.0
+      ],
+      [
+       "vente",
+       3.76,
+       3.9,
+       1.0
+      ],
+      [
+       "aux",
+       3.9,
+       4.08,
+       1.0
+      ],
+      [
+       "enchères",
+       4.08,
+       4.42,
+       0.99
+      ],
+      [
+       "par",
+       4.42,
+       4.6,
+       1.0
+      ],
+      [
+       "laquelle",
+       4.6,
+       4.86,
+       0.99
+      ],
+      [
+       "un",
+       4.86,
+       5.14,
+       1.0
+      ],
+      [
+       "État",
+       5.14,
+       5.38,
+       0.7
+      ],
+      [
+       "emprunte.",
+       5.38,
+       6.2,
+       0.96
+      ],
+      [
+       "Ce",
+       6.7,
+       6.88,
+       0.99
+      ],
+      [
+       "soir,",
+       6.88,
+       7.18,
+       1.0
+      ],
+      [
+       "le",
+       7.68,
+       7.84,
+       0.96
+      ],
+      [
+       "trésor",
+       7.84,
+       8.12,
+       0.9
+      ],
+      [
+       "américain",
+       8.12,
+       8.6,
+       0.99
+      ],
+      [
+       "place",
+       8.6,
+       8.84,
+       0.99
+      ],
+      [
+       "25",
+       8.84,
+       9.32,
+       0.99
+      ],
+      [
+       "milliards",
+       9.32,
+       9.64,
+       0.98
+      ],
+      [
+       "de",
+       9.64,
+       9.82,
+       0.96
+      ],
+      [
+       "dollars",
+       9.82,
+       10.0,
+       0.98
+      ],
+      [
+       "d",
+       10.0,
+       10.08,
+       1.0
+      ],
+      [
+       "'obligations",
+       10.08,
+       10.64,
+       0.86
+      ],
+      [
+       "à",
+       10.64,
+       10.86,
+       0.99
+      ],
+      [
+       "30",
+       10.86,
+       11.0,
+       0.94
+      ],
+      [
+       "ans.",
+       11.0,
+       11.1,
+       0.99
+      ]
+     ],
+     "clarte": 0.69,
+     "ok": true
+    }
+   ]
+  },
+  "09-01": {
+   "id": "09-01",
+   "bloc": 9,
+   "ton": "complice",
+   "text": "Si la demande est faible, l'État doit offrir un taux plus élevé, et tout le marché le sent. Une adjudication, c'est un examen de confiance, passé en direct.",
+   "tts": "Si la demande est faible, l'État doit offrir un taux plus élevé, et tout le marché le sent. Une adjudication, c'est un examen de confiance, passé en direct.",
+   "gen": {},
+   "prise": {
+    "prise": 1,
+    "file": "fr-09-01-p1.wav",
+    "seconds": 8.56,
+    "compute": 92,
+    "heard": "Si la demande est faible, l'Etat doit offrir un taux plus élevé et tout le marché le sent. Une adjudication, c'est un examen de confiance passé en direct.",
+    "wer": 0.0,
+    "extra": 0,
+    "speech": [
+     0.0,
+     8.42
+    ],
+    "rate": 18.5,
+    "mots": [
+     [
+      "Si",
+      0.0,
+      0.46,
+      0.9
+     ],
+     [
+      "la",
+      0.46,
+      0.66,
+      1.0
+     ],
+     [
+      "demande",
+      0.66,
+      0.84,
+      0.99
+     ],
+     [
+      "est",
+      0.84,
+      1.06,
+      1.0
+     ],
+     [
+      "faible,",
+      1.06,
+      1.52,
+      1.0
+     ],
+     [
+      "l",
+      1.84,
+      1.86,
+      0.98
+     ],
+     [
+      "'Etat",
+      1.86,
+      2.08,
+      0.84
+     ],
+     [
+      "doit",
+      2.08,
+      2.28,
+      1.0
+     ],
+     [
+      "offrir",
+      2.28,
+      2.66,
+      0.99
+     ],
+     [
+      "un",
+      2.66,
+      2.78,
+      1.0
+     ],
+     [
+      "taux",
+      2.78,
+      2.96,
+      0.99
+     ],
+     [
+      "plus",
+      2.96,
+      3.26,
+      1.0
+     ],
+     [
+      "élevé",
+      3.26,
+      3.64,
+      1.0
+     ],
+     [
+      "et",
+      3.64,
+      4.02,
+      0.82
+     ],
+     [
+      "tout",
+      4.02,
+      4.12,
+      0.99
+     ],
+     [
+      "le",
+      4.12,
+      4.26,
+      1.0
+     ],
+     [
+      "marché",
+      4.26,
+      4.44,
+      1.0
+     ],
+     [
+      "le",
+      4.44,
+      4.7,
+      1.0
+     ],
+     [
+      "sent.",
+      4.7,
+      4.86,
+      0.97
+     ],
+     [
+      "Une",
+      5.26,
+      5.44,
+      0.98
+     ],
+     [
+      "adjudication,",
+      5.44,
+      6.18,
+      0.99
+     ],
+     [
+      "c",
+      6.5,
+      6.5,
+      1.0
+     ],
+     [
+      "'est",
+      6.5,
+      6.66,
+      1.0
+     ],
+     [
+      "un",
+      6.66,
+      6.78,
+      1.0
+     ],
+     [
+      "examen",
+      6.78,
+      7.04,
+      0.99
+     ],
+     [
+      "de",
+      7.04,
+      7.28,
+      1.0
+     ],
+     [
+      "confiance",
+      7.28,
+      7.6,
+      1.0
+     ],
+     [
+      "passé",
+      7.6,
+      7.98,
+      0.44
+     ],
+     [
+      "en",
+      7.98,
+      8.2,
+      0.99
+     ],
+     [
+      "direct.",
+      8.2,
+      8.42,
+      1.0
+     ]
+    ],
+    "clarte": 0.44,
+    "ok": true
+   },
+   "toutes": [
+    {
+     "prise": 1,
+     "file": "fr-09-01-p1.wav",
+     "seconds": 8.56,
+     "compute": 92,
+     "heard": "Si la demande est faible, l'Etat doit offrir un taux plus élevé et tout le marché le sent. Une adjudication, c'est un examen de confiance passé en direct.",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      8.42
+     ],
+     "rate": 18.5,
+     "mots": [
+      [
+       "Si",
+       0.0,
+       0.46,
+       0.9
+      ],
+      [
+       "la",
+       0.46,
+       0.66,
+       1.0
+      ],
+      [
+       "demande",
+       0.66,
+       0.84,
+       0.99
+      ],
+      [
+       "est",
+       0.84,
+       1.06,
+       1.0
+      ],
+      [
+       "faible,",
+       1.06,
+       1.52,
+       1.0
+      ],
+      [
+       "l",
+       1.84,
+       1.86,
+       0.98
+      ],
+      [
+       "'Etat",
+       1.86,
+       2.08,
+       0.84
+      ],
+      [
+       "doit",
+       2.08,
+       2.28,
+       1.0
+      ],
+      [
+       "offrir",
+       2.28,
+       2.66,
+       0.99
+      ],
+      [
+       "un",
+       2.66,
+       2.78,
+       1.0
+      ],
+      [
+       "taux",
+       2.78,
+       2.96,
+       0.99
+      ],
+      [
+       "plus",
+       2.96,
+       3.26,
+       1.0
+      ],
+      [
+       "élevé",
+       3.26,
+       3.64,
+       1.0
+      ],
+      [
+       "et",
+       3.64,
+       4.02,
+       0.82
+      ],
+      [
+       "tout",
+       4.02,
+       4.12,
+       0.99
+      ],
+      [
+       "le",
+       4.12,
+       4.26,
+       1.0
+      ],
+      [
+       "marché",
+       4.26,
+       4.44,
+       1.0
+      ],
+      [
+       "le",
+       4.44,
+       4.7,
+       1.0
+      ],
+      [
+       "sent.",
+       4.7,
+       4.86,
+       0.97
+      ],
+      [
+       "Une",
+       5.26,
+       5.44,
+       0.98
+      ],
+      [
+       "adjudication,",
+       5.44,
+       6.18,
+       0.99
+      ],
+      [
+       "c",
+       6.5,
+       6.5,
+       1.0
+      ],
+      [
+       "'est",
+       6.5,
+       6.66,
+       1.0
+      ],
+      [
+       "un",
+       6.66,
+       6.78,
+       1.0
+      ],
+      [
+       "examen",
+       6.78,
+       7.04,
+       0.99
+      ],
+      [
+       "de",
+       7.04,
+       7.28,
+       1.0
+      ],
+      [
+       "confiance",
+       7.28,
+       7.6,
+       1.0
+      ],
+      [
+       "passé",
+       7.6,
+       7.98,
+       0.44
+      ],
+      [
+       "en",
+       7.98,
+       8.2,
+       0.99
+      ],
+      [
+       "direct.",
+       8.2,
+       8.42,
+       1.0
+      ]
+     ],
+     "clarte": 0.44,
+     "ok": true
+    }
+   ]
+  },
+  "10-00": {
+   "id": "10-00",
+   "bloc": 10,
+   "ton": "chaleureux",
+   "text": "Ce matin dans le terminal, une journée chargée en chiffres : le calendrier mondial affiche chaque rendez-vous avec son précédent et son consensus. Le calculateur Arsenal, les Baromètres et le quiz du jour sont ouverts à tous.",
+   "tts": "Ce matin dans le terminal, une journée chargée en chiffres : le calendrier mondial affiche chaque rendez-vous avec son précédent et son consensus. Le calculateur Arsenal, les Baromètres et le quiz du jour sont ouverts à tous.",
+   "gen": {},
+   "prise": {
+    "prise": 1,
+    "file": "fr-10-00-p1.wav",
+    "seconds": 10.24,
+    "compute": 100,
+    "heard": "Ce matin dans le terminal, une journée chargée en chiffres. Le calendrier mondial affiche chaque rendez-vous avec son précédent et son consensus. Le calculateur arsenal, les baromètres et le quiz du jour sont ouverts à tous.",
+    "wer": 0.0,
+    "extra": 0,
+    "speech": [
+     0.0,
+     10.22
+    ],
+    "rate": 22.0,
+    "mots": [
+     [
+      "Ce",
+      0.0,
+      0.24,
+      0.91
+     ],
+     [
+      "matin",
+      0.24,
+      0.42,
+      1.0
+     ],
+     [
+      "dans",
+      0.42,
+      0.56,
+      0.88
+     ],
+     [
+      "le",
+      0.56,
+      0.76,
+      1.0
+     ],
+     [
+      "terminal,",
+      0.76,
+      1.12,
+      0.88
+     ],
+     [
+      "une",
+      1.48,
+      1.58,
+      0.99
+     ],
+     [
+      "journée",
+      1.58,
+      1.8,
+      1.0
+     ],
+     [
+      "chargée",
+      1.8,
+      2.14,
+      0.99
+     ],
+     [
+      "en",
+      2.14,
+      2.32,
+      1.0
+     ],
+     [
+      "chiffres.",
+      2.32,
+      2.72,
+      0.9
+     ],
+     [
+      "Le",
+      2.92,
+      3.04,
+      0.99
+     ],
+     [
+      "calendrier",
+      3.04,
+      3.46,
+      0.99
+     ],
+     [
+      "mondial",
+      3.46,
+      3.88,
+      0.98
+     ],
+     [
+      "affiche",
+      3.88,
+      4.18,
+      0.99
+     ],
+     [
+      "chaque",
+      4.18,
+      4.4,
+      1.0
+     ],
+     [
+      "rendez",
+      4.4,
+      4.66,
+      1.0
+     ],
+     [
+      "-vous",
+      4.66,
+      4.8,
+      0.97
+     ],
+     [
+      "avec",
+      4.8,
+      4.98,
+      0.99
+     ],
+     [
+      "son",
+      4.98,
+      5.2,
+      1.0
+     ],
+     [
+      "précédent",
+      5.2,
+      5.58,
+      0.99
+     ],
+     [
+      "et",
+      5.58,
+      5.74,
+      0.99
+     ],
+     [
+      "son",
+      5.74,
+      5.88,
+      1.0
+     ],
+     [
+      "consensus.",
+      5.88,
+      6.38,
+      1.0
+     ],
+     [
+      "Le",
+      6.76,
+      6.96,
+      0.99
+     ],
+     [
+      "calculateur",
+      6.96,
+      7.42,
+      0.93
+     ],
+     [
+      "arsenal,",
+      7.42,
+      7.82,
+      0.82
+     ],
+     [
+      "les",
+      8.18,
+      8.26,
+      0.99
+     ],
+     [
+      "baromètres",
+      8.26,
+      8.68,
+      0.96
+     ],
+     [
+      "et",
+      8.68,
+      8.8,
+      0.98
+     ],
+     [
+      "le",
+      8.8,
+      8.98,
+      1.0
+     ],
+     [
+      "quiz",
+      8.98,
+      9.1,
+      0.96
+     ],
+     [
+      "du",
+      9.1,
+      9.3,
+      0.99
+     ],
+     [
+      "jour",
+      9.3,
+      9.4,
+      1.0
+     ],
+     [
+      "sont",
+      9.4,
+      9.64,
+      0.99
+     ],
+     [
+      "ouverts",
+      9.64,
+      9.9,
+      0.97
+     ],
+     [
+      "à",
+      9.9,
+      10.08,
+      1.0
+     ],
+     [
+      "tous.",
+      10.08,
+      10.22,
+      0.99
+     ]
+    ],
+    "clarte": 0.82,
+    "ok": true
+   },
+   "toutes": [
+    {
+     "prise": 1,
+     "file": "fr-10-00-p1.wav",
+     "seconds": 10.24,
+     "compute": 100,
+     "heard": "Ce matin dans le terminal, une journée chargée en chiffres. Le calendrier mondial affiche chaque rendez-vous avec son précédent et son consensus. Le calculateur arsenal, les baromètres et le quiz du jour sont ouverts à tous.",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      10.22
+     ],
+     "rate": 22.0,
+     "mots": [
+      [
+       "Ce",
+       0.0,
+       0.24,
+       0.91
+      ],
+      [
+       "matin",
+       0.24,
+       0.42,
+       1.0
+      ],
+      [
+       "dans",
+       0.42,
+       0.56,
+       0.88
+      ],
+      [
+       "le",
+       0.56,
+       0.76,
+       1.0
+      ],
+      [
+       "terminal,",
+       0.76,
+       1.12,
+       0.88
+      ],
+      [
+       "une",
+       1.48,
+       1.58,
+       0.99
+      ],
+      [
+       "journée",
+       1.58,
+       1.8,
+       1.0
+      ],
+      [
+       "chargée",
+       1.8,
+       2.14,
+       0.99
+      ],
+      [
+       "en",
+       2.14,
+       2.32,
+       1.0
+      ],
+      [
+       "chiffres.",
+       2.32,
+       2.72,
+       0.9
+      ],
+      [
+       "Le",
+       2.92,
+       3.04,
+       0.99
+      ],
+      [
+       "calendrier",
+       3.04,
+       3.46,
+       0.99
+      ],
+      [
+       "mondial",
+       3.46,
+       3.88,
+       0.98
+      ],
+      [
+       "affiche",
+       3.88,
+       4.18,
+       0.99
+      ],
+      [
+       "chaque",
+       4.18,
+       4.4,
+       1.0
+      ],
+      [
+       "rendez",
+       4.4,
+       4.66,
+       1.0
+      ],
+      [
+       "-vous",
+       4.66,
+       4.8,
+       0.97
+      ],
+      [
+       "avec",
+       4.8,
+       4.98,
+       0.99
+      ],
+      [
+       "son",
+       4.98,
+       5.2,
+       1.0
+      ],
+      [
+       "précédent",
+       5.2,
+       5.58,
+       0.99
+      ],
+      [
+       "et",
+       5.58,
+       5.74,
+       0.99
+      ],
+      [
+       "son",
+       5.74,
+       5.88,
+       1.0
+      ],
+      [
+       "consensus.",
+       5.88,
+       6.38,
+       1.0
+      ],
+      [
+       "Le",
+       6.76,
+       6.96,
+       0.99
+      ],
+      [
+       "calculateur",
+       6.96,
+       7.42,
+       0.93
+      ],
+      [
+       "arsenal,",
+       7.42,
+       7.82,
+       0.82
+      ],
+      [
+       "les",
+       8.18,
+       8.26,
+       0.99
+      ],
+      [
+       "baromètres",
+       8.26,
+       8.68,
+       0.96
+      ],
+      [
+       "et",
+       8.68,
+       8.8,
+       0.98
+      ],
+      [
+       "le",
+       8.8,
+       8.98,
+       1.0
+      ],
+      [
+       "quiz",
+       8.98,
+       9.1,
+       0.96
+      ],
+      [
+       "du",
+       9.1,
+       9.3,
+       0.99
+      ],
+      [
+       "jour",
+       9.3,
+       9.4,
+       1.0
+      ],
+      [
+       "sont",
+       9.4,
+       9.64,
+       0.99
+      ],
+      [
+       "ouverts",
+       9.64,
+       9.9,
+       0.97
+      ],
+      [
+       "à",
+       9.9,
+       10.08,
+       1.0
+      ],
+      [
+       "tous.",
+       10.08,
+       10.22,
+       0.99
+      ]
+     ],
+     "clarte": 0.82,
+     "ok": true
+    }
+   ]
+  },
+  "10-01": {
+   "id": "10-01",
+   "bloc": 10,
+   "ton": "chaleureux",
+   "text": "Et les membres Arsenal retrouvent les quarante lectures du Biais, et chaque figure d'Arsenal Scan avec ses alertes.",
+   "tts": "Et les membres Arsenal retrouvent les quarante lectures du Biais, et chaque figure d'Arsenal Scan avec ses alertes.",
+   "gen": {},
+   "prise": {
+    "prise": 1,
+    "file": "fr-10-01-p1.wav",
+    "seconds": 5.6,
+    "compute": 58,
+    "heard": "Et les membres Arsenal retrouvent les 40 lectures du biais et chaque figure d'Arsenal scanne avec ses alertes.",
+    "wer": 0.053,
+    "extra": 1,
+    "speech": [
+     0.0,
+     5.58
+    ],
+    "rate": 20.6,
+    "mots": [
+     [
+      "Et",
+      0.0,
+      0.28,
+      0.15
+     ],
+     [
+      "les",
+      0.28,
+      0.42,
+      1.0
+     ],
+     [
+      "membres",
+      0.42,
+      0.72,
+      1.0
+     ],
+     [
+      "Arsenal",
+      0.72,
+      1.1,
+      0.72
+     ],
+     [
+      "retrouvent",
+      1.1,
+      1.6,
+      0.98
+     ],
+     [
+      "les",
+      1.6,
+      1.76,
+      1.0
+     ],
+     [
+      "40",
+      1.76,
+      2.08,
+      0.64
+     ],
+     [
+      "lectures",
+      2.08,
+      2.4,
+      0.98
+     ],
+     [
+      "du",
+      2.4,
+      2.62,
+      1.0
+     ],
+     [
+      "biais",
+      2.62,
+      3.04,
+      0.99
+     ],
+     [
+      "et",
+      3.04,
+      3.32,
+      0.21
+     ],
+     [
+      "chaque",
+      3.32,
+      3.5,
+      1.0
+     ],
+     [
+      "figure",
+      3.5,
+      3.8,
+      1.0
+     ],
+     [
+      "d",
+      3.8,
+      3.94,
+      1.0
+     ],
+     [
+      "'Arsenal",
+      3.94,
+      4.36,
+      0.96
+     ],
+     [
+      "scanne",
+      4.36,
+      4.84,
+      0.96
+     ],
+     [
+      "avec",
+      4.84,
+      5.0,
+      0.99
+     ],
+     [
+      "ses",
+      5.0,
+      5.14,
+      0.78
+     ],
+     [
+      "alertes.",
+      5.14,
+      5.58,
+      1.0
+     ]
+    ],
+    "clarte": 0.15,
+    "ok": true
+   },
+   "toutes": [
+    {
+     "prise": 1,
+     "file": "fr-10-01-p1.wav",
+     "seconds": 5.6,
+     "compute": 58,
+     "heard": "Et les membres Arsenal retrouvent les 40 lectures du biais et chaque figure d'Arsenal scanne avec ses alertes.",
+     "wer": 0.053,
+     "extra": 1,
+     "speech": [
+      0.0,
+      5.58
+     ],
+     "rate": 20.6,
+     "mots": [
+      [
+       "Et",
+       0.0,
+       0.28,
+       0.15
+      ],
+      [
+       "les",
+       0.28,
+       0.42,
+       1.0
+      ],
+      [
+       "membres",
+       0.42,
+       0.72,
+       1.0
+      ],
+      [
+       "Arsenal",
+       0.72,
+       1.1,
+       0.72
+      ],
+      [
+       "retrouvent",
+       1.1,
+       1.6,
+       0.98
+      ],
+      [
+       "les",
+       1.6,
+       1.76,
+       1.0
+      ],
+      [
+       "40",
+       1.76,
+       2.08,
+       0.64
+      ],
+      [
+       "lectures",
+       2.08,
+       2.4,
+       0.98
+      ],
+      [
+       "du",
+       2.4,
+       2.62,
+       1.0
+      ],
+      [
+       "biais",
+       2.62,
+       3.04,
+       0.99
+      ],
+      [
+       "et",
+       3.04,
+       3.32,
+       0.21
+      ],
+      [
+       "chaque",
+       3.32,
+       3.5,
+       1.0
+      ],
+      [
+       "figure",
+       3.5,
+       3.8,
+       1.0
+      ],
+      [
+       "d",
+       3.8,
+       3.94,
+       1.0
+      ],
+      [
+       "'Arsenal",
+       3.94,
+       4.36,
+       0.96
+      ],
+      [
+       "scanne",
+       4.36,
+       4.84,
+       0.96
+      ],
+      [
+       "avec",
+       4.84,
+       5.0,
+       0.99
+      ],
+      [
+       "ses",
+       5.0,
+       5.14,
+       0.78
+      ],
+      [
+       "alertes.",
+       5.14,
+       5.58,
+       1.0
+      ]
+     ],
+     "clarte": 0.15,
+     "ok": true
+    }
+   ]
+  },
+  "11-00": {
+   "id": "11-00",
+   "bloc": 11,
+   "ton": "chaleureux",
+   "text": "Le marché sera encore là demain. Votre capital aussi, si vous le protégez. C'était Victor Castel.",
+   "tts": "Le marché sera encore là demain. Votre capital aussi, si vous le protégez. C'était Victor Castel.",
+   "gen": {},
+   "prise": {
+    "prise": 1,
+    "file": "fr-11-00-p1.wav",
+    "seconds": 5.12,
+    "compute": 54,
+    "heard": "Le marché sera encore là demain, votre capital aussi, si vous le protégez. C'était Victor Castel.",
+    "wer": 0.0,
+    "extra": 0,
+    "speech": [
+     0.0,
+     5.1
+    ],
+    "rate": 19.0,
+    "mots": [
+     [
+      "Le",
+      0.0,
+      0.28,
+      0.83
+     ],
+     [
+      "marché",
+      0.28,
+      0.48,
+      1.0
+     ],
+     [
+      "sera",
+      0.48,
+      0.68,
+      0.99
+     ],
+     [
+      "encore",
+      0.68,
+      0.94,
+      1.0
+     ],
+     [
+      "là",
+      0.94,
+      1.12,
+      0.99
+     ],
+     [
+      "demain,",
+      1.12,
+      1.38,
+      0.98
+     ],
+     [
+      "votre",
+      1.72,
+      1.82,
+      0.99
+     ],
+     [
+      "capital",
+      1.82,
+      2.22,
+      0.99
+     ],
+     [
+      "aussi,",
+      2.22,
+      2.58,
+      0.99
+     ],
+     [
+      "si",
+      2.84,
+      2.9,
+      1.0
+     ],
+     [
+      "vous",
+      2.9,
+      3.02,
+      1.0
+     ],
+     [
+      "le",
+      3.02,
+      3.2,
+      1.0
+     ],
+     [
+      "protégez.",
+      3.2,
+      4.0,
+      0.99
+     ],
+     [
+      "C",
+      4.14,
+      4.24,
+      0.98
+     ],
+     [
+      "'était",
+      4.24,
+      4.38,
+      1.0
+     ],
+     [
+      "Victor",
+      4.38,
+      4.76,
+      0.99
+     ],
+     [
+      "Castel.",
+      4.76,
+      5.1,
+      0.93
+     ]
+    ],
+    "clarte": 0.83,
+    "ok": true
+   },
+   "toutes": [
+    {
+     "prise": 1,
+     "file": "fr-11-00-p1.wav",
+     "seconds": 5.12,
+     "compute": 54,
+     "heard": "Le marché sera encore là demain, votre capital aussi, si vous le protégez. C'était Victor Castel.",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      5.1
+     ],
+     "rate": 19.0,
+     "mots": [
+      [
+       "Le",
+       0.0,
+       0.28,
+       0.83
+      ],
+      [
+       "marché",
+       0.28,
+       0.48,
+       1.0
+      ],
+      [
+       "sera",
+       0.48,
+       0.68,
+       0.99
+      ],
+      [
+       "encore",
+       0.68,
+       0.94,
+       1.0
+      ],
+      [
+       "là",
+       0.94,
+       1.12,
+       0.99
+      ],
+      [
+       "demain,",
+       1.12,
+       1.38,
+       0.98
+      ],
+      [
+       "votre",
+       1.72,
+       1.82,
+       0.99
+      ],
+      [
+       "capital",
+       1.82,
+       2.22,
+       0.99
+      ],
+      [
+       "aussi,",
+       2.22,
+       2.58,
+       0.99
+      ],
+      [
+       "si",
+       2.84,
+       2.9,
+       1.0
+      ],
+      [
+       "vous",
+       2.9,
+       3.02,
+       1.0
+      ],
+      [
+       "le",
+       3.02,
+       3.2,
+       1.0
+      ],
+      [
+       "protégez.",
+       3.2,
+       4.0,
+       0.99
+      ],
+      [
+       "C",
+       4.14,
+       4.24,
+       0.98
+      ],
+      [
+       "'était",
+       4.24,
+       4.38,
+       1.0
+      ],
+      [
+       "Victor",
+       4.38,
+       4.76,
+       0.99
+      ],
+      [
+       "Castel.",
+       4.76,
+       5.1,
+       0.93
+      ]
+     ],
+     "clarte": 0.83,
+     "ok": true
+    }
+   ]
+  },
+  "11-01": {
+   "id": "11-01",
+   "bloc": 11,
+   "ton": "chaleureux",
+   "text": "À demain matin, même heure.",
+   "tts": "À demain matin, même heure.",
+   "gen": {},
+   "prise": {
+    "prise": 1,
+    "file": "fr-11-01-p1.wav",
+    "seconds": 1.68,
+    "compute": 22,
+    "heard": "À demain matin, même heure.",
+    "wer": 0.0,
+    "extra": 0,
+    "speech": [
+     0.0,
+     1.66
+    ],
+    "rate": 16.3,
+    "mots": [
+     [
+      "À",
+      0.0,
+      0.3,
+      0.71
+     ],
+     [
+      "demain",
+      0.3,
+      0.46,
+      1.0
+     ],
+     [
+      "matin,",
+      0.46,
+      1.0,
+      0.99
+     ],
+     [
+      "même",
+      1.28,
+      1.4,
+      0.97
+     ],
+     [
+      "heure.",
+      1.4,
+      1.66,
+      0.99
+     ]
+    ],
+    "clarte": 0.71,
+    "ok": true
+   },
+   "toutes": [
+    {
+     "prise": 1,
+     "file": "fr-11-01-p1.wav",
+     "seconds": 1.68,
+     "compute": 22,
+     "heard": "À demain matin, même heure.",
+     "wer": 0.0,
+     "extra": 0,
+     "speech": [
+      0.0,
+      1.66
+     ],
+     "rate": 16.3,
+     "mots": [
+      [
+       "À",
+       0.0,
+       0.3,
+       0.71
+      ],
+      [
+       "demain",
+       0.3,
+       0.46,
+       1.0
+      ],
+      [
+       "matin,",
+       0.46,
+       1.0,
+       0.99
+      ],
+      [
+       "même",
+       1.28,
+       1.4,
+       0.97
+      ],
+      [
+       "heure.",
+       1.4,
+       1.66,
+       0.99
+      ]
+     ],
+     "clarte": 0.71,
+     "ok": true
+    }
+   ]
+  }
+ }
+}
