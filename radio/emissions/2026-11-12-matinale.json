@@ -1,0 +1,272 @@
+{
+ "id": "2026-11-12-matinale",
+ "_": "Matinale du jeudi 12 novembre 2026, préparée le 12/11 vers 11 h (Paris), en retard : les tâches du matin (brief, Radar, Biais, calendrier) n'avaient pas publié le contenu du 12/11. Matière : nouvelles publiques vérifiées (Yahoo Finance et AP / ClickOnDetroit pour Wall Street du 11/11 et CoreWeave ; Euronews, qui cite le Wall Street Journal et Reuters, pour Nvidia et la clôture asiatique ; Reuters via Business Recorder et Yahoo pour le dollar, l'or et FedWatch ; Reuters via RTÉ pour le PIB britannique du T3 ; ABC Bourse pour le CAC 40, STMicro, Soitec et Burberry) ; calendrier publié du 11/11 (inscriptions au chômage, adjudication à 30 ans de 25 Md$, Christine Lagarde). Biais : le dernier publié (11/11), seulement ses 3 marchés offerts (XAUUSD, DXY, US10Y), le sens seulement. Aucun nom du Radar, rien de la Conviction. Jeudi : « Le mot de la salle » (l'adjudication). Aucune heure dite, sauf les signatures.",
+ "date": "2026-11-12",
+ "site": {
+  "genre": "matinale",
+  "titre": {
+   "fr": "Nvidia dans la tourmente, le dollar au sommet",
+   "en": "Nvidia in turmoil, the dollar at the top",
+   "es": "Nvidia en plena tormenta, el dólar en lo más alto"
+  },
+  "resume": {
+   "fr": "Wall Street rebondit, Nvidia décroche après la clôture sur des informations visant son patron, le dollar touche un plus haut de 19 mois, l'or repasse sous 4 000 dollars et le Royaume-Uni signe sa meilleure croissance depuis 2024.",
+   "en": "Wall Street rebounds, Nvidia slides after the close on reports about its chief executive, the dollar hits a 19-month high, gold drops back below 4,000 dollars and the UK posts its best growth since 2024.",
+   "es": "Wall Street rebota, Nvidia cae tras el cierre por informaciones sobre su consejero delegado, el dólar toca máximos de 19 meses, el oro vuelve a bajar de 4.000 dólares y el Reino Unido firma su mejor crecimiento desde 2024."
+  }
+ },
+ "voix": {
+  "fr": "victor-fr",
+  "en": "victor-en",
+  "es": "victor-es"
+ },
+ "parties": 5,
+ "prononciation": {
+  "fr": {
+   "la Fed ": "la Fède ",
+   "S&P": "S et P",
+   "Nvidia": "Ènvidia",
+   "CoreWeave": "Core Wive",
+   "STMicro": "S T Micro",
+   "Jensen Huang": "Jennsène Houang",
+   "Burberry": "Beurbeuri"
+  },
+  "en": {
+   "S&P": "S and P",
+   "CoreWeave": "Core Weave",
+   "STMicro": "S T Micro"
+  },
+  "es": {
+   "S&P": "ese y pe",
+   "Nvidia": "Envidia",
+   "CoreWeave": "Cor Uiv",
+   "STMicro": "ese te Micro",
+   "Jensen Huang": "Yensen Juang",
+   "Burberry": "Bérberi"
+  }
+ },
+ "blocs": {
+  "fr": [
+   {
+    "son": "intro",
+    "rubrique": "ouverture",
+    "ton": "energique",
+    "texte": "Huit heures, les marchés se réveillent. Bonjour la salle ! Ici Victor Castel, et vous écoutez MACROARSENAL Radio. Café serré, écrans allumés : on fait le tour du monde en trois minutes. Jeudi douze novembre : une nuit agitée pour les puces, et le marché obligataire américain rouvre après son jour férié."
+   },
+   {
+    "son": "carillon",
+    "rubrique": "ecrans",
+    "ton": "net",
+    "texte": "Wall Street, d'abord. Hier, belle reprise : le S&P cinq cents gagne un virgule trois pour cent, le Nasdaq un virgule six, le Dow Jones zéro virgule cinq. La vedette de la séance s'appelle CoreWeave : plus vingt-quatre virgule sept pour cent, après des pertes moins lourdes que prévu."
+   },
+   {
+    "son": "carillon",
+    "rubrique": "ecrans",
+    "ton": "net",
+    "texte": "Mais après la clôture, Nvidia décroche de plus de huit pour cent. Selon le Wall Street Journal, son conseil d'administration prépare le départ de son patron, Jensen Huang. D'après Reuters, le conseil s'est réuni mercredi soir pour en décider. Rien n'est officiel pour l'instant. Une nouvelle, c'est une information. Pas un ordre."
+   },
+   {
+    "son": "carillon",
+    "rubrique": "ecrans",
+    "ton": "net",
+    "texte": "Cette nuit, l'Asie encaisse. Taipei, la place des fabricants de puces, recule de plus de deux pour cent. Hong Kong perd un virgule deux pour cent, Tokyo zéro virgule sept."
+   },
+   {
+    "son": "carillon",
+    "rubrique": "ecrans",
+    "ton": "net",
+    "texte": "Le dollar, lui, poursuit sa route : au plus haut depuis dix-neuf mois face aux grandes devises, selon Reuters. L'or repasse sous les quatre mille dollars l'once, au plus bas depuis le quatre novembre. Les marchés intègrent désormais pleinement une hausse des taux de la Fed en décembre."
+   },
+   {
+    "son": "virgule",
+    "rubrique": "chiffre",
+    "ton": "pose",
+    "texte": "Le chiffre du matin : zéro virgule sept pour cent. C'est la croissance du Royaume-Uni au troisième trimestre, publiée ce matin. Sa meilleure performance depuis début deux mille vingt-quatre, tirée par les services, et notamment par la programmation informatique liée à l'intelligence artificielle."
+   },
+   {
+    "son": "virgule",
+    "rubrique": "biais",
+    "ton": "net",
+    "texte": "Le Biais du jour. Celui de ce jeudi arrive dans le terminal ; voici le dernier Biais publié, celui de mercredi, avec ses trois marchés offerts à tous. L'or est vu en baisse, pénalisé par la perspective d'une hausse des taux de la Fed. L'indice dollar est vu en hausse, porté par la même idée. Et le taux américain à dix ans est vu en hausse, lui aussi. Les quarante lectures complètes attendent les membres."
+   },
+   {
+    "son": "virgule",
+    "rubrique": "actions",
+    "ton": "net",
+    "texte": "Le monde des actions. Hier à Paris, le CAC quarante gagne zéro virgule sept pour cent, porté par la technologie : STMicro prend cinq virgule deux pour cent, Soitec près de douze pour cent. Et ce matin à Londres, Burberry annonce des ventes semestrielles meilleures qu'attendu."
+   },
+   {
+    "son": "virgule",
+    "rubrique": "rendez-vous",
+    "ton": "pose",
+    "texte": "Le rendez-vous du jour : le marché obligataire américain rouvre après Veterans Day. Après une journée de pause, le taux à dix ans, tout près de cinq pour cent, sera scruté. En début d'après-midi, les inscriptions hebdomadaires au chômage aux États-Unis : cent quatre-vingt-neuf mille la semaine dernière. Des inscriptions basses soutiennent habituellement le dollar et les taux. Et ce soir, Christine Lagarde reprend la parole."
+   },
+   {
+    "son": "virgule",
+    "rubrique": "mot",
+    "ton": "complice",
+    "texte": "Le mot de la salle : l'adjudication. C'est la vente aux enchères par laquelle un État emprunte. Ce soir, le Trésor américain place vingt-cinq milliards de dollars d'obligations à trente ans. Si la demande est faible, l'État doit offrir un taux plus élevé, et tout le marché le sent. Une adjudication, c'est un examen de confiance, passé en direct."
+   },
+   {
+    "son": "virgule",
+    "rubrique": "terminal",
+    "ton": "chaleureux",
+    "texte": "Ce matin dans le terminal, une journée chargée en chiffres : le calendrier mondial affiche chaque rendez-vous avec son précédent et son consensus. Le calculateur Arsenal, les Baromètres et le quiz du jour sont ouverts à tous. Et les membres Arsenal retrouvent les quarante lectures du Biais, et chaque figure d'Arsenal Scan avec ses alertes."
+   },
+   {
+    "son": "fin",
+    "rubrique": "cloture",
+    "ton": "chaleureux",
+    "texte": "Le marché sera encore là demain. Votre capital aussi, si vous le protégez. C'était Victor Castel. À demain matin, même heure."
+   }
+  ],
+  "en": [
+   {
+    "son": "intro",
+    "rubrique": "ouverture",
+    "ton": "energique",
+    "texte": "Eight o'clock, and the markets are waking up. Good morning, trading floor! This is Victor Castel, and you're listening to MACROARSENAL Radio. Strong coffee, screens on: three minutes around the world. Thursday the twelfth of November: a rough night for chipmakers, and the US bond market reopens after its holiday."
+   },
+   {
+    "son": "carillon",
+    "rubrique": "ecrans",
+    "ton": "net",
+    "texte": "Wall Street first. Yesterday, a solid rebound: the S and P five hundred gained one point three per cent, the Nasdaq one point six, the Dow zero point five. The star of the session was CoreWeave: up twenty-four point seven per cent, after smaller losses than expected."
+   },
+   {
+    "son": "carillon",
+    "rubrique": "ecrans",
+    "ton": "net",
+    "texte": "But after the close, Nvidia tumbled more than eight per cent. According to the Wall Street Journal, its board is preparing to remove its chief executive, Jensen Huang. Reuters says the board met on Wednesday evening to decide. Nothing is official for now. A headline is information. Not an order."
+   },
+   {
+    "son": "carillon",
+    "rubrique": "ecrans",
+    "ton": "net",
+    "texte": "Overnight, Asia took the hit. Taipei, home of the chipmakers, fell more than two per cent. Hong Kong lost one point two per cent, Tokyo zero point seven."
+   },
+   {
+    "son": "carillon",
+    "rubrique": "ecrans",
+    "ton": "net",
+    "texte": "The dollar keeps climbing: at a nineteen-month high against major currencies, according to Reuters. Gold slipped back below four thousand dollars an ounce, its lowest since the fourth of November. Markets now fully price in a Fed rate rise in December."
+   },
+   {
+    "son": "virgule",
+    "rubrique": "chiffre",
+    "ton": "pose",
+    "texte": "Number of the morning: zero point seven per cent. That's UK growth in the third quarter, published this morning. Its best performance since early twenty twenty-four, driven by services, and in particular by computer programming linked to artificial intelligence."
+   },
+   {
+    "son": "virgule",
+    "rubrique": "biais",
+    "ton": "net",
+    "texte": "Today's Bias. Thursday's edition is on its way to the terminal; here is the last Bias published, Wednesday's, with its three markets free for everyone. Gold is seen lower, weighed down by the prospect of a Fed rate rise. The dollar index is seen higher, on the same idea. And the US ten-year yield is seen higher too. All forty full readings are waiting for members."
+   },
+   {
+    "son": "virgule",
+    "rubrique": "actions",
+    "ton": "net",
+    "texte": "The world of stocks. Yesterday in Paris, the CAC forty gained zero point seven per cent, led by technology: STMicro rose five point two per cent, Soitec almost twelve per cent. And this morning in London, Burberry reported better-than-expected half-year sales."
+   },
+   {
+    "son": "virgule",
+    "rubrique": "rendez-vous",
+    "ton": "pose",
+    "texte": "Today's big moment: the US bond market reopens after Veterans Day. After a day off, the ten-year yield, sitting close to five per cent, will be watched closely. In the early afternoon, US weekly jobless claims: one hundred and eighty-nine thousand last week. Low claims usually support the dollar and yields. And this evening, Christine Lagarde speaks again."
+   },
+   {
+    "son": "virgule",
+    "rubrique": "mot",
+    "ton": "complice",
+    "texte": "Floor talk: the auction. It's how a government borrows, by selling its bonds to the highest bidders. This evening, the US Treasury sells twenty-five billion dollars of thirty-year bonds. If demand is weak, the government has to offer a higher yield, and the whole market feels it. An auction is a confidence test, taken live."
+   },
+   {
+    "son": "virgule",
+    "rubrique": "terminal",
+    "ton": "chaleureux",
+    "texte": "This morning in the terminal, a busy day for data: the world calendar shows every release with its previous figure and its consensus. The Arsenal calculator, the Barometers and today's quiz are open to everyone. And Arsenal members get all forty Bias readings, and every Arsenal Scan pattern with its alerts."
+   },
+   {
+    "son": "fin",
+    "rubrique": "cloture",
+    "ton": "chaleureux",
+    "texte": "The market will still be there tomorrow. So will your capital, if you protect it. This was Victor Castel. See you tomorrow morning, same time."
+   }
+  ],
+  "es": [
+   {
+    "son": "intro",
+    "rubrique": "ouverture",
+    "ton": "energique",
+    "texte": "Son las ocho, los mercados se despiertan. ¡Buenos días, sala de mercados! Les habla Víctor Castel y esto es MACROARSENAL Radio. Café cargado, pantallas encendidas: la vuelta al mundo en tres minutos. Jueves doce de noviembre: una noche agitada para los fabricantes de chips, y el mercado de bonos estadounidense reabre tras su festivo."
+   },
+   {
+    "son": "carillon",
+    "rubrique": "ecrans",
+    "ton": "net",
+    "texte": "Primero, Wall Street. Ayer, buena recuperación: el S&P quinientos gana un uno coma tres por ciento, el Nasdaq un uno coma seis y el Dow Jones un cero coma cinco. La estrella de la sesión fue CoreWeave: sube un veinticuatro coma siete por ciento, tras unas pérdidas menores de lo previsto."
+   },
+   {
+    "son": "carillon",
+    "rubrique": "ecrans",
+    "ton": "net",
+    "texte": "Pero tras el cierre, Nvidia se desploma más de un ocho por ciento. Según el Wall Street Journal, su consejo de administración prepara la salida de su consejero delegado, Jensen Huang. Según Reuters, el consejo se reunió el miércoles por la noche para decidirlo. Por ahora no hay nada oficial. Una noticia es información. No una orden."
+   },
+   {
+    "son": "carillon",
+    "rubrique": "ecrans",
+    "ton": "net",
+    "texte": "Esta noche, Asia acusa el golpe. Taipéi, la plaza de los fabricantes de chips, cae más de un dos por ciento. Hong Kong pierde un uno coma dos por ciento y Tokio un cero coma siete."
+   },
+   {
+    "son": "carillon",
+    "rubrique": "ecrans",
+    "ton": "net",
+    "texte": "El dólar, por su parte, sigue subiendo: en máximos de diecinueve meses frente a las grandes divisas, según Reuters. El oro vuelve a bajar de los cuatro mil dólares la onza, en mínimos desde el cuatro de noviembre. Los mercados ya descuentan por completo una subida de tipos de la Fed en diciembre."
+   },
+   {
+    "son": "virgule",
+    "rubrique": "chiffre",
+    "ton": "pose",
+    "texte": "La cifra de la mañana: cero coma siete por ciento. Es el crecimiento del Reino Unido en el tercer trimestre, publicado esta mañana. Su mejor resultado desde principios de dos mil veinticuatro, impulsado por los servicios, y en especial por la programación informática ligada a la inteligencia artificial."
+   },
+   {
+    "son": "virgule",
+    "rubrique": "biais",
+    "ton": "net",
+    "texte": "El Sesgo del día. El de este jueves llega al terminal; este es el último Sesgo publicado, el del miércoles, con sus tres mercados abiertos a todos. El oro se ve a la baja, lastrado por la perspectiva de una subida de tipos de la Fed. El índice dólar se ve al alza, por la misma razón. Y el tipo estadounidense a diez años también se ve al alza. Las cuarenta lecturas completas esperan a los miembros."
+   },
+   {
+    "son": "virgule",
+    "rubrique": "actions",
+    "ton": "net",
+    "texte": "El mundo de las acciones. Ayer en París, el CAC cuarenta ganó un cero coma siete por ciento, impulsado por la tecnología: STMicro sube un cinco coma dos por ciento y Soitec casi un doce por ciento. Y esta mañana en Londres, Burberry anuncia unas ventas semestrales mejores de lo esperado."
+   },
+   {
+    "son": "virgule",
+    "rubrique": "rendez-vous",
+    "ton": "pose",
+    "texte": "La cita del día: el mercado de bonos estadounidense reabre tras el Día de los Veteranos. Después de un día de pausa, el tipo a diez años, muy cerca del cinco por ciento, estará bajo la lupa. A primera hora de la tarde, las solicitudes semanales de subsidio por desempleo en Estados Unidos: ciento ochenta y nueve mil la semana pasada. Unas solicitudes bajas suelen apoyar al dólar y a los tipos. Y esta noche, Christine Lagarde vuelve a hablar."
+   },
+   {
+    "son": "virgule",
+    "rubrique": "mot",
+    "ton": "complice",
+    "texte": "Palabra de sala: la subasta. Es la forma en que un Estado se endeuda, vendiendo sus bonos al mejor postor. Esta noche, el Tesoro estadounidense coloca veinticinco mil millones de dólares en bonos a treinta años. Si la demanda es débil, el Estado tiene que ofrecer un tipo más alto, y todo el mercado lo nota. Una subasta es un examen de confianza, en directo."
+   },
+   {
+    "son": "virgule",
+    "rubrique": "terminal",
+    "ton": "chaleureux",
+    "texte": "Esta mañana en el terminal, un día cargado de datos: el calendario mundial muestra cada cita con su dato anterior y su consenso. La calculadora Arsenal, los Barómetros y el quiz del día están abiertos a todos. Y los miembros Arsenal tienen las cuarenta lecturas del Sesgo, y cada figura de Arsenal Scan con sus alertas."
+   },
+   {
+    "son": "fin",
+    "rubrique": "cloture",
+    "ton": "chaleureux",
+    "texte": "El mercado seguirá ahí mañana. Su capital también, si lo protegen. Les habló Víctor Castel. Hasta mañana, a la misma hora."
+   }
+  ]
+ }
+}
